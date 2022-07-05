@@ -15,7 +15,7 @@ export default function Search({ setVideos }) {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify({
-                text: 'https://biooverview.com/wp-content/uploads/2022/04/Tate-.jpg',
+                text: image,
             }),
         })
             .then((res) => res.json())

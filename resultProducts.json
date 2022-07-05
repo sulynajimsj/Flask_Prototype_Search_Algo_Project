@@ -1,17 +1,17 @@
 {
     "search_metadata": {
-        "id": "62c4393aeb690f4d7382bbe4",
+        "id": "62c4411010d74451eb952076",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/56ce1a5264d88d8e/62c4393aeb690f4d7382bbe4.json",
-        "created_at": "2022-07-05 13:14:34 UTC",
-        "processed_at": "2022-07-05 13:14:34 UTC",
-        "google_url": "https://www.google.com/search?q=andrew+tate&oq=andrew+tate&hl=en&gl=us&tbm=shop&sourceid=chrome&ie=UTF-8",
-        "raw_html_file": "https://serpapi.com/searches/56ce1a5264d88d8e/62c4393aeb690f4d7382bbe4.html",
-        "total_time_taken": 1.56
+        "json_endpoint": "https://serpapi.com/searches/5f7a34e59c9612b2/62c4411010d74451eb952076.json",
+        "created_at": "2022-07-05 13:48:00 UTC",
+        "processed_at": "2022-07-05 13:48:00 UTC",
+        "google_url": "https://www.google.com/search?q=ronaldo+bicycle+kick+goal+cristiano+ronaldo+goal+against+juventus&oq=ronaldo+bicycle+kick+goal+cristiano+ronaldo+goal+against+juventus&hl=en&gl=us&tbm=shop&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/5f7a34e59c9612b2/62c4411010d74451eb952076.html",
+        "total_time_taken": 0.67
     },
     "search_parameters": {
         "engine": "google",
-        "q": "andrew tate",
+        "q": "ronaldo bicycle kick goal cristiano ronaldo goal against juventus",
         "google_domain": "google.com",
         "hl": "en",
         "gl": "us",
@@ -20,16 +20,12 @@
     },
     "search_information": {
         "shopping_results_state": "Results for exact spelling",
-        "query_displayed": "andrew tate"
+        "query_displayed": "ronaldo bicycle kick goal cristiano ronaldo goal against juventus"
     },
     "filters": [
         {
             "type": "Show only",
             "options": [
-                {
-                    "text": "Buy on Google",
-                    "tbs": "mr:1,buy:g"
-                },
                 {
                     "text": "On sale",
                     "tbs": "mr:1,sales:1"
@@ -44,24 +40,16 @@
             "type": "Price",
             "options": [
                 {
-                    "text": "Up to $9",
-                    "tbs": "mr:1,price:1,ppr_max:9"
+                    "text": "Up to $20",
+                    "tbs": "mr:1,price:1,ppr_max:20"
                 },
                 {
-                    "text": "$9 \u2013 $20",
-                    "tbs": "mr:1,price:1,ppr_min:9,ppr_max:20"
+                    "text": "$20 \u2013 $60",
+                    "tbs": "mr:1,price:1,ppr_min:20,ppr_max:60"
                 },
                 {
-                    "text": "$20 \u2013 $50",
-                    "tbs": "mr:1,price:1,ppr_min:20,ppr_max:50"
-                },
-                {
-                    "text": "$50 \u2013 $200",
-                    "tbs": "mr:1,price:1,ppr_min:50,ppr_max:200"
-                },
-                {
-                    "text": "Over $200",
-                    "tbs": "mr:1,price:1,ppr_min:200"
+                    "text": "Over $60",
+                    "tbs": "mr:1,price:1,ppr_min:60"
                 }
             ]
         },
@@ -70,38 +58,6 @@
             "options": [
                 {
                     "tbs": "mr:1,color:specific,color_val:black"
-                },
-                {
-                    "tbs": "mr:1,color:specific,color_val:brown"
-                },
-                {
-                    "tbs": "mr:1,color:specific,color_val:blue"
-                }
-            ]
-        },
-        {
-            "type": "Shipping & returns",
-            "options": [
-                {
-                    "text": "Free returns",
-                    "tbs": "mr:1,free_return:1"
-                }
-            ]
-        },
-        {
-            "type": "Discover",
-            "options": [
-                {
-                    "text": "Black-owned businesses",
-                    "tbs": "mr:1,dei:1"
-                },
-                {
-                    "text": "Women-owned businesses",
-                    "tbs": "mr:1,dei:2"
-                },
-                {
-                    "text": "Veteran-owned businesses",
-                    "tbs": "mr:1,dei:3"
                 }
             ]
         },
@@ -115,783 +71,351 @@
             ]
         },
         {
-            "type": "Condition",
-            "options": [
-                {
-                    "text": "New items",
-                    "tbs": "mr:1,new:1"
-                },
-                {
-                    "text": "Used items",
-                    "tbs": "mr:1,new:3"
-                }
-            ]
-        },
-        {
             "type": "Seller",
             "options": [
                 {
-                    "text": "AbeBooks.com",
-                    "tbs": "mr:1,merchagg:g1841257%7Cm1842297"
+                    "text": "eBay - bestofcanvas",
+                    "tbs": "mr:1,merchagg:g6296794%7Cm112078434"
                 },
                 {
-                    "text": "Coveti",
-                    "tbs": "mr:1,merchagg:m542684435"
+                    "text": "Sport Photo Gallery",
+                    "tbs": "mr:1,merchagg:g101141545%7Cm7201655"
                 },
                 {
-                    "text": "eBay - avzensportscards",
-                    "tbs": "mr:1,merchagg:g6296794%7Cm6310214%7Cm133929137%7Cm6296724%7Cm107435593%7Cm111836263"
-                },
-                {
-                    "text": "Etsy - Seller",
-                    "tbs": "mr:1,merchagg:g6830041%7Cm12768591%7Cm566745881"
-                },
-                {
-                    "text": "Redbubble",
-                    "tbs": "mr:1,merchagg:g112317476%7Cm239748047%7Cm331345134%7Cm442729827"
-                },
-                {
-                    "text": "Walmart - Andrew.LLC",
-                    "tbs": "mr:1,merchagg:g8299768%7Cm548607620%7Cm135896607%7Cm8175035%7Cm131366457"
-                },
-                {
-                    "text": "Wikipparel",
-                    "tbs": "mr:1,merchagg:m246672972"
+                    "text": "Subside Sports",
+                    "tbs": "mr:1,merchagg:g102775291%7Cm7691948"
                 }
             ]
+        }
+    ],
+    "inline_shopping_results": [
+        {
+            "position": 1,
+            "block_position": "top",
+            "title": "Ronaldo Bicycle Kick Throw Pillow | Redbubble Madrid",
+            "price": "\u00a317.12",
+            "extracted_price": 17.12,
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjw2tjO8eH4AhWoyZQJHRmeAyAYABABGgJ5bQ&sig=AOD64_3VKENNwIJlTu8_7jxOcQHorw-YSg&ctype=5&q=&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQww8IugI&adurl=",
+            "source": "Redbubble",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRkH62-VBWm1Uf-Kur2P9ab0j7PvP0Oefhjo0U1XCVJkoaihNmdx3-j74oNQKEa0ct8McA_k34G15abwBtTwuekEpU1roG6ss_cyLRF4Xs&usqp=CAE"
+        },
+        {
+            "position": 2,
+            "block_position": "top",
+            "title": "Framed Cristiano Ronaldo Overhead Kick Artwork",
+            "price": "\u00a339.99",
+            "extracted_price": 39.99,
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjw2tjO8eH4AhWoyZQJHRmeAyAYABADGgJ5bQ&sig=AOD64_2694d7Tsay8QunubgkSsp1LoqcVw&ctype=5&q=&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQww8IvAI&adurl=",
+            "source": "Etsy",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQMc34G1dk62YZOQxv-rAm7_l6pXk--6YD_ZCRjl-RxoscRIqyGWxI_y8-g8L7uAYmO-q_OwLHbEXEFlLf2VOtxpOXHRFKlh2BnQY5q3i2W&usqp=CAE"
+        },
+        {
+            "position": 3,
+            "block_position": "top",
+            "title": "Siuuu Cr7 Ronaldo Goal Poster | Redbubble Cristiano Ronaldo",
+            "price": "\u00a313.79",
+            "extracted_price": 13.79,
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjw2tjO8eH4AhWoyZQJHRmeAyAYABAFGgJ5bQ&sig=AOD64_1FqIf-ymlAJ0c8XCtYt7GzW63RVg&ctype=5&q=&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQww8IvgI&adurl=",
+            "source": "Redbubble",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS3YeBh1je059r6Jgvg2qrjUt7BPr5a2CJ9W6Ik_HCPBDuN5xfgHr7EevBpma7ee6KP8DcYQnp2_fsIxu-udK5bFlIR3rQ9UnWCtmGeNCo&usqp=CAE"
+        },
+        {
+            "position": 1,
+            "block_position": "bottom",
+            "title": "Cristiano Ronaldo 1st Goal | Manchester United 4-1 Newcastle United | A4 Goal Moment Print",
+            "price": "\u00a37.99\u00a39.99",
+            "extracted_price": 7.99,
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjw2tjO8eH4AhWoyZQJHRmeAyAYABB_GgJ5bQ&sig=AOD64_3h_25bQaZGeJLZOJX4lTg5Mv2sjw&ctype=5&q=&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQ9A4IhAQ&adurl=",
+            "source": "Etsy",
+            "shipping": "Free shipping",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTVosB8DaBQviJ6Z8X57OiAvwixkHuwqnyH4mY2ad0RCi-kWfMU2v1d45NV4CjhJYvblf32OhVyrQg_hkw_4H3pHNAUamRn0-jAtynmmwtqql8LPp_DvhMYcg&usqp=CAE",
+            "extensions": [
+                "SALE"
+            ]
+        },
+        {
+            "position": 2,
+            "block_position": "bottom",
+            "title": "Cristiano Ronaldo's Iconic Goal Against Juventus Canvas Print | Redbubble Juventus F.c.",
+            "price": "\u00a354.07",
+            "extracted_price": 54.07,
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjw2tjO8eH4AhWoyZQJHRmeAyAYABCBARoCeW0&sig=AOD64_18zhNeH52JOIeRk8u6N1Ug-PDD7Q&ctype=5&q=&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQ9A4IiAQ&adurl=",
+            "source": "Redbubble",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSQqpj9CqhN7RjofolSx_z8vJR-t7_IW1x-AbeG_bWodfrNWcEvU0EH7fia-yXNvMv6A983v-uQx-Bj38fM-fTFa8pA-j_fqMfFaHq2WjEM&usqp=CAE"
+        },
+        {
+            "position": 3,
+            "block_position": "bottom",
+            "title": "Siuuu Cr7 Ronaldo Goal Tank Top | Redbubble Cristiano Ronaldo",
+            "price": "\u00a324.43",
+            "extracted_price": 24.43,
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjw2tjO8eH4AhWoyZQJHRmeAyAYABCDARoCeW0&sig=AOD64_0gh6GrlD6vKx00Bo-8NAHgYKm7jg&ctype=5&q=&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQ9A4IigQ&adurl=",
+            "source": "Redbubble",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTGfPE7W80DBknLNgJ4OYIZiE-5_kHaW3lzxX6gQakpES80eJJ6LXoOBmFdJrQzjqgloAuPuM01eUH2-J7Oa_-xZ2QSHdNRgNadAmC2dts&usqp=CAE"
+        },
+        {
+            "position": 4,
+            "block_position": "bottom",
+            "title": "Cristiano Ronaldo Free Kick Goal Champions League 2014",
+            "price": "\u00a39.95",
+            "extracted_price": 9.95,
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjw2tjO8eH4AhWoyZQJHRmeAyAYABCFARoCeW0&sig=AOD64_11BZmKXMSZa8XhsSCdCR1Z5V5wSw&ctype=5&q=&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQ9A4IjAQ&adurl=",
+            "source": "Sport Photo Gallery",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQX_zdyE2Ypm-sxSXoGP_7asXQk23oW9MsRGfrbwaMk2UxTkF7lfY5bb6QRwoGTZKF2x7hGWHft1aTDl2LEWsIuUOs9182QL-JTSzsE5Mg&usqp=CAE"
+        },
+        {
+            "position": 5,
+            "block_position": "bottom",
+            "title": "Cristiano Ronaldo - Bicycle Kick Goal Vs Juventus (2018-04-03), 8x10",
+            "price": "\u00a36.97Used",
+            "extracted_price": 6.97,
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjw2tjO8eH4AhWoyZQJHRmeAyAYABCHARoCeW0&sig=AOD64_1NGPg00nHOBjF-csx6rBS-Q1zUDQ&ctype=5&q=&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQ9A4IjgQ&adurl=",
+            "source": "eBay",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTIymhel_6tl6F2dJdF541M2AvJ5SFqeDnNVRx6DSGi_ygUgDL5GSHqeXhRj1C04Ub2RdWABt1saGp7qXx7iCf7W3MXp7kV_J6eL7QKjd0&usqp=CAE"
+        },
+        {
+            "position": 6,
+            "block_position": "bottom",
+            "title": "Framed Poster Prints, Set of 3, Cristiano Ronaldo Print, Manchester United, CR7Gift Set",
+            "price": "\u00a314.99",
+            "extracted_price": 14.99,
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjw2tjO8eH4AhWoyZQJHRmeAyAYABCJARoCeW0&sig=AOD64_2ZMnt9lpt1HJ8v01RcVRdh3z1JIA&ctype=5&q=&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQ9A4IkgQ&adurl=",
+            "source": "Etsy",
+            "shipping": "Free shipping",
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTem2JyiKIX3BSeBjdqJwIySWXdhJ7NxIvbDNZkkdFKMAeXgyD5Ptbc4ZMourkFeWobOzG9_yECSNvNNDezkVfRg5kNfn4-E03OsmUFbcxZwQuDxeEcha4n&usqp=CAE"
+        },
+        {
+            "position": 7,
+            "block_position": "bottom",
+            "title": "Ronaldo Goal Celebration Iphone 13 Mini Soft Case | Redbubble Juventus F.c.",
+            "price": "\u00a316.71",
+            "extracted_price": 16.71,
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjw2tjO8eH4AhWoyZQJHRmeAyAYABCLARoCeW0&sig=AOD64_3c04IlaSXWGgvi6tdbuo-XJK3F8A&ctype=5&q=&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQ9A4IlQQ&adurl=",
+            "source": "Redbubble",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRomel9BdtqLcKkRVS43woXm36WMemrf6U7ZBC3zXY8EdV22DsGAoKqgiMSfeS08N6T8xjxi27Dy8p9UwnfUECjfjLqJVnf-e4PV9ZSv8c6_rNiQQEJxajc&usqp=CAE"
+        },
+        {
+            "position": 8,
+            "block_position": "bottom",
+            "title": "Cristiano Ronaldo 10 Framed Print / Framed Art by Rafa Rivas",
+            "price": "\u00a3103.06",
+            "extracted_price": 103.06,
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjw2tjO8eH4AhWoyZQJHRmeAyAYABCNARoCeW0&sig=AOD64_0TbDvSy5gPxaEfTuVKkqzl9Q1g-g&ctype=5&q=&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQ9A4IlwQ&adurl=",
+            "source": "FineArtAmerica.com",
+            "shipping": "Free shipping",
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-_V9q47uYh02LzbsamNYxdG84eHtBzo_HR_qeFNCdjBNS2uHyQOf6fVGueWTIgsiXwMYVq6c0aDCd4SRVpK5Ia2yIF8TXM1jl-1tNEy4MrDLe2hHdM8v8bQ&usqp=CAE"
+        },
+        {
+            "position": 9,
+            "block_position": "bottom",
+            "title": "Ronaldo's stunning overhead kick for Real Madrid",
+            "price": "\u00a316.12",
+            "extracted_price": 16.12,
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjw2tjO8eH4AhWoyZQJHRmeAyAYABCPARoCeW0&sig=AOD64_1JtnMhDLRXl7itpOWr2Cn7sm4Jkg&ctype=5&q=&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQ9A4ImwQ&adurl=",
+            "source": "Etsy",
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSkGz4yKhvRue1vmo3jElaQvqya5IbvGCRXNtfotAy5FUURCozIZ-ByC4fqTol73kCfpiqciJ23VLzz4SlvwYPbIA2BjkfYEtocSyhbxofy0f_mEkofwY4_&usqp=CAE"
+        },
+        {
+            "position": 10,
+            "block_position": "bottom",
+            "title": "Cristiano Ronaldo Overhead Kick Poster | Redbubble Cristiano Ronaldo",
+            "price": "\u00a311.03",
+            "extracted_price": 11.03,
+            "link": "https://www.google.com/aclk?sa=l&ai=DChcSEwjw2tjO8eH4AhWoyZQJHRmeAyAYABCRARoCeW0&sig=AOD64_3TObRD84oEclknS_CcW3gDHPm66Q&ctype=5&q=&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQ9A4InQQ&adurl=",
+            "source": "Redbubble",
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRHWhlqAzgseQNm0xyJzkxv-wJMyT2BBJhqmEfwdJIa7-aVxiP14zXXJHieT7zaXMhwRmCARBY9Qb3jHzAyGn4TPk3sAQ83t9s3UlOv7iYA&usqp=CAE"
         }
     ],
     "shopping_results": [
         {
             "position": 1,
-            "title": "Andrew Tate Mug",
-            "link": "https://www.google.com/url?url=https://wikipparel.com/andrew-tate-mug/&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECIYI&usg=AOvVaw047iIPM8raYgkNKgiT_e_V",
-            "source": "Wikipparel",
-            "price": "$13.95",
-            "extracted_price": 13.95,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ_P4Alw2dNNYLdYGOpug1W1_XruVtGZevlzBc9XswwXEOUQJcYJmmqsZxQd4xLhqgZsHAO_sCvLGpJj0zEkUctdfImJ9aw--M2rINCkf7pAlI5KNYUTNpUTw&usqp=CAE",
-            "delivery": "Delivery by Sun, Jul 10"
+            "title": "Cristiano Ronaldo - Bicycle Kick Goal Vs Juventus (2018-04-03), 8x10",
+            "link": "https://www.google.com/url?url=https://www.ebay.com/itm/362286346399%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQgOUECMcC&usg=AOvVaw2DVv4EXNyYHK0lnvoL9u8o",
+            "source": "eBay - variety-collectables-4u",
+            "price": "$6.99",
+            "extracted_price": 6.99,
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQCNs0ef1YInHf7EJDU0gTnVrEcd_Ivc07h2gBAcIV5MUmggErh0f9Za4xVQQdr9mONpQIYi5JkwNPtjWbLCyTCb98GF6kQT_UurwFVQg0&usqp=CAE",
+            "delivery": "$4.99 delivery"
         },
         {
             "position": 2,
-            "title": "Andrew Tate \u2013 Courses Bundle",
-            "link": "https://www.google.com/url?url=https://www.ebay.com/itm/134137974556%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECJII&usg=AOvVaw1VInEL3l_sldqcWUqiN1Zb",
-            "source": "eBay",
-            "price": "$15.00",
-            "extracted_price": 15.0,
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQsJQctsHv0E5H-8gjwUSrcqH885HqQVoP1Z9S6SUuVLKtXEThO8fA_lG0xCvxLoyYyEzfvccNtT4QwD_EyTTkaTCm7qmURCAytUNhXDErG&usqp=CAE",
-            "delivery": "Free delivery by Thu, Jul 14"
+            "title": "Ronaldo Bicycle Kick Vs Juventus (White)",
+            "link": "https://www.google.com/url?url=https://mo7ndclothing.creator-spring.com/listing/ronaldo-bicycle-kick-vs-j-5597%3Fcountry%3DUS%26currency%3DUSD%26product%3D2%26tsmac%3Dgoogle%26tsmic%3Dyoutube%26variation%3D2122%26view_as%3DUSA&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQguUECNIC&usg=AOvVaw1f345mbKwkHEjTNqdK9ieB",
+            "product_link": "https://www.google.com/shopping/product/17585406525442425238",
+            "product_id": "17585406525442425238",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17585406525442425238",
+            "source": "Spring",
+            "price": "$14.99",
+            "extracted_price": 14.99,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRDxuUzbJBrF4GKJnn6VPEv6FbDjTWmWJnlSPC_T-cU8KQxlsa5Ek79E66dLTlFiXrHsDzMLxiQUke5-g4pDHvWRwhMElapVCfhrgTuLEkz&usqp=CAE",
+            "delivery": "$3.99 delivery"
         },
         {
             "position": 3,
-            "title": "in Andrew Tate We Trust",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1245300248/in-andrew-tate-we-trust%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECJ8I&usg=AOvVaw0eaKTiLn6P2buOvLA2kZo5",
-            "product_link": "https://www.google.com/shopping/product/17406217384102897794",
-            "product_id": "17406217384102897794",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17406217384102897794",
-            "source": "Etsy - Seller",
-            "price": "$24.07",
-            "extracted_price": 24.07,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT6Mjvo1oyVVBgeuaMjH0Fu1mUQfJJV3k4BQj_aoQIWwTYghpsNQ78gCiekKb9ula0aqAYHnSnL2yDl0QWstTXN50_X4NmvNnWkyjQ1HgDZtKKvV06nI97-Ew&usqp=CAE",
-            "delivery": "$4.19 delivery"
+            "title": "CR7 Bicycle Kick Goal T Shirt Cristiano Ronaldo Adult Kids Sizes Cool Casual ...",
+            "link": "https://www.google.com/url?url=https://s.click.aliexpress.com/deep_link.htm%3Faff_short_key%3DUneMJZVf%26dl_target_url%3Dhttps%253A%252F%252Fwww.aliexpress.com%252Fitem%252F4000712600292.html%253F_randl_currency%253DUSD%2526_randl_shipto%253DUS%2526src%253Dgoogle&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQguUECN0C&usg=AOvVaw3Sz2ISwPGtYXBzYTOZOfrg",
+            "product_link": "https://www.google.com/shopping/product/15199159735129596944",
+            "product_id": "15199159735129596944",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15199159735129596944",
+            "source": "AliExpress.com",
+            "price": "$6.99",
+            "extracted_price": 6.99,
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSH4QWfJVLUtTF6iIoxqD-8o720oTQs33mKMlQ6gUgXUkm-BzZPrl6Bo4t9kba0rmzacfWiqV9KOiQCervStMSpAR4HJsoO9eqM6dTC9s2m&usqp=CAE",
+            "delivery": "$1.48 delivery"
         },
         {
             "position": 4,
-            "title": "Andrew Tate (kickboxer) Mug",
-            "link": "https://www.google.com/url?url=https://wikipparel.com/andrew-tate-kickboxer-mug/&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECKoI&usg=AOvVaw1aOE5x3Yccroqwm3IFGWnH",
-            "source": "Wikipparel",
-            "price": "$13.95",
-            "extracted_price": 13.95,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTG1-LrR8At28NvlsrP0BLDmFEcjLT1_iNzT2a_AF57Wzb_160UaNmWmk346YLbFuhrHP1puydzutCK0Zfh4TUJ27ho5_2dzZ3cKCRUH6Nl0dVGe41bunHseA&usqp=CAE",
-            "delivery": "Delivery by Sun, Jul 10"
+            "title": "Photoboard Wall Art: Christiano Ronaldo Bicycle Kick Autograph Print 20x30 -",
+            "link": "https://www.google.com/url?url=https://www.shopfsprints.com/products/photoboard-wall-art-christiano-ronaldo-bicycle-kick-autograph-print%3Fvariant%3D39544011554881%26currency%3DUSD%26utm_medium%3Dproduct_sync%26utm_source%3Dgoogle%26utm_content%3Dsag_organic%26utm_campaign%3Dsag_organic&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQguUECOwC&usg=AOvVaw0G3G28kAU6jqjkncrvo9EG",
+            "product_link": "https://www.google.com/shopping/product/15288585281805284767",
+            "product_id": "15288585281805284767",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15288585281805284767",
+            "source": "FSPrints",
+            "price": "$82.99",
+            "extracted_price": 82.99,
+            "extensions": [
+                "15% OFF"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSYb17MxcC8eTVeaxolSR7ojv08ywxWG9hVgz6u23YZxaEVjaH5V_gOEhbPZGg3MIjbQ31nLnAtY8l4yOHMS4OgQ5secCt80qn--Cq_Lbrg&usqp=CAE",
+            "tag": "15% OFF",
+            "delivery": "Free delivery by Thu, Jul 14"
         },
         {
             "position": 5,
-            "title": "Andrew Tate Poster",
-            "link": "https://www.google.com/url?url=https://wikipparel.com/andrew-tate-poster/&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECLUI&usg=AOvVaw39XN297M3-TYVJJshccz4J",
-            "source": "Wikipparel",
-            "price": "$15.95",
-            "extracted_price": 15.95,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRMztYUVaJvCgEfteF2schbUe5S7wBsoDeHMjNBltKFlXTMuNhEpjXQSozyNjm9POx-k7wZSbV_SXCUZQnhC_w5ARIgnGESlu6rAhMJTeK0&usqp=CAE",
-            "delivery": "Delivery by Sun, Jul 10"
+            "title": "Football Legends Cristiano Ronaldo Real Madrid Robot Onesie | Cristiano-ronaldo",
+            "link": "https://www.google.com/url?url=https://www.teepublic.com/onesie/52878-football-legends-cristiano-ronaldo-real-madrid-rob%3Ffeed_sku%3D52878D13V%26utm_source%3Dgoogle%26utm_medium%3Dshopping%26utm_campaign%3D%255BG%255D%2B%255BG.NAM%255D%2B%255BL.ENG%255D%2B%255BGEN%255D%2B%255BC.Onesies%255D%2B%255BPLF%255D%26utm_id%3Dnotset%26utm_content%3Dreal%2Bmadrid&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQguUECPsC&usg=AOvVaw19JT0qdjq6fI1hfj_NvrHN",
+            "product_link": "https://www.google.com/shopping/product/2553656476358388044",
+            "product_id": "2553656476358388044",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2553656476358388044",
+            "source": "TeePublic",
+            "price": "$22.00",
+            "extracted_price": 22.0,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQkGCQlK19NXPsAgpHwUb-YBe8ZYhDK4Xzs2JvJpFlSQxBKRmKEqqh6thHjk6O5ay-LwPXAE7SG4h7DIsZA1YTPfUq9OAqIZDcrxd1lTAd0d7__KforgFnUpw&usqp=CAE",
+            "delivery": "$6.99 delivery"
         },
         {
             "position": 6,
-            "title": "Andrew Tate Iconic No Brokie Short Sleeve T-Shirt | Andrew Tate | Free Worldwide ...",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1258110339/andrew-tate-iconic-no-brokie-short%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECMEI&usg=AOvVaw2EGeZ5whkWIOzx-v6adsrO",
-            "product_link": "https://www.google.com/shopping/product/9413431578056659771",
-            "product_id": "9413431578056659771",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9413431578056659771",
-            "source": "Etsy - Seller",
-            "price": "$24.08",
-            "extracted_price": 24.08,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS5MEitgkABqQZgMWOO6MKD5GO1nB4OD-z886bXznOKpZuXvo9-E1xtoYTNlPtn-wO3ijAeGDd77pqE-7MEKx9ecaO1l8m8gh91gTdALh5xxl6_IhtiJVa9Gw&usqp=CAE",
-            "delivery": "Free delivery"
+            "title": "Cristiano Ronaldo Real Madrid Bicycle Kick Retro Vintage Poster Print Art",
+            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/620737764/cristiano-ronaldo-real-madrid-bicycle%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQgOUECIcD&usg=AOvVaw2u_SMrgtuBtFu-SEAYik_Z",
+            "source": "Etsy - GolazoGraphics",
+            "price": "$25.00",
+            "extracted_price": 25.0,
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQStirLx-iBHAHEFU8hrCje-33isulpnJZG-HxZqcf9bVXouKf3Vp2zW_NKoAcoHHjKhIVn4CXE2V4ORBh4al3x6Hl-T3v1oV3Mc90A25eQtHESgg94IIou6A&usqp=CAE",
+            "delivery": "$6.00 delivery"
         },
         {
             "position": 7,
-            "title": "Andrew Tate (kickboxer) T-Shirt",
-            "link": "https://www.google.com/url?url=https://wikipparel.com/andrew-tate-kickboxer-t-shirt/&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECMwI&usg=AOvVaw1qVZvOriZqmw2Xin1kGil3",
-            "product_link": "https://www.google.com/shopping/product/8056306514835493",
-            "product_id": "8056306514835493",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8056306514835493",
-            "source": "Wikipparel",
-            "price": "$17.95",
-            "extracted_price": 17.95,
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTPXnU1nzlJ_JqckR8RzlOafG9FT9jINT8Wxm21oqYbPny-v1knQK6M2TKEt4zdd_LTbn9B5pBuaD74b5m_pGSz3gIVyZINoNS9NEo6cOX1pjKUiQ4oMgmB&usqp=CAE",
-            "delivery": "Delivery by Sun, Jul 10"
+            "title": "Cristiano Ronaldo Bundles Ronaldo Bicycle Kick Picture",
+            "link": "https://www.google.com/url?url=https://sunnytoyfunny.com/products/ronaldo%3Fvariant%3D42751523455201%26currency%3DUSD%26utm_medium%3Dproduct_sync%26utm_source%3Dgoogle%26utm_content%3Dsag_organic%26utm_campaign%3Dsag_organic&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQgOUECJID&usg=AOvVaw3b0n71hH8jdTqqx3VuPGLB",
+            "source": "sunnytoyfunny",
+            "price": "$25.00",
+            "extracted_price": 25.0,
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS9jgw4RYd0xv4NHfgD2kzG30boGELpDDxNyIvKpeGSnQwG43sH7zitU8JvxVPNmhJFcNcOPOvjbDn2ggi1SqbU2Ji5IjDZoKnIASxoVvQ&usqp=CAE",
+            "delivery": "Delivery by Sun, Jul 24"
         },
         {
             "position": 8,
-            "title": "Andrew Tate Top G Short Sleeve T-Shirt | Andrew Tate | Free Worldwide Shipping",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1258230433/andrew-tate-top-g-short-sleeve-t-shirt%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECNgI&usg=AOvVaw0BeVsT26PeYsUql6tcMcBo",
-            "product_link": "https://www.google.com/shopping/product/8871454309968296248",
-            "product_id": "8871454309968296248",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8871454309968296248",
-            "source": "Etsy - Seller",
-            "price": "$24.08",
-            "extracted_price": 24.08,
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRT_liXB5MNNfjP0rCxy9RtAvwqLwy8h58Os9Me8z9MaUCBY-eawMCtEDrt2TlJgLbGoupJ9JbjCwx3qd_IROa4ExrgjpLlQ5YAFWjNndyjFrV1foTcczeB-A&usqp=CAE",
+            "title": "Cr7 Cristiano Ronaldo Bicycle Kick Goal Canvas Print Art Home Decor",
+            "link": "https://www.google.com/url?url=https://www.ebay.com/itm/282919695961%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28%26var%3D584525657021&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQgOUECJ4D&usg=AOvVaw2ZiIZt24jkWi6enAm-vgL1",
+            "source": "eBay - bestofcanvas",
+            "price": "$126.49",
+            "extracted_price": 126.49,
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSkO4VyoMwDhvxvfKviWmLKpei2QzpEJnDah3TrPhjQmd4uYhRXzHvWi8Fr02dDxHFi02t0_DPaAbLzxZAxzQiHpKLpbr3Qlp3QlGQepOiy&usqp=CAE",
             "delivery": "Free delivery"
         },
         {
             "position": 9,
-            "title": "Andrew Tate (kickboxer) Poster",
-            "link": "https://www.google.com/url?url=https://wikipparel.com/andrew-tate-kickboxer-poster/&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECOMI&usg=AOvVaw3df8q4-lfqrSxJxRa_le2a",
-            "source": "Wikipparel",
-            "price": "$15.95",
-            "extracted_price": 15.95,
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSqGKi2NDAGf4gVpfMEq4Puvq_-Bo8y_Z-hiAYmE25Q2VIxAfNDRF438MXTJzd9htT2Q2pCwbdzdim3-suVi8am-otBq6t2IwWA1Vfq70A&usqp=CAE",
-            "delivery": "Delivery by Sun, Jul 10"
+            "title": "Cristiano Ronaldo Real Madrid Overhead Kick Champions League 2018",
+            "link": "https://www.google.com/url?url=https://www.sportphotogallery.com/football/juventus-v-real-madrid-uefa-champions-league-quarter-final-leg-one-29310/%3Fcurrency%3DUSD&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQgOUECKkD&usg=AOvVaw12QubV9VlwMf3orf1XTMZQ",
+            "source": "Sport Photo Gallery",
+            "price": "$12.95",
+            "extracted_price": 12.95,
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS-AXBy7O4p8YozzG8H4Kt-zqQVzKm5f77KVUj2WoIxOUalOFJQT8jqMlD79LAfl4iD_F3rJcj_KLMGkWS3UCmf3bvZahnqq1LdfDf63d6s&usqp=CAE",
+            "delivery": "Delivery by Tue, Jul 12"
         },
         {
             "position": 10,
-            "title": "Andrew Tate G Short Sleeve T-Shirt | Andrew Tate | Free Worldwide Shipping",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1244190802/andrew-tate-g-short-sleeve-t-shirt%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECO8I&usg=AOvVaw0McedzlBfVV2U-aRv5c3Ui",
-            "product_link": "https://www.google.com/shopping/product/4822222027525873870",
-            "product_id": "4822222027525873870",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4822222027525873870",
-            "source": "Etsy - Seller",
-            "price": "$24.08",
-            "extracted_price": 24.08,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQZlULLBnKcMgG1v_6kJ1_BG4aysMKQawUol2EN-g28tvrAJIQbfJCUHrVLYkC1kkhVb2f1Uqb4VNCXbbKAfzP923_248OYBD9qfjsmWjAD4PoINLv_4AWEhw&usqp=CAE",
-            "delivery": "Free delivery"
+            "title": "Ronaldo Bicycle Kick Tee - Black - XXL",
+            "link": "https://www.google.com/url?url=https://www.subsidesports.com/us/ronaldo-bicycle-kick-tee-black&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQguUECLQD&usg=AOvVaw21qxucyzVeYAMml3cU4bs0",
+            "product_link": "https://www.google.com/shopping/product/11166065089790571065",
+            "product_id": "11166065089790571065",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11166065089790571065",
+            "source": "Subside Sports",
+            "price": "$24.99",
+            "extracted_price": 24.99,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTndTfID99AlqvY9ylb2pj05LL5q-fGDtTvSdiBSJ6yq3x51BkjEEnt6c6cQ8apNKDUXJOZdbh1QoRAcZGLeRuabEgUiNhYdrVrUac1FhunpgkfzdiQvSoX&usqp=CAE",
+            "delivery": "Delivery by Thu, Jul 21"
         },
         {
             "position": 11,
-            "title": "Andrew Tate On A Jet Sticker | Redbubble Sticker",
-            "link": "https://www.google.com/url?url=https://www.redbubble.com/i/sticker/Andrew-Tate-On-A-Jet-by-ThePodcastStore/109055069.EJUG5%3Fcountry_code%3DUS%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dg.pla%2B-%2BPUP-OG%2B-%2B%255Bg%255Dcos.usa%255D%2B%255Bl.eng%255D%2B%255BPT.Sticker%255D%26utm_id%3Dnotset%26utm_term%3DContent_taxonomy%26utm_content%3D&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECPoI&usg=AOvVaw0YxbKzxm9i2U6h-A6999l9",
-            "source": "Redbubble",
-            "price": "$2.53",
-            "extracted_price": 2.53,
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRJ-wb-Zh7FyHjbnfM7nHSMlyZBizq_OMUY7ZVmAQJCba2SmNleX8mNKXOjf10df0DaWe9FYa8eTXZojQD6tn840F9EFua4Nl8LaXS6uQ8JvV_oi8Kwx-AMzQ&usqp=CAE",
-            "delivery": "$2.42 delivery"
+            "title": "Ronaldo Bicycle Kick Vs Juventus Shirt 1",
+            "link": "https://www.google.com/url?url=https://mo7ndclothing.creator-spring.com/listing/ronaldo_vs_Juventus_white_1%3Fcountry%3DUS%26currency%3DUSD%26product%3D2%26tsmac%3Dgoogle%26tsmic%3Dyoutube%26variation%3D2122%26view_as%3DUSA&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQguUECL8D&usg=AOvVaw2kQsU36hbCr9aIfbZR7Ov2",
+            "product_link": "https://www.google.com/shopping/product/8272900893502641197",
+            "product_id": "8272900893502641197",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8272900893502641197",
+            "source": "Spring",
+            "price": "$16.99",
+            "extracted_price": 16.99,
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTai4rRw06Amc45AMbe9JQ1w3W_i9zl6pV_NK8cqy2vyZmWEw0ojXiRmWjEUfAFhijZ6S7kBRQHZob_kjAgUBtFwtg5SRj1bEh0_ygDj_8&usqp=CAE",
+            "delivery": "$3.99 delivery"
         },
         {
             "position": 12,
-            "title": "and Tate Andrew White Shirt Female",
-            "link": "https://www.google.com/url?url=https://coveti.com/product/andrew-white-shirt/%3Fattribute_pa_size%3Dsize-10%26srsltid%3DAQP2TePlg3A-r2Rbrz5XueqfqRs8LPPqGnNxswZzXtYBPZXh6vgXrGcJ9yE%23fo_c%3D3284%26fo_k%3Da49c1f5ef47bf383d053a52f03aad5c3%26fo_s%3Dgsurus&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECIUJ&usg=AOvVaw0vkhKfgV_Re__pDg2GltUI",
-            "product_link": "https://www.google.com/shopping/product/3112847132791169337",
-            "product_id": "3112847132791169337",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3112847132791169337",
-            "source": "Coveti",
-            "price": "$306.00",
-            "extracted_price": 306.0,
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-K_1UneWRo78ou9UTSDc2HUDJSKtTK2u2xetN908siCgVUXjZEUU1ObTOw0jOcaSvZR_cZrXXSTl5QtblQVZGTVFZZvEYoXis1okyesSnlPGJcvcDEzokpw&usqp=CAE",
-            "delivery": "$35.00 delivery"
+            "title": "Cr7 Cristiano Ronaldo Bicycle Kick Goal Art Wall Room Poster - Poster",
+            "link": "https://www.google.com/url?url=https://www.ebay.com/itm/133943572027%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQgOUECMsD&usg=AOvVaw0tUhPSWbOc_AHpv4kuD7Aa",
+            "source": "eBay - jvw4121",
+            "price": "$23.98",
+            "extracted_price": 23.98,
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQvebawl6MsEYjESneZpvlhQs59ZQ3_ExzpEspchzjts1DYT9GhgnhzOGyAeG4WvmZ1XVJA7y7J1H2RrHM2wugZlfXqS9-IZXITHcawM9U&usqp=CAE",
+            "delivery": "Free delivery"
         },
         {
             "position": 13,
-            "title": "The Lytle-Tate Letters: The Correspondence of Andrew Lytle and Allen Tate [Book]",
-            "link": "https://www.google.com/url?url=https://www.betterworldbooks.com/product/detail/9780878053261%3Fshipto%3DUS%26curcode%3DUSD%26srsltid%3DAQP2TeMCY6iqQZBgP-KWB5BfKWNCg0N2mJ_GHDGPlWZcJJZX_t-_kc9ZUuE&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECJEJ&usg=AOvVaw1snJBS5B2bNPfJSPHkMeKA",
-            "product_link": "https://www.google.com/shopping/product/12745718868969780219",
-            "product_id": "12745718868969780219",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12745718868969780219",
-            "source": "Better World Books",
-            "price": "$23.53",
-            "extracted_price": 23.53,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSAt1ycvBkie1t-C_qpFi8bjgWSYKkpRvfuJlY_QkBR-e_HfxVMGxynkKYE-SIgu5azm7KHX_p773UNHJkFGZg1Xbj1e7TyW7HcuavaQ-Y&usqp=CAE",
-            "delivery": "Free delivery"
+            "title": "Cristiano Ronaldo Scorpion Kick At Juventus Fc (hd) Poster | Redbubble Juventus F ...",
+            "link": "https://www.google.com/url?url=https://www.redbubble.com/i/poster/Cristiano-Ronaldo-scorpion-kick-at-Juventus-FC-HD-by-Luna7/41096737.LVTDI%3Fcountry_code%3DUS%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dg.pla%2B-%2BPUP-OG%2B-%2B%255Bg%255Dcos.usa%255D%2B%255Bl.eng%255D%2B%255BPT.Posters%255D%26utm_id%3Dnotset%26utm_term%3DContent_taxonomy%26utm_content%3Djuventus%2520f.c.&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQgOUECNYD&usg=AOvVaw1ZbzbUi9UyZN6gFOX5yRuA",
+            "source": "Redbubble",
+            "price": "$17.69",
+            "extracted_price": 17.69,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRgXfz6OJOl4SmB2reJp8I8SW-4diN7w5bdXogZBzI0F1nKm1rvxlM8fxOcO5kHB8BhN-B71PK3gPIwwXHU_B9opb-q7Xoeh4uZKbOY-9I&usqp=CAE",
+            "delivery": "$3.81 delivery"
         },
         {
             "position": 14,
-            "title": "Premium Andrew \u201ccobra\u201d Tate T-shirt All Sizes",
-            "link": "https://www.google.com/url?url=https://www.ebay.com/itm/394101243495%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECKEJ&usg=AOvVaw1Nj8yp03t1QyJxmtj1ldHE",
-            "source": "eBay",
-            "price": "$29.98",
-            "extracted_price": 29.98,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcS9CHzhda1eQL0P6EZGvNnh-0wkekBlwDADkWV9aVKM5mYLaWuD7umWEaLySCRkvvyArOCVRqGhqSehsTQPaWFA2AivPBBTXWali1y_TPO2n3bHWc-I6UDO0g&usqp=CAE",
-            "delivery": "$5.99 delivery"
+            "title": "Ronaldo Bicycle Kick Hoodie - Black - XXL",
+            "link": "https://www.google.com/url?url=https://www.subsidesports.com/us/ronaldo-bicycle-kick-hoodie-black&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQguUECOED&usg=AOvVaw0-9adSvVxHCtPFOlmrrzdU",
+            "product_link": "https://www.google.com/shopping/product/16949589170311483960",
+            "product_id": "16949589170311483960",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16949589170311483960",
+            "source": "Subside Sports",
+            "price": "$36.99",
+            "extracted_price": 36.99,
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSUD8TnG6nbiz_0vpO8NH82X4G_-nPQ67F7Injm0-lD_6DlnBs259rBDmhwlmFXRQX0r6KBpRYGBNucgMBh4gR6cNZOOv7oeoUs7SGD3scUDFkqhxKfyf15eg&usqp=CAE",
+            "delivery": "Delivery by Thu, Jul 21"
         },
         {
             "position": 15,
-            "title": "Top G Andrew Tate T-Shirt | Andrew-tate",
-            "link": "https://www.google.com/url?url=https://www.teepublic.com/t-shirt/32533535-top-g-andrew-tate%3Ffeed_sku%3D32533535D1V%26utm_source%3Dgoogle%26utm_medium%3Dshopping%26utm_campaign%3D%255BG%255D%2B%255BG.NAM%255D%2B%255BL.ENG%255D%2B%255BGEN%255D%2B%255BC.TShirts%255D%2B%255BPLF%255D%26utm_id%3Dnotset%26utm_content%3Dnot%2Bset&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECKwJ&usg=AOvVaw0p04GOGFyZ8SCwvhbA195z",
-            "product_link": "https://www.google.com/shopping/product/17852637976882465851",
-            "product_id": "17852637976882465851",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17852637976882465851",
-            "source": "TeePublic",
-            "price": "$14.00",
-            "extracted_price": 14.0,
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQ1HzrVw3VDZT12xac_0SUxCDff4pRnxKsi7rRhIcygUIJDJaCkuwSDwnotRAh16y9li9TSaUTeNGcztG4J5PYK60nELGOWWaPiRduewOQzZ70wGmjqckweBg&usqp=CAE",
-            "delivery": "$6.99 delivery"
-        },
-        {
-            "position": 16,
-            "title": "I Think My Soulmate is Andrew Tate Funny Worn Look T Shirt",
-            "link": "https://www.google.com/url?url=http://www.sunshinetshirts.com/view/339968/i-think-my-soulmate-is-andrew-tate-funny-worn-look-t-shirt&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECLcJ&usg=AOvVaw1aRc_LjJU_8b2HQ_kon0rI",
-            "product_link": "https://www.google.com/shopping/product/3400003532916595895",
-            "product_id": "3400003532916595895",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3400003532916595895",
-            "source": "Sunshine T Shirts",
-            "price": "$19.99",
-            "extracted_price": 19.99,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSXjIJvv2OXBR-w1QwMoYKpHGq02vhjy3qoa4IAseWJvO-788yUNmGdh96BYLMWJKRjIUiVT272hqxu5Qnu6h4EcKlrfvOdMbZ0IUw6Tx6bXNUzDLLR9PgS&usqp=CAE",
-            "delivery": "$4.95 delivery"
-        },
-        {
-            "position": 17,
-            "title": "LYTLE-TATE Letters Andrew Lytle & Allen Tate First Edition Fine Hardcover Dj",
-            "link": "https://www.google.com/url?url=https://www.bonanza.com/listings/LYTLE-TATE-Letters-Andrew-Lytle-Allen-Tate-First-Edition-Fine-Hardcover-Dj/1274122919%3Fgoog_pla%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECMIJ&usg=AOvVaw0y5UBkLjCZA_BxuL77nEpj",
-            "source": "Bonanza - Fantasy-Imagination's booth",
-            "price": "$26.99",
-            "extracted_price": 26.99,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRXe5PDG5ySq1YWQf0sRlukvzplUw981Fh2yccmcsJn6zL_v7QI7s5-FZ7HtIJW9qpw9eAZM55DmjkmZsiTExyF7nsBG156m9HN-PG-RhQRpEYWk8F-shGF4g&usqp=CAE",
-            "delivery": "$4.50 delivery"
-        },
-        {
-            "position": 18,
-            "title": "Andrew Tate On A Jet Glossy Sticker | Redbubble Glossy Sticker",
-            "link": "https://www.google.com/url?url=https://www.redbubble.com/i/sticker/Andrew-Tate-On-A-Jet-by-ThePodcastStore/109055069.JCQM3%3Fcountry_code%3DUS%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dg.pla%2B-%2BPUP-OG%2B-%2B%255Bg%255Dcos.usa%255D%2B%255Bl.eng%255D%2B%255BPT.Glossy%2520Sticker%255D%26utm_id%3Dnotset%26utm_term%3DContent_taxonomy%26utm_content%3Dnot%2520set&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECM4J&usg=AOvVaw1boS7xkMvhc3SHq44tYOfl",
-            "source": "Redbubble",
-            "price": "$2.78",
-            "extracted_price": 2.78,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ1OATin8Ge4EIcRi04EE_fisF0qW6w3JVM4gLOb7Q48avucz27cRnel37CXmsvlHjf4EFYPb94jqyvV_lBEpm4R5w0JbpoXRFioKRDnWg&usqp=CAE",
-            "delivery": "$2.33 delivery"
-        },
-        {
-            "position": 19,
-            "title": "Andrew Tate \"Top G\" Svg Bundle , cobratate, tatespeech, tate confidential",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1246926176/andrew-tate-top-g-svg-bundle-cobratate%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECNoJ&usg=AOvVaw2Nw0XMPwTYuURINdotJMMK",
-            "source": "Etsy - DigitalEmpireStore",
-            "price": "$1.47",
-            "extracted_price": 1.47,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSUPy8x8NzzGftCAucA5tP4n6JAOJ0jnU5zLqLJtYaZZI5ztq7SwHfopWdoaWNtak8Z_w781KzRR_4kLWBVdk4gBhtriA0LrXCjnBzgbEQ&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 20,
-            "title": "Turbo G Short Sleeve T-Shirt | Andrew Tate | Free Worldwide Shipping",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1258150793/turbo-g-short-sleeve-t-shirt-andrew-tate%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECOYJ&usg=AOvVaw1v9SLNx6fr1oKn4JFn1aUt",
-            "product_link": "https://www.google.com/shopping/product/1792945696143997747",
-            "product_id": "1792945696143997747",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1792945696143997747",
-            "source": "Etsy - Seller",
-            "price": "$24.08",
-            "extracted_price": 24.08,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR491HeNP-mcXINMzqhAOcZO2otjeTsfMl_k2mVioAL-gtw8LX-RIKbHOnbAcnHEkd_B-g47qlN9clv5vFs-yWIS0SX49IS94TQz0IBHG3AyyFd-6UKbx0D&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 21,
-            "title": "Andrew Tate No Brokies Short Sleeve T-Shirt GTA Styling | Andrew Tate | Free ...",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1258572947/andrew-tate-no-brokies-short-sleeve-t%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECPIJ&usg=AOvVaw3VhFJYVjIGGIFjegGXKInr",
-            "product_link": "https://www.google.com/shopping/product/11712610720467552506",
-            "product_id": "11712610720467552506",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11712610720467552506",
-            "source": "Etsy - Seller",
-            "price": "$24.08",
-            "extracted_price": 24.08,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQZ3elKKAuhS6UAjPWfzJnddS81MKmmXgfCOXoew2aT_pYJwLhU5poK7lemNJncy-n2SF8OsB5FCQQbVCjEETe921g2vAP0ZYFK4OH9qN5JW8HKhMPuVXeq&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 22,
-            "title": "Andrew Fry American Horror Story Psc Sketch Card Tate Langdon/evan",
-            "link": "https://www.google.com/url?url=https://www.ebay.com/itm/312901433736%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECP0J&usg=AOvVaw163lRncctGB6gJsLYtmX1I",
-            "source": "eBay - misslizzy1978",
-            "price": "$39.95",
-            "extracted_price": 39.95,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ7qLCat6YMmsI5AzL7FQyWMNntLClyefgsb17qiv1Tu66z5BzKNaFBQfU3PetxF-OYfZq6KP4Dd1cnqGSsvF00_osjvUyd-LDBZ6751F-4Rvo7yuL0O8nK9w&usqp=CAE",
+            "title": "Real Madrid Cristiano Ronaldo Bicycle Kick Poster (24x36) Inches",
+            "link": "https://www.google.com/url?url=https://www.ebay.com/itm/353351710621%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQgOUECOwD&usg=AOvVaw09NhSU4-Ygb6JoE8dZFCj1",
+            "source": "eBay - krisport2020",
+            "price": "$20.00",
+            "extracted_price": 20.0,
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTwuwB_nY-PQAO154heCLWlHBDw_P_i3vXmq1I0sEzVjA2U9CrP49kH8YYCzq4n6CHi_sYKvf8ssCqRHzYVBv186t-Bgdw4uu1-p11ZQU-a&usqp=CAE",
             "delivery": "Free delivery by Thu, Jul 14"
         },
         {
-            "position": 23,
-            "title": "Andrew Tate Poster | Redbubble Bugatti Posters",
-            "link": "https://www.google.com/url?url=https://www.redbubble.com/i/poster/Andrew-Tate-by-bigmoneyrush/115453134.LVTDI%3Fcountry_code%3DUS%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dg.pla%2B-%2BPUP-OG%2B-%2B%255Bg%255Dcos.usa%255D%2B%255Bl.eng%255D%2B%255BPT.Posters%255D%26utm_id%3Dnotset%26utm_term%3DContent_taxonomy%26utm_content%3Dbugatti&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECIgK&usg=AOvVaw1h0qM7uuM8f4uV5V8kcN27",
-            "source": "Redbubble",
-            "price": "$17.06",
-            "extracted_price": 17.06,
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQhzBllawRoQAtjQYKLqYbUwJlHF4ZJxt1xXwQihAz4BZSpm7QiFLptaG_VRPeWF94wPbBBvGsHrGOyojdJbkLolHpAQulbKjWpPSndJZpL&usqp=CAE",
-            "delivery": "$3.77 delivery"
-        },
-        {
-            "position": 24,
-            "title": "Andrew Tate Lord Tate Short Sleeve T-Shirt | Andrew Tate | Free Worldwide Shipping",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1258143675/andrew-tate-lord-tate-short-sleeve-t%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECJQK&usg=AOvVaw1JS2pwXej-vreLM5rUDgpQ",
-            "product_link": "https://www.google.com/shopping/product/13484921021865362260",
-            "product_id": "13484921021865362260",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13484921021865362260",
-            "source": "Etsy - Seller",
-            "price": "$24.08",
-            "extracted_price": 24.08,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTjdkyukv0UJfeUloXDA3mvKNcuVQhis4ITV6gI-4A2tAI7EvI5lfAR1zpl_wKL_ejWrfSueTZ2ac5cPN_im2lJ_JMd8AXc4OJgjRX7dVHlxq7xebBvZ8JQ&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 25,
-            "title": "Top G Andrew Tate Mug | Andrew-tate",
-            "link": "https://www.google.com/url?url=https://www.teepublic.com/mug/32533535-top-g-andrew-tate%3Ffeed_sku%3D32533535D12V%26utm_source%3Dgoogle%26utm_medium%3Dshopping%26utm_campaign%3D%255BG%255D%2B%255BG.NAM%255D%2B%255BL.ENG%255D%2B%255BGEN%255D%2B%255BC.Mugs%255D%2B%255BPLF%255D%26utm_id%3Dnotset%26utm_content%3Dnot%2Bset&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECJ8K&usg=AOvVaw0Y7n_DOCaW3LYNf_7hzhFQ",
-            "source": "TeePublic",
-            "price": "$16.00",
-            "extracted_price": 16.0,
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRtHX5iyUrTgFXwi709CKiLmiLCgVQnNJbtmWltPvSO2Y2kCJDdZ4EtvrSmDs_uigiv6FvLumFn3FQqpXbuQmCwYGmOK_aqqWEOBCgEt-xQH45H-pNFMry-GQ&usqp=CAE",
-            "delivery": "$9.99 delivery"
-        },
-        {
-            "position": 26,
-            "title": "Andrew Tate Admit It Short Sleeve T-Shirt | Andrew Tate | Free Worldwide Shipping",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1258468657/andrew-tate-admit-it-short-sleeve-t%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECKsK&usg=AOvVaw2EaTCU5WnFHqAYQEONomir",
-            "product_link": "https://www.google.com/shopping/product/7724130805185805092",
-            "product_id": "7724130805185805092",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7724130805185805092",
-            "source": "Etsy - Seller",
-            "price": "$24.08",
-            "extracted_price": 24.08,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT_LG1pgNz5j6udAHBwm13OemKQ7-JtcbZ04cxTWsQC2WHRV75ZvZVXlPYmtHz7LQrzhWvMEmPD6vo1vZ81QaHp5GjYoFAdNv9MrMt4g7O4v3wjfDc-uC9ZhQ&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 27,
-            "title": "Andrew Tate Official Short Sleeve T-Shirt | Andrew Tate | Free Worldwide Shipping",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1244205540/andrew-tate-official-short-sleeve-t%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECLcK&usg=AOvVaw1UPGmBPmTTHmSoIhj-9nQL",
-            "product_link": "https://www.google.com/shopping/product/10803879957827849871",
-            "product_id": "10803879957827849871",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10803879957827849871",
-            "source": "Etsy - Seller",
-            "price": "$24.08",
-            "extracted_price": 24.08,
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRUtJkvgobzclWTW9ofQBHUDuhaZAw7dOavHfQOAf4nLMpyXi9cvhpBGWiT-P2WMbW5F0J1kx7y71vcnkiMrUyucmRQTD1Fu6Dxd0Nsm48V_oE-zxgsSY1u&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 28,
-            "title": "Buddy Tate Art Print by Andrew Putler",
-            "link": "https://www.google.com/url?url=https://fineartamerica.com/featured/buddy-tate-andrew-putler.html%3Fproduct%3Dart-print%26googleShopping%3Dtrue%26completeProductSku%3Dartworkid%255B25670425%255D-productid%255Bprint%255D-imagewidth%255B8%255D-imageheight%255B5.5%255D-paperid%255Blusterphotopaper%255D&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECMMK&usg=AOvVaw3M6tPckVFyCf_cpDgCqkAh",
-            "source": "FineArtAmerica.com",
-            "price": "$86.06",
-            "extracted_price": 86.06,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTIRLC9SeYxU0w0yAShxik1hvek9COukkA86vdAqz1WWfgyhaDQD4g7nUBdOzw3VQV-OzW8-gnjdxnkq2-E_ZhBhSu4LK8wh0lgK9yCEKz5mOYeHrksdhRkOA&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 29,
-            "title": "Short Sleeve Loyalty T-Shirt Andrew Tate",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1257551955/short-sleeve-loyalty-t-shirt-andrew-tate%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECNEK&usg=AOvVaw3YDcfGjhigHV2ZwrxA_N0P",
-            "product_link": "https://www.google.com/shopping/product/6238513047498213592",
-            "product_id": "6238513047498213592",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6238513047498213592",
-            "source": "Etsy - Seller",
-            "price": "$23.15",
-            "extracted_price": 23.15,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTd0iXDQyg4imB31QHxH3aNLfqpBFdvUuFIfLsl0oGeaKdT0_43_OdA865oZfU-RaDwZaHeTnyvR6iWZ8e4OO00mzG9V0GLsI5r_zgsTZCKs6oekebCgV_KBw&usqp=CAE",
-            "delivery": "$4.22 delivery"
-        },
-        {
-            "position": 30,
-            "title": "Three Month Fever: The Andrew Cunanan Story [Book]",
-            "link": "https://www.google.com/url?url=https://www.amazon.com/Three-Month-Fever-Cunanan-Semiotext/dp/1584351985%3Fsource%3Dps-sl-shoppingads-lpcontext%26ref_%3Dfplfs%26psc%3D1%26smid%3DATVPDKIKX0DER&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECN0K&usg=AOvVaw0YNB3tzVUbPuZwiicPu1tW",
-            "product_link": "https://www.google.com/shopping/product/3930239914922790098",
-            "product_id": "3930239914922790098",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3930239914922790098",
-            "source": "Amazon.com",
-            "price": "$15.95",
-            "extracted_price": 15.95,
+            "position": 16,
+            "title": "Ronaldo Bicycle Kick Mug",
+            "link": "https://www.google.com/url?url=https://www.subsidesports.com/us/ronaldo-bicycle-kick-mug&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwiJvtLO8eH4AhUoFlkFHTrJCAgQguUECPkD&usg=AOvVaw3dI0Gorvdf94_EyoukeKc3",
+            "product_link": "https://www.google.com/shopping/product/13153638949704792032",
+            "product_id": "13153638949704792032",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13153638949704792032",
+            "source": "Subside Sports",
+            "price": "$13.39",
+            "extracted_price": 13.39,
             "rating": 5.0,
-            "reviews": 2,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSY4WPOQ5TILtu7-DDEqnm0W8UX7hhS4iAJLvNCy3Z-rj8lzkB51eqxZ9GjkqNkyffCqa2z4wv97Wd5OW6XzdIZ8nD0LLTRDMGayxkPfGU&usqp=CAE",
-            "delivery": "$5.99 delivery"
-        },
-        {
-            "position": 31,
-            "title": "Top G Andrew Tate Crewneck Sweatshirt | Andrew-tate",
-            "link": "https://www.google.com/url?url=https://www.teepublic.com/crewneck-sweatshirt/32533535-top-g-andrew-tate%3Ffeed_sku%3D32533535D5V%26utm_source%3Dgoogle%26utm_medium%3Dshopping%26utm_campaign%3D%255BG%255D%2B%255BG.NAM%255D%2B%255BL.ENG%255D%2B%255BGEN%255D%2B%255BC.Crewnecks%255D%2B%255BPLF%255D%26utm_id%3Dnotset%26utm_content%3Dnot%2Bset&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECOsK&usg=AOvVaw1-EF428mdXgK-sp23cxFjj",
-            "product_link": "https://www.google.com/shopping/product/11730313421928559137",
-            "product_id": "11730313421928559137",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11730313421928559137",
-            "source": "TeePublic",
-            "price": "$40.00",
-            "extracted_price": 40.0,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTzCjHTTJATw5kE3DujiOigquht2CflCwCiMuFwT2SpQlWLcgZlpnaup93YuhNy4C27Tbp8rl-fQSPfjzlYh7sDODowrnFYoKk6IGfH3yezt7nTJDLJD5ZD&usqp=CAE",
-            "delivery": "$9.99 delivery"
-        },
-        {
-            "position": 32,
-            "title": "I Think My Soulmate Is Andrew Tate Funny Worn Look T Shirt",
-            "link": "https://www.google.com/url?url=http://www.sunshinetshirts.com/view/339968/i-think-my-soulmate-is-andrew-tate-funny-worn-look-t-shirt&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECPcK&usg=AOvVaw3kQ1lQgXtfhwk1rEGAkBPN",
-            "product_link": "https://www.google.com/shopping/product/10174296702935693865",
-            "product_id": "10174296702935693865",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10174296702935693865",
-            "source": "Sunshine T Shirts",
-            "price": "$19.99",
-            "extracted_price": 19.99,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR-NxPGHlXxv92Hl0qyl8oVR1jUjXu2JH20_2LkL_WvZ5EjpHoiKstmmrp3Vb9IWninuZr79GOsn5HEMAGYBHvMrF5e5AWn5DJ-pkTlIPYJv1dVsrUDcrv6&usqp=CAE",
-            "delivery": "Delivery by Mon, Jul 11"
-        },
-        {
-            "position": 33,
-            "title": "Andrew Tate Women's Fitted T-Shirt | Redbubble Women's T-Shirt",
-            "link": "https://www.google.com/url?url=https://www.redbubble.com/i/t-shirt/Andrew-Tate-by-bigmoneyrush/115453134.8PZ5B%3Fcountry_code%3DUS%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dg.pla%2B-%2BPUP-OG%2B-%2B%255Bg%255Dcos.usa%255D%2B%255Bl.eng%255D%2B%255BPT.Women%27s%2520T-Shirt%255D%26utm_id%3Dnotset%26utm_term%3DContent_taxonomy%26utm_content%3Dnot%2520set&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECIIL&usg=AOvVaw2cFJ1060Lv7lh4IGhJdNjo",
-            "product_link": "https://www.google.com/shopping/product/1968739832872710514",
-            "product_id": "1968739832872710514",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1968739832872710514",
-            "source": "Redbubble",
-            "price": "$23.60",
-            "extracted_price": 23.6,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR4aofQ0mIHDGgwvzAbnnvx0d55cyrmgakgYjbfu4h6P4SesAGlHVHZKNWh_T865jNxXLZnc_FX4uASXmV818-_4fjf0Ggt-iQynzzyKjs&usqp=CAE",
-            "delivery": "$7.46 delivery"
-        },
-        {
-            "position": 34,
-            "title": "(25 copies) Hardcover Douglas Coupland by Andrew Tate",
-            "link": "https://www.google.com/url?url=https://bulkbookstore.com/douglas-coupland-9780719074882&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECJEL&usg=AOvVaw3Jd6bsxQRTu8S955242DWg",
-            "source": "Bulk Bookstore",
-            "price": "$2,040.00",
-            "extracted_price": 2040.0,
-            "extensions": [
-                "$25 OFF"
-            ],
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSXDR4wC-gu3phG1LHU_k4VG33bqaVJlKbfNx6oiUW36ZlQCWwLUie7UdNqJPlaOsQ0IztGBo6ucnnkF37q5E5Zcn-lup3avUXWAEmixJ1QmES2QE7yi_pu&usqp=CAE",
-            "tag": "$25 OFF",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 35,
-            "title": "The Tate Modern Handbook [Book]",
-            "link": "https://www.google.com/url?url=https://www.powells.com/book/-9781854375773/1-1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECKAL&usg=AOvVaw2jHEDhJjWkubaf7PqC52UQ",
-            "product_link": "https://www.google.com/shopping/product/10259011429404824955",
-            "product_id": "10259011429404824955",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10259011429404824955",
-            "source": "Powell's Books",
-            "price": "$24.00",
-            "extracted_price": 24.0,
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSN1xJahFZiBp3CqKSXajN0VR6ZygsSaKVubCOs-3D2F9LjPpBGk8Ae1zRRH9CWNwfsSdrle6J4kKgGpuwidagy4iLEuUfIlA&usqp=CAE",
-            "delivery": "Delivery by Wed, Jul 20"
-        },
-        {
-            "position": 36,
-            "title": "Top G Andrew Tate Sticker | Andrew-tate",
-            "link": "https://www.google.com/url?url=https://www.teepublic.com/sticker/32533535-top-g-andrew-tate%3Ffeed_sku%3D32533535D16V%26utm_source%3Dgoogle%26utm_medium%3Dshopping%26utm_campaign%3D%255BG%255D%2B%255BG.NAM%255D%2B%255BL.ENG%255D%2B%255BGEN%255D%2B%255BC.Stickers%255D%2B%255BPLF%255D%26utm_id%3Dnotset%26utm_content%3Dnot%2Bset&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECLAL&usg=AOvVaw1wjMw_O1AKG-qO2snr53mA",
-            "source": "TeePublic",
-            "price": "$2.50",
-            "extracted_price": 2.5,
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR-wbZIXz3RmUgUt7HAmY47HLBUe8UQEemLKEXa5vsL0ss7KgPa7s6GcwcQhdgm2GEF9J19GUYom5iRkMxG2HXBwumR97DJICobDklXbZfYnqolaLQHFa5KGg&usqp=CAE",
-            "delivery": "$2.99 delivery"
-        },
-        {
-            "position": 37,
-            "title": "Symmetrical Modern Floor Lamp | Andrew Martin Tate Andrew Martin - OROA",
-            "link": "https://www.google.com/url?url=http://www.oroa.com/products/symmetrical-modern-floor-lamp-andrew-martin-tate%3Fvariant%3D42455760371927&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECLsL&usg=AOvVaw1yIvEv9hkJdpRYjYbDl6lG",
-            "source": "Oroa Luxury Furniture",
-            "price": "$895.00",
-            "extracted_price": 895.0,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRx8RZphevzZZU1EDZTiACzd-BgMs95NG6LN2F0zOjgQCpV_vTpP4skLznwFx3zmDfgPF7Lu-CNLPpG7Pk92YabBizdKySr8enNbHnzjBU8x4HaKwxxQVrUOQ&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 38,
-            "title": "Mystery Island: Where Murder Meets History [Book]",
-            "link": "https://www.google.com/url?url=https://www.amazon.com/Mystery-Island-Where-Murder-History/dp/B09K22MCJW%3Fsource%3Dps-sl-shoppingads-lpcontext%26ref_%3Dfplfs%26psc%3D1%26smid%3DATVPDKIKX0DER&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECMYL&usg=AOvVaw0BfAOCYICrSNvttKW81huh",
-            "product_link": "https://www.google.com/shopping/product/5005435083892064746",
-            "product_id": "5005435083892064746",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5005435083892064746",
-            "source": "Amazon.com",
-            "price": "$13.99",
-            "extracted_price": 13.99,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR1bDZkzYNUjRxjfoCT7t8WJpnZzpcYPKggAxprJQ0rkXpKOCCggAJ4gUVzO_xxMmONCzITbMaATuu_uUnuBq6fDxaIHpqXJiOUeoV6tA_TMhcrHWR93rjQ1A&usqp=CAE",
-            "delivery": "$5.99 delivery"
-        },
-        {
-            "position": 39,
-            "title": "Tristan Tate Top G Short Sleeve T-Shirt | Andrew Tate | Free Worldwide Shipping",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1244417186/tristan-tate-top-g-short-sleeve-t-shirt%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECNUL&usg=AOvVaw3lCUd6WbY8EJshUz-IsKx8",
-            "product_link": "https://www.google.com/shopping/product/9405600411871814053",
-            "product_id": "9405600411871814053",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9405600411871814053",
-            "source": "Etsy - Seller",
-            "price": "$24.08",
-            "extracted_price": 24.08,
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRiTP3d6aZ_HTIscoec1nrHp1vSGitJnowW4krOrZUne6Iajmuozlnp-uVMa61bIPWkSb4hC71WlZnZR4N-eitwLbTXib4y1x8kN84OQD1oY8sNKKEzXkmN2Q&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 40,
-            "title": "Les Schwab U-9 2018 Championship Autographed Andrew Tate Hydroplane",
-            "link": "https://www.google.com/url?url=https://www.ebay.com/itm/175235033038%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECOEL&usg=AOvVaw1Yuce7YeQLrRI-poxvNsK2",
-            "source": "eBay",
-            "price": "$499.99",
-            "extracted_price": 499.99,
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTVA1SzPyCWrNXp_WMDkueydUiFbwkAy1lNJ8jMm4qV9j-kjJVUqdosEBmeU43wkrrQR5t4SAaxf3n5qn9Xgkg-CjO6pB7UHr-4GuITlnUxhXeOJdEH1zmjRg&usqp=CAE",
-            "delivery": "$15.00 delivery"
-        },
-        {
-            "position": 41,
-            "title": "Tristan Tate Top G Short Sleeve T-Shirt White | Andrew Tate | Free Worldwide Shipping",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1258418071/tristan-tate-top-g-short-sleeve-t-shirt%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECO0L&usg=AOvVaw2LiO9eJ2JvndgRmW5lvd99",
-            "product_link": "https://www.google.com/shopping/product/3166763455967055942",
-            "product_id": "3166763455967055942",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3166763455967055942",
-            "source": "Etsy - Seller",
-            "price": "$24.08",
-            "extracted_price": 24.08,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTaDrjzh1qElY7R0zsaZA9INxj2zg0J4uZW-ySYsEMqnNYmHxYTJANc7XXSQBA5hqKCyrkcOtGJUKwPI0SBwAsblYPELph_GDU0H2skF-NGr8WesPt4G0GkDg&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 42,
-            "title": "Andrew Tate On A Jet Iphone Se (2020) | Redbubble Iphone 8 Snap Case",
-            "link": "https://www.google.com/url?url=https://www.redbubble.com/i/iphone-case/Andrew-Tate-On-A-Jet-by-ThePodcastStore/109055069.TO7ID%3Fcountry_code%3DUS%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dg.pla%2B-%2BPUP-OG%2B-%2B%255Bg%255Dcos.usa%255D%2B%255Bl.eng%255D%2B%255BPT.iPhone%25208%2520Snap%2520Case%255D%26utm_id%3Dnotset%26utm_term%3DContent_taxonomy%26utm_content%3Dnot%2520set&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECPgL&usg=AOvVaw2Jj-T5J0EH4TD_E14WcWdH",
-            "source": "Redbubble",
-            "price": "$28.93",
-            "extracted_price": 28.93,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSwp4IIvD6rNnWGDRWO9X3EDsBIVAiNUgF1bRZyWoxebdTvBZFZSLvaoOVPQxslHBMMvsXvvEb8_lKvXzoYyH7bpKoZwxX7lxNcvz6buRYE-RqNsEbqH43MQQ&usqp=CAE",
-            "delivery": "$4.39 delivery"
-        },
-        {
-            "position": 43,
-            "title": "What Color is Your Bugatti T-Shirt | Andrew Tate T-Shirt | Tate Quotes T-Shirt ...",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1261006325/what-color-is-your-bugatti-t-shirt%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECIQM&usg=AOvVaw3A38nzjasZisvGLA1HdpdG",
-            "product_link": "https://www.google.com/shopping/product/8428254673261147510",
-            "product_id": "8428254673261147510",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8428254673261147510",
-            "source": "Etsy - Seller",
-            "price": "$25.35",
-            "extracted_price": 25.35,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTE4_RkIkdJ3oI8V_auoez3QZvm4TEerm2l4tJJF_rwncA90PYG8KblpF3nJmemQ_sHi3SUq36YKI3abdLIIusnIUJq1xWdbM8gvQOt7ywPaKugMILofZKu&usqp=CAE",
-            "delivery": "$4.17 delivery"
-        },
-        {
-            "position": 44,
-            "title": "The Tate Gallery 1970-2 Lousada, Anthony - Sainsbury, Robert - Forge, Andrew ...",
-            "link": "https://www.google.com/url?url=https://www.abebooks.com/servlet/BookDetailsPL%3Fbi%3D30299816172&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECI8M&usg=AOvVaw0N-4J7vLqSFfYxRnQ6Cprr",
-            "source": "AbeBooks.com",
-            "price": "$48.23",
-            "extracted_price": 48.23,
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQUZvVx4_3qA5gNyifNf0QTLIxP-HHsnJYPHQud_mno6azYQk6pRhpA2M1hgiB2VjjRifLiO6hOmNcG-X5Azl7t9p97jlfraVk890M2sA&usqp=CAE",
-            "delivery": "$19.30 delivery"
-        },
-        {
-            "position": 45,
-            "title": "Tristan Tate No Brokies GTA Style Short Sleeve T-Shirt White | Andrew Tate | Free ...",
-            "link": "https://www.google.com/url?url=https://www.etsy.com/listing/1245325028/tristan-tate-no-brokies-gta-style-short%3Fgpla%3D1%26gao%3D1%26&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECJ4M&usg=AOvVaw0OhDmjoC2PXHn0YLHxxNq6",
-            "product_link": "https://www.google.com/shopping/product/17659071826399546220",
-            "product_id": "17659071826399546220",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17659071826399546220",
-            "source": "Etsy - Seller",
-            "price": "$24.08",
-            "extracted_price": 24.08,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQkq2FYKOFiYRvFlYJneifnVTAXNGu0sV_C1Ni865ywtCwDhaBzGU6PkFK6ryUQfpjToUZTZCODaRvHRdjG6kqLuTY6UvBm5uBMAqkxGIcLYsqYaue7uzXq&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 46,
-            "title": "Unknown Caller Women's Tees - Black - Design by Andrew Tate - Spring",
-            "link": "https://www.google.com/url?url=https://teespring.com/shop/get-unknown-caller%3Fcurrency%3DUSD%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dgoogle_shopping%26aid%3Dts-boosted-pla%26pid%3D87%26cid%3D2325%26pid%3D87&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECKkM&usg=AOvVaw32KWiMnizDoMt1ENFC9qjU",
-            "product_link": "https://www.google.com/shopping/product/8022490211212012793",
-            "product_id": "8022490211212012793",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8022490211212012793",
-            "source": "Teespring US",
-            "price": "$24.99",
-            "extracted_price": 24.99,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRxqznt3WmcXkh06KANWPpsxicK4csl9tMhadhrZ67OYbSbPJiktBy0RhoQvTN05XoZLv51gsJufIL9HloMGJgTfQMTnTx50QvR5x5Rye7uKavXvDwzUyky1Q&usqp=CAE",
-            "delivery": "Delivery est. by Jul 14"
-        },
-        {
-            "position": 47,
-            "title": "Crackpots, Crooks, and Cowboys: Book 2 of a Stratham Town Father Andrew Trilogy ...",
-            "link": "https://www.google.com/url?url=https://www.betterworldbooks.com/product/detail/9781098914202%3Fshipto%3DUS%26curcode%3DUSD%26srsltid%3DAQP2TePGN3_TKmgQJ1TLdjVI5XqJUbWAMJ2jrKxES2vQ08PNz-n1TZiENg4&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECLQM&usg=AOvVaw2R9kXiUE-7PHERF7XCFA_q",
-            "product_link": "https://www.google.com/shopping/product/14784035054786920107",
-            "product_id": "14784035054786920107",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14784035054786920107",
-            "source": "Better World Books",
-            "price": "$17.73",
-            "extracted_price": 17.73,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ8ulgNjHFa1xsUN1vSfP8TyxkspbCfbkVIJJTG7V3YJRy1wIzQN3SXQxU937ZuGOLmIgrW30FYN192xc0V406glDDCGRPy2N9ejg2LO3wnQMd5ZP02LM-V&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 48,
-            "title": "Buddy Tate Framed Print / Framed Art by Andrew Putler",
-            "link": "https://www.google.com/url?url=https://fineartamerica.com/featured/buddy-tate-andrew-putler.html%3Fproduct%3Dframed-print%26googleShopping%3Dtrue%26completeProductSku%3Dartworkid%255B25670425%255D-productid%255Bprintframed%255D-imagewidth%255B10%255D-imageheight%255B6.5%255D-paperid%255Blusterphotopaper%255D-frameid%255BCRQ13%255D-mat1id%255BPM918%255D-mat1width%255B2%255D-finishid%255B0.125acrylic%255D&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECMIM&usg=AOvVaw3iOymewTZemWqRFW2BSU-o",
-            "source": "FineArtAmerica.com",
-            "price": "$143.01",
-            "extracted_price": 143.01,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ_rFAHh983D9SolVgrFq3v9CHE5QsA500TOhe7USWvGUoDzIX_uwf0jP8HbI4R6yyHmLIKICJt91HuOjNxlT-XenkIZHGe28WHmsyaLkyVWXuBp2bzVJ5h3A&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 49,
-            "title": "Andrew Tate - Capone's Boys: Blood Tough - Dvd - Multiple Formats",
-            "link": "https://www.google.com/url?url=https://www.ebay.com/itm/185422432220%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECNAM&usg=AOvVaw23Hn0621kpvTWAXk4_awO3",
-            "source": "eBay - zuber",
-            "price": "$43.95",
-            "extracted_price": 43.95,
-            "rating": 4.0,
-            "reviews": 2,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSRgK1DTpTtJlX4Q0oBhQCLpZH2NEFYkbzBXcOWyd3lrR5f9_fIFVH2IsKWFOl6mRGEhHvdOA5aim3sbElD5N6QkvXvrghJ4RT-Yrz3FJIfelhmqtJUgRAH&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 50,
-            "title": "Your Move, J.P. Just The Tates",
-            "link": "https://www.google.com/url?url=/shopping/product/15498729252277281292%3Fhl%3Den%26oq%3Dandrew%2Btate%26q%3Dandrew%2Btate%26gl%3Dus%26prds%3Deto:3127768993053418208_1,pid:3667111427025567086&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECNwM&usg=AOvVaw3VQWM7Mb7bXstUsWblXSVh",
-            "product_link": "https://www.google.com/shopping/product/15498729252277281292",
-            "product_id": "15498729252277281292",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15498729252277281292",
-            "source": "Ergodebooks",
-            "price": "$38.14",
-            "extracted_price": 38.14,
-            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSLttPPUjD-IDnrYKOFZYg52KyxcXFqdeO03G4zQQA1oDr5D-XdufNRvJZcpwlfs-geIu3pOri8cyxoiQd2xG2HeCvlFYHU4Wo0ofzf3Bw&usqp=CAE",
-            "delivery": "Google Guarantee"
-        },
-        {
-            "position": 51,
-            "title": "Tate Belt - Black",
-            "link": "https://www.google.com/url?url=https://petalandpup.com/products/tate-belt-black%3Fcurrency%3DUSD%26variant%3D41659043020977%26utm_medium%3Dcpc%26utm_source%3Dgoogle%26utm_campaign%3DGoogle%2520Shopping&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECO0M&usg=AOvVaw3pLjinDYc80MJ7kA4gAkX8",
-            "product_link": "https://www.google.com/shopping/product/11887200141940534620",
-            "product_id": "11887200141940534620",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11887200141940534620",
-            "source": "Petal & Pup USA",
-            "price": "$9.97",
-            "extracted_price": 9.97,
-            "extensions": [
-                "LOW PRICE"
-            ],
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTWZFagep7lA8LKdqYva5iOnBGTIQeQaI9b9DurPzUWbfaotAmMH8VRyshoPrF8bLhjFwa_MP9en2qSlNh2eu4NMpT9dcM2qcVwoo8WbiE&usqp=CAE",
-            "tag": "LOW PRICE",
-            "delivery": "Delivery by Mon, Jul 11"
-        },
-        {
-            "position": 52,
-            "title": "Andrew Tate Sticker | Redbubble Bugatti Sticker",
-            "link": "https://www.google.com/url?url=https://www.redbubble.com/i/sticker/Andrew-Tate-by-bigmoneyrush/115453134.EJUG5%3Fcountry_code%3DUS%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dg.pla%2B-%2BPUP-OG%2B-%2B%255Bg%255Dcos.usa%255D%2B%255Bl.eng%255D%2B%255BPT.Sticker%255D%26utm_id%3Dnotset%26utm_term%3DContent_taxonomy%26utm_content%3Dbugatti&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECP4M&usg=AOvVaw3iidGN4erbvlfZZqRsvmLr",
-            "source": "Redbubble",
-            "price": "$3.00",
-            "extracted_price": 3.0,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTfEpwcNM0QgJDOqxn8bFF-E7L6aEtDvXlOukLI37-FTKhe91EwR4MXFgEZWXr2a8f2GVMV9zJJViYlp8V7nUE_25mIV5tb-Qz5PgGC-cYXnLm8BEH0fGNzJA&usqp=CAE",
-            "delivery": "$2.45 delivery"
-        },
-        {
-            "position": 53,
-            "title": "The Black Body [Book]",
-            "link": "https://www.google.com/url?url=https://www.penguinrandomhouse.com/books/215351/the-black-body-by-meri-nana-ama-danquah/9781583228890%3Fref%3DPRHB7BD76FBDB%26aid%3D14813%26linkid%3DPRHB7BD76FBDB&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECIoN&usg=AOvVaw2yt0HH59ZAKunND2Wn5DhZ",
-            "product_link": "https://www.google.com/shopping/product/14299885020252573856",
-            "product_id": "14299885020252573856",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14299885020252573856",
-            "source": "Penguin Random House",
-            "price": "$18.95",
-            "extracted_price": 18.95,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSG1JI9NiCtGSGfPov65fymLRofx9DxE6OHsF4Z8VbbxAOntbZIhuyEl3nOjrR5tDjPR5TGqsp2XEyj4q3MdMYNzXTVMSlhCKLJzR1okjI&usqp=CAE",
-            "delivery": "$19.69 delivery"
-        },
-        {
-            "position": 54,
-            "title": "Andrew Tate Iphone Se (2020) | Redbubble Iphone 8 Snap Case",
-            "link": "https://www.google.com/url?url=https://www.redbubble.com/i/iphone-case/Andrew-Tate-by-bigmoneyrush/115453134.TO7ID%3Fcountry_code%3DUS%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dg.pla%2B-%2BPUP-OG%2B-%2B%255Bg%255Dcos.usa%255D%2B%255Bl.eng%255D%2B%255BPT.iPhone%25208%2520Snap%2520Case%255D%26utm_id%3Dnotset%26utm_term%3DContent_taxonomy%26utm_content%3Dnot%2520set&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECJgN&usg=AOvVaw235uBMEtTxW2Z7uTlYccV0",
-            "source": "Redbubble",
-            "price": "$28.93",
-            "extracted_price": 28.93,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRd5SnRbWCTahHEvfqRVZsMCOBVYUiV3eoKaI4FDbc6eS5En6gmVEYuiQYoolZz96kAO0H0ZHaB0Xgl71PCwNXszz4PJdjFIZUqSJuW4WqwdcfBmT6HJHVGfA&usqp=CAE",
-            "delivery": "$4.39 delivery"
-        },
-        {
-            "position": 55,
-            "title": "The Smiling Man Women's Tees - Black - Design by Andrew Tate - Spring",
-            "link": "https://www.google.com/url?url=https://teespring.com/shop/get-the-smiling-man%3Fcurrency%3DUSD%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dgoogle_shopping%26aid%3Dts-boosted-pla%26pid%3D87%26cid%3D2325%26pid%3D87&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECKMN&usg=AOvVaw1O13tO9-KroSCZRLKalIBn",
-            "product_link": "https://www.google.com/shopping/product/2433841867166761648",
-            "product_id": "2433841867166761648",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2433841867166761648",
-            "source": "Teespring US",
-            "price": "$24.99",
-            "extracted_price": 24.99,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTgKS-HhC826fIC4gGPKKE-wmLx-bTxOIyFLp-brNwIBanHERSyblw-RId2-3zTTLvLVypP-fsQ1TuZf7BwQ2fJhm2jT4a_NvsPho3nyKpIct_ZsWeNGdcT&usqp=CAE",
-            "delivery": "Delivery est. by Jul 14"
-        },
-        {
-            "position": 56,
-            "title": "used Andrew B. Christenson, Mormon educational pioneer, Pre-Owned (Hardcover ...",
-            "link": "https://www.google.com/url?url=https://www.walmart.com/ip/Andrew-B-Christenson-Mormon-educational-pioneer-Pre-Owned-Hardcover-B0006E4ZW4-Lucile-C-Tate/782183012%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D1719&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECK4N&usg=AOvVaw1rO7Y_QswJRGkWpL-EzXIg",
-            "source": "Walmart - Discover Books",
-            "price": "$20.36",
-            "extracted_price": 20.36,
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRmxpdQE-C5fZ95Z7TzYx4SZhozLJxgnUiDhXjzDARPdINgtmexDPL6Sx6xnni3xMea26v2YgBcYWziev0fMzauEwWqsjnWFQ&usqp=CAE",
-            "delivery": "Free delivery"
-        },
-        {
-            "position": 57,
-            "title": "The Tate Gallery 1967-8 Lousada, Anthony - Sainsbury, Robert - Forge, Andrew ...",
-            "link": "https://www.google.com/url?url=https://www.abebooks.com/servlet/BookDetailsPL%3Fbi%3D30299815050&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECLoN&usg=AOvVaw0R_JI9Yaa-Q_d8CK1bC3so",
-            "source": "AbeBooks.com",
-            "price": "$37.52",
-            "extracted_price": 37.52,
-            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRCyk0ZZDI6RmpEzJxP9RVvsSpxCfTM-_rdDzd4YbYrR0hhIPzzh6txcpDsYsDdmv3cIEs3zA9RNe7jHGkY7bWSyZ5tJy_L7ssSUAH0rSkl&usqp=CAE",
-            "delivery": "$19.30 delivery"
-        },
-        {
-            "position": 58,
-            "title": "Jurassic Sunrise by Andrew J Lee - Wrapped Canvas Photograph Print Millwood Pines ...",
-            "link": "https://www.google.com/url?url=https://www.wayfair.com/Millwood-Pines--Jurassic-Sunrise-by-Andrew-J-Lee-Wrapped-Canvas-Photograph-Print-X116257002-L1318-K~W005146991.html%3Frefid%3DFR49-W005146991_1046192697%26PiID%255B%255D%3D1046192697&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQguUECMkN&usg=AOvVaw3YBqAi5oGQtUN_fTkCVOuK",
-            "product_link": "https://www.google.com/shopping/product/8181847972599351360",
-            "product_id": "8181847972599351360",
-            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8181847972599351360",
-            "source": "Wayfair",
-            "price": "$56.99",
-            "extracted_price": 56.99,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT97jomacDG6b-kfMcAD42wASncnwM6ANfFscXDJGDYMWOE8er07lcJjcjyCBkpqDOhOr2cjTJdZtn3x-GMbarmxNZ15422&usqp=CAE",
-            "delivery": "Free delivery by Fri, Jul 8"
-        },
-        {
-            "position": 59,
-            "title": "Andrew Tate On A Jet Iphone 11 Soft Case | Redbubble Iphone 11 Soft",
-            "link": "https://www.google.com/url?url=https://www.redbubble.com/i/iphone-case/Andrew-Tate-On-A-Jet-by-ThePodcastStore/109055069.PM7U2%3Fcountry_code%3DUS%26utm_source%3Dgoogle%26utm_medium%3Dcpc%26utm_campaign%3Dg.pla%2B-%2BPUP-OG%2B-%2B%255Bg%255Dcos.usa%255D%2B%255Bl.eng%255D%2B%255BPT.iPhone%252011%2520Soft%255D%26utm_id%3Dnotset%26utm_term%3DContent_taxonomy%26utm_content%3Dnot%2520set&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECNkN&usg=AOvVaw1TfixqVe1GMpuD-zmVBGjw",
-            "source": "Redbubble",
-            "price": "$24.06",
-            "extracted_price": 24.06,
-            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSaTqfOMBctYK-8u1IcE5ZY2XfxqkcNhS6AE0b2_cCgRpBL2j7ij9AauakZhMytF7N3L1CzPWNgK58c1QSCIZeB-GZo0_PWik9ShUq8ehIkpsDecuSp8gX7uQ&usqp=CAE",
-            "delivery": "$4.09 delivery"
-        },
-        {
-            "position": 60,
-            "title": "Buddy Tate Canvas Print / Canvas Art by Andrew Putler",
-            "link": "https://www.google.com/url?url=https://fineartamerica.com/featured/buddy-tate-andrew-putler.html%3Fproduct%3Dcanvas-print%26googleShopping%3Dtrue%26completeProductSku%3Dartworkid%255B25670425%255D-productid%255Bcanvasprintstretched%255D-imagewidth%255B10%255D-imageheight%255B6.5%255D-paperid%255Bglossycanvas%255D-wrapwidth%255B1.5%255D-wrapcolor%255Bmirrored%255D&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQgOUECOUN&usg=AOvVaw2TstU1mekrCoZqk5WVrnNd",
-            "source": "FineArtAmerica.com",
-            "price": "$86.76",
-            "extracted_price": 86.76,
-            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQxL2uSDtQGdkVVmJ9Vb_FQRVpg7YyABFvIlS4iJDHqtbKn9QTJ_NP6UrmqTekDxov3bAYs1K-kmRMwb03UTnQn2tz9_tqUi57Wwpdn-z3tRb98st7a_Kv6&usqp=CAE",
-            "delivery": "Free delivery"
+            "reviews": 1,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT1OIqR_MQ4v8ROCw_GftJqnBa8Aj5-_X85vcgQQk7GRi_FM2NspqZqxDVVujTxaPCVCB-QdGtJqVr-ETePUGN2uFlZplpGDzWsAm_D2dxv7lPQTidIjayCPg&usqp=CAE",
+            "delivery": "Delivery by Thu, Jul 21"
         }
-    ],
-    "pagination": {
-        "current": 1,
-        "next": "https://www.google.com/search?q=andrew+tate&hl=en&gl=us&tbs=vw:g&tbm=shop&ei=OznEYuPMDbPDkPIPtv-riAg&start=60&sa=N&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQ8NMDCPwN",
-        "other_pages": {
-            "2": "https://www.google.com/search?q=andrew+tate&hl=en&gl=us&tbs=vw:g&tbm=shop&ei=OznEYuPMDbPDkPIPtv-riAg&start=60&sa=N&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQ8tMDCPIN",
-            "3": "https://www.google.com/search?q=andrew+tate&hl=en&gl=us&tbs=vw:g&tbm=shop&ei=OznEYuPMDbPDkPIPtv-riAg&start=120&sa=N&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQ8tMDCPQN",
-            "4": "https://www.google.com/search?q=andrew+tate&hl=en&gl=us&tbs=vw:g&tbm=shop&ei=OznEYuPMDbPDkPIPtv-riAg&start=180&sa=N&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQ8tMDCPYN",
-            "5": "https://www.google.com/search?q=andrew+tate&hl=en&gl=us&tbs=vw:g&tbm=shop&ei=OznEYuPMDbPDkPIPtv-riAg&start=240&sa=N&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQ8tMDCPgN",
-            "6": "https://www.google.com/search?q=andrew+tate&hl=en&gl=us&tbs=vw:g&tbm=shop&ei=OznEYuPMDbPDkPIPtv-riAg&start=300&sa=N&ved=0ahUKEwij1p-S6uH4AhWzIUQIHbb_CoEQ8tMDCPoN"
-        }
-    },
-    "serpapi_pagination": {
-        "current": 1,
-        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=andrew+tate&start=60&tbm=shop&tbs=vw%3Ag",
-        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=andrew+tate&start=60&tbm=shop&tbs=vw%3Ag",
-        "other_pages": {
-            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=andrew+tate&start=60&tbm=shop&tbs=vw%3Ag",
-            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=andrew+tate&start=120&tbm=shop&tbs=vw%3Ag",
-            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=andrew+tate&start=180&tbm=shop&tbs=vw%3Ag",
-            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=andrew+tate&start=240&tbm=shop&tbs=vw%3Ag",
-            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=andrew+tate&start=300&tbm=shop&tbs=vw%3Ag"
-        }
-    }
+    ]
 }
