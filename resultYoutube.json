@@ -1,0 +1,596 @@
+{
+    "search_metadata": {
+        "id": "62c43937ea1442ef7fd9ba02",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/4f63c3bef6949166/62c43937ea1442ef7fd9ba02.json",
+        "created_at": "2022-07-05 13:14:31 UTC",
+        "processed_at": "2022-07-05 13:14:31 UTC",
+        "youtube_url": "https://www.youtube.com/results?search_query=Andrew+Tate+-+Wikipedia",
+        "raw_html_file": "https://serpapi.com/searches/4f63c3bef6949166/62c43937ea1442ef7fd9ba02.html",
+        "total_time_taken": 2.4
+    },
+    "search_parameters": {
+        "engine": "youtube",
+        "search_query": "Andrew Tate - Wikipedia"
+    },
+    "search_information": {
+        "total_results": 2370,
+        "video_results_state": "Results for exact spelling"
+    },
+    "video_results": [
+        {
+            "position_on_page": 1,
+            "title": "Andrew Tate | Before They Were Famous | Controversial Life Of Former Kickboxer",
+            "link": "https://www.youtube.com/watch?v=tGSQHpHMt3g",
+            "channel": {
+                "name": "BeforeTheyWereFamous",
+                "link": "https://www.youtube.com/c/MichaelMcCrudden",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/EbP0_4n4klwxfk65VOxMH8gFR-JSy6UEbMNdP-o6ZwDBxrUTWvuhpHIJBBGP0_2ljl24fS5h8w=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 2 meses",
+            "views": 191195,
+            "length": "12:40",
+            "description": "If you've spent any time on the internet over the past few months then odds are you might have come across a series of videos of a\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/tGSQHpHMt3g/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmWpjx7k4YXikfbdh7ZJ_beQBnbw",
+                "rich": "https://i.ytimg.com/an_webp/tGSQHpHMt3g/mqdefault_6s.webp?du=3000&sqp=CPjXkJYG&rs=AOn4CLCWsQvLBNws7quxGZneM3eu4ce5lw"
+            }
+        },
+        {
+            "position_on_page": 2,
+            "title": "Who Is Andrew Tate - Short Life Story",
+            "link": "https://www.youtube.com/watch?v=r-j3YKnVosY",
+            "channel": {
+                "name": "iClips TV",
+                "link": "https://www.youtube.com/channel/UCouaUrXO_5gt9kfqNE7rp5A",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLSDcxcqxF64n0j84XCrmJ7qNZ08G2fFC7-H6Zf3eGrl_QeCyi92xtbVcN790sXv=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 1 a\u00f1o",
+            "views": 14264,
+            "length": "3:37",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/r-j3YKnVosY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1oi2tsjo8t9-V-9uEMcFUc0uYGg",
+                "rich": "https://i.ytimg.com/an_webp/r-j3YKnVosY/mqdefault_6s.webp?du=3000&sqp=CJTukJYG&rs=AOn4CLAUzPDa9mcdRv2bv4U5FcbdblXO8w"
+            }
+        },
+        {
+            "position_on_page": 3,
+            "title": "Andrew Tate Highlights MMA. KICKBOXING. K1.",
+            "link": "https://www.youtube.com/watch?v=fmwSgStZpXM",
+            "channel": {
+                "name": "TateSpeech",
+                "link": "https://www.youtube.com/c/TateSpeech",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/iwgtA3zp7IYJKikXGlknSeBwHKu2I26gJvpLShb7zewglcwT-NYcbckWp9a2nkiFjGWsTGPT=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 1 a\u00f1o",
+            "views": 1138070,
+            "length": "7:16",
+            "description": "As a kickboxer, Tate is a 3-time ISKA world champion and Enfusion champion. Known for his unusual and aggressive style, Tate\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/fmwSgStZpXM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-lwrqdsJLbVqAgIsNG0popkbQSQ",
+                "rich": "https://i.ytimg.com/an_webp/fmwSgStZpXM/mqdefault_6s.webp?du=3000&sqp=CJy-kJYG&rs=AOn4CLD_ZFDsZW3g337M-ndQqHvDjisCrg"
+            }
+        },
+        {
+            "position_on_page": 4,
+            "title": "Your Mom's House Podcast w/ Andrew Tate - Ep.636",
+            "link": "https://www.youtube.com/watch?v=vsp69jYlYsg",
+            "channel": {
+                "name": "YMH Studios",
+                "link": "https://www.youtube.com/c/YourMomsHousePodcast",
+                "thumbnail": "https://yt3.ggpht.com/iVRgOts90vebzhsqmnux4E3MlRK_FsAt8Qt2hxmHIKgsZxBeEXcYdcpUUJkWmi7nNzbR2ts=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 6 meses",
+            "views": 2053468,
+            "length": "2:42:29",
+            "description": "Pull those jeans up... because it's the first episode of YMH out of the new set and everyone's looking handsome! We remind you to\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/vsp69jYlYsg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9TliC2jzFYoC8c2aFhY9zTzHxnQ",
+                "rich": "https://i.ytimg.com/an_webp/vsp69jYlYsg/mqdefault_6s.webp?du=3000&sqp=CKCvkJYG&rs=AOn4CLAmkEt3W_7bYHD2-BEZ_pxpQ3H99A"
+            }
+        },
+        {
+            "position_on_page": 5,
+            "title": "TateSpeech BEST MOMENTS",
+            "link": "https://www.youtube.com/watch?v=P9zWFJuRvq8",
+            "channel": {
+                "name": "Daily Dose of Tate",
+                "link": "https://www.youtube.com/channel/UCXOwr0Ey8JSojBJf0-YZacg",
+                "thumbnail": "https://yt3.ggpht.com/-9meDzbKcvSU8KSyP-R-J5aUBY53Q_LcGwPse8JitR7XD3ytqsSKDFcqULmg2Ae4MmwhukHy_A=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 3 meses",
+            "views": 348486,
+            "length": "7:01",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/P9zWFJuRvq8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBp5Rx6kgt-pj1qTopsXxha5IqiMA",
+                "rich": "https://i.ytimg.com/an_webp/P9zWFJuRvq8/mqdefault_6s.webp?du=3000&sqp=CP7ZkJYG&rs=AOn4CLCSarQTF7DL1tCnedhdsaRt36d6WA"
+            }
+        },
+        {
+            "position_on_page": 6,
+            "title": "Andrew Tate Teaching How to Actually Make Money \ud83d\udcb5 Amazing Knowledge \ud83d\udc8e\ud83d\udcaf",
+            "link": "https://www.youtube.com/watch?v=wG4257mLvNM",
+            "channel": {
+                "name": "TateSpeech Daily",
+                "link": "https://www.youtube.com/channel/UCxjXNurEqacUYAnSwdgS2Yw",
+                "thumbnail": "https://yt3.ggpht.com/GdsYqq6POXQhlsHA8BLant1XP43XgeTJewQXxOKUIZidBhsdGZVF1TQuDcW1hJ5XU4z2ASNxYw=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 3 meses",
+            "views": 465993,
+            "length": "6:36",
+            "description": "Start Making Money   with Hustlers Universty 2.0 today, before the price gets higher! https://bit.ly/Learn_From_TATE.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/wG4257mLvNM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBLt8_ssmcbOZ-zZBnIEej24L9Azw",
+                "rich": "https://i.ytimg.com/an_webp/wG4257mLvNM/mqdefault_6s.webp?du=3000&sqp=CMnhkJYG&rs=AOn4CLC9-7yDU9ehZz3oM4M7sVdmLWurlg"
+            }
+        },
+        {
+            "position_on_page": 7,
+            "title": "Andrew Tate - My life as a PIMP",
+            "link": "https://www.youtube.com/watch?v=fhUi1htVeJc",
+            "channel": {
+                "name": "Anything Goes With James English",
+                "link": "https://www.youtube.com/c/JamesEnglish",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLTB82LbM2tFx3IpXPQJrYAfJK4y0UMFJyQ4NAxT7w=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 1 a\u00f1o",
+            "views": 585705,
+            "length": "1:58:27",
+            "description": "Anything Goes with James English Ep/191 Master Pimp Andrew Tate tells his story. This episode Is sponsored by the Soul Hub.",
+            "extensions": [
+                "4K"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/fhUi1htVeJc/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCeUgHKCeWcPzk7fCFYbeUjneuLzw",
+                "rich": "https://i.ytimg.com/an_webp/fhUi1htVeJc/mqdefault_6s.webp?du=3000&sqp=CLDikJYG&rs=AOn4CLDUkX5jkzNo6UJF1OYtS-NDDilkbQ"
+            }
+        },
+        {
+            "position_on_page": 8,
+            "title": "How I Got Rich",
+            "link": "https://www.youtube.com/watch?v=76R5BVOXNBk",
+            "channel": {
+                "name": "TateSpeech",
+                "link": "https://www.youtube.com/c/TateSpeech",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/iwgtA3zp7IYJKikXGlknSeBwHKu2I26gJvpLShb7zewglcwT-NYcbckWp9a2nkiFjGWsTGPT=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 1 a\u00f1o",
+            "views": 308414,
+            "length": "3:36",
+            "description": "LIKE AND SUBSCRIBE Comment below what you would like to see next.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/76R5BVOXNBk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDst0HlJJtQXgT4QG-1k3PK-DUK5A",
+                "rich": "https://i.ytimg.com/an_webp/76R5BVOXNBk/mqdefault_6s.webp?du=3000&sqp=COS-kJYG&rs=AOn4CLA1vJEOfxw04u76a1jiBUkdzzMcGA"
+            }
+        },
+        {
+            "position_on_page": 9,
+            "title": "A Psychologist Reacts to Andrew Tate \ud83d\udd25",
+            "link": "https://www.youtube.com/watch?v=KtSO5Rw4l_Q",
+            "channel": {
+                "name": "TateSpeech",
+                "link": "https://www.youtube.com/c/TateSpeech",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/iwgtA3zp7IYJKikXGlknSeBwHKu2I26gJvpLShb7zewglcwT-NYcbckWp9a2nkiFjGWsTGPT=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 1 a\u00f1o",
+            "views": 1524802,
+            "length": "1:25:37",
+            "description": "David Sutcliffe interviews Emory Andrew Tate III, an American\u2013British cruiserweight kickboxer, mixed martial artist, businessman,\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/KtSO5Rw4l_Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCN97IZ_PpjG81z4F97vvazBuyuSQ",
+                "rich": "https://i.ytimg.com/an_webp/KtSO5Rw4l_Q/mqdefault_6s.webp?du=3000&sqp=CIy2kJYG&rs=AOn4CLD2Q8goU00o-_Ds3tnQN796xlMOaw"
+            }
+        },
+        {
+            "position_on_page": 10,
+            "title": "ANDREW TATE AND CHIAN DO NOT GET ALONG | Grilling S2 Ep 7",
+            "link": "https://www.youtube.com/watch?v=m1S9oOgnGp0",
+            "channel": {
+                "name": "Stand Out TV",
+                "link": "https://www.youtube.com/c/StandOutTVContent",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLRykfaBlaRl2ulAB_SvM4RdnrkUArsuWnkE3kwq=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 8 d\u00edas",
+            "views": 5011956,
+            "length": "1:08:10",
+            "description": "We've delivered our most highly anticipated episode of all time with Andrew Tate sitting in the hot seat on this weeks episode of\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/m1S9oOgnGp0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCEW9IJj6ImxAcTMt0NIO76kxWmCQ",
+                "rich": "https://i.ytimg.com/an_webp/m1S9oOgnGp0/mqdefault_6s.webp?du=3000&sqp=CI3VkJYG&rs=AOn4CLAVoThUZdNHXnfAtwQwXt9HjVzC7Q"
+            }
+        },
+        {
+            "position_on_page": 11,
+            "title": "3 Lecciones Que He Aprendido De Andrew Tate",
+            "link": "https://www.youtube.com/watch?v=u28TrD1whGI",
+            "channel": {
+                "name": "Bru Capell\u00e0",
+                "link": "https://www.youtube.com/c/BruCapell%C3%A0",
+                "thumbnail": "https://yt3.ggpht.com/8g_3exFw8Msjl8GZNgllBZvv-4DcJoScdNuVM1k4azQ7SFCUuGXsF4ai-_ZGkR7zlnlB16Fs=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 1 mes",
+            "views": 25638,
+            "length": "9:43",
+            "description": "En este video hablo sobre las 3 lecciones m\u00e1s potentes que he aprendido de Andrew Tate. Mentor\u00eda Exclusiva Excelencia\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/u28TrD1whGI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDR1VFbyJur9VVK9bvfioc62FkBcw",
+                "rich": "https://i.ytimg.com/an_webp/u28TrD1whGI/mqdefault_6s.webp?du=3000&sqp=CKTmkJYG&rs=AOn4CLA9IwhVghohKvLJPLnf78jQSrWLRQ"
+            }
+        },
+        {
+            "position_on_page": 12,
+            "title": "KO Masters #7: Miralem Ahmeti vs. Andrew Tate",
+            "link": "https://www.youtube.com/watch?v=XMfoLN25FEM",
+            "channel": {
+                "name": "RXF",
+                "link": "https://www.youtube.com/c/RXFoficial",
+                "thumbnail": "https://yt3.ggpht.com/RsoFwE11xvLkxtqZ9sHdFgm0H2gEufcUkG-hbhJY_-rWxSzCnfyyouSf_BNVF01o-XWV9kwCSQ=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 2 a\u00f1os",
+            "views": 492758,
+            "length": "3:15",
+            "description": "Find us on social media: Facebook: https://fb.com/RXFighting Web: http://www.rxflive.com/onair http://rxf.ro For business inquiries:\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/XMfoLN25FEM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdesjgVCrubviLZyjSGNIcUhC2vA",
+                "rich": "https://i.ytimg.com/an_webp/XMfoLN25FEM/mqdefault_6s.webp?du=3000&sqp=COPXkJYG&rs=AOn4CLBfBvXeoj7rWd0k96WcfhRHh3tmGA"
+            }
+        },
+        {
+            "position_on_page": 15,
+            "title": "Why I Decided to Live in Romania | Andrew Tate on Romania",
+            "link": "https://www.youtube.com/watch?v=n7cKfRaFN_8",
+            "channel": {
+                "name": "TATE CONFIDENTIAL",
+                "link": "https://www.youtube.com/c/TATEConfidential",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQfaCBJQuxm7EBLjBIAmHUy_SApxkd345Kvlqcr=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 10 meses",
+            "views": 248037,
+            "length": "2:54",
+            "description": "LIKE AND SUBSCRIBE #jamesenglish #millionaire #happiness.",
+            "extensions": [
+                "Subt\u00edtulos",
+                "Ingl\u00e9s"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/n7cKfRaFN_8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvpVQuzpQVZvlbMi2ncGI8Yyf_Tg",
+                "rich": "https://i.ytimg.com/an_webp/n7cKfRaFN_8/mqdefault_6s.webp?du=3000&sqp=CLPLkJYG&rs=AOn4CLCONkjLUK73UKuwObR7PTygI-cx3A"
+            }
+        },
+        {
+            "position_on_page": 16,
+            "title": "Andrew Tate [Espa\u00f1ol] | An\u00e1lisis/Historia",
+            "link": "https://www.youtube.com/watch?v=_FQULX7lDHk",
+            "channel": {
+                "name": "Fabi\u00e1n",
+                "link": "https://www.youtube.com/channel/UC_P6TNMAoNbJi8rOvtIJq5g",
+                "thumbnail": "https://yt3.ggpht.com/IpzcHYk6eAIBOqh9iNbjljx5WtFEnUHcWRBiIgs_7hok1jCd3jjm2BWZTxiwWOC3jjaOSk8C=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 1 mes",
+            "views": 19286,
+            "length": "20:33",
+            "description": "Andrew Tate, fue un 4 veces campe\u00f3n mundial de kickboxing Ahora multimillonario. En el video se ve las dos caras de Andrew,\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/_FQULX7lDHk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBiS3jxS60MkrrtkMwl6fgxqj--_g",
+                "rich": "https://i.ytimg.com/an_webp/_FQULX7lDHk/mqdefault_6s.webp?du=3000&sqp=CIHbkJYG&rs=AOn4CLBqkw8czSjedyJrVSfL8SfAAoGeSw"
+            }
+        },
+        {
+            "position_on_page": 17,
+            "title": "The Most Pathetic Alpha Male on YouTube",
+            "link": "https://www.youtube.com/watch?v=gZbZgonxxdI",
+            "channel": {
+                "name": "Philion",
+                "link": "https://www.youtube.com/c/Philion",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/PJhu7khSZlz50DiDSy4BGL7h1T67InGZJV2yVT7RDV_4dkY919qwqbJO_mibEYsPs4QijPkCElw=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 7 meses",
+            "views": 450324,
+            "length": "24:17",
+            "description": "Get 20% OFF + Free Shipping at Manscaped with code PHILION at \u2192 http://manscaped.com/philion #manscapedpartner\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/gZbZgonxxdI/hq720.jpg?sqp=-oaymwEiCOgCEMoBSFXyq4qpAxQIARUAAIhCGAFwAcABBu0BZmbmQQ==&rs=AOn4CLBekqQ5B4H6tIaP35LCPrBkC5UESQ"
+            }
+        },
+        {
+            "position_on_page": 18,
+            "title": "Christian Kickboxing Champion Praises Islam - Andrew Tate",
+            "link": "https://www.youtube.com/watch?v=3UJe6RVY0jg",
+            "channel": {
+                "name": "Muslim Convert Stories",
+                "link": "https://www.youtube.com/c/MuslimConvertStories",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLTd59SB6WxyGZMlVzSCTYp_99KWjxN3utntJ8WF=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 9 meses",
+            "views": 1422112,
+            "length": "4:15",
+            "description": "\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726\u2726 Submit Your Convert/Revert STORY:\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/3UJe6RVY0jg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9ON_pOef1BcIDrx38p8mNkGB6WQ",
+                "rich": "https://i.ytimg.com/an_webp/3UJe6RVY0jg/mqdefault_6s.webp?du=3000&sqp=CJjFkJYG&rs=AOn4CLDwOni_-L4bvpMmZ8q2L84PquzikQ"
+            }
+        },
+        {
+            "position_on_page": 19,
+            "title": "Andrew Tate: El Rey de la Masculinidad T\u00f3xica (historia en Espa\u00f1ol - Bru Capell\u00e0)",
+            "link": "https://www.youtube.com/watch?v=1r048f5v6Qw",
+            "channel": {
+                "name": "Bru Capell\u00e0",
+                "link": "https://www.youtube.com/c/BruCapell%C3%A0",
+                "thumbnail": "https://yt3.ggpht.com/8g_3exFw8Msjl8GZNgllBZvv-4DcJoScdNuVM1k4azQ7SFCUuGXsF4ai-_ZGkR7zlnlB16Fs=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 2 semanas",
+            "views": 22898,
+            "length": "8:30",
+            "description": "Canal principal de Andrew Tate: @TateSpeech ______ Song: 007 James Bond - Eleven Music No Copyright Music provided by\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/1r048f5v6Qw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDcqU7jkg2a9K3F8nwNDdhFMcA_dA",
+                "rich": "https://i.ytimg.com/an_webp/1r048f5v6Qw/mqdefault_6s.webp?du=3000&sqp=COTYkJYG&rs=AOn4CLB9w1V622ikfAnoN5_T5CheDt7sFw"
+            }
+        },
+        {
+            "position_on_page": 20,
+            "title": "Depression isn't real with Andrew Tate",
+            "link": "https://www.youtube.com/watch?v=LXNZeLea72k",
+            "channel": {
+                "name": "UNION Magazine",
+                "link": "https://www.youtube.com/channel/UC_rBSm7S9iK99dwpXPLdmDg",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQ_tYc0wUdoIHW06rfpQnFe5LtRQADeCoktu5Zu=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 4 a\u00f1os",
+            "views": 862,
+            "length": "43:15",
+            "description": "We had a chat with the 'Most hated man on the internet' and four times world kickboxing champion Andrew Tate to discuss why he\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/LXNZeLea72k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA_zhFiZ0HaHbuFLzB7sO6u3XtAAQ"
+            }
+        },
+        {
+            "position_on_page": 21,
+            "title": "How Andrew Tate talks:",
+            "link": "https://www.youtube.com/watch?v=bIm-U6MGo6U",
+            "channel": {
+                "name": "ApnaJ",
+                "link": "https://www.youtube.com/channel/UCUyrh2YiYgrZKbU3JILXKyA",
+                "thumbnail": "https://yt3.ggpht.com/TuTHoQBd_JQKtEp3F6B2Rqe6TSswmnW_Vb96w6_t6Q6xeyYGUF7RaQzQSe8Iocl7kQvxRcU-=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 1 mes",
+            "views": 499025,
+            "length": "2:36",
+            "description": "Follow me on my other socials for more: Instagram: ApnaJ ( https://www.instagram.com/apnaj/ ) Twitter: ApnaJ2\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/bIm-U6MGo6U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQf_wu5qjEyJiysReXzGdhPG5csg",
+                "rich": "https://i.ytimg.com/an_webp/bIm-U6MGo6U/mqdefault_6s.webp?du=3000&sqp=CKXmkJYG&rs=AOn4CLCw0i_zMEqyyavSvvkBY_15O9yKqw"
+            }
+        },
+        {
+            "position_on_page": 22,
+            "title": "Andrew Tate Spain Incident\ud83c\uddea\ud83c\uddf8",
+            "link": "https://www.youtube.com/watch?v=j-tQ0AGco5Q",
+            "channel": {
+                "name": "TATE KINGDOM",
+                "link": "https://www.youtube.com/channel/UCAGm_e3i8TEuE4N-5MtmzRw",
+                "thumbnail": "https://yt3.ggpht.com/UKg85iGwlryGwWbkLalQhW6U2i3A02qf89quAU9rCnaeTYsuZNSwLF7XgPszRX9qCA0nTzGp-w=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 10 d\u00edas",
+            "views": 413842,
+            "length": "0:22",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/j-tQ0AGco5Q/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLD7BKle5QhzXYxNqUQpcL9ncMITAQ",
+                "rich": "https://i.ytimg.com/an_webp/j-tQ0AGco5Q/mqdefault_6s.webp?du=3000&sqp=CPzGkJYG&rs=AOn4CLCw2J2SLc4HGQngNh2sFUV5o4-71Q"
+            }
+        }
+    ],
+    "las_personas_tambi\u00e9n_vieron": [
+        {
+            "position_on_page": 13,
+            "title": "The Rise of Andrew Tate: The Dark Truth Behind How He Made MILLIONS",
+            "link": "https://www.youtube.com/watch?v=G9HfFyFvE2M",
+            "channel": {
+                "name": "Nikolas Noman",
+                "link": "https://www.youtube.com/c/NikolasNoman",
+                "thumbnail": "https://yt3.ggpht.com/9m_C2lPJRGXSCSUuTjk30em4EvF9yriOPA38A2E3qo7PkxDJ95f6XQF-EYkKxVcqwlQyv1t3EA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 1 mes",
+            "views": 133330,
+            "length": "10:42",
+            "description": "How is Andrew Tate always on your TikTok For You Page? Every time I open the app, I see countless accounts of his clips.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/G9HfFyFvE2M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBqTGS6dGSK52E-flbVWBkWZwMQEQ",
+                "rich": "https://i.ytimg.com/an_webp/G9HfFyFvE2M/mqdefault_6s.webp?du=3000&sqp=COvTkJYG&rs=AOn4CLBB6oOeIJDgRor7kKWuu8xeTl0w-g"
+            }
+        },
+        {
+            "position_on_page": 14,
+            "title": "MILLIONAIRE TELLS YOU WHY YOU'LL NEVER BE RICH",
+            "link": "https://www.youtube.com/watch?v=KxiYgtxPoG0",
+            "channel": {
+                "name": "TateSpeech",
+                "link": "https://www.youtube.com/c/TateSpeech",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/iwgtA3zp7IYJKikXGlknSeBwHKu2I26gJvpLShb7zewglcwT-NYcbckWp9a2nkiFjGWsTGPT=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 1 a\u00f1o",
+            "views": 226410,
+            "length": "10:58",
+            "description": "LIKE AND SUBSCRIBE Comment below what you would like to see next.",
+            "extensions": [
+                "Subt\u00edtulos",
+                "Ingl\u00e9s"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/KxiYgtxPoG0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAD-b82XMsU57IO9G0TovmG16ReLA",
+                "rich": "https://i.ytimg.com/an_webp/KxiYgtxPoG0/mqdefault_6s.webp?du=3000&sqp=CMLLkJYG&rs=AOn4CLCyPOIwDSZFePwugqVdsH6N-RuZ9Q"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Andrew Tate Explains To Chip Why He Believes In God And Isn't An Atheist Anymore",
+            "link": "https://www.youtube.com/watch?v=W0etYz1W8uM",
+            "channel": {
+                "name": "TateTherapy",
+                "link": "https://www.youtube.com/channel/UCxPa80EyL1qu2OkDnDBo5Pg",
+                "thumbnail": "https://yt3.ggpht.com/Bjf41b0WFsGpldsBdxyGxaONVR-5XpL7UjRh6Git1K6qYM698BggrQqHEeNjO8jCW1Qh-Yj9WA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 3 semanas",
+            "views": 153414,
+            "length": "11:36",
+            "description": "Credit: The Fellas: YouTube: https://www.youtube.com/channel/UCUucWR3OvzlZ4d9qLikokgw/videos Spotify:\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/W0etYz1W8uM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLALicKPlk_aSCnhV07YypGnq8CjZw",
+                "rich": "https://i.ytimg.com/an_webp/W0etYz1W8uM/mqdefault_6s.webp?du=3000&sqp=CLfOkJYG&rs=AOn4CLCNaOgzMtb4jvhHMEqkiZPkfa2dJQ"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Andrew Tate brutally reality-checks western women",
+            "link": "https://www.youtube.com/watch?v=nlDY0D7CscM",
+            "channel": {
+                "name": "RANDOMISIERT",
+                "link": "https://www.youtube.com/user/CropticaL",
+                "thumbnail": "https://yt3.ggpht.com/35aFYxvM2fOlAg_ID9uxDNI3jYilrdC2h54eZVwJ7yDSbOIOTKGme1zkcmhfe8F4TCtrPAw_5yg=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 3 semanas",
+            "views": 630600,
+            "length": "3:23",
+            "description": "Andrew Tate brutally reality-checks western women Original video: https://www.youtube.com/watch?v=j_QkAz-b6jM #AndrewTate\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/nlDY0D7CscM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAbVrONybce__9odyd7Gfppsis15g",
+                "rich": "https://i.ytimg.com/an_webp/nlDY0D7CscM/mqdefault_6s.webp?du=3000&sqp=COvUkJYG&rs=AOn4CLBGStdhsgu61o7ts2SCSaGyn_1HSg"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Masculinity Money and Women with Andrew Tate",
+            "link": "https://www.youtube.com/watch?v=HZ6FhDfa9UY",
+            "channel": {
+                "name": "Layah Heilpern",
+                "link": "https://www.youtube.com/c/LayahHeilpern",
+                "thumbnail": "https://yt3.ggpht.com/YBxXvsYq3UxR7GvmjRlNauBwxPlCx4rxF4oV4EbvbUFWZR5DsKUfUIKAt6TqZueDKNt5bBeLPA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 5 meses",
+            "views": 1170296,
+            "length": "1:22:23",
+            "description": "Andrew Tate reveals the most effective way to \"win\" in ALL aspects of life. From women and marriage to business and money.",
+            "extensions": [
+                "Subt\u00edtulos",
+                "Ingl\u00e9s"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/HZ6FhDfa9UY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDBGuma8YIsHUq0kU5urzIbK-qSPA",
+                "rich": "https://i.ytimg.com/an_webp/HZ6FhDfa9UY/mqdefault_6s.webp?du=3000&sqp=CKS8kJYG&rs=AOn4CLD_PeyTU-lVVFXusqW339wiGP6VMA"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Andrew Tate advice for MEN Compilation \ud83d\udd25",
+            "link": "https://www.youtube.com/watch?v=dekBWAJDdx0",
+            "channel": {
+                "name": "Tate Universe",
+                "link": "https://www.youtube.com/channel/UCpgtPXV9MqdNjYjIiVLsJNw",
+                "thumbnail": "https://yt3.ggpht.com/l1JPrZTQDzneqcpSv9tQKFoc-Xw1mNE4ITsjMc40JjNF2jHGAZqLBfo3On44bT3suio-nV-h=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 2 meses",
+            "views": 216610,
+            "length": "15:09",
+            "description": "Don't forget to learn how to make Andrew Tate money too by joining here: https://hustlersuniversity.shop Watch Andrew Tate\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/dekBWAJDdx0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0u-DczDeNw4EuKIMu2F53r6Zztw",
+                "rich": "https://i.ytimg.com/an_webp/dekBWAJDdx0/mqdefault_6s.webp?du=3000&sqp=CKLOkJYG&rs=AOn4CLA1XOMiSg4mxJELwMYsCBXRCEf6oA"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "HOT GIRL STREET REACTION | Tate Confidential Ep. 4",
+            "link": "https://www.youtube.com/watch?v=W0TcU8mDX2A",
+            "channel": {
+                "name": "TATE CONFIDENTIAL",
+                "link": "https://www.youtube.com/c/TATEConfidential",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQfaCBJQuxm7EBLjBIAmHUy_SApxkd345Kvlqcr=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 2 a\u00f1os",
+            "views": 272130,
+            "length": "10:18",
+            "description": "LIKE AND SUBSCRIBE Comment below what you would like to see next.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/W0TcU8mDX2A/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBtaLuNpvK-QD6LE6a227Xaz8DlIQ",
+                "rich": "https://i.ytimg.com/an_webp/W0TcU8mDX2A/mqdefault_6s.webp?du=3000&sqp=CJDnkJYG&rs=AOn4CLABXQ38w9Hqo_V_99nelMldouAm2A"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Andrew Tate on Why You Should STOP Giving Girls Attention",
+            "link": "https://www.youtube.com/watch?v=OuvZfcpuc1A",
+            "channel": {
+                "name": "Tate Brothers Clips (EMERGENCY MEETING)",
+                "link": "https://www.youtube.com/channel/UCph6kSQ1yWkC1DMzqNQK0qQ",
+                "thumbnail": "https://yt3.ggpht.com/88TsGUxqIfl_4Au8eEpqswvgT1TSs734kDdcXcuuam0zTUslHE2e-OxkhO_nUEnVg8URnXvbtA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 1 mes",
+            "views": 356560,
+            "length": "11:25",
+            "description": "URGENT------- How can you stand by and watch all the people making money inside of Hustlers University and not get pissed off?",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/OuvZfcpuc1A/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDQqz8uwi8zBxpNpmUfhJaCyBS1HQ",
+                "rich": "https://i.ytimg.com/an_webp/OuvZfcpuc1A/mqdefault_6s.webp?du=3000&sqp=CODckJYG&rs=AOn4CLC0yn3SwSM_pCiy2v-8Q3cjWXWrvg"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "CAUGHT CHEATING BY 9 GIRLFRIENDS | Tate Confidential Ep. 125",
+            "link": "https://www.youtube.com/watch?v=EL8Zx7zi64w",
+            "channel": {
+                "name": "TATE CONFIDENTIAL",
+                "link": "https://www.youtube.com/c/TATEConfidential",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQfaCBJQuxm7EBLjBIAmHUy_SApxkd345Kvlqcr=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 6 meses",
+            "views": 483699,
+            "length": "15:38",
+            "description": "SUBSCRIBE FOR EXCLUSIVE CONTENT 24/7 Livechat where you can ASK any question you have: https://cobratate.com/\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/EL8Zx7zi64w/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCBuK2Ng0lzh8gcaglO45o4C9B2iA",
+                "rich": "https://i.ytimg.com/an_webp/EL8Zx7zi64w/mqdefault_6s.webp?du=3000&sqp=CODCkJYG&rs=AOn4CLDoL_NLP6BkXZWvcIyH6z691Rvo-g"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "She Really Tested Myron's Patience @TateSpeech",
+            "link": "https://www.youtube.com/watch?v=ML3FclyC-WE",
+            "channel": {
+                "name": "FreshandFit Clips",
+                "link": "https://www.youtube.com/c/FreshandFitClips",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLS_PSbiodeF9AVgb0vjxzQxguDzR0YOj5F2FKh1wA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "hace 6 meses",
+            "views": 673633,
+            "length": "21:07",
+            "description": "We Dont Pay For No Box Full Video  : https://www.youtube.com/watch?v=HbV5od8Obwo&ab_channel=FreshandFit Our goal is\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/ML3FclyC-WE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBeWWbsmnWvcPe8c1JCkQxFStZ_HA",
+                "rich": "https://i.ytimg.com/an_webp/ML3FclyC-WE/mqdefault_6s.webp?du=3000&sqp=COLQkJYG&rs=AOn4CLC36UGrZ-8qfOiPTWj5m71bdmqnjA"
+            }
+        }
+    ],
+    "pagination": {
+        "current": "https://www.youtube.com/results?search_query=Andrew+Tate+-+Wikipedia",
+        "next": "https://www.youtube.com/results?search_query=Andrew%20Tate%20-%20Wikipedia&sp=SBSCAQt0R1NRSHBITXQzZ4IBC3ItajNZS25Wb3NZggELZm13U2dTdFpwWE2CAQt2c3A2OWpZbFlzZ4IBC1A5eldGSnVSdnE4ggELd0c0MjU3bUx2Tk2CAQtmaFVpMWh0VmVKY4IBCzc2UjVCVk9YTkJrggELS3RTTzVSdzRsX1GCAQttMVM5b09nbkdwMIIBC3UyOFRyRDF3aEdJggELWE1mb0xOMjVGRU2CAQtuN2NLZlJhRk5fOIIBC19GUVVMWDdsREhrggELZ1piWmdvbnh4ZEmCAQszVUplNlJWWTBqZ4IBCzFyMDQ4ZjV2NlF3ggELTFhOWmVMZWE3MmuCAQtiSW0tVTZNR282VYIBC2otdFEwQUdjbzVRsgEGCgQIFRAC",
+        "next_page_token": "SBSCAQt0R1NRSHBITXQzZ4IBC3ItajNZS25Wb3NZggELZm13U2dTdFpwWE2CAQt2c3A2OWpZbFlzZ4IBC1A5eldGSnVSdnE4ggELd0c0MjU3bUx2Tk2CAQtmaFVpMWh0VmVKY4IBCzc2UjVCVk9YTkJrggELS3RTTzVSdzRsX1GCAQttMVM5b09nbkdwMIIBC3UyOFRyRDF3aEdJggELWE1mb0xOMjVGRU2CAQtuN2NLZlJhRk5fOIIBC19GUVVMWDdsREhrggELZ1piWmdvbnh4ZEmCAQszVUplNlJWWTBqZ4IBCzFyMDQ4ZjV2NlF3ggELTFhOWmVMZWE3MmuCAQtiSW0tVTZNR282VYIBC2otdFEwQUdjbzVRsgEGCgQIFRAC"
+    },
+    "serpapi_pagination": {
+        "current": "https://serpapi.com/search.json?engine=youtube&search_query=Andrew+Tate+-+Wikipedia",
+        "next": "https://serpapi.com/search.json?engine=youtube&search_query=Andrew+Tate+-+Wikipedia&sp=SBSCAQt0R1NRSHBITXQzZ4IBC3ItajNZS25Wb3NZggELZm13U2dTdFpwWE2CAQt2c3A2OWpZbFlzZ4IBC1A5eldGSnVSdnE4ggELd0c0MjU3bUx2Tk2CAQtmaFVpMWh0VmVKY4IBCzc2UjVCVk9YTkJrggELS3RTTzVSdzRsX1GCAQttMVM5b09nbkdwMIIBC3UyOFRyRDF3aEdJggELWE1mb0xOMjVGRU2CAQtuN2NLZlJhRk5fOIIBC19GUVVMWDdsREhrggELZ1piWmdvbnh4ZEmCAQszVUplNlJWWTBqZ4IBCzFyMDQ4ZjV2NlF3ggELTFhOWmVMZWE3MmuCAQtiSW0tVTZNR282VYIBC2otdFEwQUdjbzVRsgEGCgQIFRAC",
+        "next_page_token": "SBSCAQt0R1NRSHBITXQzZ4IBC3ItajNZS25Wb3NZggELZm13U2dTdFpwWE2CAQt2c3A2OWpZbFlzZ4IBC1A5eldGSnVSdnE4ggELd0c0MjU3bUx2Tk2CAQtmaFVpMWh0VmVKY4IBCzc2UjVCVk9YTkJrggELS3RTTzVSdzRsX1GCAQttMVM5b09nbkdwMIIBC3UyOFRyRDF3aEdJggELWE1mb0xOMjVGRU2CAQtuN2NLZlJhRk5fOIIBC19GUVVMWDdsREhrggELZ1piWmdvbnh4ZEmCAQszVUplNlJWWTBqZ4IBCzFyMDQ4ZjV2NlF3ggELTFhOWmVMZWE3MmuCAQtiSW0tVTZNR282VYIBC2otdFEwQUdjbzVRsgEGCgQIFRAC"
+    }
+}

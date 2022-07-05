@@ -1,0 +1,44 @@
+.search {
+    height: 100vh;
+    width: 100vw;
+    background-color: #39375b;
+}
+
+.url-search {
+    position: absolute;
+    top: 25px;
+    z-index: 1;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.url-input {
+    height: 30px;
+    width: 50%;
+    border: 1px solid #5d737e;
+    border-radius: 15px;
+    padding: 0 15px;
+}
+
+.searched-img-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 0;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.searched-img {
+    width: 350px;
+    height: auto;
+    margin-left: 100px;
+}
+
+.right-arrow {
+    margin-left: 100px;
+}

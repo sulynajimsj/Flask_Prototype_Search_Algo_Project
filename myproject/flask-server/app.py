@@ -1,8 +1,9 @@
 from flask import Flask, request, render_template
+from flask_cors import CORS, cross_origin
 from serpapi import GoogleSearch
 import json
 import webbrowser
-api_key = "ede0f7899391ff6bcbab87e5169fb8dc794b21c59eac5aa9e0112b045a393d2d"
+api_key = "682344854cbadadac08f5981a33e52990f024d4d285e69656d7645e604228cbf"
 
 
 def searchAPI(image_url):
@@ -26,7 +27,7 @@ def searchAPI(image_url):
     
     theResults = results["image_results"]
     resultLink = results["search_metadata"]["google_reverse_image_url"]
-    webbrowser.open(resultLink)  # Go to link
+    # webbrowser.open(resultLink)  # Go to link
     
     
     
@@ -53,7 +54,7 @@ def searchAPI(image_url):
     print("The results")
 
     theLink = results2["video_results"][1]['link']
-    webbrowser.open(theLink)  # Go to link
+    # webbrowser.open(theLink)  # Go to link
 
     productName = results['search_information']['query_displayed']
 
@@ -78,14 +79,21 @@ def searchAPI(image_url):
 
 
 
-app = Flask(__name__)
 
-@app.route("/")
-def hello_world():
-    return render_template('index.html')
+app = Flask(__name__)
+cors = CORS(app)
 
 @app.route('/', methods=['POST'])
+@cross_origin()
 def my_form_post():
-    text = request.form['text']
+    # text = request.form['text']
+    text = request.json['text']
+    
     searchAPI(text)
-    return render_template('index.html')
+    if request.method == 'POST':
+        # return {'text': res}
+        with open('./resultYoutube.json', 'r') as file:
+            return json.load(file)
+
+if __name__ == "__main__":
+	app.run(debug = True)
