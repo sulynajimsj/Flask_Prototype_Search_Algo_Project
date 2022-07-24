@@ -126,11 +126,16 @@ def searchAPI(image_url):
         thetitles.append(title)
 
     
-    # The title[-3] is because second last usually at this point is the most relevant results
+    # The title[3] is because second last usually at this point is the most relevant results
+    
+    if (len(thetitles)>=3):
+        query = thetitles[3]
+    else:
+        query = thetitles[1]
     params2 = {
     "api_key": api_key,
     "engine": "youtube",
-    "search_query": thetitles[-3]
+    "search_query": query
     }
 
     search2 = GoogleSearch(params2)

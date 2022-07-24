@@ -1,568 +1,548 @@
 {
     "search_metadata": {
-        "id": "62ddbe650574f5dedd233f5c",
+        "id": "62ddc53ae4a23d503c6c9798",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/8aeac54919a458e0/62ddbe650574f5dedd233f5c.json",
-        "created_at": "2022-07-24 21:49:25 UTC",
-        "processed_at": "2022-07-24 21:49:25 UTC",
-        "youtube_url": "https://www.youtube.com/results?search_query=original+sound+-+%E2%9D%A4%EF%B8%8FFootball+created+by+%D9%85%D9%80%D9%80%D9%80%D9%80%D8%A7%D9%88%D9%86%D9%80%D9%80%D9%80%D9%80%D8%AA+%EF%B8%8E+-+TikTok",
-        "raw_html_file": "https://serpapi.com/searches/8aeac54919a458e0/62ddbe650574f5dedd233f5c.html",
-        "total_time_taken": 2.36
+        "json_endpoint": "https://serpapi.com/searches/81aaaf5984b3969a/62ddc53ae4a23d503c6c9798.json",
+        "created_at": "2022-07-24 22:18:34 UTC",
+        "processed_at": "2022-07-24 22:18:34 UTC",
+        "youtube_url": "https://www.youtube.com/results?search_query=Discover+maloqueiro+cabelo+enrolado+%27s+popular+videos+-+TikTok",
+        "raw_html_file": "https://serpapi.com/searches/81aaaf5984b3969a/62ddc53ae4a23d503c6c9798.html",
+        "total_time_taken": 0.96
     },
     "search_parameters": {
         "engine": "youtube",
-        "search_query": "original sound - \u2764\ufe0fFootball created by \u0645\u0640\u0640\u0640\u0640\u0627\u0648\u0646\u0640\u0640\u0640\u0640\u062a \ufe0e - TikTok"
+        "search_query": "Discover maloqueiro cabelo enrolado 's popular videos - TikTok"
     },
     "search_information": {
-        "total_results": 13786,
+        "total_results": 3965,
         "video_results_state": "Results for exact spelling"
     },
-    "ads_results": [
-        {
-            "position_on_page": 1,
-            "title": "BYU Football Vs Notre Dame in Las Vegas Baby",
-            "link": "https://www.youtube.com/watch?v=7I-ArtvzuHk",
-            "channel": {
-                "name": "The Monty Show",
-                "link": "https://www.youtube.com/user/MontyOnVideo"
-            },
-            "views": 3400,
-            "description": "Win A Trip For 2 To Las Vegas Including 2 Tickets To The Game",
-            "length": "10:26",
-            "thumbnail": {
-                "static": "https://i1.ytimg.com/vi/7I-ArtvzuHk/0.jpg",
-                "rich": "https://i.ytimg.com/an_webp/7I-ArtvzuHk/mqdefault_6s.webp?du=3000&sqp=CMP09pYG&rs=AOn4CLAnnVs5nWJuB3oRgwLrMaA5x3WSqQ"
-            }
-        }
-    ],
     "video_results": [
         {
-            "position_on_page": 2,
-            "title": "Best Football/NFL Edits TikTok \ud83c\udfc8",
-            "link": "https://www.youtube.com/watch?v=0sD3hyuYD50",
+            "position_on_page": 1,
+            "title": "MALUQUINHA CABELO ENROLADO, RELA\u00c7\u00c3O ABERTA QUE DEU CERTO x BEAT VEM, VEM [ PIQUEZIN DO TIK TOK ]",
+            "link": "https://www.youtube.com/watch?v=4FRR2BE_u98",
             "channel": {
-                "name": "h1dden dreams",
-                "link": "https://www.youtube.com/channel/UCmLka4LwM1A-JdvHCFQLBlA",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLTA9uAPNjRXTj-C1-RNaRgLk9FtLZpkHztt2Xdb3Q=s68-c-k-c0x00ffffff-no-rj"
+                "name": "DS MOVIC YTB \u03df",
+                "link": "https://www.youtube.com/channel/UCMOy9HdWi7dvkBB2QoC10Xg",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQX_0ciChp8xL9s7Ls2rk5tK8ZiY_L46daOH7GkyWI=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "10 months ago",
+            "views": 1241452,
+            "length": "2:03",
+            "description": "Quer sua m\u00fasica no canal Ds Movic YTB ? Entre em contato comigo pelo Instagram : @CaioDs2k Fa\u00e7a j\u00e1 seu or\u00e7amento!",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/4FRR2BE_u98/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6QiPOhrlj6E7PCyi6m7U96qN5Ng"
+            }
+        },
+        {
+            "position_on_page": 2,
+            "title": "CRAZY CURLS \ud83d\ude31 Fazendo dedoliss em cabelo afro \ud83d\udc88\u2702\ufe0f",
+            "link": "https://www.youtube.com/watch?v=OA2PawxC7nI",
+            "channel": {
+                "name": "Agno black red",
+                "link": "https://www.youtube.com/c/Agnoblackred",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQjVKjR0EIEiGux9jyy1iJQ5vdlnFFk0GkdB7X06Tw=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "1 year ago",
-            "views": 120584,
-            "length": "6:37",
+            "views": 2585632,
+            "length": "7:20",
+            "description": "LINK PARA NOSSO GRUPO VIP https://linktr.ee/agnoblackred.",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/0sD3hyuYD50/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvw7IV5Oi4oBBA1WeyQ9Ojh04JqQ",
-                "rich": "https://i.ytimg.com/an_webp/0sD3hyuYD50/mqdefault_6s.webp?du=3000&sqp=CNCz9pYG&rs=AOn4CLBWdvnCA1SjK230MESWVNy3J7Y1wQ"
+                "static": "https://i.ytimg.com/vi/OA2PawxC7nI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCkfVcXwbUAk5nJV8zCXQjyQJ6Bug"
+            }
+        },
+        {
+            "position_on_page": 3,
+            "title": "Dsloboda_ | Dennis Sloboda | Dennis Sloboda Tiktok | Dennis Sloboda Sal\u00e3o | Dennis Sloboda Idade",
+            "link": "https://www.youtube.com/watch?v=nxqMoF8U4EM",
+            "channel": {
+                "name": " Brazil Idol",
+                "link": "https://www.youtube.com/channel/UCmZohxj1TpAYW-q28DVTSKQ",
+                "thumbnail": "https://yt3.ggpht.com/naeIxdIM6rZ5xUbvG6Y8Y8fDzqYS_muNow6RTSA4TxGNYCWmKm6z6WvFQr3bJPWIQ7M-yUfyHA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "6 months ago",
+            "views": 945,
+            "length": "11:32",
+            "description": "DSLOBODA_ , DENNIS SLOBODA , DENNIS SLOBODA TIKTOK , DENNIS SLOBODA SAL\u00c3O , DENNIS SLOBODA IDADE\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/nxqMoF8U4EM/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbmmBRFaV0deaG3pKDUm0zoin-jQ"
             }
         },
         {
             "position_on_page": 4,
-            "title": "Players That Own Songs",
-            "link": "https://www.youtube.com/watch?v=UtCmyxetgsM",
+            "title": "MALUQUINHA CABELO ENROLADO SORRISO APAIXONANTE, RELA\u00c7\u00c3O ABERTA QUE DEU CERTO[ TIK TOK ] BEAT VEM VEM",
+            "link": "https://www.youtube.com/watch?v=yGXw-YazThk",
             "channel": {
-                "name": "FootballNation",
-                "link": "https://www.youtube.com/channel/UCjwlodArwCSio3JCWUOK9Mg",
-                "thumbnail": "https://yt3.ggpht.com/MVLNI5kcGfPHd8AgUY0Z0CfXe3x4s5s-jLS1H3tEdnKqqCalebSucV4p4fvWn9A2kxJDvRIfdjg=s68-c-k-c0x00ffffff-no-rj"
+                "name": "R10 O Pinta",
+                "link": "https://www.youtube.com/c/R10OPINTA",
+                "thumbnail": "https://yt3.ggpht.com/TtMh7clxobfKElgLJM8N0zlC4znjXHoXHz8Btizdiz0ev4cXonsUe7nv2y6uQrfOmxOYsN4m=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "4 months ago",
-            "views": 4604664,
-            "length": "0:27",
-            "description": "football #soccer #goals #mount #neymar #ronaldo #chiesa #italy #chelsea #psg #juventus #manchesterunited.",
+            "published_date": "9 months ago",
+            "views": 1409791,
+            "length": "2:15",
+            "description": "Letra; Maluquinha, cabelo enrolado Sorriso apaixonante, quase que eu cai no la\u00e7o No primeiro encontro era s\u00f3 inocencia,\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/UtCmyxetgsM/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDHJi18c4Qx62HFpYfwwt0TKbTrpA",
-                "rich": "https://i.ytimg.com/an_webp/UtCmyxetgsM/mqdefault_6s.webp?du=3000&sqp=COXH9pYG&rs=AOn4CLApNxHaSqHuZVSAxNcsiDZO_NVUsw"
+                "static": "https://i.ytimg.com/vi/yGXw-YazThk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDtAFRkxyUOe7iSSZtwC3300Mp34g"
             }
         },
         {
             "position_on_page": 5,
-            "title": "Football Tik Tok Video\ud83d\udd25 | Football Reels | Soccer Tik Tok | Ronaldo and Messi Tik Tok Video",
-            "link": "https://www.youtube.com/watch?v=Rnkqlt42KBQ",
+            "title": "CACHEADO MAIS LINDO DO YOUTUBE | Cabelos cacheados,cacheados,cacheado,cachos,cacho,cacheada, #shorts",
+            "link": "https://www.youtube.com/watch?v=NehGRE8RwW8",
             "channel": {
-                "name": "Hindi Comparisons",
-                "link": "https://www.youtube.com/channel/UCsapGFGvomE7eSumbjURp7A",
-                "thumbnail": "https://yt3.ggpht.com/IctrRChXrJm2B5_W0H1FCRaU0zXznwv92kO8Ses77C7nLliyOSaC_ZDm66odyKOp4E4LQmMbHQ=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Vibe Delas",
+                "link": "https://www.youtube.com/channel/UC-YS78aWuIe-qhMsrhkUHrw",
+                "thumbnail": "https://yt3.ggpht.com/C_Yn-TTvk-mNYf6iUK2QXWAA9VtURM_cZPIZJiPMnarg_JnXQYcdfAbWBchh4TPce0hYAEk7Cq0=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "3 hours ago",
-            "views": 10972,
-            "length": "10:05",
-            "description": "Football reels compilation | Tiktok football reels | 2022 Football reels compilation | Tiktok football reels Football reels compilation\u00a0...",
-            "extensions": [
-                "New"
-            ],
+            "published_date": "11 months ago",
+            "views": 103606,
+            "length": "0:13",
+            "description": "TAGS: cacheado mais lindo do youtube,cabelos cacheados,cacheados,cacheado,cachos,cacho,cacheada,cabelo cacheado\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/Rnkqlt42KBQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ9itOqQsnbwbzj2CD2UHzi00xyw",
-                "rich": "https://i.ytimg.com/an_webp/Rnkqlt42KBQ/mqdefault_6s.webp?du=3000&sqp=CPj09pYG&rs=AOn4CLAclZK9JQ4XxnhAduTaZgC65k0kiw"
+                "static": "https://i.ytimg.com/vi/NehGRE8RwW8/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCsTyvMBSbEQWGUgCf37TFSPCdnKg"
             }
         },
         {
             "position_on_page": 6,
-            "title": "TikTok Football - Instagram reels Compilation - Best Football reels - Tik Tok Soccer \ud83d\udd25\ud83d\udd25 - #13",
-            "link": "https://www.youtube.com/watch?v=Rz8jh7gh8E8",
+            "title": "Cabelos Cacheados TikTok (finaliza\u00e7\u00e3o,hidrata\u00e7\u00e3o, etc)",
+            "link": "https://www.youtube.com/watch?v=dVAJXurZr2I",
             "channel": {
-                "name": "JustFootBall HD",
-                "link": "https://www.youtube.com/c/JustFootBallHD",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQCQP0XtyompPmVqZ1bre_Qg3fXxk5FbT2U2xCYDg=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Aleat\u00f3ria \u2615\ufe0e",
+                "link": "https://www.youtube.com/c/Aleat%C3%B3ria%E3%82%B7",
+                "thumbnail": "https://yt3.ggpht.com/WzKmS-WQzQ_9Avg01pUfgWcOyC1trcfWjWBp1R-3ZPjg3F2GzxYQFrloK7GpiXprdDHDyo5Vow=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "11 months ago",
-            "views": 1489721,
-            "length": "7:46",
-            "description": "Thanks for Watching and Have a Good Day --- Instagram: https://instagram.com/justfootball.hds?r=nametag My Friend Musics\u00a0...",
+            "published_date": "5 months ago",
+            "views": 18642,
+            "length": "11:13",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/Rz8jh7gh8E8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCH9a_j8IXOflaY15m1OJyvw30W5Q",
-                "rich": "https://i.ytimg.com/an_webp/Rz8jh7gh8E8/mqdefault_6s.webp?du=3000&sqp=CMvl9pYG&rs=AOn4CLDdb_tGbR0mUfSOzOx9BLqbTQqnGQ"
+                "static": "https://i.ytimg.com/vi/dVAJXurZr2I/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCHPu3blnNTpoC7h8btuYxegNElCQ"
             }
         },
         {
             "position_on_page": 7,
-            "title": "|Reading VS Barcelona|#DSL22 #bestgameplay #bestgoals #hardgameplay",
-            "link": "https://www.youtube.com/watch?v=LDXDRx9jV10",
+            "title": "Cabelos cacheados masculinos  #youtube #hickfrost",
+            "link": "https://www.youtube.com/watch?v=cxH2vrkCHdk",
             "channel": {
-                "name": "FOOTBALL 360",
-                "link": "https://www.youtube.com/channel/UCWFp-L_vEywei2jwbIstePw",
-                "thumbnail": "https://yt3.ggpht.com/GbjKJ29b9hwpcveBtJgnRjaeaWIsNTOibxNrjywHti45js7X4dIaDuPRilEZ-nq8C4Mmr6Iw=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Hick Frost",
+                "link": "https://www.youtube.com/channel/UCBkBPIzUI-WJ7hVGGhgPZmQ",
+                "thumbnail": "https://yt3.ggpht.com/9o5Ejr66bWn9i0dNwlAbxXeYhB9JjddGPjke5vD6UvwmQ90oNlBUXg0UNGXBAoH3od2NLmMkkw=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "6 hours ago",
-            "views": 6,
-            "length": "6:56",
-            "description": "Football dsl22 compilation | Tiktok football dsl reels | 2022 Football dsl reels compilation | Tiktok dsl football reels Football reels\u00a0...",
-            "extensions": [
-                "New"
-            ],
+            "published_date": "1 year ago",
+            "views": 52,
+            "length": "0:12",
+            "description": "Me segue nas redes sociais vizinhas, l\u00e1 eu fa\u00e7o passo a passo de como fazer Instagram: Hickfrost Tiktok: Hickfrost Snapchat:\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/LDXDRx9jV10/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAikF_OnoC-IkS8L_2BdbN1Z_ao2w",
-                "rich": "https://i.ytimg.com/an_webp/LDXDRx9jV10/mqdefault_6s.webp?du=3000&sqp=CKzx9pYG&rs=AOn4CLCMMppkyYsrxTJHkyfj9PuF9c5OVw"
+                "static": "https://i.ytimg.com/vi/cxH2vrkCHdk/hq720_2.jpg?sqp=-oaymwEkCJQDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDKhy1A2WuWVCAF3cKVIrRxxeP-Ng"
             }
         },
         {
             "position_on_page": 8,
-            "title": "Mason Mount \u25ba Bad Boy - Marwa Loud \u25cf Skills & Goals | HD",
-            "link": "https://www.youtube.com/watch?v=jTg-fpSHLdU",
+            "title": "Trend Cabelo Cacheados",
+            "link": "https://www.youtube.com/watch?v=1zLu5UaOO_Y",
             "channel": {
-                "name": "SkillsFoot",
-                "link": "https://www.youtube.com/channel/UCPo_-_sfD9pj8Ihn-ffSiMg",
-                "thumbnail": "https://yt3.ggpht.com/_i60ZQL-6Xr0lPkb1ioIINW_-ZoL4UYz5vHmaq-tzCUTLWKbn9ZJ7avqvL4xi438b00GedSTwQ=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Rebeca Guedes",
+                "link": "https://www.youtube.com/channel/UCxsMUV5eBEQBgeG9qQaF4-g",
+                "thumbnail": "https://yt3.ggpht.com/OcLu9qBcq9otoICSJJf96hF4YwJj5msPUTvyvpHaEjE7dcT8ApTd-1xDhPqU_fCrOP-cCmPfKA=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 year ago",
-            "views": 3862094,
-            "length": "2:43",
-            "description": "Mason Mount \u25bb Bad Boy - Marwa Loud \u25cb Skills & Goals | HD I DO NOT OWN THE RIGHTS TO THE CLIPS OR MUSIC.",
+            "published_date": "11 months ago",
+            "views": 19,
+            "length": "0:13",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/jTg-fpSHLdU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBSzpLQYQvaaPy5WSTPIwlUPckOBg",
-                "rich": "https://i.ytimg.com/an_webp/jTg-fpSHLdU/mqdefault_6s.webp?du=3000&sqp=CLbs9pYG&rs=AOn4CLA2P431ydyqZA4WrMLHmvYdNTevWw"
+                "static": "https://i.ytimg.com/vi/1zLu5UaOO_Y/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBFrfZKJQugxl0_i8y1KMSmDqWD2A"
             }
         },
         {
             "position_on_page": 9,
-            "title": "Football reels compilation | soccer reels compilation 2022 #28",
-            "link": "https://www.youtube.com/watch?v=MzUkK7wObFw",
+            "title": "Tiktok Boy Hairstyle Tutorial",
+            "link": "https://www.youtube.com/watch?v=OGpx0Ay5Bos",
             "channel": {
-                "name": "AJ_FTBL",
-                "link": "https://www.youtube.com/channel/UCP5JWEr-5NO9eq7LlpNUISw",
-                "thumbnail": "https://yt3.ggpht.com/nLQOokQuqkuSg4Rgmrga6EvKl-ssOSm2cOs1dLliJ4bxPAVdVq-KLwOHEcfN9f6_EBGpKIImbw=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Shodon Naicker",
+                "link": "https://www.youtube.com/channel/UCurb3NwbDXfLUQmnW9MaNfw",
+                "thumbnail": "https://yt3.ggpht.com/DbfzCTnRNSxwdnQycJrXSHXhIK0hY96aF2ePqNYjzwEfRYLEVozMgTOEMfeI-8oX5-Oz1TsE=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "2 hours ago",
-            "views": 29,
-            "length": "9:43",
-            "description": "Football #soccer #tiktokreels #footballreels TAGS= reels compilation,football reels compilation,soccer reels,tiktok football\u00a0...",
-            "extensions": [
-                "New"
-            ],
+            "published_date": "6 months ago",
+            "views": 511690,
+            "length": "0:33",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/MzUkK7wObFw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXcVC7ivL-QVaEdeR5UfxPLQfHXQ",
-                "rich": "https://i.ytimg.com/an_webp/MzUkK7wObFw/mqdefault_6s.webp?du=3000&sqp=CODa9pYG&rs=AOn4CLDIgD9NRJf96ne3wqGk_pPErDnjHw"
+                "static": "https://i.ytimg.com/vi/OGpx0Ay5Bos/hq2.jpg?sqp=-oaymwEkCLsCEOgCSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCkEV6xoSj1hQ6TJ_1YzsBNnqgVMg"
             }
         },
         {
             "position_on_page": 10,
-            "title": "Heyy Jude! \ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f\ud83d\udcab || (TikTok)",
-            "link": "https://www.youtube.com/watch?v=jpvzykeF3nI",
+            "title": "Reagindo a v\u00eddeos do Tik Tok  - Franja com cabelo enrolado.",
+            "link": "https://www.youtube.com/watch?v=KQLMy-dqtdM",
             "channel": {
-                "name": "MBP",
-                "link": "https://www.youtube.com/channel/UCLH7d1t_gz5whTi_-_NWu1Q",
-                "thumbnail": "https://yt3.ggpht.com/zNUNOdL55xeQ-pXRqAyARRcSRNl2-g4MMPc4szY25u5g5g1WVA5qLacvxS1ov4kgSY3U1EFh=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Graziane Brook",
+                "link": "https://www.youtube.com/channel/UCFlmy5Xa4ao6CpvxeHuvM5Q",
+                "thumbnail": "https://yt3.ggpht.com/BxLyKttWoisF39s5h01FdMrOq9dSw0EgUY2uox3rAFnk5xMrzN40QP70XIL0agDh8cFVeI8qWeo=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "2 weeks ago",
-            "views": 2417,
-            "length": "0:11",
-            "description": "This TikTok has been uploaded by LFC \u2764\ufe0f the 07/04/2022 \ud83d\udcc6 Join his Tiktok \u2192 https://www.tiktok.com/@immortalkop Music\u00a0...",
+            "published_date": "10 months ago",
+            "views": 8470,
+            "length": "0:19",
+            "description": "Ol\u00e1 galerinha!!! Se inscreva no meu canal, comente, acione o sininho e n\u00e3o esque\u00e7a de deixar seu like   Link do canal do\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/jpvzykeF3nI/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDiil5AvxMAZtUv3zKqg44wNca63g"
+                "static": "https://i.ytimg.com/vi/KQLMy-dqtdM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBYIdTJCTnF8YRzWtfUXCHGfvLWvg"
             }
         },
         {
             "position_on_page": 11,
-            "title": "This season\u203c\ufe0f (TikTok)",
-            "link": "https://www.youtube.com/watch?v=7zUemHn08O0",
+            "title": "TOP PENTEADOS PARA CABELOS CACHEADOS \u2728\ud83d\udc9c",
+            "link": "https://www.youtube.com/watch?v=O9hiK7-lSFQ",
             "channel": {
-                "name": "MBP",
-                "link": "https://www.youtube.com/channel/UCLH7d1t_gz5whTi_-_NWu1Q",
-                "thumbnail": "https://yt3.ggpht.com/zNUNOdL55xeQ-pXRqAyARRcSRNl2-g4MMPc4szY25u5g5g1WVA5qLacvxS1ov4kgSY3U1EFh=s68-c-k-c0x00ffffff-no-rj"
+                "name": "My Curly Tutorials\u26a1",
+                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
+                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "12 days ago",
-            "views": 2561,
-            "length": "0:13",
-            "description": "This TikTok has been uploaded by Nini the 07/12/2022 \ud83d\udcc6 Join its networks: TikTok \u2192 https://www.tiktok.com/@ninisule YouTube\u00a0...",
+            "published_date": "4 months ago",
+            "views": 293559,
+            "length": "5:27",
+            "description": "Ola Minhas Cacheadas !!!! espero muito que gostem do video de Hoje Se gostarem j\u00e1 deixe seu like \u2728 Se inscreva no canal\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/7zUemHn08O0/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDQIwx2u6KM_brZpnDdGKSmY6d63A",
-                "rich": "https://i.ytimg.com/an_webp/7zUemHn08O0/mqdefault_6s.webp?du=3000&sqp=CPDg9pYG&rs=AOn4CLC2yUbXK4auKMFSZjwTuh0tnq0REA"
+                "static": "https://i.ytimg.com/vi/O9hiK7-lSFQ/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB0S9w15DzqEV21OXbZMJG9upmKhg"
             }
         },
         {
             "position_on_page": 12,
-            "title": ". (TikTok)",
-            "link": "https://www.youtube.com/watch?v=pojVPi71dmE",
+            "title": "V\u00eddeos TikTok Cachos",
+            "link": "https://www.youtube.com/watch?v=jD-RtRT2nVI",
             "channel": {
-                "name": "MBP",
-                "link": "https://www.youtube.com/channel/UCLH7d1t_gz5whTi_-_NWu1Q",
-                "thumbnail": "https://yt3.ggpht.com/zNUNOdL55xeQ-pXRqAyARRcSRNl2-g4MMPc4szY25u5g5g1WVA5qLacvxS1ov4kgSY3U1EFh=s68-c-k-c0x00ffffff-no-rj"
+                "name": "TIK Cachos. TOk",
+                "link": "https://www.youtube.com/channel/UCe8FcZFFefMqZi-ZtLgyApA",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLTTLHSwg_bfg0XUFcazoeHWKK8VuefUKzlQIIdF0Q=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "3 weeks ago",
-            "views": 998,
-            "length": "0:08",
-            "description": "This TikTok has been uploaded by Adam the 05/08/2022 \ud83d\udcc6 Join his Tiktok \u2192 https://www.tiktok.com/@adam_manutd Music used\u00a0...",
+            "published_date": "1 year ago",
+            "views": 13,
+            "length": "1:00",
+            "description": "se inscrever por favor.",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/pojVPi71dmE/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDljOZAse1uKb-PqTMSyoCDaEnvIA"
-            }
-        },
-        {
-            "position_on_page": 13,
-            "title": "Torres\u2019s \ud83e\uddae (TikTok)",
-            "link": "https://www.youtube.com/watch?v=HrVH7MU4GwM",
-            "channel": {
-                "name": "MBP",
-                "link": "https://www.youtube.com/channel/UCLH7d1t_gz5whTi_-_NWu1Q",
-                "thumbnail": "https://yt3.ggpht.com/zNUNOdL55xeQ-pXRqAyARRcSRNl2-g4MMPc4szY25u5g5g1WVA5qLacvxS1ov4kgSY3U1EFh=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "4 weeks ago",
-            "views": 3645,
-            "length": "0:09",
-            "description": "This TikTok has been uploaded by LFC \u2764\ufe0f the 06/26/2022 \ud83d\udcc6 Join his Tiktok \u2192 https://www.tiktok.com/@immortalkop Music\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/HrVH7MU4GwM/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLBTetrS6sDd185diVdJd-7k93HULg"
-            }
-        },
-        {
-            "position_on_page": 16,
-            "title": "Football TikTok Compilation 19",
-            "link": "https://www.youtube.com/watch?v=q6U4XpE3JGE",
-            "channel": {
-                "name": "Footzy",
-                "link": "https://www.youtube.com/channel/UCRZidEcndZKz-YhjeQW9MMA",
-                "thumbnail": "https://yt3.ggpht.com/D71XYJjHny5L-AhXonLfPa2w5bb3zYh2mItdqpWyd5tAHFlWEnJCv69r4wzVasmPPcuCD4TL7w=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "2 hours ago",
-            "views": null,
-            "length": "8:35",
-            "description": "Thanks for Watching! Football TikTok Compilation 19 #Football #reels #compilation | #Tiktok #football #reels | #2022 TAGS\ud83d\udc47\u00a0...",
-            "extensions": [
-                "New"
-            ],
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/q6U4XpE3JGE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGgJpKy_WgXB73Mi0ZUWyKJtmRZw",
-                "rich": "https://i.ytimg.com/an_webp/q6U4XpE3JGE/mqdefault_6s.webp?du=3000&sqp=CPbd9pYG&rs=AOn4CLAOD-ujiXKMiJUx2m_7RtF_zMgOCQ"
-            }
-        },
-        {
-            "position_on_page": 17,
-            "title": "New TikTok from @adam_manutd \ud83e\udd23",
-            "link": "https://www.youtube.com/watch?v=FRwyHXy8Ync",
-            "channel": {
-                "name": "MBP",
-                "link": "https://www.youtube.com/channel/UCLH7d1t_gz5whTi_-_NWu1Q",
-                "thumbnail": "https://yt3.ggpht.com/zNUNOdL55xeQ-pXRqAyARRcSRNl2-g4MMPc4szY25u5g5g1WVA5qLacvxS1ov4kgSY3U1EFh=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "10 days ago",
-            "views": 2045,
-            "length": "0:11",
-            "description": "This TikTok has been uploaded by Adam the 04/03/2022 \ud83d\udcc6 Join his Tiktok \u2192 https://www.tiktok.com/@adam_manutd Music used\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/FRwyHXy8Ync/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLAu5KF0I-LUFs8qefGcloshtzRmZg"
-            }
-        },
-        {
-            "position_on_page": 18,
-            "title": "what a goal \ud83e\udd29 (TikTok)",
-            "link": "https://www.youtube.com/watch?v=aMAp1aX7Cig",
-            "channel": {
-                "name": "MBP",
-                "link": "https://www.youtube.com/channel/UCLH7d1t_gz5whTi_-_NWu1Q",
-                "thumbnail": "https://yt3.ggpht.com/zNUNOdL55xeQ-pXRqAyARRcSRNl2-g4MMPc4szY25u5g5g1WVA5qLacvxS1ov4kgSY3U1EFh=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "2 weeks ago",
-            "views": 1019,
-            "length": "0:08",
-            "description": "This TikTok has been uploaded by _Mufckyle_ the 07/07/2022 \ud83d\udcc6 Join his Tiktok \u2192 https://www.tiktok.com/@_mufckyle_ Music\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/aMAp1aX7Cig/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLC6Cm8op3gbDn0Rc7RFackZAyuAhg"
-            }
-        },
-        {
-            "position_on_page": 19,
-            "title": "Football reels compilation | Tiktok football reels | 2022 #95",
-            "link": "https://www.youtube.com/watch?v=LXumA7i9Yf4",
-            "channel": {
-                "name": "Hindi Comparisons",
-                "link": "https://www.youtube.com/channel/UCsapGFGvomE7eSumbjURp7A",
-                "thumbnail": "https://yt3.ggpht.com/IctrRChXrJm2B5_W0H1FCRaU0zXznwv92kO8Ses77C7nLliyOSaC_ZDm66odyKOp4E4LQmMbHQ=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "1 day ago",
-            "views": 71234,
-            "length": "10:48",
-            "description": "Football reels compilation | Tiktok football reels | 2022 Football reels compilation | Tiktok football reels Football reels compilation\u00a0...",
-            "extensions": [
-                "New"
-            ],
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/LXumA7i9Yf4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9jOdYKNHx11uphh2ZLzqoy6Ne8A",
-                "rich": "https://i.ytimg.com/an_webp/LXumA7i9Yf4/mqdefault_6s.webp?du=3000&sqp=CIDs9pYG&rs=AOn4CLDnBZ6Ac3WTAW9WtF_wbiUZ9vcYJA"
-            }
-        },
-        {
-            "position_on_page": 20,
-            "title": "Balloteli\ud83e\udd76 (TikTok)",
-            "link": "https://www.youtube.com/watch?v=fQ5tJFu7zyE",
-            "channel": {
-                "name": "MBP",
-                "link": "https://www.youtube.com/channel/UCLH7d1t_gz5whTi_-_NWu1Q",
-                "thumbnail": "https://yt3.ggpht.com/zNUNOdL55xeQ-pXRqAyARRcSRNl2-g4MMPc4szY25u5g5g1WVA5qLacvxS1ov4kgSY3U1EFh=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "4 weeks ago",
-            "views": 1817,
-            "length": "0:22",
-            "description": "This TikTok has been uploaded by footy.edits the 06/24/2022 \ud83d\udcc6 Join its networks: TikTok\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/fQ5tJFu7zyE/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLC1pTAVfWP-K99106ZIWRhyC8B0sg",
-                "rich": "https://i.ytimg.com/an_webp/fQ5tJFu7zyE/mqdefault_6s.webp?du=3000&sqp=COP39pYG&rs=AOn4CLCnhYm5IL5Qdfp44XBOlEB-5ueAQQ"
-            }
-        },
-        {
-            "position_on_page": 21,
-            "title": "original sound - jenxiemandukie CREDITS: rjnsanchoi #SHORTS #TIKTOK",
-            "link": "https://www.youtube.com/watch?v=eu_urzOXxmA",
-            "channel": {
-                "name": "Super Hot Videos",
-                "link": "https://www.youtube.com/channel/UCrBaXrnmNqjwQJtrb1xVxqg",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLS9wnAI3wKf8FDhr87IrlhPwQOJl0y1RF3LL9hJzW0Hfr1rDooLleKTx7PlwQSR=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "6 months ago",
-            "views": 8717,
-            "length": "0:14",
-            "description": "Shorts #TikTok #Viral #cute #love #like #beautiful #follow #photooftheday #happy #fashion #art #smile #dog #girl\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/eu_urzOXxmA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKxzj3JfARLuxtXqAC2d1gpuYLVw",
-                "rich": "https://i.ytimg.com/an_webp/eu_urzOXxmA/mqdefault_6s.webp?du=3000&sqp=CIDe9pYG&rs=AOn4CLCp_JHTWaDsuYkFfADOvh7e0cxecQ"
-            }
-        },
-        {
-            "position_on_page": 23,
-            "title": "FOOTBALL TIKTOKS THAT WILL MAKE THIS SUMMER AMAZING",
-            "link": "https://www.youtube.com/watch?v=CbfhkgSN6qw",
-            "channel": {
-                "name": "Arised",
-                "link": "https://www.youtube.com/c/Memeulistic",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLRjp3FYlClCV6AcvoNey_s8QhOT9CRVrXTaETfL=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "1 month ago",
-            "views": 64853,
-            "length": "8:22",
-            "description": "FOOTBALL TIKTOKS THAT WILL MAKE THIS SUMMER AMAZING Thanks for watching! If you enjoyed please leave a like and\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/CbfhkgSN6qw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBn53tpzrXIOHBuuZ48XgDOmORUFQ",
-                "rich": "https://i.ytimg.com/an_webp/CbfhkgSN6qw/mqdefault_6s.webp?du=3000&sqp=CLz89pYG&rs=AOn4CLDdvvPQoP59JRjfAOy82uyCHOmZlA"
-            }
-        }
-    ],
-    "playlist_results": [
-        {
-            "position_on_page": 3,
-            "title": "Football tik tok songs",
-            "link": "https://www.youtube.com/watch?v=n-dYWXDfpls&list=PLYkZf37XpuPBvplPJ2zc_CEDIZTlQlnAl",
-            "channel": {
-                "name": "Wai Phyo Aung",
-                "link": "https://www.youtube.com/channel/UC-sqik_CtJGmwctJQgbsn2w"
-            },
-            "video_count": 73,
-            "videos": [
-                {
-                    "title": "love nwantiti (tiktok remix) - ckay [edit audio]",
-                    "link": "https://www.youtube.com/watch?v=n-dYWXDfpls&list=PLYkZf37XpuPBvplPJ2zc_CEDIZTlQlnAl",
-                    "length": "0:46"
-                },
-                {
-                    "title": "CKay - Love Nwantiti [Acoustic Version]",
-                    "link": "https://www.youtube.com/watch?v=QEbBuW8u1bA&list=PLYkZf37XpuPBvplPJ2zc_CEDIZTlQlnAl",
-                    "length": "3:09"
-                }
-            ],
-            "thumbnail": "https://i.ytimg.com/vi/n-dYWXDfpls/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLDlc17HTtLx9NAEaPAV0wxpRteaIw"
-        },
-        {
-            "position_on_page": 22,
-            "title": "Football reels song",
-            "link": "https://www.youtube.com/watch?v=xfKd5itj8K8&list=PLE_IWNsqRD68a3BvUvRzq2g8ojqc4a3Mu",
-            "channel": {
-                "name": "Punshiba Yaiphaba",
-                "link": "https://www.youtube.com/channel/UC5bHkUOKMo4f_s54z5GR0gQ"
-            },
-            "video_count": 172,
-            "videos": [
-                {
-                    "title": "Busta Rhymes - Touch It (TikTok Remix) Lyrics | touch it clean busta rhymes remix tik tok",
-                    "link": "https://www.youtube.com/watch?v=xfKd5itj8K8&list=PLE_IWNsqRD68a3BvUvRzq2g8ojqc4a3Mu",
-                    "length": "3:37"
-                },
-                {
-                    "title": "Instagram Reels Viral Songs 2021 (Part 1- 10) - Tik Tok Trending Songs 2021",
-                    "link": "https://www.youtube.com/watch?v=qS-YNoIwcls&list=PLE_IWNsqRD68a3BvUvRzq2g8ojqc4a3Mu",
-                    "length": "34:33"
-                }
-            ],
-            "thumbnail": "https://i.ytimg.com/vi/xfKd5itj8K8/hqdefault.jpg?sqp=-oaymwEWCKgBEF5IWvKriqkDCQgBFQAAiEIYAQ==&rs=AOn4CLBTXEWZzu_3jfWuDKxUnH9D43vdiw"
-        }
-    ],
-    "people_also_watched": [
-        {
-            "position_on_page": 14,
-            "title": "Football reels compilation  Tiktok football reels  2022 #16",
-            "link": "https://www.youtube.com/watch?v=Ii-r9uHVnHY",
-            "channel": {
-                "name": "AI_FTBL",
-                "link": "https://www.youtube.com/channel/UC3zoNpqmDdX8EAIqQUovNJw",
-                "thumbnail": "https://yt3.ggpht.com/68HPTAk7Qlv3wC6dGxBIdpKbS1E5ZLtidNevIhjMDIKNmBw_frYT8XeZOprqPvVyZm1HN22b3RY=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "4 months ago",
-            "views": 2776952,
-            "length": "7:11",
-            "description": "Football reels compilation Tiktok football reels 2022 #16 Football reels compilation Football reels compilation 2022 #Football\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/Ii-r9uHVnHY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAwAuOsFqsuqctAk_QLU6fjOhyJ3Q",
-                "rich": "https://i.ytimg.com/an_webp/Ii-r9uHVnHY/mqdefault_6s.webp?du=3000&sqp=CObm9pYG&rs=AOn4CLAweSX-qmqxUOZU1AcyQPRieYN_mw"
+                "static": "https://i.ytimg.com/vi/jD-RtRT2nVI/hq2.jpg?sqp=-oaymwEkCOgCEOgCSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLB10_-EULmJCNQ1KKS_G3-VRP3k-A"
             }
         },
         {
             "position_on_page": 15,
-            "title": "Best Animated Football Ads ft Messi & Ronaldo.",
-            "link": "https://www.youtube.com/watch?v=z7xI58dFZjI",
+            "title": "Trying BoHo/Goddess Braids on my Natural Hair | Viral Tiktok",
+            "link": "https://www.youtube.com/watch?v=RS1Ih9FpQj4",
             "channel": {
-                "name": "FootVic",
-                "link": "https://www.youtube.com/c/FootVic",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLRSnlRE3VjleDpc8nc5MIzmKcI43OFUElT9tEZy=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Hair by Mz Magic",
+                "link": "https://www.youtube.com/c/MzMagic",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLTveNJLS-w86JlQXiIkWhb5wxNPfVgya_VZxb7CGjw=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "3 years ago",
-            "views": 14645331,
-            "length": "11:39",
-            "description": "Ads#Messi#Ronaldo.",
+            "published_date": "5 days ago",
+            "views": 178,
+            "length": "22:36",
+            "description": "Boho Braids on natural Hair, it ain't as easy as it looks, but I got thru it..follow me on this little adventure ...no weave added Hello\u00a0...",
             "extensions": [
-                "4K"
+                "New",
+                "CC"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/z7xI58dFZjI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDwX6ANcyYdXE-fcmoswAuKG4VBfQ",
-                "rich": "https://i.ytimg.com/an_webp/z7xI58dFZjI/mqdefault_6s.webp?du=3000&sqp=CJbj9pYG&rs=AOn4CLDgYrhajuCwd9vAcWd5eK0Tk-5vVw"
+                "static": "https://i.ytimg.com/vi/RS1Ih9FpQj4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADhhvSx9KgEJtKwazwb6wcImipXw"
             }
         },
         {
-            "position_on_page": "hidden",
-            "title": "Football Reels Compilation | Tiktok Football Reels | 2022",
-            "link": "https://www.youtube.com/watch?v=LxEO5vrzGiQ",
+            "position_on_page": 16,
+            "title": "V\u00eddeos TikTok Cachos",
+            "link": "https://www.youtube.com/watch?v=AE9YMZqg2fo",
             "channel": {
-                "name": "FootHD",
-                "link": "https://www.youtube.com/channel/UCRVcS87BUVKMAlxJJF6qnWQ",
-                "thumbnail": "https://yt3.ggpht.com/UxAHE_tWJBataWw08gF8CbIRJwhVl3P4SCRielFYpVpXK2m0Jwi6-5xx30c_C60wp2sVAcKkXjY=s68-c-k-c0x00ffffff-no-rj"
+                "name": "TIK Cachos. TOk",
+                "link": "https://www.youtube.com/channel/UCe8FcZFFefMqZi-ZtLgyApA",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLTTLHSwg_bfg0XUFcazoeHWKK8VuefUKzlQIIdF0Q=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "11 hours ago",
-            "views": 29595,
-            "length": "7:42",
-            "description": "Tags; Football,Instagram soccer reels,football,football edit,football instagram reels,football reels,football reels compilation,football\u00a0...",
+            "published_date": "1 year ago",
+            "views": 6,
+            "length": "0:52",
+            "description": "por favor se inscrever.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/AE9YMZqg2fo/hq720_2.jpg?sqp=-oaymwEkCIADEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBUlNRCoue80EMXtoBGvf_YcSHdWw"
+            }
+        },
+        {
+            "position_on_page": 17,
+            "title": "\ud83d\udd25\ud83d\udc96 penteados f\u00e1ceis para cabelos cacheados, ondulados e crespos \ud83d\udc96\ud83d\udd25",
+            "link": "https://www.youtube.com/watch?v=r32FoB5SWWk",
+            "channel": {
+                "name": "Curly top",
+                "link": "https://www.youtube.com/channel/UCsEGQw1OjKn97Z-i7DYt4DQ",
+                "thumbnail": "https://yt3.ggpht.com/y2SnXa3whKUsyQkOkBJagPXxB1i6JvqL4i7shtmBrXROFAgc8Qz9EaJqIfiZ03IZZ1Jh251Reg=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "8 months ago",
+            "views": 423785,
+            "length": "9:12",
+            "description": "Ol\u00e1, nesse canal voc\u00ea vai ver v\u00eddeos sobre o mundo dos cachos.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/r32FoB5SWWk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzXU80gsdJ5FyRn6WbHVxnmL2ieA"
+            }
+        },
+        {
+            "position_on_page": 18,
+            "title": "QUANDO DIZEM QUE O CABELO N\u00c3O DEFINE | Com @CarlaQueiroz",
+            "link": "https://www.youtube.com/watch?v=kmPpyA3UUDI",
+            "channel": {
+                "name": "Mundo dos Cacheados \u2022 Inspira\u00e7\u00f5es e Refer\u00eancias ",
+                "link": "https://www.youtube.com/c/channelcurly",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/DM21BRiAOIxBGXwjnXJ5FX7ayKBSGcMnRbtwPvCcE0nyar_C6kZAkvWRm1V_j1W5g-MSDBi-=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "5 days ago",
+            "views": 9504,
+            "length": "0:08",
             "extensions": [
                 "New"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/LxEO5vrzGiQ/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBKag13Dph8lacCKyClOdooXpuuFw",
-                "rich": "https://i.ytimg.com/an_webp/LxEO5vrzGiQ/mqdefault_6s.webp?du=3000&sqp=COzU9pYG&rs=AOn4CLDj8Ha0qUqxf4J5sMDRZMCt5EwfEA"
+                "static": "https://i.ytimg.com/vi/kmPpyA3UUDI/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBCrtaSmtTPiCnTp0uxD1pWlfeXbA"
+            }
+        },
+        {
+            "position_on_page": 19,
+            "title": "\u2022PENTEADOS F\u00c1CEIS COM EL\u00c1STICOS\u2728\u2601\ufe0f|cabelo cacheado/ondulado #curlyhair",
+            "link": "https://www.youtube.com/watch?v=CdKYKcoc-zA",
+            "channel": {
+                "name": "Kaylla Ricci",
+                "link": "https://www.youtube.com/channel/UCRKPSePETrjQWvJjhPGDAYw",
+                "thumbnail": "https://yt3.ggpht.com/uu63HbMOUSR-3E7BUzC7kL3jhCy2VBnmN6JzniXUv7m6VWsZtEevGT-sbDd9ZS14YOe3dJV4=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "5 months ago",
+            "views": 28062,
+            "length": "9:11",
+            "description": "oiiie meninas!! Voc\u00eas gostam de Penteados com el\u00e1sticos/liguinhas?? CONFIRA NO V\u00cdDEO DE HOJE! #elasticity #el\u00e1stico\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/CdKYKcoc-zA/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBd_EztJi3qZ6sL6SuCawkVNLD6NQ"
+            }
+        },
+        {
+            "position_on_page": 20,
+            "title": "Penteado Simples e r\u00e1pido para todos os tipos de cabelo #shorts #penteados",
+            "link": "https://www.youtube.com/watch?v=a5ZqoK5uuLw",
+            "channel": {
+                "name": "P\u00e2mella Ramos",
+                "link": "https://www.youtube.com/channel/UCwpl9-MHTJD-ofW68tP6HYw",
+                "thumbnail": "https://yt3.ggpht.com/6pn3oIMVDLMu6Huj1DuodT_oYLsbpOGGwo6lCB4KpbMa8ewXuT-h6IP1f3uyjVrPp4zXn-3DdA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "2 weeks ago",
+            "views": 1383,
+            "length": "0:46",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/a5ZqoK5uuLw/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBBWVxcMU8GxbO7mYS_KErcVosn_w"
+            }
+        },
+        {
+            "position_on_page": 21,
+            "title": "Tik tok Curly Hair Routines \ud83d\udc67| Hair Transformation Tiktok Compilation",
+            "link": "https://www.youtube.com/watch?v=1XbF0ll-u4s",
+            "channel": {
+                "name": "Tiktok X",
+                "link": "https://www.youtube.com/c/TiktokXX",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLT4OV3Psw4YhMulDndPmOZpeODgUglHJD4ExSBI=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 595771,
+            "length": "10:45",
+            "description": "Tik toks Curly Hair Routines | Hair Transformation Tiktok Compilation Lets get to 14k Subscribers before February 20th\u2757\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/1XbF0ll-u4s/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBaMLNEUjP-pOy2_js51M1WqrXomw"
+            }
+        },
+        {
+            "position_on_page": 22,
+            "title": "Tiktok de cachos \ud83d\ude18",
+            "link": "https://www.youtube.com/watch?v=kJae20-L_eI",
+            "channel": {
+                "name": "Futuro de Milh\u00f5es",
+                "link": "https://www.youtube.com/channel/UC-hoygPedriv_kbS7w_Zmcg",
+                "thumbnail": "https://yt3.ggpht.com/Lp7pK_ok6PiiLESXCsG4TyNVKC_VPFniEpKQVspeTFUzy9j132EIhHxHUZ_jw-4vaa7ICZBunnc=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "11 months ago",
+            "views": 8,
+            "length": "0:23",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/kJae20-L_eI/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAnTCgUDIcYVR_hTx3hDQkba00lBw"
+            }
+        }
+    ],
+    "people_also_watched": [
+        {
+            "position_on_page": 13,
+            "title": "Finaliza\u00e7\u00e3o Cachos / Tik Tokers \u2728",
+            "link": "https://www.youtube.com/watch?v=lNSeyx8ShXo",
+            "channel": {
+                "name": "My Curly Tutorials\u26a1",
+                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
+                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "9 months ago",
+            "views": 27552,
+            "length": "5:50",
+            "description": "cachos#tiktok#finaliza\u00e7\u00e3o Ol\u00e1 Cacheadas Espero Que Tenham Gostado do Video \u2728 Tik Tokers do Video : @xcaroolx @_izazz\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/lNSeyx8ShXo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDNJkt7hbXxooBJGFQYfmg5v9fhyw"
+            }
+        },
+        {
+            "position_on_page": 14,
+            "title": "REACTING TO CURLY HAIR TIKTOK VIDEOS... well this is embarrassing",
+            "link": "https://www.youtube.com/watch?v=A4wqWDyNoJk",
+            "channel": {
+                "name": "Destinee Wray",
+                "link": "https://www.youtube.com/c/DracoDez",
+                "thumbnail": "https://yt3.ggpht.com/D_EjtUzHCr4Ty1laHsRUIsh3mryNQUS3UsBGybsf-pe9izD4viBz67woJsH77mdcv_blItLsng=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 1870822,
+            "length": "10:44",
+            "description": "yolo #roadto100k MERCH: PHONE CASE: https://dez.merchforall.com WHITE T- SHIRT: https://dez.merchforall.com TYEDYE\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/A4wqWDyNoJk/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzUn4Vhc4UvmiinjVAp4CcMTI_pQ"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "10 Minutes of Hilarious Football TikToks (Soccer) #5",
-            "link": "https://www.youtube.com/watch?v=HRENmRw6yww",
+            "title": "AS MELHORES FINALIZA\u00c7\u00c3O PARA CABELOS CACHEADOS \ud83d\udc9c *muita defini\u00e7\u00e3o*",
+            "link": "https://www.youtube.com/watch?v=gHE7CHJJtKI",
             "channel": {
-                "name": "SKILLER",
-                "link": "https://www.youtube.com/c/SKILLERyt",
-                "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQ73vyW1Q9BJMbgF3JAXr45oKVcRZ_aVEQWlhsddA=s68-c-k-c0x00ffffff-no-rj"
+                "name": "My Curly Tutorials\u26a1",
+                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
+                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "3 months ago",
-            "views": 1758751,
-            "length": "10:01",
-            "description": "In this video you will see the funniest TikTok videos about football / soccer. Funny moments, football freestyle, awesome skills,\u00a0...",
+            "views": 34592,
+            "length": "7:09",
+            "description": "Ola Minhas Cacheadas !!!! espero muito que gostem do video de Hoje Se gostarem j\u00e1 deixe seu like \u2728 Se inscreva no canal\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/HRENmRw6yww/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA8oiSvPySeIwOyrhTLbg9S5jLtmQ",
-                "rich": "https://i.ytimg.com/an_webp/HRENmRw6yww/mqdefault_6s.webp?du=3000&sqp=CJT59pYG&rs=AOn4CLAkGWV4kRiESQavPJ-qHxA3sHBmnA"
+                "static": "https://i.ytimg.com/vi/gHE7CHJJtKI/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB38Y2RaCP5BK696ZtvIHve08byNA"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "10 MINUTES OF FOOTBALL TIK TOKS!!! (vol 11)",
-            "link": "https://www.youtube.com/watch?v=F5Y8V_-froY",
+            "title": "PENTEADOS F\u00c1CEIS E R\u00c1PIDOS CABELOS CACHEADOS E CRESPOS \ud83d\udc9c",
+            "link": "https://www.youtube.com/watch?v=AO5xCcvUfCs",
             "channel": {
-                "name": "Just Nostalgic Content",
-                "link": "https://www.youtube.com/channel/UC217DGIqz-Ow8S1-PXKTCig",
-                "thumbnail": "https://yt3.ggpht.com/_FmJr8SRkwKIR7l4ylIGTE9v55N6juozO4-ceWtp4VGtp9ifEeuBfaK8cqSgvxJj5hSFNf-gl34=s68-c-k-c0x00ffffff-no-rj"
+                "name": "My Curly Tutorials\u26a1",
+                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
+                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "2 years ago",
-            "views": 1593689,
-            "length": "10:11",
-            "description": "10 MINUTES OF FOOTBALL TIK TOKS!!! (vol 11) Get Memes Apparel here: http://bit.ly/JNCMemesMerch Get Hip-hop Apparel\u00a0...",
+            "published_date": "6 months ago",
+            "views": 65748,
+            "length": "7:03",
+            "description": "curlyhair#cabeloscacheados#curlyhairstyles Ola Cacheadas Se voc\u00ea quer aprender v\u00e1rios penteados que fujam do rabo de\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/F5Y8V_-froY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBHmPCpnxuHUd7m3WzvbIJ0HH_Jiw",
-                "rich": "https://i.ytimg.com/an_webp/F5Y8V_-froY/mqdefault_6s.webp?du=3000&sqp=CNjr9pYG&rs=AOn4CLCUyQqfOuUmUCcMiUKOxhbg7l5AwA"
+                "static": "https://i.ytimg.com/vi/AO5xCcvUfCs/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCsw4jhaFGTKZ43K1LqkQMKePBXdg"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "10 Minutes of Hilarious Football TikToks (Soccer)",
-            "link": "https://www.youtube.com/watch?v=VczZr7CV9hY",
+            "title": "AS TOP MELHORES FINALIZA\u00c7\u00c3O PARA CABELOS CACHEADOS \ud83d\udc9c",
+            "link": "https://www.youtube.com/watch?v=AWJelNfJAOY",
             "channel": {
-                "name": "SKILLER",
-                "link": "https://www.youtube.com/c/SKILLERyt",
-                "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQ73vyW1Q9BJMbgF3JAXr45oKVcRZ_aVEQWlhsddA=s68-c-k-c0x00ffffff-no-rj"
+                "name": "My Curly Tutorials\u26a1",
+                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
+                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 year ago",
-            "views": 4685024,
-            "length": "10:04",
-            "description": "In this video you will see the funniest TikTok videos about football / soccer. Funny moments, football freestyle, awesome skills,\u00a0...",
+            "published_date": "4 months ago",
+            "views": 25658,
+            "length": "6:14",
+            "description": "Ola Minhas Cacheadas !!!! espero muito que gostem do video de Hoje Se gostarem j\u00e1 deixe seu like \u2728 Se inscreva no canal\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/VczZr7CV9hY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAXU2Bkb5L1HL3Cz3usqRKnl0wjg",
-                "rich": "https://i.ytimg.com/an_webp/VczZr7CV9hY/mqdefault_6s.webp?du=3000&sqp=CLrJ9pYG&rs=AOn4CLB3wZVvrSwWyFGPvA8174oEPU8ERg"
+                "static": "https://i.ytimg.com/vi/AWJelNfJAOY/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCRYQSQg4Lp2YQj8u2LPMVJHKWcHw"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "KIDS IN FOOTBALL - FAILS, SKILLS & GOALS #2",
-            "link": "https://www.youtube.com/watch?v=m7ZBgbfTKN8",
+            "title": "OS CABELOS LONGOS MAIS LINDOS DO ISNTA",
+            "link": "https://www.youtube.com/watch?v=AQVxP04eTfA",
             "channel": {
-                "name": "SKILLER",
-                "link": "https://www.youtube.com/c/SKILLERyt",
-                "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQ73vyW1Q9BJMbgF3JAXr45oKVcRZ_aVEQWlhsddA=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Herica braga",
+                "link": "https://www.youtube.com/channel/UC51EOn60HWUYP3_wtuzHmTw",
+                "thumbnail": "https://yt3.ggpht.com/_f26KJl6Nbo_RYYN2M8Td9kCSmXGLRzYWT9MqbZZmjVRoxK-m7NE8ESKs0MSW4hSwIuvGKky=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "1 year ago",
-            "views": 42002360,
-            "length": "8:03",
-            "description": "In this video you will see kids / children scoring amazing goals, making hilarious fails and doing the most crazy skills in football.",
+            "views": 14746,
+            "length": "9:21",
+            "description": "Os cabelo mais longo lindo do Instagram cabelos longos,cabelos,longos,cabelos longos lindos,cabelos grandes,cabelos longos\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/m7ZBgbfTKN8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD7uiOFN1g7Ph-Y0l2Z29M0QsAxSg",
-                "rich": "https://i.ytimg.com/an_webp/m7ZBgbfTKN8/mqdefault_6s.webp?du=3000&sqp=CM759pYG&rs=AOn4CLDkPXpbyySCFMj47vWazXO_QcB1cA"
+                "static": "https://i.ytimg.com/vi/AQVxP04eTfA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBUWjT_M7Go682ksk83Q7WWIaMQTA"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "50 PENTEADOS F\u00c1CEIS E R\u00c1PIDOS para FAZER SOZINHA em CABELOS CACHEADOS, LISOS e ONDULADOS",
+            "link": "https://www.youtube.com/watch?v=OaZ3bq-xovA",
+            "channel": {
+                "name": "Desvendando Segredos",
+                "link": "https://www.youtube.com/channel/UCsXN1wgE4AfJ-eM-c_vWJnA",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLReVFdMLSRQ4ZeDv0y8GSVqtCYHOGF_W05iHtzr=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "5 months ago",
+            "views": 588714,
+            "length": "18:51",
+            "description": "No v\u00eddeo de hoje trago v\u00e1rios penteados f\u00e1ceis e r\u00e1pidos para voc\u00ea fazer sozinha em casa e esses penteados s\u00e3o para cabelos\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/OaZ3bq-xovA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbq_3kxGd1ayE6IsmoGpn-V3Dmpw"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "ItsJusJas \u2728 Tiktok Baddie Hairstyles Tutorial Compilation\u2728| Babykeledits Videos",
+            "link": "https://www.youtube.com/watch?v=_Naeeo1r9cA",
+            "channel": {
+                "name": "BabyKelEdits",
+                "link": "https://www.youtube.com/channel/UCEHaXujeAwFNY2SUAQiRsng",
+                "thumbnail": "https://yt3.ggpht.com/kLs68EkfmrRbxHttMAp42pod4h9mhFUyCSljzh_f6_Sm5dmySJXzHqr-7UaqjfYY3yat2BjZ=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 220989,
+            "length": "20:11",
+            "description": "keep up with jas\u2728 on social media instagram: itsjust.jas https://www.instagram.com/itsjust.jas/ tiktok: itsjustjass\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/_Naeeo1r9cA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLClDmk4hesGVLR7hyvRpDSllVQW_w"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "ELA CHOROU, MAS OLHA O RESULTADO.\ud83d\udc87\u200d\u2640\ufe0f\ud83c\udf39",
+            "link": "https://www.youtube.com/watch?v=eLvd7Pz4C1Q",
+            "channel": {
+                "name": "CACHOS E CACHOS",
+                "link": "https://www.youtube.com/c/MestredosCachosOficial",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQCgIyoC4cBrA-NjhyYuWCuhotObrAacow78QtU=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 3641219,
+            "length": "1:10",
+            "description": "INSCREVA-SE #PRODUTOS #CACHOS adquiram seu curso/https://go.hotmart.com/V46705746G?dp=1.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/eLvd7Pz4C1Q/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASfvRoPtDYoQVpmQNn6i7uL3vM6Q"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "\u2728baddie curly hairstyles compilation 2022 \u2728",
+            "link": "https://www.youtube.com/watch?v=iM3QvKukilk",
+            "channel": {
+                "name": "Curly top",
+                "link": "https://www.youtube.com/channel/UCsEGQw1OjKn97Z-i7DYt4DQ",
+                "thumbnail": "https://yt3.ggpht.com/y2SnXa3whKUsyQkOkBJagPXxB1i6JvqL4i7shtmBrXROFAgc8Qz9EaJqIfiZ03IZZ1Jh251Reg=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 month ago",
+            "views": 190575,
+            "length": "12:49",
+            "description": "ol\u00e1, aqui voc\u00ea encontra tudo sobre o mundo dos cachos.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/iM3QvKukilk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzM1BGm5Q7Q3J0iTPS6yXp7qQldw"
             }
         }
     ],
     "pagination": {
-        "current": "https://www.youtube.com/results?search_query=original+sound+-+%E2%9D%A4%EF%B8%8FFootball+created+by+%D9%85%D9%80%D9%80%D9%80%D9%80%D8%A7%D9%88%D9%86%D9%80%D9%80%D9%80%D9%80%D8%AA+%EF%B8%8E+-+TikTok",
-        "next": "https://www.youtube.com/results?search_query=original%20sound%20-%20%E2%9D%A4%EF%B8%8FFootball%20created%20by%20%D9%85%D9%80%D9%80%D9%80%D9%80%D8%A7%D9%88%D9%86%D9%80%D9%80%D9%80%D9%80%D8%AA%20%EF%B8%8E%20-%20TikTok&sp=Roriginal%20sound%20-%20",
-        "next_page_token": "Roriginal sound - "
+        "current": "https://www.youtube.com/results?search_query=Discover+maloqueiro+cabelo+enrolado+%27s+popular+videos+-+TikTok",
+        "next": "https://www.youtube.com/results?search_query=Discover%20maloqueiro%20cabelo%20enrolado%20%27s%20popular%20videos%20-%20TikTok&sp=SBSCAQs0RlJSMkJFX3U5OIIBC09BMlBhd3hDN25JggELbnhxTW9GOFU0RU2CAQt5R1h3LVlhelRoa4IBC05laEdSRThSd1c4ggELZFZBSlh1clpyMkmCAQtjeEgydnJrQ0hka4IBCzF6THU1VWFPT19ZggELT0dweDBBeTVCb3OCAQtLUUxNeS1kcXRkTYIBC085aGlLNy1sU0ZRggELakQtUnRSVDJuVkmCAQtSUzFJaDlGcFFqNIIBC0FFOVlNWnFnMmZvggELcjMyRm9CNVNXV2uCAQtrbVBweUEzVVVESYIBC0NkS1lLY29jLXpBggELYTVacW9LNXV1THeCAQsxWGJGMGxsLXU0c4IBC2tKYWUyMC1MX2VJsgEGCgQIFRAC",
+        "next_page_token": "SBSCAQs0RlJSMkJFX3U5OIIBC09BMlBhd3hDN25JggELbnhxTW9GOFU0RU2CAQt5R1h3LVlhelRoa4IBC05laEdSRThSd1c4ggELZFZBSlh1clpyMkmCAQtjeEgydnJrQ0hka4IBCzF6THU1VWFPT19ZggELT0dweDBBeTVCb3OCAQtLUUxNeS1kcXRkTYIBC085aGlLNy1sU0ZRggELakQtUnRSVDJuVkmCAQtSUzFJaDlGcFFqNIIBC0FFOVlNWnFnMmZvggELcjMyRm9CNVNXV2uCAQtrbVBweUEzVVVESYIBC0NkS1lLY29jLXpBggELYTVacW9LNXV1THeCAQsxWGJGMGxsLXU0c4IBC2tKYWUyMC1MX2VJsgEGCgQIFRAC"
     },
     "serpapi_pagination": {
-        "current": "https://serpapi.com/search.json?engine=youtube&search_query=original+sound+-+%E2%9D%A4%EF%B8%8FFootball+created+by+%D9%85%D9%80%D9%80%D9%80%D9%80%D8%A7%D9%88%D9%86%D9%80%D9%80%D9%80%D9%80%D8%AA+%EF%B8%8E+-+TikTok",
-        "next": "https://serpapi.com/search.json?engine=youtube&search_query=original+sound+-+%E2%9D%A4%EF%B8%8FFootball+created+by+%D9%85%D9%80%D9%80%D9%80%D9%80%D8%A7%D9%88%D9%86%D9%80%D9%80%D9%80%D9%80%D8%AA+%EF%B8%8E+-+TikTok&sp=Roriginal+sound+-+",
-        "next_page_token": "Roriginal sound - "
+        "current": "https://serpapi.com/search.json?engine=youtube&search_query=Discover+maloqueiro+cabelo+enrolado+%27s+popular+videos+-+TikTok",
+        "next": "https://serpapi.com/search.json?engine=youtube&search_query=Discover+maloqueiro+cabelo+enrolado+%27s+popular+videos+-+TikTok&sp=SBSCAQs0RlJSMkJFX3U5OIIBC09BMlBhd3hDN25JggELbnhxTW9GOFU0RU2CAQt5R1h3LVlhelRoa4IBC05laEdSRThSd1c4ggELZFZBSlh1clpyMkmCAQtjeEgydnJrQ0hka4IBCzF6THU1VWFPT19ZggELT0dweDBBeTVCb3OCAQtLUUxNeS1kcXRkTYIBC085aGlLNy1sU0ZRggELakQtUnRSVDJuVkmCAQtSUzFJaDlGcFFqNIIBC0FFOVlNWnFnMmZvggELcjMyRm9CNVNXV2uCAQtrbVBweUEzVVVESYIBC0NkS1lLY29jLXpBggELYTVacW9LNXV1THeCAQsxWGJGMGxsLXU0c4IBC2tKYWUyMC1MX2VJsgEGCgQIFRAC",
+        "next_page_token": "SBSCAQs0RlJSMkJFX3U5OIIBC09BMlBhd3hDN25JggELbnhxTW9GOFU0RU2CAQt5R1h3LVlhelRoa4IBC05laEdSRThSd1c4ggELZFZBSlh1clpyMkmCAQtjeEgydnJrQ0hka4IBCzF6THU1VWFPT19ZggELT0dweDBBeTVCb3OCAQtLUUxNeS1kcXRkTYIBC085aGlLNy1sU0ZRggELakQtUnRSVDJuVkmCAQtSUzFJaDlGcFFqNIIBC0FFOVlNWnFnMmZvggELcjMyRm9CNVNXV2uCAQtrbVBweUEzVVVESYIBC0NkS1lLY29jLXpBggELYTVacW9LNXV1THeCAQsxWGJGMGxsLXU0c4IBC2tKYWUyMC1MX2VJsgEGCgQIFRAC"
     }
 }
