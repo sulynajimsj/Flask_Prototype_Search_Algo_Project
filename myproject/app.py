@@ -7,9 +7,20 @@ from datetime import timedelta
 import cv2
 import numpy as np
 import sys
+import cloudinary
+import cloudinary.uploader
 import os
+from youtube_transcript_api import YouTubeTranscriptApi
 
 
+allTranscripts = []
+
+cloudinary.config( 
+  cloud_name = "odinsully", 
+  api_key = "152393343981388", 
+  api_secret = "ZJWfM-yTEFEYYCd13epWWj6tINs",
+  secure = True
+)
 
 def format_timedelta(td):
     """Utility function to format timedelta objects in a cool way (e.g 00:00:20.05) 
@@ -36,8 +47,7 @@ def get_saving_frames_durations(cap, saving_fps):
 
 def processVideo(path):
     video_file = path
-    filename, _ = os.path.splitext(video_file)
-    filename += "-opencv"
+    filename = "frames"
     # make a folder by the name of the video file
     if not os.path.isdir(filename):
         os.mkdir(filename)
@@ -77,7 +87,9 @@ def processVideo(path):
         # increment the frame count
         count += 1
 
-api_key = "682344854cbadadac08f5981a33e52990f024d4d285e69656d7645e604228cbf"
+
+
+api_key = "b030e28ea1cfde51223c2cb539e2da5d195db3bba98c708fc1dca134b87acf3d"
 def searchAPI(image_url):
 
     #Reverse Image search: Google only
@@ -107,16 +119,18 @@ def searchAPI(image_url):
 
 
     
-    
+    thetitles = []
     for i in range(0, len(theResults)):
         title = theResults[i]['title']
         print(title + '\n')
+        thetitles.append(title)
 
-
+    
+    # The title[-3] is because second last usually at this point is the most relevant results
     params2 = {
     "api_key": api_key,
     "engine": "youtube",
-    "search_query": theResults[0]['title']
+    "search_query": thetitles[-3]
     }
 
     search2 = GoogleSearch(params2)
@@ -124,38 +138,88 @@ def searchAPI(image_url):
     with open('resultYoutube.json', 'w') as fp:
         json.dump(results2, fp, indent=4)
     print("The results")
+    aLink = results2['search_metadata']['youtube_url']
+    webbrowser.open(aLink)
 
-    theLink = results2["video_results"][1]['link']
-    webbrowser.open(theLink)  # Go to link
 
-    productName = results['search_information']['query_displayed']
+    # print("All transcripts")
+    # ytVideos = results2['video_results']
+    # for i in range(0,5):
 
-    paraProduct = {
-    "q": productName,
-    "tbm": "shop",
-    "hl": "en",
-    "gl": "us",
-    "api_key": api_key
-    }
+    #     #Get transcripts of each video
+    #     yt_transcripts = []
+    #     thelink = ytVideos[i]['link']
+    #     newLink = thelink.rsplit('v=', 1)[1]
 
-    productSearch = GoogleSearch(paraProduct)
-    productResults = productSearch.get_dict()
-    shopping_results = productResults["shopping_results"]
+    #     print(newLink)
 
-    shopLink = productResults['search_metadata']['google_url']
-    with open('resultProducts.json', 'w') as fp:
-        json.dump(productResults, fp, indent=4)
-    webbrowser.open(shopLink) 
+    #     text = YouTubeTranscriptApi.get_transcript(newLink)
+    #     if (text):
+    #         for i in text:
+    #             vidStr = ""
+    #             outext = (i['text'])
+    #             vidStr += outext
+    #             yt_transcripts.append(vidStr)
+    #             print(outext)
+
+    #         print(yt_transcripts)
+    #     else:
+    #         continue
+
+
+
+
+
+    
+
+    # productName = results['search_information']['query_displayed']
+
+    # paraProduct = {
+    # "q": productName,
+    # "tbm": "shop",
+    # "hl": "en",
+    # "gl": "us",
+    # "api_key": api_key
+    # }
+
+    # productSearch = GoogleSearch(paraProduct)
+    # productResults = productSearch.get_dict()
+    # shopping_results = productResults["shopping_results"]
+
+    # shopLink = productResults['search_metadata']['google_url']
+    # with open('resultProducts.json', 'w') as fp:
+    #     json.dump(productResults, fp, indent=4)
+    # webbrowser.open(shopLink) 
     #Go to link
 
 
+#list file names 
+def list_file_name(path):
+    fileList = os.listdir(path)
+    return(fileList)
+
+def inputImages(path):
+    allFiles = list_file_name(path)
+    allurls = []
+    for name in allFiles:
+        upload = cloudinary.uploader.upload("frames/"+name)
+        url = upload['url']
+        searchAPI(url)
+        allurls.append(url)
+    return allurls
 
 
 
 app = Flask(__name__)
 @app.route('/')
 def main():
-    processVideo('tateVid.mp4')
+
+    processVideo('ronaldo.mp4')
+    imageUrls = inputImages('frames')
+    print(imageUrls)
+
+    # searchAPI('https://i.imgur.com/RSP1mdN.jpg')
+
     return render_template('index.html')
 
 @app.route('/', methods=['POST'])
