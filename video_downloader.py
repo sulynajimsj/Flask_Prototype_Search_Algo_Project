@@ -1,8 +1,6 @@
-from tkinter import ttk
 from tkinter import *
 from tkinter import messagebox
 from tkinter import filedialog
-from PIL import ImageTk, Image
 import instaloader
 import requests
 import threading
@@ -11,7 +9,6 @@ import os
 def media():
 	link = 'https://www.instagram.com/reel/CgfVqusjQGS/?utm_source=ig_web_copy_link'
 	if 'https://www.instagram.com/reel/' in link:
-		print(True)
 		try :
 			# Function to check the internet connection
 			def connection(url='http://www.google.com/', timeout=5):
@@ -27,11 +24,14 @@ def media():
 			print(connection())
 
 			if connection()==True:
-				print(True)
+				print('connected!')
 				location = filedialog.askdirectory()
 				os.chdir(location)                    
 				short_link = link.replace('https://www.instagram.com/reel/','').replace('/?utm_source=ig_web_copy_link','')
 				L = instaloader.Instaloader()
+				print('login...')
+				L.login('gh._ady', '123ghadybimoss')
+				print('successful!')
 				post = instaloader.Post.from_shortcode(L.context,short_link)
 				L.download_post(post,target=short_link)
 				messagebox.showinfo('Status','Download Completed !')
