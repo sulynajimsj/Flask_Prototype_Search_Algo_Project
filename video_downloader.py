@@ -9,8 +9,8 @@ import threading
 import os
 
 def media():
-	link = 'https://www.instagram.com/p/CgXMTfvjNkt/?utm_source=ig_web_copy_link'
-	if 'https://www.instagram.com/p/' in link:
+	link = 'https://www.instagram.com/reel/CgfVqusjQGS/?utm_source=ig_web_copy_link'
+	if 'https://www.instagram.com/reel/' in link:
 		print(True)
 		try :
 			# Function to check the internet connection
@@ -30,11 +30,9 @@ def media():
 				print(True)
 				location = filedialog.askdirectory()
 				os.chdir(location)                    
-				short_link = link.replace('https://www.instagram.com/p/','').replace('/?utm_source=ig_web_copy_link','')
-				# short_link = 'CgXMTfvjNkt'
+				short_link = link.replace('https://www.instagram.com/reel/','').replace('/?utm_source=ig_web_copy_link','')
 				L = instaloader.Instaloader()
 				post = instaloader.Post.from_shortcode(L.context,short_link)
-				# post = instaloader.Reel.from_shortcode(L.context,short_link)
 				L.download_post(post,target=short_link)
 				messagebox.showinfo('Status','Download Completed !')
 		except Exception as e:
