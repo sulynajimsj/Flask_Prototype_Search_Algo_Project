@@ -1,0 +1,1449 @@
+{
+    "search_metadata": {
+        "id": "62dc8342f716eee620ff6318",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/f6622719d355815e/62dc8342f716eee620ff6318.json",
+        "created_at": "2022-07-23 23:24:50 UTC",
+        "processed_at": "2022-07-23 23:24:50 UTC",
+        "google_url": "https://www.google.com/search?q=language&oq=language&hl=en&gl=us&tbm=shop&sourceid=chrome&ie=UTF-8",
+        "raw_html_file": "https://serpapi.com/searches/f6622719d355815e/62dc8342f716eee620ff6318.html",
+        "total_time_taken": 5.78
+    },
+    "search_parameters": {
+        "engine": "google",
+        "q": "language",
+        "google_domain": "google.com",
+        "hl": "en",
+        "gl": "us",
+        "device": "desktop",
+        "tbm": "shop"
+    },
+    "search_information": {
+        "shopping_results_state": "Results for exact spelling",
+        "query_displayed": "language"
+    },
+    "filters": [
+        {
+            "type": "Show only",
+            "options": [
+                {
+                    "text": "Buy on Google",
+                    "tbs": "mr:1,buy:g"
+                },
+                {
+                    "text": "Available nearby",
+                    "tbs": "mr:1,local_avail:1,ss:55"
+                },
+                {
+                    "text": "On sale",
+                    "tbs": "mr:1,sales:1"
+                }
+            ]
+        },
+        {
+            "type": "Price",
+            "options": [
+                {
+                    "text": "Up to $10",
+                    "tbs": "mr:1,price:1,ppr_max:10"
+                },
+                {
+                    "text": "$10 \u2013 $25",
+                    "tbs": "mr:1,price:1,ppr_min:10,ppr_max:25"
+                },
+                {
+                    "text": "$25 \u2013 $50",
+                    "tbs": "mr:1,price:1,ppr_min:25,ppr_max:50"
+                },
+                {
+                    "text": "$50 \u2013 $100",
+                    "tbs": "mr:1,price:1,ppr_min:50,ppr_max:100"
+                },
+                {
+                    "text": "Over $100",
+                    "tbs": "mr:1,price:1,ppr_min:100"
+                }
+            ]
+        },
+        {
+            "type": "Color",
+            "options": [
+                {
+                    "tbs": "mr:1,color:specific,color_val:black"
+                }
+            ]
+        },
+        {
+            "type": "Genre",
+            "options": [
+                {
+                    "text": "Language Arts",
+                    "tbs": "mr:1,pdtr0:955598%7C956030"
+                },
+                {
+                    "text": "Foreign Language",
+                    "tbs": "mr:1,pdtr0:955598%7C955615"
+                },
+                {
+                    "text": "Children's Books",
+                    "tbs": "mr:1,pdtr0:955598%7C958581"
+                },
+                {
+                    "text": "Philosophy",
+                    "tbs": "mr:1,pdtr0:955598%7C956040"
+                },
+                {
+                    "text": "Reference",
+                    "tbs": "mr:1,pdtr0:955598%7C956045"
+                },
+                {
+                    "text": "Computer",
+                    "tbs": "mr:1,pdtr0:955598%7C955609"
+                },
+                {
+                    "text": "Business / Economics",
+                    "tbs": "mr:1,pdtr0:955598%7C955606"
+                }
+            ]
+        },
+        {
+            "type": "Reference Type",
+            "options": [
+                {
+                    "text": "Dictionaries",
+                    "tbs": "mr:1,pdtr0:956061%7C956062"
+                },
+                {
+                    "text": "Encyclopedias",
+                    "tbs": "mr:1,pdtr0:956061%7C956063"
+                }
+            ]
+        },
+        {
+            "type": "Format",
+            "options": [
+                {
+                    "text": "Paperback",
+                    "tbs": "mr:1,pdtr0:4923863%7C4923867"
+                },
+                {
+                    "text": "Hardcover",
+                    "tbs": "mr:1,pdtr0:4923863%7C4923866"
+                },
+                {
+                    "text": "eBooks",
+                    "tbs": "mr:1,pdtr0:4923863%7C4923865"
+                }
+            ]
+        },
+        {
+            "type": "Teaching Books",
+            "options": [
+                {
+                    "text": "Workbooks",
+                    "tbs": "mr:1,pdtr0:2109290%7C2114786"
+                },
+                {
+                    "text": "Exam Prep",
+                    "tbs": "mr:1,pdtr0:2109290%7C2164151"
+                },
+                {
+                    "text": "Textbooks",
+                    "tbs": "mr:1,pdtr0:2109290%7C2109291"
+                }
+            ]
+        },
+        {
+            "type": "Type",
+            "options": [
+                {
+                    "text": "Non-fiction",
+                    "tbs": "mr:1,pdtr0:955595%7C955597"
+                },
+                {
+                    "text": "Fiction",
+                    "tbs": "mr:1,pdtr0:955595%7C955596"
+                }
+            ]
+        },
+        {
+            "type": "Page Count",
+            "options": [
+                {
+                    "text": "< 142 pages",
+                    "tbs": "mr:1,pdtr0:1020638%7C%24142.0"
+                },
+                {
+                    "text": "142 \u2013 184 pages",
+                    "tbs": "mr:1,pdtr0:1020638%7C142.0%24184.0"
+                },
+                {
+                    "text": "184 \u2013 240 pages",
+                    "tbs": "mr:1,pdtr0:1020638%7C184.0%24240.0"
+                },
+                {
+                    "text": "240 \u2013 304 pages",
+                    "tbs": "mr:1,pdtr0:1020638%7C240.0%24304.0"
+                },
+                {
+                    "text": "304 \u2013 400 pages",
+                    "tbs": "mr:1,pdtr0:1020638%7C304.0%24400.0"
+                },
+                {
+                    "text": "400 \u2013 520 pages",
+                    "tbs": "mr:1,pdtr0:1020638%7C400.0%24520.0"
+                },
+                {
+                    "text": "> 520 pages",
+                    "tbs": "mr:1,pdtr0:1020638%7C520.0%24"
+                }
+            ]
+        },
+        {
+            "type": "Brand",
+            "options": [
+                {
+                    "text": "WHSmith",
+                    "tbs": "mr:1,pdtr0:997763%7C3917958"
+                },
+                {
+                    "text": "Carson Dellosa Education",
+                    "tbs": "mr:1,pdtr0:997763%7C1312748"
+                },
+                {
+                    "text": "DaySpring",
+                    "tbs": "mr:1,pdtr0:997763%7C1055641"
+                },
+                {
+                    "text": "Rosetta Stone",
+                    "tbs": "mr:1,pdtr0:997763%7C1288945"
+                },
+                {
+                    "text": "Langogo",
+                    "tbs": "mr:1,pdtr0:997763%7C4541674"
+                },
+                {
+                    "text": "Nintendo",
+                    "tbs": "mr:1,pdtr0:997763%7C1011584"
+                },
+                {
+                    "text": "Samsung",
+                    "tbs": "mr:1,pdtr0:997763%7C1012590"
+                }
+            ]
+        },
+        {
+            "type": "Shipping & returns",
+            "options": [
+                {
+                    "text": "Free returns",
+                    "tbs": "mr:1,free_return:1"
+                },
+                {
+                    "text": "1-3 day delivery",
+                    "tbs": "mr:1,shipspeed:3"
+                },
+                {
+                    "text": "Free shipping",
+                    "tbs": "mr:1,ship:1"
+                }
+            ]
+        },
+        {
+            "type": "Discover",
+            "options": [
+                {
+                    "text": "Black-owned businesses",
+                    "tbs": "mr:1,dei:1"
+                },
+                {
+                    "text": "Women-owned businesses",
+                    "tbs": "mr:1,dei:2"
+                },
+                {
+                    "text": "Veteran-owned businesses",
+                    "tbs": "mr:1,dei:3"
+                }
+            ]
+        },
+        {
+            "type": "Product rating",
+            "options": [
+                {
+                    "text": "4 and up",
+                    "tbs": "mr:1,avg_rating:400"
+                }
+            ]
+        },
+        {
+            "type": "Condition",
+            "options": [
+                {
+                    "text": "New items",
+                    "tbs": "mr:1,new:1"
+                },
+                {
+                    "text": "Used items",
+                    "tbs": "mr:1,new:3"
+                }
+            ]
+        },
+        {
+            "type": "Seller",
+            "options": [
+                {
+                    "text": "AbeBooks.com",
+                    "tbs": "mr:1,merchagg:g1841257%7Cm1842297"
+                },
+                {
+                    "text": "Amazon.com",
+                    "tbs": "mr:1,merchagg:g113872638%7Cm7388148%7Cm114193152"
+                },
+                {
+                    "text": "eBay - alibrisbooks",
+                    "tbs": "mr:1,merchagg:g6296794%7Cm133929137%7Cm6296724%7Cm118856961%7Cm119280751%7Cm100447571"
+                },
+                {
+                    "text": "Ergodebooks",
+                    "tbs": "mr:1,merchagg:m138789653"
+                },
+                {
+                    "text": "Target",
+                    "tbs": "mr:1,merchagg:g784994%7Cm10046"
+                },
+                {
+                    "text": "Walmart - Discover Books",
+                    "tbs": "mr:1,merchagg:g8299768%7Cm131366457%7Cm8175035%7Cm135896607%7Cm117088786%7Cm113148305"
+                },
+                {
+                    "text": "World of Books",
+                    "tbs": "mr:1,merchagg:g122501538%7Cm130594083"
+                }
+            ]
+        }
+    ],
+    "shopping_results": [
+        {
+            "position": 1,
+            "title": "Learn American Sign Language [Book]",
+            "link": "https://www.google.com/url?url=https://www.amazon.com/Learn-American-Language-James-Guido/dp/1577151070%3Fsource%3Dps-sl-shoppingads-lpcontext%26ref_%3Dfplfs%26psc%3D1%26smid%3DATVPDKIKX0DER&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECP0L&usg=AOvVaw0RTgPuLOcEceKvjOFZNuq7",
+            "product_link": "https://www.google.com/shopping/product/7909717048291928344",
+            "product_id": "7909717048291928344",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7909717048291928344",
+            "source": "Amazon.com",
+            "price": "$22.44",
+            "extracted_price": 22.44,
+            "rating": 4.8,
+            "reviews": 34,
+            "extensions": [
+                "Hardcover",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS3Wf4i50ktDhrvYFRz92tcIkckWVlU3pnqKi7RxrceydsERK9IwmB8danKrCAAOkzHnBYIgfowPuSREt1JxJ9xrjdm4fPjPIzX2Danr42M_Wi3vsQJ-GPP&usqp=CAE",
+            "delivery": "$5.99 delivery"
+        },
+        {
+            "position": 2,
+            "title": "The American Sign Language Phrase Book [Book]",
+            "link": "https://www.google.com/url?url=https://www.walmart.com/ip/4-1-08-9780071497138/7753261%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D8351&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECI4M&usg=AOvVaw1XXc1WGOVN6gAjOCFy1LrI",
+            "product_link": "https://www.google.com/shopping/product/15951489751708182856",
+            "product_id": "15951489751708182856",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15951489751708182856",
+            "source": "Walmart - thebookpros",
+            "price": "$21.23",
+            "extracted_price": 21.23,
+            "rating": 4.5,
+            "reviews": 21,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTItqKh76-IF-BttSSw9O-NOkiin8P_4-2E5OLswVl1NzbuLWjqp_ou-nrexTSMMxjkfA028XwGW80VtJfMg7GYFUMN72T-egOaMN2C1qQcZarzU-lnzBGvkA&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 3,
+            "title": "The Cambridge Grammar of the English Language [Book]",
+            "link": "https://www.google.com/url?url=https://www.abebooks.com/Cambridge-Grammar-English-Language-Hardback-Rodney/31085045695/bd&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECJ4M&usg=AOvVaw06KcKcyKU9571niidPP0-p",
+            "product_link": "https://www.google.com/shopping/product/14792530752897985270",
+            "product_id": "14792530752897985270",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=14792530752897985270",
+            "source": "AbeBooks.com",
+            "price": "$284.86",
+            "extracted_price": 284.86,
+            "rating": 5.0,
+            "reviews": 1,
+            "extensions": [
+                "Hardcover",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSIURir2PxsOgwsWZMYTX_nc036YZ24qMgwnpNsqN1zwVIeBnj69bY-gNta6tAhFrQciSgzb3NksyTTP_TkicTgZKCo3QXeqElNZ36R3gQ&usqp=CAE",
+            "delivery": "Free delivery by Sun, Aug 14"
+        },
+        {
+            "position": 4,
+            "title": "Fluent Forever: How to Learn Any Language Fast and Never Forget it [Book]",
+            "link": "https://www.google.com/url?url=https://www.bookdepository.com/Fluent-Forever-Gabriel-Wyner/9780385348119%3Fredirected%3Dtrue%26utm_medium%3DGoogle%26utm_campaign%3DBase1%26utm_source%3DUS%26utm_content%3DFluent-Forever%26selectCurrency%3DUSD%26w%3DAFCCAU9SC1JK7DA8VTQP&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECLAM&usg=AOvVaw2tNi0w5bGWRASk_1Y6likF",
+            "product_link": "https://www.google.com/shopping/product/18269839016667207476",
+            "product_id": "18269839016667207476",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18269839016667207476",
+            "source": "BookDepository.com",
+            "price": "$14.55",
+            "extracted_price": 14.55,
+            "rating": 4.8,
+            "reviews": 13,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR36TXN-JyUC_CuwLLr8AScVxpR5vmMiGc4nYJhkId_YpKX6V6D_8vc61eAsfIXeWn2s4OP2MeCRbCCRHkgUKATC5ZqwloM37zcpLhLmR3V&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 5,
+            "title": "Latin Grammar: A QuickStudy Language Reference Guide [Book]",
+            "link": "https://www.google.com/url?url=https://www.christianbook.com/grammar-quick-study-chart-new-edition/9781423236511/pd/236512%3Fen%3Dgoogle%26event%3DSHOP%26kw%3Dhomeschool-0-20%257C236512%26p%3D1179710&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECMMM&usg=AOvVaw30wgrDKTB2bIw2sXE09UEc",
+            "product_link": "https://www.google.com/shopping/product/15281755229132115169",
+            "product_id": "15281755229132115169",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15281755229132115169",
+            "source": "Christianbook.com",
+            "price": "$6.09",
+            "extracted_price": 6.09,
+            "rating": 5.0,
+            "reviews": 1,
+            "extensions": [
+                "LOW PRICE",
+                "Paperback",
+                "Reference"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ8DgHbfOEuVFuGb3zgKyqi6dFg7w2hMqLQIryCVWXhPE_f5gJWOS_oHA7E-i5fG9TxX6HaxIePUE-CVff1Gs4sLRyGhTFPMnFtDIauHkc4a6CUxntU_xtdDQ&usqp=CAE",
+            "tag": "LOW PRICE",
+            "delivery": "$5.99 delivery"
+        },
+        {
+            "position": 6,
+            "title": "The Cambridge Encyclopedia of Language [Book]",
+            "link": "https://www.google.com/url?url=https://www.textbooks.com/Cambridge-Encyclopedia-of-Language-3rd-Edition/9780521736503/David-Crystal.php%3Fkpid%3D9780521736503U&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECNYM&usg=AOvVaw39hhJOBg1g0TzBMMAfI7bI",
+            "product_link": "https://www.google.com/shopping/product/881716749757968473",
+            "product_id": "881716749757968473",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=881716749757968473",
+            "source": "Textbooks.com",
+            "price": "$30.25",
+            "extracted_price": 30.25,
+            "rating": 5.0,
+            "reviews": 2,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRtkSQynyA-wWhpKYc3k-bc95FpLScoEn7Z8dSa1cs6h7PjLl8-rjh6fektdiMCQjGHbDBnVKcrl6j8WKeQSnksuJKTul_QC-FwFfgs3qqZS-Ifx_RENQTg&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 7,
+            "title": "Keys to Teaching Grammar to English Language Learners: A Practical Handbook [Book]",
+            "link": "https://www.google.com/url?url=https://www.booksamillion.com/p/Keys-Teaching-Grammar-English-Language/Keith-S-Folse/9780472036677&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECOcM&usg=AOvVaw24bmhCCVjcv4pHw9vZ_oYM",
+            "product_link": "https://www.google.com/shopping/product/2890782521976484581",
+            "product_id": "2890782521976484581",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2890782521976484581",
+            "source": "Books-A-Million",
+            "price": "$34.95",
+            "extracted_price": 34.95,
+            "extensions": [
+                "paperback",
+                "472 pages"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTM0ljtu57AbjH-6Iq_bAyuoia7N61sazVHLjfvJJY2evLfKpyxpZLZWTKTQouBUCRmvi_Nv-8tZtfetc6N6IKIb6tWmBHLoi9z_XKkIX4&usqp=CAE",
+            "delivery": "$6.00 delivery"
+        },
+        {
+            "position": 8,
+            "title": "Understanding Body Language - by Scott Rouse (Paperback)",
+            "link": "https://www.google.com/url?url=https://www.target.com/p/understanding-body-language-by-scott-rouse-paperback/-/A-83070523%3Fref%3Dtgt_adv_XS000000%26AFID%3Dgoogle_pla_df_free_online%26CPNG%3DEntertainment%26adgroup%3D247-34&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECPoM&usg=AOvVaw2bjNS-kShYx7SqVzpqR-sC",
+            "product_link": "https://www.google.com/shopping/product/13928435125059052477",
+            "product_id": "13928435125059052477",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13928435125059052477",
+            "source": "Target",
+            "price": "$11.79",
+            "extracted_price": 11.79,
+            "rating": 5.0,
+            "reviews": 1,
+            "extensions": [
+                "LOW PRICE",
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSzZnmG4MQOjYrEu74lszctYmQw1ndfMOzxraXRuvxyBjIie3AEIbveB0W3wYHMimTF8wIDEBfWrrJ1x34q8rRpX-rl5siHnNayk1D-xkM&usqp=CAE",
+            "tag": "LOW PRICE",
+            "delivery": "Delivery by Sun, Jul 31"
+        },
+        {
+            "position": 9,
+            "title": "Keeping Those Words in Mind: How Language Creates Meaning [Book]",
+            "link": "https://www.google.com/url?url=https://www.ebay.com/itm/403257415094%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECI0N&usg=AOvVaw0PgeIoUjUsDxVMPqfWB-7o",
+            "product_link": "https://www.google.com/shopping/product/12822231367443881983",
+            "product_id": "12822231367443881983",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12822231367443881983",
+            "source": "eBay - alibrisbooks",
+            "price": "$19.58",
+            "extracted_price": 19.58,
+            "extensions": [
+                "LOW PRICE",
+                "Hardcover",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT0uF7KtBGXhAQ64h0-aEpzo8YfXY_kNkbqJjCFCYKRz32AFT7WUJZKk4hYjKU3YmKdokvyraEoApdJ2hvdRVbYgP_hmnWojsYz9kcaahRQQnJIx-MExv0C&usqp=CAE",
+            "tag": "LOW PRICE",
+            "delivery": "$4.49 delivery"
+        },
+        {
+            "position": 10,
+            "title": "Through the Language Glass: Why the World Looks Different in Other Languages [Book]",
+            "link": "https://www.google.com/url?url=https://www.biblio.com/book/through-language-glass-why-world-looks/d/1405254304%3Faid%3Dfrg%26srsltid%3DAdGWZVTwvGOOSj6Dnt4jQrlMwb7nugDfHHCEwG8WMQi3YjdgbENf6wTz6LQ&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECJ4N&usg=AOvVaw0oo7vUFzmTrdIu6-k-j7N0",
+            "product_link": "https://www.google.com/shopping/product/5380498052767303921",
+            "product_id": "5380498052767303921",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5380498052767303921",
+            "source": "Biblio.com - Organic Books",
+            "price": "$10.41",
+            "extracted_price": 10.41,
+            "rating": 3.8,
+            "reviews": 5,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTlg6mhxxmrAIp0Cq13_9R0iqRon2gAHpa_9GTwJ8dSN40ST7O-6HuPUoU0iygwbEo5_vAdosXiBq1jGfLfSGaJtsfEdn8Q4Cwmuh4X3m3sN7jcISo3zQST&usqp=CAE",
+            "delivery": "$4.99 delivery"
+        },
+        {
+            "position": 11,
+            "title": "A Comprehensive Grammar of the English Language [Book]",
+            "link": "https://www.google.com/url?url=https://www.amazon.com/Comprehensive-Grammar-English-Language/dp/8131733432%3Fsource%3Dps-sl-shoppingads-lpcontext%26ref_%3Dfplfs%26psc%3D1%26smid%3DA19HJAKZ7MPTL3&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECK4N&usg=AOvVaw22nbeIYgWFpmBSUxtTToyW",
+            "product_link": "https://www.google.com/shopping/product/9091976975690791420",
+            "product_id": "9091976975690791420",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=9091976975690791420",
+            "source": "Amazon.com - Seller",
+            "price": "$43.48",
+            "extracted_price": 43.48,
+            "rating": 3.0,
+            "reviews": 2,
+            "extensions": [
+                "by Randolph Quirk",
+                "book"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTC8fTQJ7sjHtyu1jH5il20GamuQmQcmhLW0-A4zc-qaSNOhcb3eVYHVTkf7QAXHNAtBdm7WFck8duHJNhnnDShbikUTuSD&usqp=CAE",
+            "delivery": "$7.99 delivery"
+        },
+        {
+            "position": 12,
+            "title": "Daily Language Review Grade 2 [Book]",
+            "link": "https://www.google.com/url?url=https://www.mardel.com/Education/Subjects/Language-Arts/Language-Arts-Skills-Review/Daily-Language-Review-Teachers-Edition-136-Pages-Grade-2/p/303503&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECL4N&usg=AOvVaw2Be9oddelc7sIafyhUy6iv",
+            "product_link": "https://www.google.com/shopping/product/11271624500557917823",
+            "product_id": "11271624500557917823",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11271624500557917823",
+            "source": "Mardel Christian & Education",
+            "price": "$19.19",
+            "extracted_price": 19.19,
+            "rating": 4.5,
+            "reviews": 13,
+            "extensions": [
+                "eBook",
+                "paperback"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRzJ7o1XJqICu2LY8vpB39vBy_mg8V1Ar_GvHfIe-hy5w5BO4GjP9blvv1CvQMzOcVihTeJSMiEisEJNgh3Vi-1cyaVNgC-QQMSxL8RZ3mQ&usqp=CAE",
+            "delivery": "$9.45 delivery"
+        },
+        {
+            "position": 13,
+            "title": "A Little Book of Language [Book]",
+            "link": "https://www.google.com/url?url=https://www.thriftbooks.com/w/a-little-book-of-language_david-crystal/396895/item/8793608/%3Fisbn%3D0300170823%26idiq%3D8793608&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECM0N&usg=AOvVaw0z4jmi3_-ELnwZ-4LqUmVF",
+            "product_link": "https://www.google.com/shopping/product/5245191359815344352",
+            "product_id": "5245191359815344352",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5245191359815344352",
+            "source": "Thriftbooks.com",
+            "price": "$4.19",
+            "extracted_price": 4.19,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSfCe9D5AZG7h0ao47qzYxGa2L9Gp7op7npxjzQHno5dH2LqxtxKgEGsbk5GNb4wS9DmO5jss7rv0P6jdE_YeQTn1_bzpmNX9ZHsKp_f0ZHl9y_f7vFKO8i&usqp=CAE",
+            "delivery": "Delivery by Thu, Aug 11 \u00b7 Free 30-day returns"
+        },
+        {
+            "position": 14,
+            "title": "Real-World Natural Language Processing: Practical Applications with Deep Learning ...",
+            "link": "https://www.google.com/url?url=https://www.fishpond.com/Books/Real-World-Natural-Language-Processing-Masatoshi-Hagiwara/9781617296420%3Futm_source%3Dgoogleps%26utm_medium%3Dps%26utm_campaign%3DUS&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECOEN&usg=AOvVaw0oebQnEXvxvbz4HSpQOj8w",
+            "product_link": "https://www.google.com/shopping/product/1395572852941809714",
+            "product_id": "1395572852941809714",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1395572852941809714",
+            "source": "Fishpond.com",
+            "price": "$42.48",
+            "extracted_price": 42.48,
+            "rating": 3.0,
+            "reviews": 1,
+            "extensions": [
+                "LOW PRICE",
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSFXh2G9lbDj6rwXLIGa3k4sN2khspH1-GVv6fG2vzCZX7tDKcuN0YYLIo17lL1zShUMcVCVcUXf21QXRTtJGe2p2VevkyOCRb5qOHihJg&usqp=CAE",
+            "tag": "LOW PRICE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 15,
+            "title": "Culture and Language",
+            "link": "https://www.google.com/url?url=https://www.walmart.com/ip/Culture-and-Language-Paperback-9786202511650/326274208%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECO8N&usg=AOvVaw3ufvl3nAFjeYr7nyMeqnQ9",
+            "product_link": "https://www.google.com/shopping/product/13415093294045882517",
+            "product_id": "13415093294045882517",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13415093294045882517",
+            "source": "Walmart",
+            "price": "$81.00",
+            "extracted_price": 81.0,
+            "extensions": [
+                "Paperback"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTSg-P1fcgd2uoYpX4zEpcqirLSUXwkHcAj1q5I0JnbeMkd1SHFGsDfFlIWB1b3DRQKF7lSFDewARMdpSosnh9VXZtQT7DIIsWO5Zs5Bsm_iZxWpLpThbIumg&usqp=CAE",
+            "delivery": "Free delivery & Free 90-day returns"
+        },
+        {
+            "position": 16,
+            "title": "Merriam-Webster's Everyday Language Reference Set [Book]",
+            "link": "https://www.google.com/url?url=https://www.webstaurantstore.com/merriam-webster-3328-paperback-everyday-language-english-reference-set-with-dictionary-thesaurus-vocabulary-builder/328MER3328.html%3Futm_source%3Dgoogle%26utm_medium%3Dfreeclicks%26utm_campaign%3DGoogleShopping%26srsltid%3DAdGWZVRuTAxuQdmc9ZtnVdAJVlnGy98o4Jehk2m5JT_VAs3Ijw1cI6irXbk&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECIIO&usg=AOvVaw3ajL7YQSOu9sHsI2Ur5EDi",
+            "product_link": "https://www.google.com/shopping/product/10452644279608186617",
+            "product_id": "10452644279608186617",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10452644279608186617",
+            "source": "WebstaurantStore.com",
+            "price": "$16.49",
+            "extracted_price": 16.49,
+            "rating": 4.8,
+            "reviews": 5,
+            "extensions": [
+                "LOW PRICE",
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQD-0xYJuk-741KPXG-xpJnR9KWDSiMjJ7maiSfpTlXOMwZjOo6zzxeTt6cYIplCbtkr39HAD3DNWMfb1sHbpVroeiK36kvwbKeeKknYl4-QJfY98LfGMCzAA&usqp=CAE",
+            "tag": "LOW PRICE",
+            "delivery": "$21.86 delivery"
+        },
+        {
+            "position": 17,
+            "title": "Symbols: A Universal Language [Book]",
+            "link": "https://www.google.com/url?url=https://www.bonanza.com/listings/Symbols-A-Universal-Language-by-Joseph-Piercy-Hardback-Brand-New/1212955573%3Fgoog_pla%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECJUO&usg=AOvVaw1uC2Ti0elfFNkYHqSfvvVu",
+            "product_link": "https://www.google.com/shopping/product/7442448829400118228",
+            "product_id": "7442448829400118228",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7442448829400118228",
+            "source": "Bonanza - WinemakerCT's booth",
+            "price": "$9.45",
+            "extracted_price": 9.45,
+            "rating": 5.0,
+            "reviews": 2,
+            "extensions": [
+                "Hardcover",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQ-ytbkI-1VR2MdN3mWcZThCFU1yXq6lI06GJ24rQ3fB2H6zwwlv3NwQgDlkjiCmepf67GsbRWhi_Lt46_d-6QcbwLcdspSsGwJqVY9tPdk&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 18,
+            "title": "Cambridge IGCSE First Language English Exam Preparation and Practice [Book]",
+            "link": "https://www.google.com/url?url=https://www.abebooks.com/Cambridge-Igcse-First-Language-English-Exam/30225119932/bd&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECKMO&usg=AOvVaw2i_sKxtFxO7jnkqtBOjCCw",
+            "product_link": "https://www.google.com/shopping/product/15344474422563460637",
+            "product_id": "15344474422563460637",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15344474422563460637",
+            "source": "AbeBooks.com",
+            "price": "$21.65",
+            "extracted_price": 21.65,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSQDLgG2j5sPZS_yJpodM7p5XV4CfQV02hKrbFZ3zn7nGPPBkso6CZOogSlP3oElILwHcnbdIIyadfaWz9RZoIgQno7ZUOgMXz4wd81EcdzcPRbA39N1bbq&usqp=CAE",
+            "delivery": "Delivery by Sun, Aug 21"
+        },
+        {
+            "position": 19,
+            "title": "Language at the Speed of Sight: How We Read, Why So Many Can't, and What Can Be ...",
+            "link": "https://www.google.com/url?url=/shopping/product/8115783211366535435%3Fsourceid%3Dchrome%26q%3Dlanguage%26gl%3Dus%26hl%3Den%26prds%3Deto:193977912614955334_1,pid:16572270869432061477,rsk:PC_5098280654533693112&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECLUO&usg=AOvVaw2jfe4OKyHQStChxyE3OCEC",
+            "product_link": "https://www.google.com/shopping/product/8115783211366535435",
+            "product_id": "8115783211366535435",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8115783211366535435",
+            "source": "Ergodebooks",
+            "price": "$20.57",
+            "extracted_price": 20.57,
+            "rating": 4.0,
+            "reviews": 1,
+            "extensions": [
+                "Paperback",
+                "Basic Books"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRT35JY9f5tSouDts0LojTY8qo-T8bYKLSdnK4GI9aAQBIdBy4T9QuGOOK7h9bJC5sGAIRpS1Tj3e40ATksLhzAxodM1SlzmrcHJ37ln2Pn9nlzf3J5JIvuhw&usqp=CAE",
+            "delivery": "Google Guarantee"
+        },
+        {
+            "position": 20,
+            "title": "American Sign Language [Book]",
+            "link": "https://www.google.com/url?url=/shopping/product/10106741704080500972%3Fhl%3Den%26prds%3Doid:14361171238940872369,pid:15259865587615278116%26sts%3D9%26lsf%3Dseller:8636635,store:8377936970047638733,s:h&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQ_uQECMkO&usg=AOvVaw0DGsJ_pT_heooN7ra1suBi",
+            "product_link": "https://www.google.com/shopping/product/10106741704080500972",
+            "product_id": "10106741704080500972",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10106741704080500972",
+            "source": "Barnes & Noble",
+            "price": "$19.99",
+            "extracted_price": 19.99,
+            "rating": 4.3,
+            "reviews": 10,
+            "extensions": [
+                "Paperback",
+                "paperback"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR8boGbifz2Ao7Y6Hx36xdHp6fEE02OhE5rFPlWZWurErcGjfHAx6IKKO3kXLUxt3HUA7ZOg-SlvOkwgxhLAH0HtB6MKrjy6LXdQiseh1Aj&usqp=CAE",
+            "tag": "IN-STORE PICKUP",
+            "delivery": "18.1 mi \u00b7 In stock"
+        },
+        {
+            "position": 21,
+            "title": "Declarative Language Handbook: Using a Thoughtful Language Style to Help Kids ...",
+            "link": "https://www.google.com/url?url=https://www.ebay.com/itm/125415721506%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECNkO&usg=AOvVaw1W1w9TfLiPrZSHtKPDfNSR",
+            "product_link": "https://www.google.com/shopping/product/12210434670509210774",
+            "product_id": "12210434670509210774",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12210434670509210774",
+            "source": "eBay - booksrun",
+            "price": "$8.70",
+            "extracted_price": 8.7,
+            "extensions": [
+                "Paperback",
+                "paperback"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRUhYiz_7NpCtlXvYOae7eZ3KwULN3ULXN3tib8lHoTs5Zr6xMbwiyjxLvCQuew3HGhTvutvjH2NBPaU7qAS9CXJQCopTKJKbL4EJ0j4Ukw1Ske-jA3GEJfGQ&usqp=CAE",
+            "delivery": "Free delivery by Wed, Aug 3"
+        },
+        {
+            "position": 22,
+            "title": "An Introduction to English Language [Book]",
+            "link": "https://www.google.com/url?url=https://www.wob.com/en-us/books/koenraad-kuiper/introduction-to-english-language/9781137496874%23NPB9781137496874&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECOgO&usg=AOvVaw0LO-XxFPTdCpIglaoXyIoy",
+            "product_link": "https://www.google.com/shopping/product/13492349959563348523",
+            "product_id": "13492349959563348523",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13492349959563348523",
+            "source": "World of Books",
+            "price": "$42.79",
+            "extracted_price": 42.79,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcREH3T_NkiwuD-dYHuBgVDlchPd2tQJHKqHoSki45fwbGiYU36uc_K4E-U2c0XBh28hhruPriKSyu6yPuNRqGtaR2Rx_2exff_VC_2iE5k&usqp=CAE",
+            "delivery": "Free delivery by Mon, Aug 1"
+        },
+        {
+            "position": 23,
+            "title": "Approaches and Methods in Language Teaching [Book]",
+            "link": "https://www.google.com/url?url=https://www.secondsale.com/p/approaches-and-methods-in-language-teaching-cambridge-language-teaching-library/24793797%3Fean13%3D9781107675964%26id_product_attribute%3D58118446&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECPoO&usg=AOvVaw2ro4hJGqU4j5Li2n3AkFJw",
+            "product_link": "https://www.google.com/shopping/product/17310451653003389688",
+            "product_id": "17310451653003389688",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17310451653003389688",
+            "source": "SecondSale",
+            "price": "$32.77",
+            "extracted_price": 32.77,
+            "rating": 5.0,
+            "reviews": 2,
+            "extensions": [
+                "Non-fiction",
+                "paperback"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSzQptKjItAcDFc22J7ce6DhXd4C_rMUB0QTgKt7w_DqwOJKD5jUULoecMOOuGvxGJ1Wb6okJ8nQXLw_FMxXVT18RXlGQeQYil2oE3XmpOg1ZwymIAE9_Z0pw&usqp=CAE",
+            "delivery": "Free delivery by Thu, Aug 4"
+        },
+        {
+            "position": 24,
+            "title": "Carson Dellosa Flash Cards Sign Language",
+            "link": "https://www.google.com/url?url=https://carsondellosa.com/3927--sign-language-flash-cards-grade-pk-8-3927/%3FsetCurrencyId%3D1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECIwP&usg=AOvVaw3qL-LiQvRQJAv8OR5DH4Fe",
+            "product_link": "https://www.google.com/shopping/product/12905732616319446329",
+            "product_id": "12905732616319446329",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12905732616319446329",
+            "source": "Carson Dellosa Education",
+            "price": "$7.99",
+            "extracted_price": 7.99,
+            "rating": 4.3,
+            "reviews": 11,
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQltel4QdRzNyDR1XE-9C9HhAxERRKYi_e0fe5IqA222LNGQbjiq_71d_yJiACUhZOJoQSC1vxGfaXZNRp2-wkHVDhaqi4fHqRtaK6G8L2p&usqp=CAE",
+            "delivery": "Delivery by Wed, Jul 27"
+        },
+        {
+            "position": 25,
+            "title": "Sign Language Posters for Classroom - 4 Pack Includes Colors, Days, Months and ...",
+            "link": "https://www.google.com/url?url=https://www.amazon.com/ASL-Sign-Language-Posters-Weather/dp/B07YF56D6S%3Fsource%3Dps-sl-shoppingads-lpcontext%26ref_%3Dfplfs%26psc%3D1%26smid%3DA1SVCN6E644LBK&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECJ8P&usg=AOvVaw3NLXBXVpeS3hpqJSnIldB-",
+            "product_link": "https://www.google.com/shopping/product/10453637365291921786",
+            "product_id": "10453637365291921786",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10453637365291921786",
+            "source": "Amazon.com - Seller",
+            "price": "$25.49",
+            "extracted_price": 25.49,
+            "rating": 5.0,
+            "reviews": 50,
+            "extensions": [
+                "Poster",
+                "For Kids",
+                "Nursery"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSnfb_RjwReo6V8PqgJF9Inmc6K-wl4Io9oUOINGA-6ubSVGQGKIZOmbUwU4tulm0brvoW8GNTy-N_-z_Wk2Ps23DeBEV9w0y3DQJLJN3S18DC_La4XmxrUIw&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 26,
+            "title": "Complete Swedish Beginner to Intermediate Course: Learn to Read, Write, Speak and ...",
+            "link": "https://www.google.com/url?url=https://www.powells.com/book/-9781444195101/1-1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECK0P&usg=AOvVaw3OssJrSsvQu6Sbb1tn0P9F",
+            "product_link": "https://www.google.com/shopping/product/15185636081778105857",
+            "product_id": "15185636081778105857",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15185636081778105857",
+            "source": "Powell's Books",
+            "price": "$34.99",
+            "extracted_price": 34.99,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTtIrvjzOFTn5Q8TuZCjhMQ3kMklTkOhP1cKI-l1mqc7DT9qAqXTWA2Wyb9-lM9F_Pc0bQBD-RwBTr4oa3xYisxvB5-VVyjCvHQQrropOuS&usqp=CAE",
+            "delivery": "Delivery by Tue, Aug 9"
+        },
+        {
+            "position": 27,
+            "title": "on Language: Chomsky's Classic Works Language and Responsibility and Reflections",
+            "link": "https://www.google.com/url?url=https://www.discoverbooks.com/on-language-chomskys-classic-works-language-and-responsibility-and-reflections-on-language-in-one-volume_noam-chomsky-mitsou-ronat-p/1565844750.htm%3Fcond%3D0004&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECMAP&usg=AOvVaw0cc7GSP0HysSwKtbzYQLXy",
+            "product_link": "https://www.google.com/shopping/product/8789777295187625851",
+            "product_id": "8789777295187625851",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8789777295187625851",
+            "source": "DiscoverBooks.com",
+            "price": "$8.19",
+            "extracted_price": 8.19,
+            "rating": 5.0,
+            "reviews": 1,
+            "extensions": [
+                "SPECIAL OFFER",
+                "Paperback"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT6HtxkkV2LcnsSPHzbRNFZYYYD3ieeAJoCxZ1TxpI8BW0RnVDu2BcNrEbHmt5sMx01_ttId8mibbiIcWfwL0md_vO9zWNq4ChyNeirTPK8&usqp=CAE",
+            "tag": "SPECIAL OFFER",
+            "delivery": "Delivery by Thu, Aug 4"
+        },
+        {
+            "position": 28,
+            "title": "Linguistics of American Sign Language: An Introduction [Book]",
+            "link": "https://www.google.com/url?url=https://www.diglo.com/linguistics-of-american-sign-language-5th-edition%3Bsku%3DBDVD177A%3Bs%3D414%3Bp%3DBDVD177A&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECNMP&usg=AOvVaw3NF8gDaYGcgPH_NQv66Xsq",
+            "product_link": "https://www.google.com/shopping/product/17745003055118401286",
+            "product_id": "17745003055118401286",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=17745003055118401286",
+            "source": "Diglo",
+            "price": "$60.00",
+            "extracted_price": 60.0,
+            "rating": 5.0,
+            "reviews": 2,
+            "extensions": [
+                "Hardcover",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQt1khs9JQ5MORyzqibKa4fr0LKGUb3cJWXyAlbFVbVbykHVQvqUTj_ByXO5qKkFxm1MteADMSWvrKgPancbfqqtFjjZLnMBENe_bjlb5Y&usqp=CAE",
+            "delivery": "Free delivery by Jul 29 & Free 30-day returns"
+        },
+        {
+            "position": 29,
+            "title": "The Language Game: How Improvisation Created Language and Changed the World [Book]",
+            "link": "https://www.google.com/url?url=http://bookshop.org/books/the-language-game-how-improvisation-created-language-and-changed-the-world/9781541674981&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECOEP&usg=AOvVaw0LQKNfyjCQWWFiupyq-e3B",
+            "product_link": "https://www.google.com/shopping/product/6796672957605670662",
+            "product_id": "6796672957605670662",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6796672957605670662",
+            "source": "Bookshop.org",
+            "price": "$27.90",
+            "extracted_price": 27.9,
+            "extensions": [
+                "Hardcover",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTHJb-efzXGWOxSuRjBm3Sg1gyDzyZaJaKP70lv4lwXx8b2X3LbI32aOigpluFXT5pEzu4lcEGGfug8hkgLY6e6XmhdRs4US9e-68rKFbG96X1lJW8KHyOUlw&usqp=CAE",
+            "delivery": "Delivery by Wed, Jul 27"
+        },
+        {
+            "position": 30,
+            "title": "Language - The Loaded Weapon: The Use and Abuse of Language Today [Book]",
+            "link": "https://www.google.com/url?url=https://www.walmart.com/ip/Routledge-Linguistics-Classics-Language-The-Loaded-Weapon-The-Use-and-Abuse-of-Language-Today-Hardcover-9781032048956/392934653%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECPEP&usg=AOvVaw0bbNV7Z2-N6wpWR9WkJl0n",
+            "product_link": "https://www.google.com/shopping/product/13153921254302672553",
+            "product_id": "13153921254302672553",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13153921254302672553",
+            "source": "Walmart",
+            "price": "$160.00",
+            "extracted_price": 160.0,
+            "extensions": [
+                "Hardcover",
+                "Routledge"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTuTr-VYXkC8a1Bkirl4qSwksvxbXvEGLvAZ-VdBKpa0JdqBtrbRdMqqVRUXujIYfWqapqua1YOAH5dmxBN1JVcgoslKpbw-87NmzFfgp0V-34VfTPTxEy0Dg&usqp=CAE",
+            "delivery": "Free delivery & Free 90-day returns"
+        },
+        {
+            "position": 31,
+            "title": "Language Into Language: Cultural, Legal and Linguistic Issues for Interpreters ...",
+            "link": "https://www.google.com/url?url=https://mcfarlandbooks.com/product/language-into-language/&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECIEQ&usg=AOvVaw2P1HVm42dNIJ4-Am_HQKQy",
+            "product_link": "https://www.google.com/shopping/product/8778712224394300286",
+            "product_id": "8778712224394300286",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=8778712224394300286",
+            "source": "McFarland",
+            "price": "$39.95",
+            "extracted_price": 39.95,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTxG31Y55ZEZYtU2Ekk88r0Uavc5CqQZwOICS8Cz-3CdUSZmOEH5cIl0O-_nCrC0q7JyGfW9UqmqUbzCrV-IRk7LH3rdmQdwIOCyMVu8lXg4E4AcNMFbl8F&usqp=CAE",
+            "delivery": "$6.00 delivery"
+        },
+        {
+            "position": 32,
+            "title": "Caripeloy Language Translation Device, 2022 Newest Portable 127 Languages Two-Way ...",
+            "link": "https://www.google.com/url?url=https://www.amazon.com/Caripeloy-Translation-Languages-Translator-Touchscreen/dp/B09TD157DX%3Fsource%3Dps-sl-shoppingads-lpcontext%26ref_%3Dfplfs%26psc%3D1%26smid%3DAKVJICS7O2W9I&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECJAQ&usg=AOvVaw3DmcIXp915iTpnAMknAvjZ",
+            "product_link": "https://www.google.com/shopping/product/12349526518200979187",
+            "product_id": "12349526518200979187",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=12349526518200979187",
+            "source": "Amazon.com - Seller",
+            "price": "$103.99",
+            "extracted_price": 103.99,
+            "extensions": [
+                "Chinese",
+                "English",
+                "French"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQo5SM7hwNpzOvZf_0otXly0Xv-6FIY3dt5hwCIkovPhGQCCFxFaV8-8o-4pxYFK3uKPyuDDvEo2NRwtwa9hiuMdB4FUSWsmxhS5s0kE_2RXpX0t0sM98sF&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 33,
+            "title": "ESL Beginner: English as a Second Language [Book]",
+            "link": "https://www.google.com/url?url=https://store.rea.com/073861100x.html&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECJ8Q&usg=AOvVaw0pIqs6iM8lnZev97FE6OAc",
+            "product_link": "https://www.google.com/shopping/product/6051996195251367497",
+            "product_id": "6051996195251367497",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6051996195251367497",
+            "source": "REA",
+            "price": "$17.95",
+            "extracted_price": 17.95,
+            "rating": 5.0,
+            "reviews": 1,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTD8b_OrqbKoDgcR7pzbJGJpftVvPNoTLZ3wEYDiE_82yFq1Mx_ihDyvZqhSQ4ye56aPDwYFP-AIN2qp_jWgVOdmJ_I3NdyQkkntJqG-PMCymFEJlxiuC9w&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 34,
+            "title": "Babel: Around the World in Twenty Languages [Book]",
+            "link": "https://www.google.com/url?url=/shopping/product/4207879622476188832%3Fsourceid%3Dchrome%26q%3Dlanguage%26gl%3Dus%26hl%3Den%26prds%3Deto:12176164214848243005_1,pid:14591166511339503665&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECK8Q&usg=AOvVaw1dLO-XIVo4JeqJzZlvoZWr",
+            "product_link": "https://www.google.com/shopping/product/4207879622476188832",
+            "product_id": "4207879622476188832",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4207879622476188832",
+            "source": "Bookmarks Bookstore",
+            "price": "$16.95",
+            "extracted_price": 16.95,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT8sMEXBBqc_In0FsVqyUjw4eH0irpHmghYilo8wphc4x34TIYDaDdXPrqVwINIx3ECoGzi7_FXGsmc1DIrmAno8iTyWFRsu3d8Rw_MuEjfPZSjlUff4wYE&usqp=CAE",
+            "delivery": "Google Guarantee \u00b7 Free 30-day returns"
+        },
+        {
+            "position": 35,
+            "title": "Fluent in 3 Months: How Anyone at Any Age Can Learn to Speak Any Language from ...",
+            "link": "https://www.google.com/url?url=https://www.harpercollins.com/products/fluent-in-3-months-benny-lewis%3Fcurrency%3DUSD%26variant%3D32132778852386%26utm_medium%3Dcpc%26utm_source%3Dgoogle%26utm_campaign%3DGoogle%2520Shopping&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECL8Q&usg=AOvVaw07knyZDif9QHajhx41FRkr",
+            "product_link": "https://www.google.com/shopping/product/1124662130192008603",
+            "product_id": "1124662130192008603",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1124662130192008603",
+            "source": "HarperCollins Publishers",
+            "price": "$14.39",
+            "extracted_price": 14.39,
+            "rating": 2.5,
+            "reviews": 2,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQO6jVVscm-VU3X3xcpqGxQmFLUEpkH3R3TPhy5ULGjjzNlW0ykO6BbxcHVW4U0yxe8m9z4TEaFFD5e4jPADUUThFtKZxIfYA5uInpsqsw&usqp=CAE",
+            "delivery": "Delivery by Wed, Aug 3"
+        },
+        {
+            "position": 36,
+            "title": "Cambridge IGCSE First Language English Language and Skills Practice Book [Book]",
+            "link": "https://www.google.com/url?url=https://blackwells.co.uk/bookshop/product/9781108438926%3FgC%3D098f6bcd4&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECM0Q&usg=AOvVaw1zSY5XM51VqC9b6ScPQnBj",
+            "product_link": "https://www.google.com/shopping/product/11095452141166004113",
+            "product_id": "11095452141166004113",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=11095452141166004113",
+            "source": "Blackwell's",
+            "price": "$15.08",
+            "extracted_price": 15.08,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQcLxBkPa6jpvqqprzLZKTZ0d_q7Upw7S9XxIois7PtUqeYmwHMkSFhCnAAiFNHbUxLJAJ_x_9HO4XjdE49tmz-2WznWtvVlpfNRQ-jGyI&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 37,
+            "title": "Language in Thought and Action [Book]",
+            "link": "https://www.google.com/url?url=/shopping/product/10814156604885420669%3Fsourceid%3Dchrome%26q%3Dlanguage%26gl%3Dus%26hl%3Den%26prds%3Deto:1136397807297638270_1,pid:6590723490528975488,rsk:PC_18115310740995705850&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECOAQ&usg=AOvVaw2MR4oTuUqVHJOyOBcihUcI",
+            "product_link": "https://www.google.com/shopping/product/10814156604885420669",
+            "product_id": "10814156604885420669",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=10814156604885420669",
+            "source": "Lynxotic",
+            "price": "$10.88",
+            "extracted_price": 10.88,
+            "rating": 5.0,
+            "reviews": 5,
+            "extensions": [
+                "LOW PRICE",
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcShN5An5-lAY7kKncmFrHzFPL4SAcmjYMa49cz7uci081OJz05vwJ9Z3KbzLa1FAEWHCi1R2sxvrS2mgzzVFXmPnOdb8nZ4JIuiRN-NYAa6EDBhoMBMbdkVgQ&usqp=CAE",
+            "tag": "LOW PRICE",
+            "delivery": "Google Guarantee"
+        },
+        {
+            "position": 38,
+            "title": "The Discovery of the Science of Languages: In Which Are Shown the Real Nature of ...",
+            "link": "https://www.google.com/url?url=https://www.walmart.com/ip/The-Discovery-Science-Languages-In-Which-Are-Shown-Real-Nature-Parts-Speech-Meaning-All-Words-Carry-Themselves-Their-Own-Definitions-Origin-Words-Let-9781357300012/823235697%3Fwmlspartner%3Dwlpa%26selectedSellerId%3D0&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECO8Q&usg=AOvVaw3zRTW3MofDUYIP3nOsxB2X",
+            "product_link": "https://www.google.com/shopping/product/1736867808364117962",
+            "product_id": "1736867808364117962",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1736867808364117962",
+            "source": "Walmart",
+            "price": "$32.95",
+            "extracted_price": 32.95,
+            "extensions": [
+                "Hardcover",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRM_BPXqrmw2VCjvlO6NFABNYEurCs_MDEL0Mum6TEbGA_NTEi4Hqtem3EXUHH4ZScoNZnenvoDuMiV_9B0xSMsttnENAd-YuLn8r6o8YeND0IByedMeXUj1A&usqp=CAE",
+            "delivery": "$5.99 delivery \u00b7 Free 90-day returns"
+        },
+        {
+            "position": 39,
+            "title": "The Language of Word Meaning [Book]",
+            "link": "https://www.google.com/url?url=https://www.ebay.com/itm/353809510065%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECP8Q&usg=AOvVaw0R1ZYIkq0F7SF8Vbc3ZT3H",
+            "product_link": "https://www.google.com/shopping/product/16213150280583552353",
+            "product_id": "16213150280583552353",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16213150280583552353",
+            "source": "eBay - greatbookprices1",
+            "price": "$49.53",
+            "extracted_price": 49.53,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTc9tzmKcoxRSevbsOHjiEQcnblZjOio1ErcWxJRHisKiRUSjyb8xXuyvqxFgj6sAb9YtitJYNhi97UXwtIZ4-6de_daW9bGJSXbzyTInRbcMLUj6OIPNT33w&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 40,
+            "title": "The Meaning Of Language [Book]",
+            "link": "https://www.google.com/url?url=https://www.penguinrandomhouse.com/books/657939/the-meaning-of-language-second-edition-by-heidi-savage-melissa-ebbers-and-robert-m-martin/9780262535731%3Fref%3DPRHB7BD76FBDB%26aid%3D14813%26linkid%3DPRHB7BD76FBDB&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECI0R&usg=AOvVaw2TWAseq7ym4ELDljlpoqJp",
+            "product_link": "https://www.google.com/shopping/product/16773673972494879265",
+            "product_id": "16773673972494879265",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16773673972494879265",
+            "source": "Penguin Random House",
+            "price": "$35.00",
+            "extracted_price": 35.0,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRVEsb3rsdA7tMHYKq0Kun81zz9Mg3Eq1xFCoiDz4oO9waVCZvteGl4toxAoL1vUGw4GPBTBrzWhyErzDo57ssg_yn2OPl5TWO3cGfXDDM5IAg4_kkd_P37NQ&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 41,
+            "title": "Languages Are Everywhere [Book]",
+            "link": "https://www.google.com/url?url=https://www.barnesandnoble.com/w/languages-are-everywhere-nandi-sims/1141351023%3Fean%3D9781731652744&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECJ0R&usg=AOvVaw0mqmFV3LU_2aqxFCuVQI4J",
+            "product_link": "https://www.google.com/shopping/product/2158989480999960496",
+            "product_id": "2158989480999960496",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=2158989480999960496",
+            "source": "Barnes & Noble",
+            "price": "$28.50",
+            "extracted_price": 28.5,
+            "extensions": [
+                "Hardcover",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQWPEGfpx3iKuNnHmvyp4H1ZFoJUbjGr9yRawAk4pRmGZvRpil32QdWgwwWQ900CNvPeFxc35DLeTg5S0-JoLm1Ldqh9n4je0_7ldq78ifJ&usqp=CAE",
+            "delivery": "$4.99 delivery"
+        },
+        {
+            "position": 42,
+            "title": "Everything You Need to Ace English Language Arts in One Big Fat Notebook: The ...",
+            "link": "https://www.google.com/url?url=https://www.rainbowresource.com/product/065404/Everything-You-Need-to-Ace-English-Language-Arts-In-One-Big-Fat-Notebook.html%3Ftrackcode%3DgoogleBase&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECK8R&usg=AOvVaw3yrMAhmUiTsMNM8CNVJ5Uo",
+            "product_link": "https://www.google.com/shopping/product/18074388373879033155",
+            "product_id": "18074388373879033155",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=18074388373879033155",
+            "source": "Rainbow Resource Center",
+            "price": "$12.50",
+            "extracted_price": 12.5,
+            "rating": 4.9,
+            "reviews": 24,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQGBcXUop-jwGq53kPHfd_OHg1jOeswI09qQw-E1qR0ZpsU6WQxaEkVRTSircQ46OwwgYhZV8zPqd9O_RzFWWom2yUlyShGUa3YQtc8x5J2&usqp=CAE",
+            "delivery": "$6.95 delivery"
+        },
+        {
+            "position": 43,
+            "title": "A Divine Language: Learning Algebra, Geometry, and Calculus at the Edge of Old ...",
+            "link": "https://www.google.com/url?url=https://symposiumbooks.com/collections/recent-new-releases/products/a-divine-language-learning-algebra-geometry-and-calculus-at-the-edge-of-old-age&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECL8R&usg=AOvVaw02j3mvE9Erz6zViHFmgMfA",
+            "product_link": "https://www.google.com/shopping/product/1831057933563158417",
+            "product_id": "1831057933563158417",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1831057933563158417",
+            "source": "Symposium Books",
+            "price": "$29.00",
+            "extracted_price": 29.0,
+            "extensions": [
+                "Hardcover",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQz5OWKVwQ0D8yx3xJ9eKn-cpSGSGciSHXv9DR7LxJPAfutZKaVa_GaUDtTvoJJ6ftUPnm0s4lxo3lfWfyGZT3sdm-kKu3kqcycVeOeFMjMy5-DrRAtLlgBGQ&usqp=CAE",
+            "delivery": "Delivery by Sun, Aug 7"
+        },
+        {
+            "position": 44,
+            "title": "Divided by a Common Language: A Guide to British and American English [Book]",
+            "link": "https://www.google.com/url?url=https://www.target.com/p/divided-by-a-common-language-by-christopher-davies-paperback/-/A-76977365%3Fref%3Dtgt_adv_XS000000%26AFID%3Dgoogle_pla_df_free_online%26CPNG%3DEntertainment%26adgroup%3D247-8&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECNAR&usg=AOvVaw12sE_bD0NIc7ITkos3Y5ea",
+            "product_link": "https://www.google.com/shopping/product/3749962812955098158",
+            "product_id": "3749962812955098158",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3749962812955098158",
+            "source": "Target",
+            "price": "$10.99",
+            "extracted_price": 10.99,
+            "rating": 4.5,
+            "reviews": 2,
+            "extensions": [
+                "LOW PRICE",
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTpWADVAvF1n7Nwf1KUg_FtCGKVV8506tFbrA1kgSVuYOxYr7_lk2II7JADX9rgHfgt1w0_HdQrD_q-59wov_bslbSLcuyAjhhJCB7GqRODq5T5wczbuj3DMw&usqp=CAE",
+            "tag": "LOW PRICE",
+            "delivery": "Delivery by Sun, Jul 31"
+        },
+        {
+            "position": 45,
+            "title": "How Languages are Learned [Book]",
+            "link": "https://www.google.com/url?url=http://www.bkstr.com/csunorthridgestore/product/how-languages-are-learned-798089-1&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECOER&usg=AOvVaw01lBpoWV3OEIC7pdUlNsY5",
+            "product_link": "https://www.google.com/shopping/product/3176538411394622513",
+            "product_id": "3176538411394622513",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=3176538411394622513",
+            "source": "Matador Bookstore",
+            "price": "$62.95",
+            "extracted_price": 62.95,
+            "extensions": [
+                "Paperback",
+                "paperback"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_KIaPhK9thfgzZG5kOg5sGZZRdymTHWiKsvwgkgQyG7Lvq4Uh7cJuNyaIqOJiQSwJeBVW9efJtWRHgO1uRpeQGeNs52GgJTPPt_tdsBuaT0JugdHhj35lUA&usqp=CAE",
+            "delivery": "$5.50 delivery"
+        },
+        {
+            "position": 46,
+            "title": "Everything Sign Language Book [Book]",
+            "link": "https://www.google.com/url?url=https://www.betterworldbooks.com/product/detail/9781580628822%3Fshipto%3DUS%26curcode%3DUSD%26srsltid%3DAdGWZVTkI6OsYczQVhqFVLzC_xmaR3X6nqpPiyMNANfKWjgEau2k72knjXw&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECPER&usg=AOvVaw01FRQJ2GpUbn0kKwINJuHa",
+            "product_link": "https://www.google.com/shopping/product/4227838032388242511",
+            "product_id": "4227838032388242511",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4227838032388242511",
+            "source": "Better World Books",
+            "price": "$4.75",
+            "extracted_price": 4.75,
+            "rating": 4.4,
+            "reviews": 19,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSkP6QFMQOj0EELHV31y9iGsRdNtcw1O6hN_nwNTLNuVIwvJNLjPdSpa7A-bs-1QRkIZ0rSE-I_uOYSF1HBwqw_Oom-TZJOfBWJgrvI2TSL&usqp=CAE",
+            "delivery": "Delivery by Mon, Aug 8"
+        },
+        {
+            "position": 47,
+            "title": "Teaching English as a Foreign Language For Dummies [Book]",
+            "link": "https://www.google.com/url?url=/shopping/product/13003547751705701935%3Fsourceid%3Dchrome%26q%3Dlanguage%26gl%3Dus%26hl%3Den%26prds%3Deto:13948324687416100054_1,pid:13171943214391906830,rsk:PC_10480642680588113085&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECIYS&usg=AOvVaw2MsVqi8z-WOJaFnP7K7cB9",
+            "product_link": "https://www.google.com/shopping/product/13003547751705701935",
+            "product_id": "13003547751705701935",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13003547751705701935",
+            "source": "Lucy & Phyllis Bookstore",
+            "price": "$25.99",
+            "extracted_price": 25.99,
+            "rating": 4.8,
+            "reviews": 7,
+            "extensions": [
+                "SALE",
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSDEHaTY_tsMUR17Vbfy0iaI26ilNx5pLttylKTiPDWFx5ZRCmHJDHPW17lf5ow9vvESu6FDCDDQRJkV0pLpTSCAQ4UNs2hxAp-LdlX_5k&usqp=CAE",
+            "tag": "SALE",
+            "delivery": "Google Guarantee \u00b7 Free 30-day returns"
+        },
+        {
+            "position": 48,
+            "title": "Language [Book]",
+            "link": "https://www.google.com/url?url=https://www.thriftbooks.com/w/language_leonard-bloomfield/374788/item/26182753/%3Fisbn%3D0226060675%26idiq%3D26182753&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECJcS&usg=AOvVaw2NAu2V6ybfast6rI_n1M4-",
+            "product_link": "https://www.google.com/shopping/product/6000762290407498035",
+            "product_id": "6000762290407498035",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6000762290407498035",
+            "source": "Thriftbooks.com",
+            "price": "$59.98",
+            "extracted_price": 59.98,
+            "extensions": [
+                "Non-fiction",
+                "paperback"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQjxXQtVz7AAT99sWX6qMV4A_B79YoYwFL1fqZ1tPumNKIY4zOduFNyuvZlCPiHMFWDZy6XCiexBWeSs0hLpKd0h2pX_tPlPsKE77AIBd67TiamqRej4WBhQg&usqp=CAE",
+            "delivery": "Free delivery by Aug 11 & Free 30-day returns"
+        },
+        {
+            "position": 49,
+            "title": "The Study of Language [Paperback]",
+            "link": "https://www.google.com/url?url=https://www.abebooks.com/Study-Language-Yule-George-Cambridge-University/31142986900/bd&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECKsS&usg=AOvVaw0jrUTkvM-QGThqJhaGgjBr",
+            "product_link": "https://www.google.com/shopping/product/214290791937121667",
+            "product_id": "214290791937121667",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=214290791937121667",
+            "source": "AbeBooks.com",
+            "price": "$30.78",
+            "extracted_price": 30.78,
+            "rating": 4.0,
+            "reviews": 2,
+            "extensions": [
+                "PRICE DROP",
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSFgWctoKd6GEmopZWifyPvzmTMSJIimOedLJSK2U84_iyoDeJNNwceq08hIcvSahtXs-I_6sRztNFK4xGGNYPA_O2Xc0I1sUc_NF1WrbM&usqp=CAE",
+            "tag": "PRICE DROP",
+            "delivery": "Delivery by Mon, Aug 15"
+        },
+        {
+            "position": 50,
+            "title": "Explorations in Language Acquisition and Use: The Taipei Lectures [Book]",
+            "link": "https://www.google.com/url?url=https://www.booksamillion.com/p/Explorations-Language-Acquisition-Use/Stephen-D-Krashen/9780325005546&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECLwS&usg=AOvVaw0pdO4d707BuDSfhsHYtrg0",
+            "product_link": "https://www.google.com/shopping/product/6154471612488329902",
+            "product_id": "6154471612488329902",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=6154471612488329902",
+            "source": "Books-A-Million",
+            "price": "$26.25",
+            "extracted_price": 26.25,
+            "extensions": [
+                "Paperback",
+                "paperback"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSdZhl6ILFLVj9ZBdQNX5qLY0ub_SAuUJpmcRVX8BaVGI6nu65hHWrlz6LZKRITGt9Yl66ZZBclx-Os8jEASjbF6AcfsbIeqx3bOdo0ntHd4jLONwDpgl6Q&usqp=CAE",
+            "delivery": "$6.00 delivery"
+        },
+        {
+            "position": 51,
+            "title": "The Language Construction Kit [Book]",
+            "link": "https://www.google.com/url?url=https://www.secondsale.com/p/the-language-construction-kit/4180913%3Fean13%3D9780984470006%26id_product_attribute%3D39400993&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECM0S&usg=AOvVaw00uDw-swP6mcrhnrVVtngy",
+            "product_link": "https://www.google.com/shopping/product/7678176521520598466",
+            "product_id": "7678176521520598466",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7678176521520598466",
+            "source": "SecondSale",
+            "price": "$15.41",
+            "extracted_price": 15.41,
+            "extensions": [
+                "Paperback",
+                "Yonagu Books"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTab56HwHmthLzQMiFcTk_-PwlamX3BMVxdjQ5F8M1pYrxuPxz52yCeOMB6fyUZTlFFbbDMjMpt4DDufAMdc8G3L0Qjs2Xw8ZlkYkgdrgFF-KNjT0_ijwKJDQ&usqp=CAE",
+            "delivery": "Free delivery by Thu, Aug 4"
+        },
+        {
+            "position": 52,
+            "title": "The Study of Language [Book]",
+            "link": "https://www.google.com/url?url=https://www.bookdepository.com/The-Study-of-Language-George-Yule/9781108730709%3Fredirected%3Dtrue%26utm_medium%3DGoogle%26utm_campaign%3DBase2%26utm_source%3DUS%26utm_content%3DThe-Study-of-Language%26selectCurrency%3DUSD%26w%3DAFCCAU9SYBYBSSA8VTQP&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECOIS&usg=AOvVaw0OYMrff9Qy5RGGmuzbNcUr",
+            "product_link": "https://www.google.com/shopping/product/16563024307872811598",
+            "product_id": "16563024307872811598",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=16563024307872811598",
+            "source": "BookDepository.com",
+            "price": "$33.01",
+            "extracted_price": 33.01,
+            "extensions": [
+                "SALE",
+                "eBook",
+                "Non-fiction",
+                "PDF"
+            ],
+            "thumbnail": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTULFx9vfLOi2Q0ZkyIkQXk5RLOfci49UMkOT5H9OLetXTW7-HTX1m-E6ovuIFrBXnwREwNUFFsWSW91JtSw_FPK5shdimsolXJDKDkC97s&usqp=CAE",
+            "tag": "SALE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 53,
+            "title": "The Language Instinct: How the Mind Creates Language [Book]",
+            "link": "https://www.google.com/url?url=https://www.harpercollins.com/products/the-language-instinct-steven-pinker%3Fcurrency%3DUSD%26variant%3D32128625213474%26utm_medium%3Dcpc%26utm_source%3Dgoogle%26utm_campaign%3DGoogle%2520Shopping&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECPMS&usg=AOvVaw1ldi9kdKYzh_LfaJYQGpL8",
+            "product_link": "https://www.google.com/shopping/product/13701300078471127723",
+            "product_id": "13701300078471127723",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=13701300078471127723",
+            "source": "HarperCollins Publishers",
+            "price": "$14.39",
+            "extracted_price": 14.39,
+            "rating": 4.0,
+            "reviews": 9,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRTj_hgqSwVAUX4UMkaaRGCoxYfGSRip_lgjHilZXKjjaBU6MyGbDivkdukr6l8TCmvh8nOmQdli5ByStktCBVvNvcieiYLHd9kXD8Ck277kOwiE39ZmW6m&usqp=CAE",
+            "delivery": "Delivery by Wed, Aug 3"
+        },
+        {
+            "position": 54,
+            "title": "Free Translate - Language Translator For Android",
+            "link": "https://www.google.com/url?url=https://www.codester.com/items/35186/Free-Translate---Language-Translator-For-Android&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQgOUECP8S&usg=AOvVaw3qJn2y4xNj-3ZFqVtJLeqJ",
+            "source": "Codester",
+            "price": "$25.00",
+            "extracted_price": 25.0,
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcThtlQriVfeEWSSFDCyE-TDk59lsQRaeK4Ffl6BJC44f0GSM-KxK8MqtLJir1hti9N89g3NLcuoHswpBECriRN35p2Bhzzyfw&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 55,
+            "title": "Cambridge IGCSE First Language English 4th Edition [Book]",
+            "link": "https://www.google.com/url?url=https://www.target.com/p/cambridge-igcse-first-language-english-4th-edition-by-john-reynolds-paperback/-/A-87130292%3Fref%3Dtgt_adv_XS000000%26AFID%3Dgoogle_pla_df_free_online%26CPNG%3DEntertainment%26adgroup%3D247-39&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECI4T&usg=AOvVaw2B1ggghvksK95vXD3uX1ak",
+            "product_link": "https://www.google.com/shopping/product/5904770311057412154",
+            "product_id": "5904770311057412154",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5904770311057412154",
+            "source": "Target",
+            "price": "$39.00",
+            "extracted_price": 39.0,
+            "rating": 5.0,
+            "reviews": 1,
+            "extensions": [
+                "Paperback",
+                "paperback"
+            ],
+            "thumbnail": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQPX2y3sWridmcaVBQQ4O_YkFYIiap-HH4F45OsTyAV8qp_4biPgdh5uMGjxf1euVy36kJUg2rdSj1goPcRRZgqNPG5LZ5hS1hVbhbRH9RU0zBWbFnMlJz5&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 56,
+            "title": "On Language [Book]",
+            "link": "https://www.google.com/url?url=https://www.biblio.com/book/language-safire-william/d/1437941815%3Faid%3Dfrg%26srsltid%3DAdGWZVSOKmkuga4_fp4YHAMgPWQpGkhOk9388DC6806R7KahCWm_mi5rb00&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECKAT&usg=AOvVaw3VaYDKgXoBqxw6F83IInE8",
+            "product_link": "https://www.google.com/shopping/product/4073037559024307140",
+            "product_id": "4073037559024307140",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=4073037559024307140",
+            "source": "Biblio.com - The Book House - St. Louis",
+            "price": "$12.00",
+            "extracted_price": 12.0,
+            "rating": 5.0,
+            "reviews": 1,
+            "extensions": [
+                "Hardcover",
+                "Times Books"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQCroPVEn6apvf6kNlMGG3nxBj4m1_oRUfNo_3M_l6UkzIoEfeuQfYQt4dAMmqYWTVheizC9s8CzDGd9moaJEqaaY40YT_6&usqp=CAE",
+            "delivery": "$6.00 delivery"
+        },
+        {
+            "position": 57,
+            "title": "How Languages Work: An Introduction to Language and Linguistics [Book]",
+            "link": "https://www.google.com/url?url=https://www.chegg.com/book/9781108454513&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECK8T&usg=AOvVaw12PF8tQPw4Q89WPi7MfD1N",
+            "product_link": "https://www.google.com/shopping/product/5119041765923028511",
+            "product_id": "5119041765923028511",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=5119041765923028511",
+            "source": "Chegg",
+            "price": "$44.99",
+            "extracted_price": 44.99,
+            "extensions": [
+                "Paperback",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR50ni1rCXy13smIAOv3Z-LTJgUqFClK7OZ5G34eTMSMXXjpkUz0amURjyN4cP92OgGAdLhKs-NHc9UODZOd38Ez7eYLKrBjp1HqO7hpRFa&usqp=CAE",
+            "delivery": "$1.99 delivery \u00b7 Free 21-day returns"
+        },
+        {
+            "position": 58,
+            "title": "All about Language: Science, Theory, and Practice [Book]",
+            "link": "https://www.google.com/url?url=https://products.brookespublishing.com/All-About-Language-P1160.aspx&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECMAT&usg=AOvVaw0-fZHtlUQ-OZ35iGF4b9f1",
+            "product_link": "https://www.google.com/shopping/product/15287432899319902461",
+            "product_id": "15287432899319902461",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=15287432899319902461",
+            "source": "Brookes Publishing",
+            "price": "$79.95",
+            "extracted_price": 79.95,
+            "extensions": [
+                "Hardcover",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRB2fap5nUKbKbsr5vrWMs54ZC-gTQ3arfdr5D5JGE2vHbOyttAZTbpfRoaW96eABruq9dk6CkRFptRPGwqsJADDPgzX2wcBxHbCnbUhAJlitz___sawWIo&usqp=CAE",
+            "delivery": "Delivery by Mon, Aug 8"
+        },
+        {
+            "position": 59,
+            "title": "Encyclopedia of Language and Linguistics [Book]",
+            "link": "https://www.google.com/url?url=https://www.ebay.com/itm/353840808864%3Fchn%3Dps%26mkevt%3D1%26mkcid%3D28&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECM4T&usg=AOvVaw1uXVADqStqfMnapxohkKo7",
+            "product_link": "https://www.google.com/shopping/product/7184357604288482152",
+            "product_id": "7184357604288482152",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=7184357604288482152",
+            "source": "eBay - greatbookprices1",
+            "price": "$322.35",
+            "extracted_price": 322.35,
+            "extensions": [
+                "Hardcover",
+                "Non-fiction"
+            ],
+            "thumbnail": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTUpka6WG4d9jvQnkX-i_tLFl3WmE2ZaQN8DsbZtosggZzCqgULv-rdki1iKWdk-ZqKRQxTcDVr0pTL1Aqq-RRrz4NLlLR-tGrknti-K6c&usqp=CAE",
+            "delivery": "Free delivery"
+        },
+        {
+            "position": 60,
+            "title": "Imaginary Languages: Myths, Utopias, Fantasies, Illusions, and Linguistic ...",
+            "link": "https://www.google.com/url?url=/shopping/product/1446641561815335780%3Fsourceid%3Dchrome%26q%3Dlanguage%26gl%3Dus%26hl%3Den%26prds%3Deto:17254482347257828035_1,pid:15358451150335497203&rct=j&q=&esrc=s&sa=U&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQguUECNwT&usg=AOvVaw1UfDnqmOoWH1ouWraFe8j0",
+            "product_link": "https://www.google.com/shopping/product/1446641561815335780",
+            "product_id": "1446641561815335780",
+            "serpapi_product_api": "https://serpapi.com/search.json?device=desktop&engine=google_product&gl=us&google_domain=google.com&hl=en&product_id=1446641561815335780",
+            "source": "LibroWorld.com",
+            "price": "$24.40",
+            "extracted_price": 24.4,
+            "extensions": [
+                "Hardcover",
+                "Language Arts"
+            ],
+            "thumbnail": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRNgYUA-tZj0yad5f30VxYryo-CSSlX9KAmTA10VFOm6703628wfMiPcGgErEtGRntnptUi2C2GG6SH39gNy8cjmTzltWQpLjWcW0oZxuBjpvXqKIO7KS8x&usqp=CAE",
+            "delivery": "Google Guarantee"
+        }
+    ],
+    "pagination": {
+        "current": 1,
+        "next": "https://www.google.com/search?q=language&gl=us&hl=en&tbs=vw:d&tbm=shop&ei=RoPcYq2nOoqr0PEP8_-XsA4&start=60&sa=N&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQ8NMDCL4U",
+        "other_pages": {
+            "2": "https://www.google.com/search?q=language&gl=us&hl=en&tbs=vw:d&tbm=shop&ei=RoPcYq2nOoqr0PEP8_-XsA4&start=60&sa=N&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQ8tMDCLAU",
+            "3": "https://www.google.com/search?q=language&gl=us&hl=en&tbs=vw:d&tbm=shop&ei=RoPcYq2nOoqr0PEP8_-XsA4&start=120&sa=N&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQ8tMDCLIU",
+            "4": "https://www.google.com/search?q=language&gl=us&hl=en&tbs=vw:d&tbm=shop&ei=RoPcYq2nOoqr0PEP8_-XsA4&start=180&sa=N&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQ8tMDCLQU",
+            "5": "https://www.google.com/search?q=language&gl=us&hl=en&tbs=vw:d&tbm=shop&ei=RoPcYq2nOoqr0PEP8_-XsA4&start=240&sa=N&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQ8tMDCLYU",
+            "6": "https://www.google.com/search?q=language&gl=us&hl=en&tbs=vw:d&tbm=shop&ei=RoPcYq2nOoqr0PEP8_-XsA4&start=300&sa=N&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQ8tMDCLgU",
+            "7": "https://www.google.com/search?q=language&gl=us&hl=en&tbs=vw:d&tbm=shop&ei=RoPcYq2nOoqr0PEP8_-XsA4&start=360&sa=N&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQ8tMDCLoU",
+            "8": "https://www.google.com/search?q=language&gl=us&hl=en&tbs=vw:d&tbm=shop&ei=RoPcYq2nOoqr0PEP8_-XsA4&start=420&sa=N&ved=0ahUKEwit4oWRlJD5AhWKFTQIHfP_BeYQ8tMDCLwU"
+        }
+    },
+    "serpapi_pagination": {
+        "current": 1,
+        "next_link": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=language&start=60&tbm=shop&tbs=vw%3Ad",
+        "next": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=language&start=60&tbm=shop&tbs=vw%3Ad",
+        "other_pages": {
+            "2": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=language&start=60&tbm=shop&tbs=vw%3Ad",
+            "3": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=language&start=120&tbm=shop&tbs=vw%3Ad",
+            "4": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=language&start=180&tbm=shop&tbs=vw%3Ad",
+            "5": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=language&start=240&tbm=shop&tbs=vw%3Ad",
+            "6": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=language&start=300&tbm=shop&tbs=vw%3Ad",
+            "7": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=language&start=360&tbm=shop&tbs=vw%3Ad",
+            "8": "https://serpapi.com/search.json?device=desktop&engine=google&gl=us&google_domain=google.com&hl=en&q=language&start=420&tbm=shop&tbs=vw%3Ad"
+        }
+    }
+}

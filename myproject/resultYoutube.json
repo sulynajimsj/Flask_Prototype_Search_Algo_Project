@@ -1,0 +1,548 @@
+{
+    "search_metadata": {
+        "id": "62ddc53ae4a23d503c6c9798",
+        "status": "Success",
+        "json_endpoint": "https://serpapi.com/searches/81aaaf5984b3969a/62ddc53ae4a23d503c6c9798.json",
+        "created_at": "2022-07-24 22:18:34 UTC",
+        "processed_at": "2022-07-24 22:18:34 UTC",
+        "youtube_url": "https://www.youtube.com/results?search_query=Discover+maloqueiro+cabelo+enrolado+%27s+popular+videos+-+TikTok",
+        "raw_html_file": "https://serpapi.com/searches/81aaaf5984b3969a/62ddc53ae4a23d503c6c9798.html",
+        "total_time_taken": 0.96
+    },
+    "search_parameters": {
+        "engine": "youtube",
+        "search_query": "Discover maloqueiro cabelo enrolado 's popular videos - TikTok"
+    },
+    "search_information": {
+        "total_results": 3965,
+        "video_results_state": "Results for exact spelling"
+    },
+    "video_results": [
+        {
+            "position_on_page": 1,
+            "title": "MALUQUINHA CABELO ENROLADO, RELA\u00c7\u00c3O ABERTA QUE DEU CERTO x BEAT VEM, VEM [ PIQUEZIN DO TIK TOK ]",
+            "link": "https://www.youtube.com/watch?v=4FRR2BE_u98",
+            "channel": {
+                "name": "DS MOVIC YTB \u03df",
+                "link": "https://www.youtube.com/channel/UCMOy9HdWi7dvkBB2QoC10Xg",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQX_0ciChp8xL9s7Ls2rk5tK8ZiY_L46daOH7GkyWI=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "10 months ago",
+            "views": 1241452,
+            "length": "2:03",
+            "description": "Quer sua m\u00fasica no canal Ds Movic YTB ? Entre em contato comigo pelo Instagram : @CaioDs2k Fa\u00e7a j\u00e1 seu or\u00e7amento!",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/4FRR2BE_u98/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6QiPOhrlj6E7PCyi6m7U96qN5Ng"
+            }
+        },
+        {
+            "position_on_page": 2,
+            "title": "CRAZY CURLS \ud83d\ude31 Fazendo dedoliss em cabelo afro \ud83d\udc88\u2702\ufe0f",
+            "link": "https://www.youtube.com/watch?v=OA2PawxC7nI",
+            "channel": {
+                "name": "Agno black red",
+                "link": "https://www.youtube.com/c/Agnoblackred",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQjVKjR0EIEiGux9jyy1iJQ5vdlnFFk0GkdB7X06Tw=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 2585632,
+            "length": "7:20",
+            "description": "LINK PARA NOSSO GRUPO VIP https://linktr.ee/agnoblackred.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/OA2PawxC7nI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCkfVcXwbUAk5nJV8zCXQjyQJ6Bug"
+            }
+        },
+        {
+            "position_on_page": 3,
+            "title": "Dsloboda_ | Dennis Sloboda | Dennis Sloboda Tiktok | Dennis Sloboda Sal\u00e3o | Dennis Sloboda Idade",
+            "link": "https://www.youtube.com/watch?v=nxqMoF8U4EM",
+            "channel": {
+                "name": " Brazil Idol",
+                "link": "https://www.youtube.com/channel/UCmZohxj1TpAYW-q28DVTSKQ",
+                "thumbnail": "https://yt3.ggpht.com/naeIxdIM6rZ5xUbvG6Y8Y8fDzqYS_muNow6RTSA4TxGNYCWmKm6z6WvFQr3bJPWIQ7M-yUfyHA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "6 months ago",
+            "views": 945,
+            "length": "11:32",
+            "description": "DSLOBODA_ , DENNIS SLOBODA , DENNIS SLOBODA TIKTOK , DENNIS SLOBODA SAL\u00c3O , DENNIS SLOBODA IDADE\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/nxqMoF8U4EM/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbmmBRFaV0deaG3pKDUm0zoin-jQ"
+            }
+        },
+        {
+            "position_on_page": 4,
+            "title": "MALUQUINHA CABELO ENROLADO SORRISO APAIXONANTE, RELA\u00c7\u00c3O ABERTA QUE DEU CERTO[ TIK TOK ] BEAT VEM VEM",
+            "link": "https://www.youtube.com/watch?v=yGXw-YazThk",
+            "channel": {
+                "name": "R10 O Pinta",
+                "link": "https://www.youtube.com/c/R10OPINTA",
+                "thumbnail": "https://yt3.ggpht.com/TtMh7clxobfKElgLJM8N0zlC4znjXHoXHz8Btizdiz0ev4cXonsUe7nv2y6uQrfOmxOYsN4m=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "9 months ago",
+            "views": 1409791,
+            "length": "2:15",
+            "description": "Letra; Maluquinha, cabelo enrolado Sorriso apaixonante, quase que eu cai no la\u00e7o No primeiro encontro era s\u00f3 inocencia,\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/yGXw-YazThk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDtAFRkxyUOe7iSSZtwC3300Mp34g"
+            }
+        },
+        {
+            "position_on_page": 5,
+            "title": "CACHEADO MAIS LINDO DO YOUTUBE | Cabelos cacheados,cacheados,cacheado,cachos,cacho,cacheada, #shorts",
+            "link": "https://www.youtube.com/watch?v=NehGRE8RwW8",
+            "channel": {
+                "name": "Vibe Delas",
+                "link": "https://www.youtube.com/channel/UC-YS78aWuIe-qhMsrhkUHrw",
+                "thumbnail": "https://yt3.ggpht.com/C_Yn-TTvk-mNYf6iUK2QXWAA9VtURM_cZPIZJiPMnarg_JnXQYcdfAbWBchh4TPce0hYAEk7Cq0=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "11 months ago",
+            "views": 103606,
+            "length": "0:13",
+            "description": "TAGS: cacheado mais lindo do youtube,cabelos cacheados,cacheados,cacheado,cachos,cacho,cacheada,cabelo cacheado\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/NehGRE8RwW8/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCsTyvMBSbEQWGUgCf37TFSPCdnKg"
+            }
+        },
+        {
+            "position_on_page": 6,
+            "title": "Cabelos Cacheados TikTok (finaliza\u00e7\u00e3o,hidrata\u00e7\u00e3o, etc)",
+            "link": "https://www.youtube.com/watch?v=dVAJXurZr2I",
+            "channel": {
+                "name": "Aleat\u00f3ria \u2615\ufe0e",
+                "link": "https://www.youtube.com/c/Aleat%C3%B3ria%E3%82%B7",
+                "thumbnail": "https://yt3.ggpht.com/WzKmS-WQzQ_9Avg01pUfgWcOyC1trcfWjWBp1R-3ZPjg3F2GzxYQFrloK7GpiXprdDHDyo5Vow=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "5 months ago",
+            "views": 18642,
+            "length": "11:13",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/dVAJXurZr2I/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCHPu3blnNTpoC7h8btuYxegNElCQ"
+            }
+        },
+        {
+            "position_on_page": 7,
+            "title": "Cabelos cacheados masculinos  #youtube #hickfrost",
+            "link": "https://www.youtube.com/watch?v=cxH2vrkCHdk",
+            "channel": {
+                "name": "Hick Frost",
+                "link": "https://www.youtube.com/channel/UCBkBPIzUI-WJ7hVGGhgPZmQ",
+                "thumbnail": "https://yt3.ggpht.com/9o5Ejr66bWn9i0dNwlAbxXeYhB9JjddGPjke5vD6UvwmQ90oNlBUXg0UNGXBAoH3od2NLmMkkw=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 52,
+            "length": "0:12",
+            "description": "Me segue nas redes sociais vizinhas, l\u00e1 eu fa\u00e7o passo a passo de como fazer Instagram: Hickfrost Tiktok: Hickfrost Snapchat:\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/cxH2vrkCHdk/hq720_2.jpg?sqp=-oaymwEkCJQDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDKhy1A2WuWVCAF3cKVIrRxxeP-Ng"
+            }
+        },
+        {
+            "position_on_page": 8,
+            "title": "Trend Cabelo Cacheados",
+            "link": "https://www.youtube.com/watch?v=1zLu5UaOO_Y",
+            "channel": {
+                "name": "Rebeca Guedes",
+                "link": "https://www.youtube.com/channel/UCxsMUV5eBEQBgeG9qQaF4-g",
+                "thumbnail": "https://yt3.ggpht.com/OcLu9qBcq9otoICSJJf96hF4YwJj5msPUTvyvpHaEjE7dcT8ApTd-1xDhPqU_fCrOP-cCmPfKA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "11 months ago",
+            "views": 19,
+            "length": "0:13",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/1zLu5UaOO_Y/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBFrfZKJQugxl0_i8y1KMSmDqWD2A"
+            }
+        },
+        {
+            "position_on_page": 9,
+            "title": "Tiktok Boy Hairstyle Tutorial",
+            "link": "https://www.youtube.com/watch?v=OGpx0Ay5Bos",
+            "channel": {
+                "name": "Shodon Naicker",
+                "link": "https://www.youtube.com/channel/UCurb3NwbDXfLUQmnW9MaNfw",
+                "thumbnail": "https://yt3.ggpht.com/DbfzCTnRNSxwdnQycJrXSHXhIK0hY96aF2ePqNYjzwEfRYLEVozMgTOEMfeI-8oX5-Oz1TsE=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "6 months ago",
+            "views": 511690,
+            "length": "0:33",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/OGpx0Ay5Bos/hq2.jpg?sqp=-oaymwEkCLsCEOgCSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCkEV6xoSj1hQ6TJ_1YzsBNnqgVMg"
+            }
+        },
+        {
+            "position_on_page": 10,
+            "title": "Reagindo a v\u00eddeos do Tik Tok  - Franja com cabelo enrolado.",
+            "link": "https://www.youtube.com/watch?v=KQLMy-dqtdM",
+            "channel": {
+                "name": "Graziane Brook",
+                "link": "https://www.youtube.com/channel/UCFlmy5Xa4ao6CpvxeHuvM5Q",
+                "thumbnail": "https://yt3.ggpht.com/BxLyKttWoisF39s5h01FdMrOq9dSw0EgUY2uox3rAFnk5xMrzN40QP70XIL0agDh8cFVeI8qWeo=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "10 months ago",
+            "views": 8470,
+            "length": "0:19",
+            "description": "Ol\u00e1 galerinha!!! Se inscreva no meu canal, comente, acione o sininho e n\u00e3o esque\u00e7a de deixar seu like   Link do canal do\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/KQLMy-dqtdM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBYIdTJCTnF8YRzWtfUXCHGfvLWvg"
+            }
+        },
+        {
+            "position_on_page": 11,
+            "title": "TOP PENTEADOS PARA CABELOS CACHEADOS \u2728\ud83d\udc9c",
+            "link": "https://www.youtube.com/watch?v=O9hiK7-lSFQ",
+            "channel": {
+                "name": "My Curly Tutorials\u26a1",
+                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
+                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "4 months ago",
+            "views": 293559,
+            "length": "5:27",
+            "description": "Ola Minhas Cacheadas !!!! espero muito que gostem do video de Hoje Se gostarem j\u00e1 deixe seu like \u2728 Se inscreva no canal\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/O9hiK7-lSFQ/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB0S9w15DzqEV21OXbZMJG9upmKhg"
+            }
+        },
+        {
+            "position_on_page": 12,
+            "title": "V\u00eddeos TikTok Cachos",
+            "link": "https://www.youtube.com/watch?v=jD-RtRT2nVI",
+            "channel": {
+                "name": "TIK Cachos. TOk",
+                "link": "https://www.youtube.com/channel/UCe8FcZFFefMqZi-ZtLgyApA",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLTTLHSwg_bfg0XUFcazoeHWKK8VuefUKzlQIIdF0Q=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 13,
+            "length": "1:00",
+            "description": "se inscrever por favor.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/jD-RtRT2nVI/hq2.jpg?sqp=-oaymwEkCOgCEOgCSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLB10_-EULmJCNQ1KKS_G3-VRP3k-A"
+            }
+        },
+        {
+            "position_on_page": 15,
+            "title": "Trying BoHo/Goddess Braids on my Natural Hair | Viral Tiktok",
+            "link": "https://www.youtube.com/watch?v=RS1Ih9FpQj4",
+            "channel": {
+                "name": "Hair by Mz Magic",
+                "link": "https://www.youtube.com/c/MzMagic",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLTveNJLS-w86JlQXiIkWhb5wxNPfVgya_VZxb7CGjw=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "5 days ago",
+            "views": 178,
+            "length": "22:36",
+            "description": "Boho Braids on natural Hair, it ain't as easy as it looks, but I got thru it..follow me on this little adventure ...no weave added Hello\u00a0...",
+            "extensions": [
+                "New",
+                "CC"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/RS1Ih9FpQj4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADhhvSx9KgEJtKwazwb6wcImipXw"
+            }
+        },
+        {
+            "position_on_page": 16,
+            "title": "V\u00eddeos TikTok Cachos",
+            "link": "https://www.youtube.com/watch?v=AE9YMZqg2fo",
+            "channel": {
+                "name": "TIK Cachos. TOk",
+                "link": "https://www.youtube.com/channel/UCe8FcZFFefMqZi-ZtLgyApA",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLTTLHSwg_bfg0XUFcazoeHWKK8VuefUKzlQIIdF0Q=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 6,
+            "length": "0:52",
+            "description": "por favor se inscrever.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/AE9YMZqg2fo/hq720_2.jpg?sqp=-oaymwEkCIADEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBUlNRCoue80EMXtoBGvf_YcSHdWw"
+            }
+        },
+        {
+            "position_on_page": 17,
+            "title": "\ud83d\udd25\ud83d\udc96 penteados f\u00e1ceis para cabelos cacheados, ondulados e crespos \ud83d\udc96\ud83d\udd25",
+            "link": "https://www.youtube.com/watch?v=r32FoB5SWWk",
+            "channel": {
+                "name": "Curly top",
+                "link": "https://www.youtube.com/channel/UCsEGQw1OjKn97Z-i7DYt4DQ",
+                "thumbnail": "https://yt3.ggpht.com/y2SnXa3whKUsyQkOkBJagPXxB1i6JvqL4i7shtmBrXROFAgc8Qz9EaJqIfiZ03IZZ1Jh251Reg=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "8 months ago",
+            "views": 423785,
+            "length": "9:12",
+            "description": "Ol\u00e1, nesse canal voc\u00ea vai ver v\u00eddeos sobre o mundo dos cachos.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/r32FoB5SWWk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzXU80gsdJ5FyRn6WbHVxnmL2ieA"
+            }
+        },
+        {
+            "position_on_page": 18,
+            "title": "QUANDO DIZEM QUE O CABELO N\u00c3O DEFINE | Com @CarlaQueiroz",
+            "link": "https://www.youtube.com/watch?v=kmPpyA3UUDI",
+            "channel": {
+                "name": "Mundo dos Cacheados \u2022 Inspira\u00e7\u00f5es e Refer\u00eancias ",
+                "link": "https://www.youtube.com/c/channelcurly",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/DM21BRiAOIxBGXwjnXJ5FX7ayKBSGcMnRbtwPvCcE0nyar_C6kZAkvWRm1V_j1W5g-MSDBi-=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "5 days ago",
+            "views": 9504,
+            "length": "0:08",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/kmPpyA3UUDI/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBCrtaSmtTPiCnTp0uxD1pWlfeXbA"
+            }
+        },
+        {
+            "position_on_page": 19,
+            "title": "\u2022PENTEADOS F\u00c1CEIS COM EL\u00c1STICOS\u2728\u2601\ufe0f|cabelo cacheado/ondulado #curlyhair",
+            "link": "https://www.youtube.com/watch?v=CdKYKcoc-zA",
+            "channel": {
+                "name": "Kaylla Ricci",
+                "link": "https://www.youtube.com/channel/UCRKPSePETrjQWvJjhPGDAYw",
+                "thumbnail": "https://yt3.ggpht.com/uu63HbMOUSR-3E7BUzC7kL3jhCy2VBnmN6JzniXUv7m6VWsZtEevGT-sbDd9ZS14YOe3dJV4=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "5 months ago",
+            "views": 28062,
+            "length": "9:11",
+            "description": "oiiie meninas!! Voc\u00eas gostam de Penteados com el\u00e1sticos/liguinhas?? CONFIRA NO V\u00cdDEO DE HOJE! #elasticity #el\u00e1stico\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/CdKYKcoc-zA/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBd_EztJi3qZ6sL6SuCawkVNLD6NQ"
+            }
+        },
+        {
+            "position_on_page": 20,
+            "title": "Penteado Simples e r\u00e1pido para todos os tipos de cabelo #shorts #penteados",
+            "link": "https://www.youtube.com/watch?v=a5ZqoK5uuLw",
+            "channel": {
+                "name": "P\u00e2mella Ramos",
+                "link": "https://www.youtube.com/channel/UCwpl9-MHTJD-ofW68tP6HYw",
+                "thumbnail": "https://yt3.ggpht.com/6pn3oIMVDLMu6Huj1DuodT_oYLsbpOGGwo6lCB4KpbMa8ewXuT-h6IP1f3uyjVrPp4zXn-3DdA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "2 weeks ago",
+            "views": 1383,
+            "length": "0:46",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/a5ZqoK5uuLw/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBBWVxcMU8GxbO7mYS_KErcVosn_w"
+            }
+        },
+        {
+            "position_on_page": 21,
+            "title": "Tik tok Curly Hair Routines \ud83d\udc67| Hair Transformation Tiktok Compilation",
+            "link": "https://www.youtube.com/watch?v=1XbF0ll-u4s",
+            "channel": {
+                "name": "Tiktok X",
+                "link": "https://www.youtube.com/c/TiktokXX",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLT4OV3Psw4YhMulDndPmOZpeODgUglHJD4ExSBI=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 595771,
+            "length": "10:45",
+            "description": "Tik toks Curly Hair Routines | Hair Transformation Tiktok Compilation Lets get to 14k Subscribers before February 20th\u2757\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/1XbF0ll-u4s/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBaMLNEUjP-pOy2_js51M1WqrXomw"
+            }
+        },
+        {
+            "position_on_page": 22,
+            "title": "Tiktok de cachos \ud83d\ude18",
+            "link": "https://www.youtube.com/watch?v=kJae20-L_eI",
+            "channel": {
+                "name": "Futuro de Milh\u00f5es",
+                "link": "https://www.youtube.com/channel/UC-hoygPedriv_kbS7w_Zmcg",
+                "thumbnail": "https://yt3.ggpht.com/Lp7pK_ok6PiiLESXCsG4TyNVKC_VPFniEpKQVspeTFUzy9j132EIhHxHUZ_jw-4vaa7ICZBunnc=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "11 months ago",
+            "views": 8,
+            "length": "0:23",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/kJae20-L_eI/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAnTCgUDIcYVR_hTx3hDQkba00lBw"
+            }
+        }
+    ],
+    "people_also_watched": [
+        {
+            "position_on_page": 13,
+            "title": "Finaliza\u00e7\u00e3o Cachos / Tik Tokers \u2728",
+            "link": "https://www.youtube.com/watch?v=lNSeyx8ShXo",
+            "channel": {
+                "name": "My Curly Tutorials\u26a1",
+                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
+                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "9 months ago",
+            "views": 27552,
+            "length": "5:50",
+            "description": "cachos#tiktok#finaliza\u00e7\u00e3o Ol\u00e1 Cacheadas Espero Que Tenham Gostado do Video \u2728 Tik Tokers do Video : @xcaroolx @_izazz\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/lNSeyx8ShXo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDNJkt7hbXxooBJGFQYfmg5v9fhyw"
+            }
+        },
+        {
+            "position_on_page": 14,
+            "title": "REACTING TO CURLY HAIR TIKTOK VIDEOS... well this is embarrassing",
+            "link": "https://www.youtube.com/watch?v=A4wqWDyNoJk",
+            "channel": {
+                "name": "Destinee Wray",
+                "link": "https://www.youtube.com/c/DracoDez",
+                "thumbnail": "https://yt3.ggpht.com/D_EjtUzHCr4Ty1laHsRUIsh3mryNQUS3UsBGybsf-pe9izD4viBz67woJsH77mdcv_blItLsng=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 1870822,
+            "length": "10:44",
+            "description": "yolo #roadto100k MERCH: PHONE CASE: https://dez.merchforall.com WHITE T- SHIRT: https://dez.merchforall.com TYEDYE\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/A4wqWDyNoJk/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzUn4Vhc4UvmiinjVAp4CcMTI_pQ"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "AS MELHORES FINALIZA\u00c7\u00c3O PARA CABELOS CACHEADOS \ud83d\udc9c *muita defini\u00e7\u00e3o*",
+            "link": "https://www.youtube.com/watch?v=gHE7CHJJtKI",
+            "channel": {
+                "name": "My Curly Tutorials\u26a1",
+                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
+                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "3 months ago",
+            "views": 34592,
+            "length": "7:09",
+            "description": "Ola Minhas Cacheadas !!!! espero muito que gostem do video de Hoje Se gostarem j\u00e1 deixe seu like \u2728 Se inscreva no canal\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/gHE7CHJJtKI/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB38Y2RaCP5BK696ZtvIHve08byNA"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "PENTEADOS F\u00c1CEIS E R\u00c1PIDOS CABELOS CACHEADOS E CRESPOS \ud83d\udc9c",
+            "link": "https://www.youtube.com/watch?v=AO5xCcvUfCs",
+            "channel": {
+                "name": "My Curly Tutorials\u26a1",
+                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
+                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "6 months ago",
+            "views": 65748,
+            "length": "7:03",
+            "description": "curlyhair#cabeloscacheados#curlyhairstyles Ola Cacheadas Se voc\u00ea quer aprender v\u00e1rios penteados que fujam do rabo de\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/AO5xCcvUfCs/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCsw4jhaFGTKZ43K1LqkQMKePBXdg"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "AS TOP MELHORES FINALIZA\u00c7\u00c3O PARA CABELOS CACHEADOS \ud83d\udc9c",
+            "link": "https://www.youtube.com/watch?v=AWJelNfJAOY",
+            "channel": {
+                "name": "My Curly Tutorials\u26a1",
+                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
+                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "4 months ago",
+            "views": 25658,
+            "length": "6:14",
+            "description": "Ola Minhas Cacheadas !!!! espero muito que gostem do video de Hoje Se gostarem j\u00e1 deixe seu like \u2728 Se inscreva no canal\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/AWJelNfJAOY/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCRYQSQg4Lp2YQj8u2LPMVJHKWcHw"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "OS CABELOS LONGOS MAIS LINDOS DO ISNTA",
+            "link": "https://www.youtube.com/watch?v=AQVxP04eTfA",
+            "channel": {
+                "name": "Herica braga",
+                "link": "https://www.youtube.com/channel/UC51EOn60HWUYP3_wtuzHmTw",
+                "thumbnail": "https://yt3.ggpht.com/_f26KJl6Nbo_RYYN2M8Td9kCSmXGLRzYWT9MqbZZmjVRoxK-m7NE8ESKs0MSW4hSwIuvGKky=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 14746,
+            "length": "9:21",
+            "description": "Os cabelo mais longo lindo do Instagram cabelos longos,cabelos,longos,cabelos longos lindos,cabelos grandes,cabelos longos\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/AQVxP04eTfA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBUWjT_M7Go682ksk83Q7WWIaMQTA"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "50 PENTEADOS F\u00c1CEIS E R\u00c1PIDOS para FAZER SOZINHA em CABELOS CACHEADOS, LISOS e ONDULADOS",
+            "link": "https://www.youtube.com/watch?v=OaZ3bq-xovA",
+            "channel": {
+                "name": "Desvendando Segredos",
+                "link": "https://www.youtube.com/channel/UCsXN1wgE4AfJ-eM-c_vWJnA",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLReVFdMLSRQ4ZeDv0y8GSVqtCYHOGF_W05iHtzr=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "5 months ago",
+            "views": 588714,
+            "length": "18:51",
+            "description": "No v\u00eddeo de hoje trago v\u00e1rios penteados f\u00e1ceis e r\u00e1pidos para voc\u00ea fazer sozinha em casa e esses penteados s\u00e3o para cabelos\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/OaZ3bq-xovA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbq_3kxGd1ayE6IsmoGpn-V3Dmpw"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "ItsJusJas \u2728 Tiktok Baddie Hairstyles Tutorial Compilation\u2728| Babykeledits Videos",
+            "link": "https://www.youtube.com/watch?v=_Naeeo1r9cA",
+            "channel": {
+                "name": "BabyKelEdits",
+                "link": "https://www.youtube.com/channel/UCEHaXujeAwFNY2SUAQiRsng",
+                "thumbnail": "https://yt3.ggpht.com/kLs68EkfmrRbxHttMAp42pod4h9mhFUyCSljzh_f6_Sm5dmySJXzHqr-7UaqjfYY3yat2BjZ=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 220989,
+            "length": "20:11",
+            "description": "keep up with jas\u2728 on social media instagram: itsjust.jas https://www.instagram.com/itsjust.jas/ tiktok: itsjustjass\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/_Naeeo1r9cA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLClDmk4hesGVLR7hyvRpDSllVQW_w"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "ELA CHOROU, MAS OLHA O RESULTADO.\ud83d\udc87\u200d\u2640\ufe0f\ud83c\udf39",
+            "link": "https://www.youtube.com/watch?v=eLvd7Pz4C1Q",
+            "channel": {
+                "name": "CACHOS E CACHOS",
+                "link": "https://www.youtube.com/c/MestredosCachosOficial",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQCgIyoC4cBrA-NjhyYuWCuhotObrAacow78QtU=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 3641219,
+            "length": "1:10",
+            "description": "INSCREVA-SE #PRODUTOS #CACHOS adquiram seu curso/https://go.hotmart.com/V46705746G?dp=1.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/eLvd7Pz4C1Q/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASfvRoPtDYoQVpmQNn6i7uL3vM6Q"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "\u2728baddie curly hairstyles compilation 2022 \u2728",
+            "link": "https://www.youtube.com/watch?v=iM3QvKukilk",
+            "channel": {
+                "name": "Curly top",
+                "link": "https://www.youtube.com/channel/UCsEGQw1OjKn97Z-i7DYt4DQ",
+                "thumbnail": "https://yt3.ggpht.com/y2SnXa3whKUsyQkOkBJagPXxB1i6JvqL4i7shtmBrXROFAgc8Qz9EaJqIfiZ03IZZ1Jh251Reg=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 month ago",
+            "views": 190575,
+            "length": "12:49",
+            "description": "ol\u00e1, aqui voc\u00ea encontra tudo sobre o mundo dos cachos.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/iM3QvKukilk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzM1BGm5Q7Q3J0iTPS6yXp7qQldw"
+            }
+        }
+    ],
+    "pagination": {
+        "current": "https://www.youtube.com/results?search_query=Discover+maloqueiro+cabelo+enrolado+%27s+popular+videos+-+TikTok",
+        "next": "https://www.youtube.com/results?search_query=Discover%20maloqueiro%20cabelo%20enrolado%20%27s%20popular%20videos%20-%20TikTok&sp=SBSCAQs0RlJSMkJFX3U5OIIBC09BMlBhd3hDN25JggELbnhxTW9GOFU0RU2CAQt5R1h3LVlhelRoa4IBC05laEdSRThSd1c4ggELZFZBSlh1clpyMkmCAQtjeEgydnJrQ0hka4IBCzF6THU1VWFPT19ZggELT0dweDBBeTVCb3OCAQtLUUxNeS1kcXRkTYIBC085aGlLNy1sU0ZRggELakQtUnRSVDJuVkmCAQtSUzFJaDlGcFFqNIIBC0FFOVlNWnFnMmZvggELcjMyRm9CNVNXV2uCAQtrbVBweUEzVVVESYIBC0NkS1lLY29jLXpBggELYTVacW9LNXV1THeCAQsxWGJGMGxsLXU0c4IBC2tKYWUyMC1MX2VJsgEGCgQIFRAC",
+        "next_page_token": "SBSCAQs0RlJSMkJFX3U5OIIBC09BMlBhd3hDN25JggELbnhxTW9GOFU0RU2CAQt5R1h3LVlhelRoa4IBC05laEdSRThSd1c4ggELZFZBSlh1clpyMkmCAQtjeEgydnJrQ0hka4IBCzF6THU1VWFPT19ZggELT0dweDBBeTVCb3OCAQtLUUxNeS1kcXRkTYIBC085aGlLNy1sU0ZRggELakQtUnRSVDJuVkmCAQtSUzFJaDlGcFFqNIIBC0FFOVlNWnFnMmZvggELcjMyRm9CNVNXV2uCAQtrbVBweUEzVVVESYIBC0NkS1lLY29jLXpBggELYTVacW9LNXV1THeCAQsxWGJGMGxsLXU0c4IBC2tKYWUyMC1MX2VJsgEGCgQIFRAC"
+    },
+    "serpapi_pagination": {
+        "current": "https://serpapi.com/search.json?engine=youtube&search_query=Discover+maloqueiro+cabelo+enrolado+%27s+popular+videos+-+TikTok",
+        "next": "https://serpapi.com/search.json?engine=youtube&search_query=Discover+maloqueiro+cabelo+enrolado+%27s+popular+videos+-+TikTok&sp=SBSCAQs0RlJSMkJFX3U5OIIBC09BMlBhd3hDN25JggELbnhxTW9GOFU0RU2CAQt5R1h3LVlhelRoa4IBC05laEdSRThSd1c4ggELZFZBSlh1clpyMkmCAQtjeEgydnJrQ0hka4IBCzF6THU1VWFPT19ZggELT0dweDBBeTVCb3OCAQtLUUxNeS1kcXRkTYIBC085aGlLNy1sU0ZRggELakQtUnRSVDJuVkmCAQtSUzFJaDlGcFFqNIIBC0FFOVlNWnFnMmZvggELcjMyRm9CNVNXV2uCAQtrbVBweUEzVVVESYIBC0NkS1lLY29jLXpBggELYTVacW9LNXV1THeCAQsxWGJGMGxsLXU0c4IBC2tKYWUyMC1MX2VJsgEGCgQIFRAC",
+        "next_page_token": "SBSCAQs0RlJSMkJFX3U5OIIBC09BMlBhd3hDN25JggELbnhxTW9GOFU0RU2CAQt5R1h3LVlhelRoa4IBC05laEdSRThSd1c4ggELZFZBSlh1clpyMkmCAQtjeEgydnJrQ0hka4IBCzF6THU1VWFPT19ZggELT0dweDBBeTVCb3OCAQtLUUxNeS1kcXRkTYIBC085aGlLNy1sU0ZRggELakQtUnRSVDJuVkmCAQtSUzFJaDlGcFFqNIIBC0FFOVlNWnFnMmZvggELcjMyRm9CNVNXV2uCAQtrbVBweUEzVVVESYIBC0NkS1lLY29jLXpBggELYTVacW9LNXV1THeCAQsxWGJGMGxsLXU0c4IBC2tKYWUyMC1MX2VJsgEGCgQIFRAC"
+    }
+}
