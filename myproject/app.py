@@ -14,14 +14,16 @@ from youtube_transcript_api import YouTubeTranscriptApi
 
 
 allTranscripts = []
-
+#region cloundinary configuration
 cloudinary.config( 
   cloud_name = "odinsully", 
   api_key = "152393343981388", 
   api_secret = "ZJWfM-yTEFEYYCd13epWWj6tINs",
   secure = True
 )
+#endregion
 
+#region getting frames
 def format_timedelta(td):
     """Utility function to format timedelta objects in a cool way (e.g 00:00:20.05) 
     omitting microseconds and retaining milliseconds"""
@@ -86,10 +88,11 @@ def processVideo(path):
                 pass
         # increment the frame count
         count += 1
+#endregion
 
 
-
-api_key = "b030e28ea1cfde51223c2cb539e2da5d195db3bba98c708fc1dca134b87acf3d"
+#region reverse image search
+api_key = "ede0f7899391ff6bcbab87e5169fb8dc794b21c59eac5aa9e0112b045a393d2d"
 def searchAPI(image_url):
 
     #Reverse Image search: Google only
@@ -133,9 +136,9 @@ def searchAPI(image_url):
     else:
         query = thetitles[1]
     params2 = {
-    "api_key": api_key,
-    "engine": "youtube",
-    "search_query": query
+        "api_key": api_key,
+        "engine": "youtube",
+        "search_query": query
     }
 
     search2 = GoogleSearch(params2)
@@ -145,8 +148,9 @@ def searchAPI(image_url):
     print("The results")
     aLink = results2['search_metadata']['youtube_url']
     webbrowser.open(aLink)
+#endregion
 
-
+#region extra stuff
     # print("All transcripts")
     # ytVideos = results2['video_results']
     # for i in range(0,5):
@@ -196,8 +200,9 @@ def searchAPI(image_url):
     #     json.dump(productResults, fp, indent=4)
     # webbrowser.open(shopLink) 
     #Go to link
+#endregion
 
-
+#region reverse image search and upload to cloudinary3
 #list file names 
 def list_file_name(path):
     fileList = os.listdir(path)
@@ -212,6 +217,7 @@ def inputImages(path):
         searchAPI(url)
         allurls.append(url)
     return allurls
+#endregion
 
 
 
