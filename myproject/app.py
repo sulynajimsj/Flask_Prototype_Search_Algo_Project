@@ -89,12 +89,11 @@ def processVideo(path):
 
 
 
-api_key = "ede0f7899391ff6bcbab87e5169fb8dc794b21c59eac5aa9e0112b045a393d2d"
 def searchAPI(image_url):
 
     #Reverse Image search: Google only
     params = {
-    "api_key": api_key,
+    "api_key": "ca13d0bf8ef1a4a0e4178d60fd95b20fee072112de73a4cf1447bc684e335ede",
     "engine": "google_reverse_image",
     "google_domain": "google.com",
     "q": "",
@@ -133,7 +132,7 @@ def searchAPI(image_url):
     else:
         query = thetitles[1]
     params2 = {
-    "api_key": api_key,
+    "api_key": "ca13d0bf8ef1a4a0e4178d60fd95b20fee072112de73a4cf1447bc684e335ede",
     "engine": "youtube",
     "search_query": query
     }

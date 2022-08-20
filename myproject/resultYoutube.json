@@ -1,572 +1,603 @@
 {
     "search_metadata": {
-        "id": "6300bcb0edb03430218ae2d8",
+        "id": "6300c7a1d5ecf49148968477",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/e5b5142b84339b27/6300bcb0edb03430218ae2d8.json",
-        "created_at": "2022-08-20 10:51:28 UTC",
-        "processed_at": "2022-08-20 10:51:28 UTC",
-        "youtube_url": "https://www.youtube.com/results?search_query=75%2B+Good+Instagram+Captions+For+Selfies+-+Shutterfly",
-        "raw_html_file": "https://serpapi.com/searches/e5b5142b84339b27/6300bcb0edb03430218ae2d8.html",
-        "total_time_taken": 0.91
+        "json_endpoint": "https://serpapi.com/searches/c418e68b59b511d5/6300c7a1d5ecf49148968477.json",
+        "created_at": "2022-08-20 11:38:09 UTC",
+        "processed_at": "2022-08-20 11:38:09 UTC",
+        "youtube_url": "https://www.youtube.com/results?search_query=language+%7C+Definition%2C+Types%2C+Characteristics%2C+Development+...",
+        "raw_html_file": "https://serpapi.com/searches/c418e68b59b511d5/6300c7a1d5ecf49148968477.html",
+        "total_time_taken": 0.84
     },
     "search_parameters": {
         "engine": "youtube",
-        "search_query": "75+ Good Instagram Captions For Selfies - Shutterfly"
+        "search_query": "language | Definition, Types, Characteristics, Development ..."
     },
     "search_information": {
-        "total_results": 5477,
+        "total_results": 7280469,
         "video_results_state": "Results for exact spelling"
     },
     "video_results": [
         {
             "position_on_page": 1,
-            "title": "The Perfect INSTAGRAM Caption: SELFIES",
-            "link": "https://www.youtube.com/watch?v=A1PR4Or_ekU",
+            "title": "Language and it's characteristics",
+            "link": "https://www.youtube.com/watch?v=rUx_Xz0F_Uo",
             "channel": {
-                "name": "SweetyHigh",
-                "link": "https://www.youtube.com/user/SweetyHigh",
-                "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-YanhXBcmVpDRAUOy-13YDf_ZV5tbzHR2HGnmWbA=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Literary Scholar",
+                "link": "https://www.youtube.com/c/LiteraryScholar",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8mJjWYGw0zY8MhFh6VPEYTkehBMRANzQiA0mGl=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "4 years ago",
-            "views": 14690,
-            "length": "1:10",
-            "description": "But first, let me take a selfie Join our sweet community for updates! http://www.sweetyhigh.com http://twitter.com/sweetyhigh\u00a0...",
+            "published_date": "2 years ago",
+            "views": 38350,
+            "length": "15:36",
+            "description": "Linguistics #Language #characteristicsoflanguage.",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/A1PR4Or_ekU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDw2rAYwsSMarPxqdsYP8E9XC80Cg"
+                "static": "https://i.ytimg.com/vi/rUx_Xz0F_Uo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxM5wKhV63mkP8GkKcK_dxQuluvw"
             }
         },
         {
             "position_on_page": 2,
-            "title": "TOP 10 INSTAGRAM CAPTIONS FOR SELFIES!",
-            "link": "https://www.youtube.com/watch?v=h7_ZRN7JLG0",
+            "title": "Meaning, characteristics  and functions of language.",
+            "link": "https://www.youtube.com/watch?v=-tVgBiKbsec",
             "channel": {
-                "name": "Carla Stevenn\u00e9",
-                "link": "https://www.youtube.com/c/BeautyByCarla",
-                "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/XxOAD4QLv2DpwLqWdMXZVnqRq6EG7W6V31X1o5qBGtxhLi84fgyLIXabxSFuT2fz4fugbqUyajo=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Shilpi Dwivedi",
+                "link": "https://www.youtube.com/channel/UCUg5CEP4VlJMh5kRhHbZrbQ",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8H8LLGEOteQ8VBsTontjTRKqgHtTFIT5AmQciT=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "4 years ago",
-            "views": 29069,
-            "length": "8:37",
-            "description": "These are just a few of many catchy good Instagram captions for selfies. These are good Instagram captions for selfies or any\u00a0...",
+            "published_date": "2 years ago",
+            "views": 39703,
+            "length": "20:55",
+            "description": "ctet #language #uptet This video is important for all teaching exams. Do watch, like , share and subscribe to my channel\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/h7_ZRN7JLG0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA00MjFC6XR_l5CsZUbT_rQeauOmg"
+                "static": "https://i.ytimg.com/vi/-tVgBiKbsec/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhd2i75IMr1NVikaZgDLuejav5cQ"
             }
         },
         {
             "position_on_page": 3,
-            "title": "25+ selfie Instagram captions|| Dianna || \ud83c\udf1b\u2728",
-            "link": "https://www.youtube.com/watch?v=aSkiVRW5tRg",
+            "title": "Development | Characteristics of Development | Types of Develeopment",
+            "link": "https://www.youtube.com/watch?v=i-aP_NH8674",
             "channel": {
-                "name": "Jade",
-                "link": "https://www.youtube.com/channel/UCcR4gu2vnA_LETeeTEptZ1w",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_D3fd7UozEIwP6UlNHW8ttCqG37k6Gj0gtZIWleT0=s68-c-k-c0x00ffffff-no-rj"
+                "name": "EDUCATION HUB BY PARUL",
+                "link": "https://www.youtube.com/channel/UC4FUhcMAmFgb8Td3MGVbYqg",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9YMo7Jxea_9icKHwGtd4uIgSkw9mse3ldf-wUpbg=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "2 years ago",
-            "views": 381,
-            "length": "2:38",
-            "description": "Hello Everyone! Here's the list of 25+ selfie captions for your Instagram. Comment below for more videos Ideas. Enjoy and make\u00a0...",
+            "published_date": "1 year ago",
+            "views": 2266,
+            "length": "12:11",
+            "description": "TYPES OF DEVELOPMENT - Erysical development - Social and emotional development. -Language development - Moral\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/aSkiVRW5tRg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4sZeLNRHFHdE7Q5mT_nmaDv-Xjg"
+                "static": "https://i.ytimg.com/vi/i-aP_NH8674/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDGZoq80CeJ7yhby7vl7BOMzsvkQ",
+                "rich": "https://i.ytimg.com/an_webp/i-aP_NH8674/mqdefault_6s.webp?du=3000&sqp=CMj6gpgG&rs=AOn4CLAAsKqYEc8HGNGeWYqUv8_Gn1qgSQ"
             }
         },
         {
             "position_on_page": 4,
-            "title": "Birthday Captions For Instagram | Instagram Birthday Captions For Yourself | Birthday Caption Ideas",
-            "link": "https://www.youtube.com/watch?v=4toCm7gSo3U",
+            "title": "WHAT IS LANGUAGE/ DEFINITIONS OF LANGUAGE",
+            "link": "https://www.youtube.com/watch?v=vZiiBhRhfzA",
             "channel": {
-                "name": "QUITE CAPTION",
-                "link": "https://www.youtube.com/channel/UC5BG1ehc30oYNDw6iHQa7dA",
-                "thumbnail": "https://yt3.ggpht.com/XsMuhDWqBqRn5APSfar-YiPZBXDSZKE7Y-eorQD5W1n0dGPDlSyY7mBlG6B5e4EiytKomHdWmrY=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Linguistics And Literature Studies",
+                "link": "https://www.youtube.com/c/LinguisticsAndLiteratureStudies",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_iy0Jt5LpKo8UWLFScGEGHmYQNVBqaJgzPUMSI_g=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "23 hours ago",
-            "views": 7,
-            "length": "2:50",
-            "description": "Birthday Captions For Instagram : Birthday is a special day which is celebrated with much fanfare and why not celebrate because\u00a0...",
-            "extensions": [
-                "New"
-            ],
+            "published_date": "2 years ago",
+            "views": 55532,
+            "length": "11:19",
+            "description": "This video is about language? What are different definitions of language? What do different linguists say about language?",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/4toCm7gSo3U/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB3k-ajRbRyigE2CfU2cVfy5H0Aiw"
+                "static": "https://i.ytimg.com/vi/vZiiBhRhfzA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAaQ3YjxTpJe3V7u9MeD8yO2g9dA",
+                "rich": "https://i.ytimg.com/an_webp/vZiiBhRhfzA/mqdefault_6s.webp?du=3000&sqp=CIDsgpgG&rs=AOn4CLB9HgbAy1dYm2Rq_-OosGbPsxLOgg"
             }
         },
         {
             "position_on_page": 5,
-            "title": "20 Cute Instagram Captions for Selfies",
-            "link": "https://www.youtube.com/watch?v=y4roNx2RM4c",
+            "title": "Where did English come from? - Claire Bowern",
+            "link": "https://www.youtube.com/watch?v=YEaSxhcns7Y",
             "channel": {
-                "name": "BIZ START",
-                "link": "https://www.youtube.com/channel/UCflCEitBvYJk1Y8KM1NmADg",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_jYB4mVkveEWNY7cEPUFBaJV05vPgwD0fm8o8N=s68-c-k-c0x00ffffff-no-rj"
+                "name": "TED-Ed",
+                "link": "https://www.youtube.com/teded",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/HjXKmDGoAp6b-JdGYpqJYYeN4S_CMpD_kqWvldpN53cbzn-i73t6mVNo8mNki-xLPwi0BVSFi-o=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "3 years ago",
-            "views": 484,
-            "length": "0:51",
-            "description": "20 Cute Instagram Captions for Selfies to use when you need some great ideas! Check out our video here:\u00a0...",
+            "published_date": "7 years ago",
+            "views": 4759132,
+            "length": "4:54",
+            "description": "When we talk about 'English', we often think of it as a single language. But what do the dialects spoken in dozens of countries\u00a0...",
+            "extensions": [
+                "CC"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/y4roNx2RM4c/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDSaCfTlVPq0rcljrqO24-Y1OFX2A"
+                "static": "https://i.ytimg.com/vi/YEaSxhcns7Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB39d5dADeLv2MgdENAhWtnzDw4Eg",
+                "rich": "https://i.ytimg.com/an_webp/YEaSxhcns7Y/mqdefault_6s.webp?du=3000&sqp=CMb4gpgG&rs=AOn4CLC5GSEqhaTQMyHpZlQijYulyssWNw"
             }
         },
         {
             "position_on_page": 6,
-            "title": "Write Captivating Instagram Captions in 2022!",
-            "link": "https://www.youtube.com/watch?v=xNEMlhIt7j0",
+            "title": "lecture#10 Theory+definition +characteristics +development +process + building blocks+advantage+e.g",
+            "link": "https://www.youtube.com/watch?v=wxXKVA4U6xc",
             "channel": {
-                "name": "Ashlyn Writes",
-                "link": "https://www.youtube.com/c/AshlynWrites",
-                "thumbnail": "https://yt3.ggpht.com/DJmIcbtRAXpRqrwrbG4IAvb-exdOw9BgHBrNGOCB5dbsTA0HeRUDYs1uZpVJDqW-hKZxJDAT=s68-c-k-c0x00ffffff-no-rj"
+                "name": "zoologist kpk offical",
+                "link": "https://www.youtube.com/channel/UCDOtJgDtK5qWiM1JW6vH_7g",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8uqxkd1WIW1bqwnQpdnldBAdnZBpK1aRHVldve=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "2 months ago",
-            "views": 1451,
-            "length": "11:31",
-            "description": "Gone are the days when Instagram was simply a visual platform; your captions matter now too! But that means writer's block is\u00a0...",
+            "published_date": "1 year ago",
+            "views": 300,
+            "length": "10:50",
+            "description": "in this video we are disgusting about theory Q1. Define theory ? Q2. building blocks of theory ? Q3. characteristics of theory ?",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/xNEMlhIt7j0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBVoJMsl6CMha_gEQN9MuK9weLDdg"
+                "static": "https://i.ytimg.com/vi/wxXKVA4U6xc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRQAZzSHtpFv3TWrM9MC7ZWc7sng"
             }
         },
         {
             "position_on_page": 7,
-            "title": "100+ Cute Captions for Selfies | Best Instagram Captions For Selfies",
-            "link": "https://www.youtube.com/watch?v=2fqBbiITI80",
+            "title": "Language Development & Types of Communication",
+            "link": "https://www.youtube.com/watch?v=k-g_OEwH_4s",
             "channel": {
-                "name": "InsCaptions",
-                "link": "https://www.youtube.com/channel/UC97kc1AcQbpczdD6ue-sx4A",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-JojJj95FLKk3QhydoVKQMe44nbvJQErHP_El5=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Heather Hayworth",
+                "link": "https://www.youtube.com/channel/UC5btZYG-tnrxhEFPn-yRZyw",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9yTDq-zLp-P4yiaI7D-OM9Gks0lRU0NHeIvX6QKA=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "2 years ago",
-            "views": 70,
-            "length": "2:22",
-            "description": "Whatever you explore for Facebook or Instagram captions for selfies you wish to make certain enough that are thus cute captions\u00a0...",
+            "published_date": "3 years ago",
+            "views": 3658,
+            "length": "2:48",
+            "description": "This video is the introduction to a series geared toward parents, guardians and caregivers who want to help their children learn to\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/2fqBbiITI80/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBw3n7ebfgqAStAm0Jd7mt6nmNf0A"
+                "static": "https://i.ytimg.com/vi/k-g_OEwH_4s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvyaCVJIW4FUgrbMicTZjyRkb56A",
+                "rich": "https://i.ytimg.com/an_webp/k-g_OEwH_4s/mqdefault_6s.webp?du=3000&sqp=CPaKg5gG&rs=AOn4CLAayozo4zlkNxcmGX2qA6-JzWTkQA"
             }
         },
         {
             "position_on_page": 8,
-            "title": "Insta Captions For Selfies (Boys&Girls)",
-            "link": "https://www.youtube.com/watch?v=5nwR5ePmac8",
+            "title": "How language shapes the way we think | Lera Boroditsky",
+            "link": "https://www.youtube.com/watch?v=RKK7wGAYP6k",
             "channel": {
-                "name": "Caption Guru",
-                "link": "https://www.youtube.com/c/CaptionGuru",
-                "thumbnail": "https://yt3.ggpht.com/WsjkSk142TCTqQbCu1YBZ8kap1GItofFaSb_e81diwHNN5vJX5jbIP-CoiYycU1UDVsNEnHrkQ=s68-c-k-c0x00ffffff-no-rj"
+                "name": "TED",
+                "link": "https://www.youtube.com/c/TED",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu94pzTFiSDqYIvXn40JdctQCOxK2fnAMEy0zdL6kA=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "11 months ago",
-            "views": 671,
-            "length": "2:00",
-            "description": "Insta Captions For Selfies (Boys&Girls)?? Here in this video I'm Sharing with you guys some of Best Selfie Captions Ideas that you\u00a0...",
+            "published_date": "4 years ago",
+            "views": 9804335,
+            "length": "14:13",
+            "description": "There are about 7000 languages spoken around the world -- and they all have different sounds, vocabularies and structures.",
             "extensions": [
-                "4K"
+                "CC"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/5nwR5ePmac8/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDi-Qeid6K7bo49HnE6ibx8fOEhKQ"
+                "static": "https://i.ytimg.com/vi/RKK7wGAYP6k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB811FZjE7Ur9qcsBqO4p9cqdulog",
+                "rich": "https://i.ytimg.com/an_webp/RKK7wGAYP6k/mqdefault_6s.webp?du=3000&sqp=CLzYgpgG&rs=AOn4CLDxM9KWYM7Q2hVhUYbe0tPbaOXAVw"
             }
         },
         {
             "position_on_page": 9,
-            "title": "instagram captions for selfies edition#aestheticcaptions",
-            "link": "https://www.youtube.com/watch?v=v_uk6tSGgkc",
+            "title": "Piaget's Theory of Cognitive Development",
+            "link": "https://www.youtube.com/watch?v=IhcgYgx7aAA",
             "channel": {
-                "name": "Teddy bear",
-                "link": "https://www.youtube.com/channel/UCSKCZ--AFjhywp6MAx0hVEw",
-                "thumbnail": "https://yt3.ggpht.com/88thNnAG8knlONjelwkut1undJ4uoVKjmJJ0xrIA7xR4SXeLK6mfTGKT37pwO4n-HdVUB-TtkzQ=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Sprouts",
+                "link": "https://www.youtube.com/c/SproutsVideos",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu91xPn8ezN0bvRAb-Uywy7_hi8bYkFRMej2I-HG=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "6 months ago",
-            "views": 33,
-            "length": "1:35",
-            "description": "IG captions part 2:selfies edition \u00af\\_(\u30c4)_/\u00af don't forget to subscribe :-) Pleaseeeeee:-)#aestheticcaptions *stay cozy *make em\u00a0...",
+            "published_date": "4 years ago",
+            "views": 3751353,
+            "length": "6:56",
+            "description": "Piaget's theory argues that we have to conquer 4 stages of cognitive development. Only once we have gone through all the stages\u00a0...",
+            "extensions": [
+                "CC"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/v_uk6tSGgkc/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC7sh-yd_P2uYgqGQpmOhRQx5DOzg"
+                "static": "https://i.ytimg.com/vi/IhcgYgx7aAA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuuv6x_zuuKv7bdc0JhdynRx-qpw"
             }
         },
         {
             "position_on_page": 10,
-            "title": "Good Instagram Captions for Selfies and Picture of Yourself",
-            "link": "https://www.youtube.com/watch?v=B8YbcsqLNyM",
+            "title": "Characteristics of Language, Characteristics of language in English, characteristics of Language,PDF",
+            "link": "https://www.youtube.com/watch?v=JwYFfVn7Kdo",
             "channel": {
-                "name": "Best Wish Message - Gift Guide",
-                "link": "https://www.youtube.com/channel/UCH3WZQoRZNXwafiD-oVF_mA",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9qpLC8Jj43o6vjZ6b6_5nCgj3Ki6IllQcISfs2=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Bs-English Literature Notes",
+                "link": "https://www.youtube.com/c/BsEnglishliteraturenotes",
+                "thumbnail": "https://yt3.ggpht.com/Qe1D42K6KF-_HJBKbTJvhwR755my6sjYAq2nobRQv22qfDzECZasXgIMmt1k9S24UVARxTEObw=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "11 months ago",
-            "views": 23,
-            "length": "1:51",
-            "description": "Good Instagram Captions for Selfies and Picture of Yourself Read Full Article:\u00a0...",
+            "published_date": "1 year ago",
+            "views": 20642,
+            "length": "14:07",
+            "description": "bseln Notes PDF Link https://www.bseln.com/2021/01/characteristics-of-language-in-urdu-and.html Website Link\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/B8YbcsqLNyM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAlP6cm_BkIngspSLtfmpC9xePP5w"
+                "static": "https://i.ytimg.com/vi/JwYFfVn7Kdo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRyrLVw8V2qKYVLiupcGI4UDQVeg"
             }
         },
         {
             "position_on_page": 11,
-            "title": "25+ instagram caption ideas for selfies \ud83c\udf37\ud83c\udf43\ud83d\udc95\u2728",
-            "link": "https://www.youtube.com/watch?v=tKFNtuO7NQY",
+            "title": "Language : meaning, nature and characteristics of language || topic wise English pedagogy || CTET.",
+            "link": "https://www.youtube.com/watch?v=VSBnyqeMhoI",
             "channel": {
-                "name": "Pardeep Kaur",
-                "link": "https://www.youtube.com/channel/UCZDXtS_x6R34GpAk--LxtsQ",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu97neUVeWft8_UNj7RTJkM3jW2cu784aeY3rCwGgA=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Shilpi Dwivedi",
+                "link": "https://www.youtube.com/channel/UCUg5CEP4VlJMh5kRhHbZrbQ",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8H8LLGEOteQ8VBsTontjTRKqgHtTFIT5AmQciT=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "1 year ago",
-            "views": 40,
-            "length": "1:42",
-            "description": "Hi there again 's for today's Vedio I'm gonna share cute sassy savage caption ideas for selfies //instagram or facebook captions.",
+            "views": 114313,
+            "length": "20:40",
+            "description": "ctet2020 #english_pedagogy #language skills This video is important for all teaching exams. Do watch, like , share and subscribe\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/tKFNtuO7NQY/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBNFEBpDQqA6zktru3QGQQN4vleBg"
+                "static": "https://i.ytimg.com/vi/VSBnyqeMhoI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXMRhUS6Y4LEc9hWj1Uo5CqUF-Mg",
+                "rich": "https://i.ytimg.com/an_webp/VSBnyqeMhoI/mqdefault_6s.webp?du=3000&sqp=CLSEg5gG&rs=AOn4CLA0idcwEOtGAErEuAgS2UZtF60yWg"
             }
         },
         {
             "position_on_page": 12,
-            "title": "Shutterfly Snaps",
-            "link": "https://www.youtube.com/watch?v=8fE1hs7SCwU",
+            "title": "What is Art?",
+            "link": "https://www.youtube.com/watch?v=QZQyV9BB50E",
             "channel": {
-                "name": "Forest Hill",
-                "link": "https://www.youtube.com/channel/UCIqbFEbfg3AqCXHsHc7uFpw",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9BnNvBoVDISBNpoV4XDHOfkJkmREFkJ9Xblrao=s68-c-k-c0x00ffffff-no-rj"
+                "name": "GCFLearnFree.org",
+                "link": "https://www.youtube.com/c/GcflearnfreeOrgplus",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_wYdMc1o3ALdJnYTK0quRMhfAP2uLe9O-Hgs16cw=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 year ago",
-            "views": 410,
-            "length": "4:34",
-            "description": "Easy-to-follow steps to post YOUR child's phots to our FHES Yearbook! Even 'class pictures' for our virtual Retrievers at home!",
+            "published_date": "4 years ago",
+            "views": 924339,
+            "length": "2:26",
+            "description": "We hope you enjoy!",
+            "extensions": [
+                "CC"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/8fE1hs7SCwU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCRR70qyHciQdjz2dY0WuQVKEmU7w"
+                "static": "https://i.ytimg.com/vi/QZQyV9BB50E/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4vc3nGUOutd_y0kXgPhWMthaQNA",
+                "rich": "https://i.ytimg.com/an_webp/QZQyV9BB50E/mqdefault_6s.webp?du=3000&sqp=COGNg5gG&rs=AOn4CLBAW5Y1gvV2wiTSuf2t1ZwFCJR_iQ"
             }
         },
         {
             "position_on_page": 15,
-            "title": "Instagram captions for Selfies \ud83d\ude0d||Tipsify ||Instagram",
-            "link": "https://www.youtube.com/watch?v=B7hORxx5sng",
+            "title": "Clan Meaning | Clan types | Clan characteristics | Kinship | Unilateral Group |  Lineage | Descent",
+            "link": "https://www.youtube.com/watch?v=1jZzYX_EHlw",
             "channel": {
-                "name": "Tipsify",
-                "link": "https://www.youtube.com/channel/UCIykbl0Uqw_818O9-Dpg-UA",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9sg8yLzpkcQJX0ko_rh43mVcQKu_OdJAA7qQfx=s68-c-k-c0x00ffffff-no-rj"
+                "name": "ABC of Sociology",
+                "link": "https://www.youtube.com/c/ABCofSociology",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_JFbaTL294yUQ0pWveou-40iyUcEUcw7u1htE=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "1 year ago",
-            "views": 57,
-            "length": "1:40",
-            "description": "Hi friends, welcome to Tipsify Hope you like the video..so Like,share and subscribe \u2764 #instagrambio #instagramcaption\u00a0...",
+            "views": 7970,
+            "length": "21:50",
+            "description": "Hello students this video is about meaning types and characteristics of clan.. please like share and subscribe \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d Music:\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/B7hORxx5sng/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDqhwO9mDNxYH12tS6ejMLpO3aM-w"
+                "static": "https://i.ytimg.com/vi/1jZzYX_EHlw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0rJDaIhBTJBLHxzhD9IUJ2pmvzA"
             }
         },
         {
             "position_on_page": 16,
-            "title": "Lyrics Instagram Captions For Selfies // Selfie Captions",
-            "link": "https://www.youtube.com/watch?v=KRSebQwLBR0",
+            "title": "Mental Health Mini #4 Mental Health Theory",
+            "link": "https://www.youtube.com/watch?v=k49AP8i7PU8",
             "channel": {
-                "name": "Caption Guru",
-                "link": "https://www.youtube.com/c/CaptionGuru",
-                "thumbnail": "https://yt3.ggpht.com/WsjkSk142TCTqQbCu1YBZ8kap1GItofFaSb_e81diwHNN5vJX5jbIP-CoiYycU1UDVsNEnHrkQ=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Erin Micale",
+                "link": "https://www.youtube.com/channel/UCx5nhQ-ArE4AVdowwM7uPNA",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9CZx4uy03p7bXW-WcxYQFJoYpVfm8xY0JPjA=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 year ago",
-            "views": 367,
-            "length": "1:03",
-            "description": "LYRICS Instagram Captions For Selfies // Selfie Captions??? Here in this video I'm Sharing with you guys some of Best Selfie\u00a0...",
+            "published_date": "20 hours ago",
+            "views": 11,
+            "length": "15:06",
+            "description": "This video reviews the different psychological and nursing theories that are commonly used in Mental Health Nursing.",
             "extensions": [
-                "4K"
+                "New"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/KRSebQwLBR0/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDPodB8udd1DcUgCCGr3XvzRJxBuA"
+                "static": "https://i.ytimg.com/vi/k49AP8i7PU8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDidVuYkTeKksuZvHTh8vw31dETTw",
+                "rich": "https://i.ytimg.com/an_webp/k49AP8i7PU8/mqdefault_6s.webp?du=3000&sqp=CL_xgpgG&rs=AOn4CLDFulv1LQ42Gf5_VvqinfcIAqBC0g"
             }
         },
         {
             "position_on_page": 17,
-            "title": "INSTAGRAM CAPTIONS // INSTAGRAM CAPTIONS FOR SELFIES",
-            "link": "https://www.youtube.com/watch?v=Kae-zQKi3_o",
+            "title": "LANGUAGE : MEANING NATURE SCOPE | Role of Language in Life  Intellectual Social Cultural Development",
+            "link": "https://www.youtube.com/watch?v=afE4HPfIsOY",
             "channel": {
-                "name": "Itz Sass",
-                "link": "https://www.youtube.com/c/ItzSass",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9BOPzxjjKDbBMZ6a57vEQeJdF0qrpoLYWBppqpjQ=s68-c-k-c0x00ffffff-no-rj"
+                "name": "The Vani Classes",
+                "link": "https://www.youtube.com/c/TheVaniClasses",
+                "thumbnail": "https://yt3.ggpht.com/IhUCDb7gQ83znci3MOEMCIucJAiAL0zbJd4U6IonYDuAR0eCta-mV5--wUOGOVBAI0uQz7jk=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "2 years ago",
-            "views": 4832,
-            "length": "1:36",
-            "description": "Instagram captions // Instagram captions for selfies Hey lovelies, I'm back without another video. Many people have struggled with\u00a0...",
+            "published_date": "4 months ago",
+            "views": 13913,
+            "length": "35:47",
+            "description": "LANGUAGE : MEANING NATURE SCOPE | Role of Language in Life Intellectual Social Cultural Development. CONTEMPORARY\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/Kae-zQKi3_o/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAC-ejS6YWe4D7olxeeOZ2Y9TA71g"
+                "static": "https://i.ytimg.com/vi/afE4HPfIsOY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC25yYhbtygWsaVeoGntlXC0Ttxxw"
             }
         },
         {
             "position_on_page": 18,
-            "title": "Summer Things - Senior Pics, Stranger Things, Afternoon Tea, Kyaking, Zip Lining and more",
-            "link": "https://www.youtube.com/watch?v=4mcTPE8A_4w",
+            "title": "The 5 Types of Text Structure",
+            "link": "https://www.youtube.com/watch?v=7kWGQ-_ipBY",
             "channel": {
-                "name": "dashingFam TV",
-                "link": "https://www.youtube.com/channel/UCDpm8jgTbATNOvRGUANsxSQ",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_krlw5Xrnzhggo6ENmdoJR5wpGJ44gPIoM9P0_SA=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Flocabulary",
+                "link": "https://www.youtube.com/user/FlocabularyYT",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-YZYsGpEQt74yDZxsyw5AZw09l0Kr2Idf2e2QPFg=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "13 hours ago",
-            "views": 4,
-            "length": "33:56",
-            "description": "I guarantee if you watch one video, you'll be hooked! Money back guarantee... Please be sure if you stop by, Subscribe. It's free ;) .",
+            "published_date": "5 years ago",
+            "views": 2428206,
+            "length": "3:50",
+            "description": "How do authors organize the texts they write? This unit teaches five common text structures used in informational and nonfiction\u00a0...",
             "extensions": [
-                "New",
-                "4K"
+                "CC"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/4mcTPE8A_4w/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDfL2j-lTH54H7NYj8RIhfHh88uKw"
+                "static": "https://i.ytimg.com/vi/7kWGQ-_ipBY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW7RxQu7NA40Eg6ZkgGbW2Z3avGw",
+                "rich": "https://i.ytimg.com/an_webp/7kWGQ-_ipBY/mqdefault_6s.webp?du=3000&sqp=CKKPg5gG&rs=AOn4CLDoCugU03XHdVB_HpDio92SrUlJxw"
             }
         },
         {
             "position_on_page": 19,
-            "title": "7 Instagram Captions for Photographers",
-            "link": "https://www.youtube.com/watch?v=mQ66QQ2cdUg",
+            "title": "What is Entrepreneurship? definition, characteristics and entrepreneurial process",
+            "link": "https://www.youtube.com/watch?v=MdNNGfoxrqA",
             "channel": {
-                "name": "Joy Michelle Photography",
-                "link": "https://www.youtube.com/c/Joymichellephotography",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_0I5JO_GJCLV_yObw9wChh21GOU5CQZmA-h6mmyQ=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Key Differences",
+                "link": "https://www.youtube.com/c/KeyDifferences",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8WF7La7xiS9HRRfQGwuBkzidW0yBEkz0BOxxgQ=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "2 years ago",
-            "views": 9692,
-            "length": "6:12",
-            "description": "We've allllll been there. You log into Insta...you know it's time to post...but you have no clue what to say. UGH CAPTIONS.",
+            "published_date": "1 year ago",
+            "views": 392796,
+            "length": "6:59",
+            "description": "In this video, we have explained the meaning of entrepreneurship in an elaborated manner. Additionally, we have also described\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/mQ66QQ2cdUg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDmnhi241IQv_e6t3jhPn4U3iAQWg"
+                "static": "https://i.ytimg.com/vi/MdNNGfoxrqA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUI6XHt82xvKCgRXNfRkozqEv73A"
             }
         },
         {
             "position_on_page": 20,
-            "title": "15 aesthetic instagram captions for selfies\ud83d\ude0d || ideas captions aesthetic",
-            "link": "https://www.youtube.com/watch?v=yskahCVBX50",
+            "title": "Meaning and Characteristics of Language | Topic - 1 | subject-language across the curriculum | b.ed",
+            "link": "https://www.youtube.com/watch?v=rGnFElbus6g",
             "channel": {
-                "name": "Velvetlatte",
-                "link": "https://www.youtube.com/channel/UCWtcOQpurnFBPZJzG_YdQMw",
-                "thumbnail": "https://yt3.ggpht.com/AxOZJX7QVM_D2Y4hSLha3TX3lN1eQnA6hCunDgJ8-tnhTtUcw_cv1IozDwTyF2seJcMlf8CAZdI=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Bed Bachelor of Education",
+                "link": "https://www.youtube.com/channel/UCO4j8ilXiKXdssLSTn7QJ0Q",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-ri4UZbfpkEfOYUkMz18iIHPBCZrfBHH9tsXlB=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 year ago",
-            "views": 50,
-            "length": "1:42",
-            "description": "Hi friends \u2661 I hope you're doing well and staying safe ! \u02b3\u1d49\u1d9c\u1d52\u1d50\u1d50\u1d49\u207f\u1d48\u1d49\u1d48: ~ \u1da0\u1d58\u02e1\u02e1 \u02b0\u1d48 \u02e2\u1d9c\u02b3\u1d49\u1d49\u207f \u2022 and keep on watching,\u00a0...",
+            "published_date": "3 years ago",
+            "views": 131922,
+            "length": "10:27",
+            "description": "Aaj mai apko B.ed me\" language across the curriculum \" subject me Topic - 1 me \" meaning and characteristics of language \" kara\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/yskahCVBX50/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBVsaj88VKJ-mHRFKS20CwCYG8DJA"
+                "static": "https://i.ytimg.com/vi/rGnFElbus6g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoz5oy_sYoPJBdasYjNsMd4OQluw"
             }
         },
         {
             "position_on_page": 21,
-            "title": "Photography Captions | Photography Captions For Instagram | Captions For Photography For Instagram",
-            "link": "https://www.youtube.com/watch?v=ytgGxi8aaE0",
+            "title": "Unit 27 : Qualitative Data Formatting and Processing",
+            "link": "https://www.youtube.com/watch?v=1onfjhaTNEw",
             "channel": {
-                "name": "Caption Guru",
-                "link": "https://www.youtube.com/c/CaptionGuru",
-                "thumbnail": "https://yt3.ggpht.com/WsjkSk142TCTqQbCu1YBZ8kap1GItofFaSb_e81diwHNN5vJX5jbIP-CoiYycU1UDVsNEnHrkQ=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Ubundu Sociology Academy",
+                "link": "https://www.youtube.com/channel/UCOOb_ptNJEEEK1V0wQb-T1g",
+                "thumbnail": "https://yt3.ggpht.com/gZFbOARMTMVY02iL5PGPsEa3gV3WqjK37PXnsX64m5ig4VDhTteQIkbrOnR7CIQXz8mgYIV2PpM=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "8 months ago",
-            "views": 582,
-            "length": "2:17",
-            "description": "Photography Captions | Photography Captions For Instagram | Captions For Photography?? Here in this video I'm Sharing with\u00a0...",
+            "published_date": "21 hours ago",
+            "views": null,
+            "length": "37:03",
+            "description": "MSO-002 Research Methodologies and Methods Block-7 Qualitative Research Methods and Techniques Unit 27 : Qualitative\u00a0...",
+            "extensions": [
+                "New"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/ytgGxi8aaE0/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCCnJmwAhwGC1JlnhJeuQcmsuXGQw"
+                "static": "https://i.ytimg.com/vi/1onfjhaTNEw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAc3TcQtOz4uQnQQjF0-mXg7Dsx9Q"
             }
         },
         {
             "position_on_page": 22,
-            "title": "75 INSTAGRAM BADDIE CAPTIONS \ud83d\udc51  instagram captions 2022",
-            "link": "https://www.youtube.com/watch?v=rOTm0pCxn78",
+            "title": "What is Language and Characteristics of Language | Linguistics  in Urdu Hindi",
+            "link": "https://www.youtube.com/watch?v=qUKZpaTlxbM",
             "channel": {
-                "name": "Diamond K",
-                "link": "https://www.youtube.com/user/MayaMazement",
-                "thumbnail": "https://yt3.ggpht.com/O7hxu6pMF-eiwkb0AEbKJZXgoZSZPAq040U5DkV7Z_SSpPFnxMrsUwHyNUYVDSXK3N7D-QUN=s68-c-k-c0x00ffffff-no-rj"
+                "name": "English Literature",
+                "link": "https://www.youtube.com/c/EnglishLiteratureRB",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-AGy9Jqqx-dxG3p5Ajds_FaF1urUQSa_Bhawph=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "6 months ago",
-            "views": 3480,
-            "length": "4:44",
-            "description": "Hi dolls!! in today's video I got 75 instagram baddie captions for y'all!! These are great instagram captions for anybody but\u00a0...",
+            "published_date": "1 year ago",
+            "views": 35233,
+            "length": "24:53",
+            "description": "What is Language and Characteristics of Language | Linguistics | Explained in Urdu Hindi #What_is_Language\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/rOTm0pCxn78/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCPCrMB25M_ucQVhTrIvZldUEl8PA"
+                "static": "https://i.ytimg.com/vi/qUKZpaTlxbM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZPcsXgDq7GOhcklgEJyqGm5e1aA"
             }
         }
     ],
     "people_also_watched": [
         {
             "position_on_page": 13,
-            "title": "Best Time to Post on Instagram in 2022 REVEALED",
-            "link": "https://www.youtube.com/watch?v=yZuJH08lRTI",
+            "title": "The Concept of Language (Noam Chomsky)",
+            "link": "https://www.youtube.com/watch?v=hdUbIlwHRkY",
             "channel": {
-                "name": "SocialPilot",
-                "link": "https://www.youtube.com/c/SocialpilotCo",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9833_ptigjsR2dx2KAj5z_z3N__72aqmRlroBkXw=s68-c-k-c0x00ffffff-no-rj"
+                "name": "UW Video",
+                "link": "https://www.youtube.com/c/UWVideo",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-xMvU2xhP7u4ub5F6Mc1a4deoTM0cvuE4dIiy-cQ=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "8 months ago",
-            "views": 168,
-            "length": "9:29",
-            "description": "Your search for finding the best time to post on Instagram ends here. This video spills the beans on how to identify your personal\u00a0...",
+            "published_date": "8 years ago",
+            "views": 1444010,
+            "length": "27:44",
+            "description": "Linguist Noam Chomsky, professor at MIT, discusses the ways in which language changes over time and how the idea of a\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/yZuJH08lRTI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA9RFR7KBrtcmWGH18FJ25y_fnVOQ"
+                "static": "https://i.ytimg.com/vi/hdUbIlwHRkY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgw8NA9lrF2kalELb73YLiyVx_RA",
+                "rich": "https://i.ytimg.com/an_webp/hdUbIlwHRkY/mqdefault_6s.webp?du=3000&sqp=CIjygpgG&rs=AOn4CLAJYg1fXRXKlvJcONaRZqrMuj_nqQ"
             }
         },
         {
             "position_on_page": 14,
-            "title": "How to Write Captions that Drive Sales",
-            "link": "https://www.youtube.com/watch?v=WC6vWeIa5Us",
+            "title": "What Is Art? - Understanding The Essence Of Art",
+            "link": "https://www.youtube.com/watch?v=JkoDlg3zy7E",
             "channel": {
-                "name": "LYFE Marketing",
-                "link": "https://www.youtube.com/c/LYFEMarketingAtlanta",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-AdEQjDeJ48stA0QR0XjzIetA8pEfsjXovu7LXXA=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Actualized.org",
+                "link": "https://www.youtube.com/c/ActualizedOrg",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8w5LArk-UhPt9zeQl8XcqH27mPrh67C1cMQN0mVQ=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "3 weeks ago",
-            "views": 723,
-            "length": "9:13",
-            "description": "Are you struggling to write the perfect captions for your products/services? Check out this video if you want to drive more sales\u00a0...",
+            "published_date": "5 years ago",
+            "views": 82060,
+            "length": "54:30",
+            "description": "What is the nature of art? What is the purpose of art? Where does creativity come from? What makes good vs bad art? How do you\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/WC6vWeIa5Us/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDbwfF2SISyBnbrVSAUHN5ozQBBUw"
+                "static": "https://i.ytimg.com/vi/JkoDlg3zy7E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhX2nxVEZPNDXz7Bg7zPd-UDA6Mw",
+                "rich": "https://i.ytimg.com/an_webp/JkoDlg3zy7E/mqdefault_6s.webp?du=3000&sqp=CPv0gpgG&rs=AOn4CLDaUQ2mWQcma3Gc4LsnCwTowEhh2g"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "HAPPY \ud83d\ude0a  CAPTIONS FOR INSTAGRAM That Will Inspire You & Brighten Your Day",
-            "link": "https://www.youtube.com/watch?v=rmpgRDPZWmw",
+            "title": "Can you spot autism?",
+            "link": "https://www.youtube.com/watch?v=SjQcxATh1vI",
             "channel": {
-                "name": "Inspired Life Zone",
-                "link": "https://www.youtube.com/channel/UCAC8htY0tVBrLHXP-KeBCnA",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_YT_ECEif_RAgU6DBmvg0tSnnXovEhODSNIk9n=s68-c-k-c0x00ffffff-no-rj"
+                "name": "jlmlorimer",
+                "link": "https://www.youtube.com/user/jlmlorimer",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-Nzj7SsV-t89gcbzqXqBgiekkCQrN_5zuxuhmA=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 year ago",
-            "views": 2025,
-            "length": "10:01",
-            "description": "Inspiring happy captions for instagram Please subscribe to my channel \u2764 Music: Good Vibes by MBB\u00a0...",
+            "published_date": "13 years ago",
+            "views": 1550476,
+            "length": "3:52",
+            "description": "Can you find the child with autism at this bithday party? Check your skills, and read about a controversy.",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/rmpgRDPZWmw/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBX94Me2_oi9p7f7LmYzAcaeMdvIQ"
+                "static": "https://i.ytimg.com/vi/SjQcxATh1vI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4avXLd4NHKSgxaPwFcXrpreN62g",
+                "rich": "https://i.ytimg.com/an_webp/SjQcxATh1vI/mqdefault_6s.webp?du=3000&sqp=CPLOgpgG&rs=AOn4CLDCA9WTxx_Vw7isKOGF97QjZoEvJw"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "2022 Instagram Reels Tutorial |Beginner Friendly step by step walkthrough of how to film a reel",
-            "link": "https://www.youtube.com/watch?v=tSQpuKeqkcg",
+            "title": "Who are you, really? The puzzle of personality | Brian Little",
+            "link": "https://www.youtube.com/watch?v=qYvXk_bqlBk",
             "channel": {
-                "name": "Bri Abel",
-                "link": "https://www.youtube.com/channel/UCvYQsEjkQUhB10Rat-TQKCA",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_BKvxBULqTXqACtYGLJQi7ysfzmDI5aEG8Nbi0=s68-c-k-c0x00ffffff-no-rj"
+                "name": "TED",
+                "link": "https://www.youtube.com/c/TED",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu94pzTFiSDqYIvXn40JdctQCOxK2fnAMEy0zdL6kA=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "2 days ago",
-            "views": 30,
-            "length": "18:13",
-            "description": "Subscribe to my channel for new videos every week. Leave your questions and comments down below\u2b07\ufe0f\u2b07\ufe0f Watch Next:\u00a0...",
-            "extensions": [
-                "New",
-                "4K"
-            ],
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/tSQpuKeqkcg/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAsv9SnguWZyO_HAxuEDtttv8qTUg"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "The Secret to GREAT Instagram Captions!",
-            "link": "https://www.youtube.com/watch?v=86ZMwPAPs6A",
-            "channel": {
-                "name": "Ashlyn Writes",
-                "link": "https://www.youtube.com/c/AshlynWrites",
-                "thumbnail": "https://yt3.ggpht.com/DJmIcbtRAXpRqrwrbG4IAvb-exdOw9BgHBrNGOCB5dbsTA0HeRUDYs1uZpVJDqW-hKZxJDAT=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "2 years ago",
-            "views": 6134,
-            "length": "13:14",
-            "description": "Does writing Instagram captions take you WAY MORE TIME than you need it too? Not sure what to write on your Instagram\u00a0...",
+            "published_date": "6 years ago",
+            "views": 10267222,
+            "length": "15:16",
+            "description": "What makes you, you? Psychologists like to talk about our traits, or defined characteristics that make us who we are. But Brian\u00a0...",
             "extensions": [
                 "CC"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/86ZMwPAPs6A/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDaBVff_rfSI8GnjJN7kUfFyPtLDw"
+                "static": "https://i.ytimg.com/vi/qYvXk_bqlBk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoByR3sbv1iCiTVLiO1YYPwwWwVA",
+                "rich": "https://i.ytimg.com/an_webp/qYvXk_bqlBk/mqdefault_6s.webp?du=3000&sqp=CNGIg5gG&rs=AOn4CLBjZ481tLxWEZx9IGclxkrN_Ukq6w"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "Should I Post Photos, Reels or Stories on Instagram?",
-            "link": "https://www.youtube.com/watch?v=jwK34Vjl334",
+            "title": "Cryptocurrency||Types of Cryptocurrency",
+            "link": "https://www.youtube.com/watch?v=aVt75czoGbg",
             "channel": {
-                "name": "Sergio Gomez",
-                "link": "https://www.youtube.com/c/sergiogomezvideo",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_3ZnyNxRy8KCw0A3lc-CCg6WkO_JD4IziGIXSjJg=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Learn With Ria",
+                "link": "https://www.youtube.com/channel/UC_jaLZpq4B-dW_ZDzPF_v0g",
+                "thumbnail": "https://yt3.ggpht.com/AkyqdhYuEKwjBtZ7yFhpVXhNCz-wOziyHkiMEIL8GIq-9mSlrHjfHtvi5JeQHPrOk6tqU06O4w=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 day ago",
-            "views": 36,
-            "length": "13:31",
-            "description": "What is the best type of Instagram content? Let's talk about the differences between photos, stories and reels. Check out my Reels\u00a0...",
+            "published_date": "18 hours ago",
+            "views": 121,
+            "length": "2:26",
+            "description": "cryptocurrency #crypto #cryptocurrencies #cryptocoin #cryptotrading #cryptonewstoday #bitcoin #bitcoins #binance #ethereum\u00a0...",
             "extensions": [
                 "New"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/jwK34Vjl334/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA5h54j9C4ziOW2JKRYHY1JjL3nxA"
+                "static": "https://i.ytimg.com/vi/aVt75czoGbg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdC8AQp3VMn6TGinkqNSGZsdyiHQ",
+                "rich": "https://i.ytimg.com/an_webp/aVt75czoGbg/mqdefault_6s.webp?du=3000&sqp=CIjkgpgG&rs=AOn4CLBPdddKsomfg5cW4vDJJO-c8Sfk3w"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "Instagram Post Captions (DON'T MAKE THESE MISTAKES)",
-            "link": "https://www.youtube.com/watch?v=rwzPDzzZcgU",
+            "title": "Learning a Language Will Change your Life for Good | Christopher McCormick | TEDxPhnomPenh",
+            "link": "https://www.youtube.com/watch?v=CQX4mAaJBmE",
             "channel": {
-                "name": "Sue B. Zimmerman",
-                "link": "https://www.youtube.com/c/SueBZimmermanEnterprise",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8P4F-MorFX0ka7MjtDVBysSCDfUk-dFO95T5TTkzs=s68-c-k-c0x00ffffff-no-rj"
+                "name": "TEDx Talks",
+                "link": "https://www.youtube.com/user/TEDxTalks",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_rYCQLaGXj6k5hTFivTXDt_eJ39Beu4uEdUggVhw=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "10 years ago",
+            "views": 660957,
+            "length": "16:39",
+            "description": "As the head of language research, training and testing for EF Education First -- the world's largest language school -- Dr.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/CQX4mAaJBmE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzWTuZnFl2_wsOJvz_ubGCrl7Big",
+                "rich": "https://i.ytimg.com/an_webp/CQX4mAaJBmE/mqdefault_6s.webp?du=3000&sqp=CI78gpgG&rs=AOn4CLDZXjwZ7NOsYRQ72_4qDB95UKQJfA"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "The Building Blocks for Theory Development in Research",
+            "link": "https://www.youtube.com/watch?v=BvDzroWS4us",
+            "channel": {
+                "name": "Sohail For IT Pupils",
+                "link": "https://www.youtube.com/channel/UCStv9zWNzjYgKLDqjvq9v2w",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-qxiUHv2-kQPRjc5ZuBZ8oamsHXukumqOBfFn6=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "2 years ago",
-            "views": 9947,
-            "length": "5:52",
-            "description": "---------------------------- Sue B. Zimmerman the Instagram expert teaches you Instagram for business every week! She teaches you\u00a0...",
+            "views": 358,
+            "length": "33:49",
+            "description": "4 Building Blocks in Research.",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/rwzPDzzZcgU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCRv7rQt1h_byUrbOIi81Mb1unLxw"
+                "static": "https://i.ytimg.com/vi/BvDzroWS4us/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmTFjvGQVksDqMPLxqMSikwtNtbw",
+                "rich": "https://i.ytimg.com/an_webp/BvDzroWS4us/mqdefault_6s.webp?du=3000&sqp=CL_-gpgG&rs=AOn4CLAlLhDq8IHfXd7Rr062TFsa2yjvrA"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "+150 INSTAGRAM CAPTIONS FOR BADDIES\u2728| IG FAMOUS | TRENDY CAPTIONS 2021",
-            "link": "https://www.youtube.com/watch?v=RhDxJVTAOcs",
+            "title": "Language Acquisition: Crash Course Linguistics #12",
+            "link": "https://www.youtube.com/watch?v=Ccsf0yX7ECg",
             "channel": {
-                "name": "Tiasia Santiago",
-                "link": "https://www.youtube.com/c/TiasiaSantiago",
-                "thumbnail": "https://yt3.ggpht.com/QlvrLeJvsOAOpNdq_ASxnb993R3wJaTjTJe-MC_5yQ843kzMlzshIN2G7f4cFOxSIKGBcTdz=s68-c-k-c0x00ffffff-no-rj"
+                "name": "CrashCourse",
+                "link": "https://www.youtube.com/c/crashcourse",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-9vZVC7Lne2Q94NC5pqbLWtFxdCBrS105l7NXEkg=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "1 year ago",
-            "views": 6174,
-            "length": "9:48",
-            "description": "I really did enjoy making this video for my babies, tag me in your pictures with the captions so I can hype you up & you'll be\u00a0...",
+            "views": 165324,
+            "length": "10:52",
+            "description": "Babies have to learn a lot of language stuff before they can even say their first word. Exposure to language as infants doesn't just\u00a0...",
             "extensions": [
                 "CC"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/RhDxJVTAOcs/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCp_jhNJ7KKuub45RsCUOrvMWd7Zg"
+                "static": "https://i.ytimg.com/vi/Ccsf0yX7ECg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5JvNfapUoUBjsy0OCOq7uwd6jmw",
+                "rich": "https://i.ytimg.com/an_webp/Ccsf0yX7ECg/mqdefault_6s.webp?du=3000&sqp=CIj5gpgG&rs=AOn4CLBA-fYPmGop_LFgSGTL5Xr1AfIujw"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "Are Social Media Ads Worth It?",
-            "link": "https://www.youtube.com/watch?v=ivGy4571hEo",
+            "title": "Former FBI Agent Explains How to Read Body Language | Tradecraft | WIRED",
+            "link": "https://www.youtube.com/watch?v=4jwUXV4QaTw",
             "channel": {
-                "name": "Ashlyn Writes",
-                "link": "https://www.youtube.com/c/AshlynWrites",
-                "thumbnail": "https://yt3.ggpht.com/DJmIcbtRAXpRqrwrbG4IAvb-exdOw9BgHBrNGOCB5dbsTA0HeRUDYs1uZpVJDqW-hKZxJDAT=s68-c-k-c0x00ffffff-no-rj"
+                "name": "WIRED",
+                "link": "https://www.youtube.com/c/WIRED",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8FFjyPVUkjAOCSKilmbRE9lphkh3LOJjqT4ZFBCW8=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "5 months ago",
-            "views": 839,
-            "length": "13:52",
-            "description": "When it comes to marketing your business, running social media ads may be something you're considering. However, as with all\u00a0...",
+            "published_date": "3 years ago",
+            "views": 44857760,
+            "length": "14:44",
+            "description": "Former FBI agent and body language expert Joe Navarro breaks down the various ways we communicate non-verbally.",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/ivGy4571hEo/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCKsjyYfKyatpnKeaPg9W6cG5Iryg"
+                "static": "https://i.ytimg.com/vi/4jwUXV4QaTw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVhFyZkdM2laYUvOJT0XXCejBpgg",
+                "rich": "https://i.ytimg.com/an_webp/4jwUXV4QaTw/mqdefault_6s.webp?du=3000&sqp=CPzTgpgG&rs=AOn4CLCLnjcCM_3GQhD7jJ5xphF5GRDQCA"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "How to Write Better Instagram Captions",
-            "link": "https://www.youtube.com/watch?v=Peh2ZRz1HeQ",
+            "title": "What Is Evolution & types of HUMANS | Dr Binocs Show | Peekaboo Kidz",
+            "link": "https://www.youtube.com/watch?v=mmCGDsFfl2c",
             "channel": {
-                "name": "Jasmine Star",
-                "link": "https://www.youtube.com/c/officialjasminestar",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_C1aNNGp_uv_CXa8oBM8Qoqnfg-eYNE9mvV6nlvg=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Peekaboo Kidz",
+                "link": "https://www.youtube.com/c/PeekabooKids",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_xGr9RzgY_FvvqDySDJw8SqwLs4O2h1QiDpzJqBg=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "4 years ago",
-            "views": 33804,
-            "length": "19:08",
-            "description": "You know that moment when you don't know what to write on Instagram? That second when your mind goes blank and you\u00a0...",
+            "published_date": "1 year ago",
+            "views": 2205503,
+            "length": "6:25",
+            "description": "Evolution & Types Of Humans | What Are Types Of Humans | Humans | Evolution Meaning | Different Types Of Humans\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/Peh2ZRz1HeQ/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFOJfKYlN6DhseBKyS52XChqyu7A"
+                "static": "https://i.ytimg.com/vi/mmCGDsFfl2c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGmFe6qsDHD7955FaPPFXMRrC95g",
+                "rich": "https://i.ytimg.com/an_webp/mmCGDsFfl2c/mqdefault_6s.webp?du=3000&sqp=CP3ZgpgG&rs=AOn4CLBDQHWwVI0Jzm_N1EkxCRmuBGbmHA"
             }
         }
     ],
     "pagination": {
-        "current": "https://www.youtube.com/results?search_query=75%2B+Good+Instagram+Captions+For+Selfies+-+Shutterfly",
-        "next": "https://www.youtube.com/results?search_query=75%2B%20Good%20Instagram%20Captions%20For%20Selfies%20-%20Shutterfly&sp=SBSCAQtBMVBSNE9yX2VrVYIBC2g3X1pSTjdKTEcwggELYVNraVZSVzV0UmeCAQs0dG9DbTdnU28zVYIBC3k0cm9OeDJSTTRjggELeE5FTWxoSXQ3ajCCAQsyZnFCYmlJVEk4MIIBCzVud1I1ZVBtYWM4ggELdl91azZ0U0dna2OCAQtCOFliY3NxTE55TYIBC3RLRk50dU83TlFZggELOGZFMWhzN1NDd1WCAQtCN2hPUnh4NXNuZ4IBC0tSU2ViUXdMQlIwggELS2FlLXpRS2kzX2-CAQs0bWNUUEU4QV80d4IBC21RNjZRUTJjZFVnggELeXNrYWhDVkJYNTCCAQt5dGdHeGk4YWFFMIIBC3JPVG0wcEN4bjc4sgEGCgQIFRAC",
-        "next_page_token": "SBSCAQtBMVBSNE9yX2VrVYIBC2g3X1pSTjdKTEcwggELYVNraVZSVzV0UmeCAQs0dG9DbTdnU28zVYIBC3k0cm9OeDJSTTRjggELeE5FTWxoSXQ3ajCCAQsyZnFCYmlJVEk4MIIBCzVud1I1ZVBtYWM4ggELdl91azZ0U0dna2OCAQtCOFliY3NxTE55TYIBC3RLRk50dU83TlFZggELOGZFMWhzN1NDd1WCAQtCN2hPUnh4NXNuZ4IBC0tSU2ViUXdMQlIwggELS2FlLXpRS2kzX2-CAQs0bWNUUEU4QV80d4IBC21RNjZRUTJjZFVnggELeXNrYWhDVkJYNTCCAQt5dGdHeGk4YWFFMIIBC3JPVG0wcEN4bjc4sgEGCgQIFRAC"
+        "current": "https://www.youtube.com/results?search_query=language+%7C+Definition%2C+Types%2C+Characteristics%2C+Development+...",
+        "next": "https://www.youtube.com/results?search_query=language%20%7C%20Definition%2C%20Types%2C%20Characteristics%2C%20Development%20...&sp=SBSCAQtyVXhfWHowRl9Vb4IBCy10VmdCaUtic2VjggELaS1hUF9OSDg2NzSCAQt2WmlpQmhSaGZ6QYIBC1lFYVN4aGNuczdZggELd3hYS1ZBNFU2eGOCAQtrLWdfT0V3SF80c4IBC1JLSzd3R0FZUDZrggELSWhjZ1lneDdhQUGCAQtKd1lGZlZuN0tkb4IBC1ZTQm55cWVNaG9JggELUVpReVY5QkI1MEWCAQsxalp6WVhfRUhsd4IBC2s0OUFQOGk3UFU4ggELYWZFNEhQZklzT1mCAQs3a1dHUS1faXBCWYIBC01kTk5HZm94cnFBggELckduRkVsYnVzNmeCAQsxb25mamhhVE5Fd4IBC3FVS1pwYVRseGJNsgEGCgQIFRAC",
+        "next_page_token": "SBSCAQtyVXhfWHowRl9Vb4IBCy10VmdCaUtic2VjggELaS1hUF9OSDg2NzSCAQt2WmlpQmhSaGZ6QYIBC1lFYVN4aGNuczdZggELd3hYS1ZBNFU2eGOCAQtrLWdfT0V3SF80c4IBC1JLSzd3R0FZUDZrggELSWhjZ1lneDdhQUGCAQtKd1lGZlZuN0tkb4IBC1ZTQm55cWVNaG9JggELUVpReVY5QkI1MEWCAQsxalp6WVhfRUhsd4IBC2s0OUFQOGk3UFU4ggELYWZFNEhQZklzT1mCAQs3a1dHUS1faXBCWYIBC01kTk5HZm94cnFBggELckduRkVsYnVzNmeCAQsxb25mamhhVE5Fd4IBC3FVS1pwYVRseGJNsgEGCgQIFRAC"
     },
     "serpapi_pagination": {
-        "current": "https://serpapi.com/search.json?engine=youtube&search_query=75%2B+Good+Instagram+Captions+For+Selfies+-+Shutterfly",
-        "next": "https://serpapi.com/search.json?engine=youtube&search_query=75%2B+Good+Instagram+Captions+For+Selfies+-+Shutterfly&sp=SBSCAQtBMVBSNE9yX2VrVYIBC2g3X1pSTjdKTEcwggELYVNraVZSVzV0UmeCAQs0dG9DbTdnU28zVYIBC3k0cm9OeDJSTTRjggELeE5FTWxoSXQ3ajCCAQsyZnFCYmlJVEk4MIIBCzVud1I1ZVBtYWM4ggELdl91azZ0U0dna2OCAQtCOFliY3NxTE55TYIBC3RLRk50dU83TlFZggELOGZFMWhzN1NDd1WCAQtCN2hPUnh4NXNuZ4IBC0tSU2ViUXdMQlIwggELS2FlLXpRS2kzX2-CAQs0bWNUUEU4QV80d4IBC21RNjZRUTJjZFVnggELeXNrYWhDVkJYNTCCAQt5dGdHeGk4YWFFMIIBC3JPVG0wcEN4bjc4sgEGCgQIFRAC",
-        "next_page_token": "SBSCAQtBMVBSNE9yX2VrVYIBC2g3X1pSTjdKTEcwggELYVNraVZSVzV0UmeCAQs0dG9DbTdnU28zVYIBC3k0cm9OeDJSTTRjggELeE5FTWxoSXQ3ajCCAQsyZnFCYmlJVEk4MIIBCzVud1I1ZVBtYWM4ggELdl91azZ0U0dna2OCAQtCOFliY3NxTE55TYIBC3RLRk50dU83TlFZggELOGZFMWhzN1NDd1WCAQtCN2hPUnh4NXNuZ4IBC0tSU2ViUXdMQlIwggELS2FlLXpRS2kzX2-CAQs0bWNUUEU4QV80d4IBC21RNjZRUTJjZFVnggELeXNrYWhDVkJYNTCCAQt5dGdHeGk4YWFFMIIBC3JPVG0wcEN4bjc4sgEGCgQIFRAC"
+        "current": "https://serpapi.com/search.json?engine=youtube&search_query=language+%7C+Definition%2C+Types%2C+Characteristics%2C+Development+...",
+        "next": "https://serpapi.com/search.json?engine=youtube&search_query=language+%7C+Definition%2C+Types%2C+Characteristics%2C+Development+...&sp=SBSCAQtyVXhfWHowRl9Vb4IBCy10VmdCaUtic2VjggELaS1hUF9OSDg2NzSCAQt2WmlpQmhSaGZ6QYIBC1lFYVN4aGNuczdZggELd3hYS1ZBNFU2eGOCAQtrLWdfT0V3SF80c4IBC1JLSzd3R0FZUDZrggELSWhjZ1lneDdhQUGCAQtKd1lGZlZuN0tkb4IBC1ZTQm55cWVNaG9JggELUVpReVY5QkI1MEWCAQsxalp6WVhfRUhsd4IBC2s0OUFQOGk3UFU4ggELYWZFNEhQZklzT1mCAQs3a1dHUS1faXBCWYIBC01kTk5HZm94cnFBggELckduRkVsYnVzNmeCAQsxb25mamhhVE5Fd4IBC3FVS1pwYVRseGJNsgEGCgQIFRAC",
+        "next_page_token": "SBSCAQtyVXhfWHowRl9Vb4IBCy10VmdCaUtic2VjggELaS1hUF9OSDg2NzSCAQt2WmlpQmhSaGZ6QYIBC1lFYVN4aGNuczdZggELd3hYS1ZBNFU2eGOCAQtrLWdfT0V3SF80c4IBC1JLSzd3R0FZUDZrggELSWhjZ1lneDdhQUGCAQtKd1lGZlZuN0tkb4IBC1ZTQm55cWVNaG9JggELUVpReVY5QkI1MEWCAQsxalp6WVhfRUhsd4IBC2s0OUFQOGk3UFU4ggELYWZFNEhQZklzT1mCAQs3a1dHUS1faXBCWYIBC01kTk5HZm94cnFBggELckduRkVsYnVzNmeCAQsxb25mamhhVE5Fd4IBC3FVS1pwYVRseGJNsgEGCgQIFRAC"
     }
 }
