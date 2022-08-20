@@ -12,7 +12,7 @@ import cloudinary.uploader
 import os
 from youtube_transcript_api import YouTubeTranscriptApi
 
-
+# Update github
 allTranscripts = []
 #region cloundinary configuration
 cloudinary.config( 
@@ -91,13 +91,11 @@ def processVideo(path):
 #endregion
 
 
-#region reverse image search
-api_key = "ede0f7899391ff6bcbab87e5169fb8dc794b21c59eac5aa9e0112b045a393d2d"
 def searchAPI(image_url):
 
     #Reverse Image search: Google only
     params = {
-    "api_key": api_key,
+    "api_key": "ca13d0bf8ef1a4a0e4178d60fd95b20fee072112de73a4cf1447bc684e335ede",
     "engine": "google_reverse_image",
     "google_domain": "google.com",
     "q": "",
@@ -132,13 +130,10 @@ def searchAPI(image_url):
     # The title[3] is because second last usually at this point is the most relevant results
     
     if (len(thetitles)>=3):
-        query = thetitles[3]
+        query = thetitles[2]
     else:
         query = thetitles[1]
     params2 = {
-        "api_key": api_key,
-        "engine": "youtube",
-        "search_query": query
     }
 
     search2 = GoogleSearch(params2)

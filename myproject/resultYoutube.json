@@ -1,548 +1,603 @@
 {
     "search_metadata": {
-        "id": "62ddc53ae4a23d503c6c9798",
+        "id": "6300c7a1d5ecf49148968477",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/81aaaf5984b3969a/62ddc53ae4a23d503c6c9798.json",
-        "created_at": "2022-07-24 22:18:34 UTC",
-        "processed_at": "2022-07-24 22:18:34 UTC",
-        "youtube_url": "https://www.youtube.com/results?search_query=Discover+maloqueiro+cabelo+enrolado+%27s+popular+videos+-+TikTok",
-        "raw_html_file": "https://serpapi.com/searches/81aaaf5984b3969a/62ddc53ae4a23d503c6c9798.html",
-        "total_time_taken": 0.96
+        "json_endpoint": "https://serpapi.com/searches/c418e68b59b511d5/6300c7a1d5ecf49148968477.json",
+        "created_at": "2022-08-20 11:38:09 UTC",
+        "processed_at": "2022-08-20 11:38:09 UTC",
+        "youtube_url": "https://www.youtube.com/results?search_query=language+%7C+Definition%2C+Types%2C+Characteristics%2C+Development+...",
+        "raw_html_file": "https://serpapi.com/searches/c418e68b59b511d5/6300c7a1d5ecf49148968477.html",
+        "total_time_taken": 0.84
     },
     "search_parameters": {
         "engine": "youtube",
-        "search_query": "Discover maloqueiro cabelo enrolado 's popular videos - TikTok"
+        "search_query": "language | Definition, Types, Characteristics, Development ..."
     },
     "search_information": {
-        "total_results": 3965,
+        "total_results": 7280469,
         "video_results_state": "Results for exact spelling"
     },
     "video_results": [
         {
             "position_on_page": 1,
-            "title": "MALUQUINHA CABELO ENROLADO, RELA\u00c7\u00c3O ABERTA QUE DEU CERTO x BEAT VEM, VEM [ PIQUEZIN DO TIK TOK ]",
-            "link": "https://www.youtube.com/watch?v=4FRR2BE_u98",
+            "title": "Language and it's characteristics",
+            "link": "https://www.youtube.com/watch?v=rUx_Xz0F_Uo",
             "channel": {
-                "name": "DS MOVIC YTB \u03df",
-                "link": "https://www.youtube.com/channel/UCMOy9HdWi7dvkBB2QoC10Xg",
-                "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQX_0ciChp8xL9s7Ls2rk5tK8ZiY_L46daOH7GkyWI=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Literary Scholar",
+                "link": "https://www.youtube.com/c/LiteraryScholar",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8mJjWYGw0zY8MhFh6VPEYTkehBMRANzQiA0mGl=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "10 months ago",
-            "views": 1241452,
-            "length": "2:03",
-            "description": "Quer sua m\u00fasica no canal Ds Movic YTB ? Entre em contato comigo pelo Instagram : @CaioDs2k Fa\u00e7a j\u00e1 seu or\u00e7amento!",
+            "published_date": "2 years ago",
+            "views": 38350,
+            "length": "15:36",
+            "description": "Linguistics #Language #characteristicsoflanguage.",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/4FRR2BE_u98/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6QiPOhrlj6E7PCyi6m7U96qN5Ng"
+                "static": "https://i.ytimg.com/vi/rUx_Xz0F_Uo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAxM5wKhV63mkP8GkKcK_dxQuluvw"
             }
         },
         {
             "position_on_page": 2,
-            "title": "CRAZY CURLS \ud83d\ude31 Fazendo dedoliss em cabelo afro \ud83d\udc88\u2702\ufe0f",
-            "link": "https://www.youtube.com/watch?v=OA2PawxC7nI",
+            "title": "Meaning, characteristics  and functions of language.",
+            "link": "https://www.youtube.com/watch?v=-tVgBiKbsec",
             "channel": {
-                "name": "Agno black red",
-                "link": "https://www.youtube.com/c/Agnoblackred",
-                "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQjVKjR0EIEiGux9jyy1iJQ5vdlnFFk0GkdB7X06Tw=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Shilpi Dwivedi",
+                "link": "https://www.youtube.com/channel/UCUg5CEP4VlJMh5kRhHbZrbQ",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8H8LLGEOteQ8VBsTontjTRKqgHtTFIT5AmQciT=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 year ago",
-            "views": 2585632,
-            "length": "7:20",
-            "description": "LINK PARA NOSSO GRUPO VIP https://linktr.ee/agnoblackred.",
+            "published_date": "2 years ago",
+            "views": 39703,
+            "length": "20:55",
+            "description": "ctet #language #uptet This video is important for all teaching exams. Do watch, like , share and subscribe to my channel\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/OA2PawxC7nI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCkfVcXwbUAk5nJV8zCXQjyQJ6Bug"
+                "static": "https://i.ytimg.com/vi/-tVgBiKbsec/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDhd2i75IMr1NVikaZgDLuejav5cQ"
             }
         },
         {
             "position_on_page": 3,
-            "title": "Dsloboda_ | Dennis Sloboda | Dennis Sloboda Tiktok | Dennis Sloboda Sal\u00e3o | Dennis Sloboda Idade",
-            "link": "https://www.youtube.com/watch?v=nxqMoF8U4EM",
+            "title": "Development | Characteristics of Development | Types of Develeopment",
+            "link": "https://www.youtube.com/watch?v=i-aP_NH8674",
             "channel": {
-                "name": " Brazil Idol",
-                "link": "https://www.youtube.com/channel/UCmZohxj1TpAYW-q28DVTSKQ",
-                "thumbnail": "https://yt3.ggpht.com/naeIxdIM6rZ5xUbvG6Y8Y8fDzqYS_muNow6RTSA4TxGNYCWmKm6z6WvFQr3bJPWIQ7M-yUfyHA=s68-c-k-c0x00ffffff-no-rj"
+                "name": "EDUCATION HUB BY PARUL",
+                "link": "https://www.youtube.com/channel/UC4FUhcMAmFgb8Td3MGVbYqg",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9YMo7Jxea_9icKHwGtd4uIgSkw9mse3ldf-wUpbg=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "6 months ago",
-            "views": 945,
-            "length": "11:32",
-            "description": "DSLOBODA_ , DENNIS SLOBODA , DENNIS SLOBODA TIKTOK , DENNIS SLOBODA SAL\u00c3O , DENNIS SLOBODA IDADE\u00a0...",
+            "published_date": "1 year ago",
+            "views": 2266,
+            "length": "12:11",
+            "description": "TYPES OF DEVELOPMENT - Erysical development - Social and emotional development. -Language development - Moral\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/nxqMoF8U4EM/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbmmBRFaV0deaG3pKDUm0zoin-jQ"
+                "static": "https://i.ytimg.com/vi/i-aP_NH8674/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCDGZoq80CeJ7yhby7vl7BOMzsvkQ",
+                "rich": "https://i.ytimg.com/an_webp/i-aP_NH8674/mqdefault_6s.webp?du=3000&sqp=CMj6gpgG&rs=AOn4CLAAsKqYEc8HGNGeWYqUv8_Gn1qgSQ"
             }
         },
         {
             "position_on_page": 4,
-            "title": "MALUQUINHA CABELO ENROLADO SORRISO APAIXONANTE, RELA\u00c7\u00c3O ABERTA QUE DEU CERTO[ TIK TOK ] BEAT VEM VEM",
-            "link": "https://www.youtube.com/watch?v=yGXw-YazThk",
+            "title": "WHAT IS LANGUAGE/ DEFINITIONS OF LANGUAGE",
+            "link": "https://www.youtube.com/watch?v=vZiiBhRhfzA",
             "channel": {
-                "name": "R10 O Pinta",
-                "link": "https://www.youtube.com/c/R10OPINTA",
-                "thumbnail": "https://yt3.ggpht.com/TtMh7clxobfKElgLJM8N0zlC4znjXHoXHz8Btizdiz0ev4cXonsUe7nv2y6uQrfOmxOYsN4m=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Linguistics And Literature Studies",
+                "link": "https://www.youtube.com/c/LinguisticsAndLiteratureStudies",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_iy0Jt5LpKo8UWLFScGEGHmYQNVBqaJgzPUMSI_g=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "9 months ago",
-            "views": 1409791,
-            "length": "2:15",
-            "description": "Letra; Maluquinha, cabelo enrolado Sorriso apaixonante, quase que eu cai no la\u00e7o No primeiro encontro era s\u00f3 inocencia,\u00a0...",
+            "published_date": "2 years ago",
+            "views": 55532,
+            "length": "11:19",
+            "description": "This video is about language? What are different definitions of language? What do different linguists say about language?",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/yGXw-YazThk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDtAFRkxyUOe7iSSZtwC3300Mp34g"
+                "static": "https://i.ytimg.com/vi/vZiiBhRhfzA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBAaQ3YjxTpJe3V7u9MeD8yO2g9dA",
+                "rich": "https://i.ytimg.com/an_webp/vZiiBhRhfzA/mqdefault_6s.webp?du=3000&sqp=CIDsgpgG&rs=AOn4CLB9HgbAy1dYm2Rq_-OosGbPsxLOgg"
             }
         },
         {
             "position_on_page": 5,
-            "title": "CACHEADO MAIS LINDO DO YOUTUBE | Cabelos cacheados,cacheados,cacheado,cachos,cacho,cacheada, #shorts",
-            "link": "https://www.youtube.com/watch?v=NehGRE8RwW8",
+            "title": "Where did English come from? - Claire Bowern",
+            "link": "https://www.youtube.com/watch?v=YEaSxhcns7Y",
             "channel": {
-                "name": "Vibe Delas",
-                "link": "https://www.youtube.com/channel/UC-YS78aWuIe-qhMsrhkUHrw",
-                "thumbnail": "https://yt3.ggpht.com/C_Yn-TTvk-mNYf6iUK2QXWAA9VtURM_cZPIZJiPMnarg_JnXQYcdfAbWBchh4TPce0hYAEk7Cq0=s68-c-k-c0x00ffffff-no-rj"
+                "name": "TED-Ed",
+                "link": "https://www.youtube.com/teded",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/HjXKmDGoAp6b-JdGYpqJYYeN4S_CMpD_kqWvldpN53cbzn-i73t6mVNo8mNki-xLPwi0BVSFi-o=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "11 months ago",
-            "views": 103606,
-            "length": "0:13",
-            "description": "TAGS: cacheado mais lindo do youtube,cabelos cacheados,cacheados,cacheado,cachos,cacho,cacheada,cabelo cacheado\u00a0...",
+            "published_date": "7 years ago",
+            "views": 4759132,
+            "length": "4:54",
+            "description": "When we talk about 'English', we often think of it as a single language. But what do the dialects spoken in dozens of countries\u00a0...",
+            "extensions": [
+                "CC"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/NehGRE8RwW8/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCsTyvMBSbEQWGUgCf37TFSPCdnKg"
+                "static": "https://i.ytimg.com/vi/YEaSxhcns7Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB39d5dADeLv2MgdENAhWtnzDw4Eg",
+                "rich": "https://i.ytimg.com/an_webp/YEaSxhcns7Y/mqdefault_6s.webp?du=3000&sqp=CMb4gpgG&rs=AOn4CLC5GSEqhaTQMyHpZlQijYulyssWNw"
             }
         },
         {
             "position_on_page": 6,
-            "title": "Cabelos Cacheados TikTok (finaliza\u00e7\u00e3o,hidrata\u00e7\u00e3o, etc)",
-            "link": "https://www.youtube.com/watch?v=dVAJXurZr2I",
+            "title": "lecture#10 Theory+definition +characteristics +development +process + building blocks+advantage+e.g",
+            "link": "https://www.youtube.com/watch?v=wxXKVA4U6xc",
             "channel": {
-                "name": "Aleat\u00f3ria \u2615\ufe0e",
-                "link": "https://www.youtube.com/c/Aleat%C3%B3ria%E3%82%B7",
-                "thumbnail": "https://yt3.ggpht.com/WzKmS-WQzQ_9Avg01pUfgWcOyC1trcfWjWBp1R-3ZPjg3F2GzxYQFrloK7GpiXprdDHDyo5Vow=s68-c-k-c0x00ffffff-no-rj"
+                "name": "zoologist kpk offical",
+                "link": "https://www.youtube.com/channel/UCDOtJgDtK5qWiM1JW6vH_7g",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8uqxkd1WIW1bqwnQpdnldBAdnZBpK1aRHVldve=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "5 months ago",
-            "views": 18642,
-            "length": "11:13",
+            "published_date": "1 year ago",
+            "views": 300,
+            "length": "10:50",
+            "description": "in this video we are disgusting about theory Q1. Define theory ? Q2. building blocks of theory ? Q3. characteristics of theory ?",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/dVAJXurZr2I/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCHPu3blnNTpoC7h8btuYxegNElCQ"
+                "static": "https://i.ytimg.com/vi/wxXKVA4U6xc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBRQAZzSHtpFv3TWrM9MC7ZWc7sng"
             }
         },
         {
             "position_on_page": 7,
-            "title": "Cabelos cacheados masculinos  #youtube #hickfrost",
-            "link": "https://www.youtube.com/watch?v=cxH2vrkCHdk",
+            "title": "Language Development & Types of Communication",
+            "link": "https://www.youtube.com/watch?v=k-g_OEwH_4s",
             "channel": {
-                "name": "Hick Frost",
-                "link": "https://www.youtube.com/channel/UCBkBPIzUI-WJ7hVGGhgPZmQ",
-                "thumbnail": "https://yt3.ggpht.com/9o5Ejr66bWn9i0dNwlAbxXeYhB9JjddGPjke5vD6UvwmQ90oNlBUXg0UNGXBAoH3od2NLmMkkw=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Heather Hayworth",
+                "link": "https://www.youtube.com/channel/UC5btZYG-tnrxhEFPn-yRZyw",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9yTDq-zLp-P4yiaI7D-OM9Gks0lRU0NHeIvX6QKA=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 year ago",
-            "views": 52,
-            "length": "0:12",
-            "description": "Me segue nas redes sociais vizinhas, l\u00e1 eu fa\u00e7o passo a passo de como fazer Instagram: Hickfrost Tiktok: Hickfrost Snapchat:\u00a0...",
+            "published_date": "3 years ago",
+            "views": 3658,
+            "length": "2:48",
+            "description": "This video is the introduction to a series geared toward parents, guardians and caregivers who want to help their children learn to\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/cxH2vrkCHdk/hq720_2.jpg?sqp=-oaymwEkCJQDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLDKhy1A2WuWVCAF3cKVIrRxxeP-Ng"
+                "static": "https://i.ytimg.com/vi/k-g_OEwH_4s/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCvyaCVJIW4FUgrbMicTZjyRkb56A",
+                "rich": "https://i.ytimg.com/an_webp/k-g_OEwH_4s/mqdefault_6s.webp?du=3000&sqp=CPaKg5gG&rs=AOn4CLAayozo4zlkNxcmGX2qA6-JzWTkQA"
             }
         },
         {
             "position_on_page": 8,
-            "title": "Trend Cabelo Cacheados",
-            "link": "https://www.youtube.com/watch?v=1zLu5UaOO_Y",
+            "title": "How language shapes the way we think | Lera Boroditsky",
+            "link": "https://www.youtube.com/watch?v=RKK7wGAYP6k",
             "channel": {
-                "name": "Rebeca Guedes",
-                "link": "https://www.youtube.com/channel/UCxsMUV5eBEQBgeG9qQaF4-g",
-                "thumbnail": "https://yt3.ggpht.com/OcLu9qBcq9otoICSJJf96hF4YwJj5msPUTvyvpHaEjE7dcT8ApTd-1xDhPqU_fCrOP-cCmPfKA=s68-c-k-c0x00ffffff-no-rj"
+                "name": "TED",
+                "link": "https://www.youtube.com/c/TED",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu94pzTFiSDqYIvXn40JdctQCOxK2fnAMEy0zdL6kA=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "11 months ago",
-            "views": 19,
-            "length": "0:13",
+            "published_date": "4 years ago",
+            "views": 9804335,
+            "length": "14:13",
+            "description": "There are about 7000 languages spoken around the world -- and they all have different sounds, vocabularies and structures.",
+            "extensions": [
+                "CC"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/1zLu5UaOO_Y/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBFrfZKJQugxl0_i8y1KMSmDqWD2A"
+                "static": "https://i.ytimg.com/vi/RKK7wGAYP6k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB811FZjE7Ur9qcsBqO4p9cqdulog",
+                "rich": "https://i.ytimg.com/an_webp/RKK7wGAYP6k/mqdefault_6s.webp?du=3000&sqp=CLzYgpgG&rs=AOn4CLDxM9KWYM7Q2hVhUYbe0tPbaOXAVw"
             }
         },
         {
             "position_on_page": 9,
-            "title": "Tiktok Boy Hairstyle Tutorial",
-            "link": "https://www.youtube.com/watch?v=OGpx0Ay5Bos",
+            "title": "Piaget's Theory of Cognitive Development",
+            "link": "https://www.youtube.com/watch?v=IhcgYgx7aAA",
             "channel": {
-                "name": "Shodon Naicker",
-                "link": "https://www.youtube.com/channel/UCurb3NwbDXfLUQmnW9MaNfw",
-                "thumbnail": "https://yt3.ggpht.com/DbfzCTnRNSxwdnQycJrXSHXhIK0hY96aF2ePqNYjzwEfRYLEVozMgTOEMfeI-8oX5-Oz1TsE=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Sprouts",
+                "link": "https://www.youtube.com/c/SproutsVideos",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu91xPn8ezN0bvRAb-Uywy7_hi8bYkFRMej2I-HG=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "6 months ago",
-            "views": 511690,
-            "length": "0:33",
+            "published_date": "4 years ago",
+            "views": 3751353,
+            "length": "6:56",
+            "description": "Piaget's theory argues that we have to conquer 4 stages of cognitive development. Only once we have gone through all the stages\u00a0...",
+            "extensions": [
+                "CC"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/OGpx0Ay5Bos/hq2.jpg?sqp=-oaymwEkCLsCEOgCSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLCkEV6xoSj1hQ6TJ_1YzsBNnqgVMg"
+                "static": "https://i.ytimg.com/vi/IhcgYgx7aAA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuuv6x_zuuKv7bdc0JhdynRx-qpw"
             }
         },
         {
             "position_on_page": 10,
-            "title": "Reagindo a v\u00eddeos do Tik Tok  - Franja com cabelo enrolado.",
-            "link": "https://www.youtube.com/watch?v=KQLMy-dqtdM",
+            "title": "Characteristics of Language, Characteristics of language in English, characteristics of Language,PDF",
+            "link": "https://www.youtube.com/watch?v=JwYFfVn7Kdo",
             "channel": {
-                "name": "Graziane Brook",
-                "link": "https://www.youtube.com/channel/UCFlmy5Xa4ao6CpvxeHuvM5Q",
-                "thumbnail": "https://yt3.ggpht.com/BxLyKttWoisF39s5h01FdMrOq9dSw0EgUY2uox3rAFnk5xMrzN40QP70XIL0agDh8cFVeI8qWeo=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Bs-English Literature Notes",
+                "link": "https://www.youtube.com/c/BsEnglishliteraturenotes",
+                "thumbnail": "https://yt3.ggpht.com/Qe1D42K6KF-_HJBKbTJvhwR755my6sjYAq2nobRQv22qfDzECZasXgIMmt1k9S24UVARxTEObw=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "10 months ago",
-            "views": 8470,
-            "length": "0:19",
-            "description": "Ol\u00e1 galerinha!!! Se inscreva no meu canal, comente, acione o sininho e n\u00e3o esque\u00e7a de deixar seu like   Link do canal do\u00a0...",
+            "published_date": "1 year ago",
+            "views": 20642,
+            "length": "14:07",
+            "description": "bseln Notes PDF Link https://www.bseln.com/2021/01/characteristics-of-language-in-urdu-and.html Website Link\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/KQLMy-dqtdM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBYIdTJCTnF8YRzWtfUXCHGfvLWvg"
+                "static": "https://i.ytimg.com/vi/JwYFfVn7Kdo/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDRyrLVw8V2qKYVLiupcGI4UDQVeg"
             }
         },
         {
             "position_on_page": 11,
-            "title": "TOP PENTEADOS PARA CABELOS CACHEADOS \u2728\ud83d\udc9c",
-            "link": "https://www.youtube.com/watch?v=O9hiK7-lSFQ",
+            "title": "Language : meaning, nature and characteristics of language || topic wise English pedagogy || CTET.",
+            "link": "https://www.youtube.com/watch?v=VSBnyqeMhoI",
             "channel": {
-                "name": "My Curly Tutorials\u26a1",
-                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
-                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Shilpi Dwivedi",
+                "link": "https://www.youtube.com/channel/UCUg5CEP4VlJMh5kRhHbZrbQ",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8H8LLGEOteQ8VBsTontjTRKqgHtTFIT5AmQciT=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "4 months ago",
-            "views": 293559,
-            "length": "5:27",
-            "description": "Ola Minhas Cacheadas !!!! espero muito que gostem do video de Hoje Se gostarem j\u00e1 deixe seu like \u2728 Se inscreva no canal\u00a0...",
+            "published_date": "1 year ago",
+            "views": 114313,
+            "length": "20:40",
+            "description": "ctet2020 #english_pedagogy #language skills This video is important for all teaching exams. Do watch, like , share and subscribe\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/O9hiK7-lSFQ/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB0S9w15DzqEV21OXbZMJG9upmKhg"
+                "static": "https://i.ytimg.com/vi/VSBnyqeMhoI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXMRhUS6Y4LEc9hWj1Uo5CqUF-Mg",
+                "rich": "https://i.ytimg.com/an_webp/VSBnyqeMhoI/mqdefault_6s.webp?du=3000&sqp=CLSEg5gG&rs=AOn4CLA0idcwEOtGAErEuAgS2UZtF60yWg"
             }
         },
         {
             "position_on_page": 12,
-            "title": "V\u00eddeos TikTok Cachos",
-            "link": "https://www.youtube.com/watch?v=jD-RtRT2nVI",
+            "title": "What is Art?",
+            "link": "https://www.youtube.com/watch?v=QZQyV9BB50E",
             "channel": {
-                "name": "TIK Cachos. TOk",
-                "link": "https://www.youtube.com/channel/UCe8FcZFFefMqZi-ZtLgyApA",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLTTLHSwg_bfg0XUFcazoeHWKK8VuefUKzlQIIdF0Q=s68-c-k-c0x00ffffff-no-rj"
+                "name": "GCFLearnFree.org",
+                "link": "https://www.youtube.com/c/GcflearnfreeOrgplus",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_wYdMc1o3ALdJnYTK0quRMhfAP2uLe9O-Hgs16cw=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 year ago",
-            "views": 13,
-            "length": "1:00",
-            "description": "se inscrever por favor.",
+            "published_date": "4 years ago",
+            "views": 924339,
+            "length": "2:26",
+            "description": "We hope you enjoy!",
+            "extensions": [
+                "CC"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/jD-RtRT2nVI/hq2.jpg?sqp=-oaymwEkCOgCEOgCSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLB10_-EULmJCNQ1KKS_G3-VRP3k-A"
+                "static": "https://i.ytimg.com/vi/QZQyV9BB50E/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4vc3nGUOutd_y0kXgPhWMthaQNA",
+                "rich": "https://i.ytimg.com/an_webp/QZQyV9BB50E/mqdefault_6s.webp?du=3000&sqp=COGNg5gG&rs=AOn4CLBAW5Y1gvV2wiTSuf2t1ZwFCJR_iQ"
             }
         },
         {
             "position_on_page": 15,
-            "title": "Trying BoHo/Goddess Braids on my Natural Hair | Viral Tiktok",
-            "link": "https://www.youtube.com/watch?v=RS1Ih9FpQj4",
+            "title": "Clan Meaning | Clan types | Clan characteristics | Kinship | Unilateral Group |  Lineage | Descent",
+            "link": "https://www.youtube.com/watch?v=1jZzYX_EHlw",
             "channel": {
-                "name": "Hair by Mz Magic",
-                "link": "https://www.youtube.com/c/MzMagic",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLTveNJLS-w86JlQXiIkWhb5wxNPfVgya_VZxb7CGjw=s68-c-k-c0x00ffffff-no-rj"
+                "name": "ABC of Sociology",
+                "link": "https://www.youtube.com/c/ABCofSociology",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_JFbaTL294yUQ0pWveou-40iyUcEUcw7u1htE=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "5 days ago",
-            "views": 178,
-            "length": "22:36",
-            "description": "Boho Braids on natural Hair, it ain't as easy as it looks, but I got thru it..follow me on this little adventure ...no weave added Hello\u00a0...",
-            "extensions": [
-                "New",
-                "CC"
-            ],
+            "published_date": "1 year ago",
+            "views": 7970,
+            "length": "21:50",
+            "description": "Hello students this video is about meaning types and characteristics of clan.. please like share and subscribe \ud83d\udc4d\ud83d\udc4d\ud83d\udc4d Music:\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/RS1Ih9FpQj4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLADhhvSx9KgEJtKwazwb6wcImipXw"
+                "static": "https://i.ytimg.com/vi/1jZzYX_EHlw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC0rJDaIhBTJBLHxzhD9IUJ2pmvzA"
             }
         },
         {
             "position_on_page": 16,
-            "title": "V\u00eddeos TikTok Cachos",
-            "link": "https://www.youtube.com/watch?v=AE9YMZqg2fo",
+            "title": "Mental Health Mini #4 Mental Health Theory",
+            "link": "https://www.youtube.com/watch?v=k49AP8i7PU8",
             "channel": {
-                "name": "TIK Cachos. TOk",
-                "link": "https://www.youtube.com/channel/UCe8FcZFFefMqZi-ZtLgyApA",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLTTLHSwg_bfg0XUFcazoeHWKK8VuefUKzlQIIdF0Q=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Erin Micale",
+                "link": "https://www.youtube.com/channel/UCx5nhQ-ArE4AVdowwM7uPNA",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9CZx4uy03p7bXW-WcxYQFJoYpVfm8xY0JPjA=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 year ago",
-            "views": 6,
-            "length": "0:52",
-            "description": "por favor se inscrever.",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/AE9YMZqg2fo/hq720_2.jpg?sqp=-oaymwEkCIADEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBUlNRCoue80EMXtoBGvf_YcSHdWw"
-            }
-        },
-        {
-            "position_on_page": 17,
-            "title": "\ud83d\udd25\ud83d\udc96 penteados f\u00e1ceis para cabelos cacheados, ondulados e crespos \ud83d\udc96\ud83d\udd25",
-            "link": "https://www.youtube.com/watch?v=r32FoB5SWWk",
-            "channel": {
-                "name": "Curly top",
-                "link": "https://www.youtube.com/channel/UCsEGQw1OjKn97Z-i7DYt4DQ",
-                "thumbnail": "https://yt3.ggpht.com/y2SnXa3whKUsyQkOkBJagPXxB1i6JvqL4i7shtmBrXROFAgc8Qz9EaJqIfiZ03IZZ1Jh251Reg=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "8 months ago",
-            "views": 423785,
-            "length": "9:12",
-            "description": "Ol\u00e1, nesse canal voc\u00ea vai ver v\u00eddeos sobre o mundo dos cachos.",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/r32FoB5SWWk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzXU80gsdJ5FyRn6WbHVxnmL2ieA"
-            }
-        },
-        {
-            "position_on_page": 18,
-            "title": "QUANDO DIZEM QUE O CABELO N\u00c3O DEFINE | Com @CarlaQueiroz",
-            "link": "https://www.youtube.com/watch?v=kmPpyA3UUDI",
-            "channel": {
-                "name": "Mundo dos Cacheados \u2022 Inspira\u00e7\u00f5es e Refer\u00eancias ",
-                "link": "https://www.youtube.com/c/channelcurly",
-                "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/DM21BRiAOIxBGXwjnXJ5FX7ayKBSGcMnRbtwPvCcE0nyar_C6kZAkvWRm1V_j1W5g-MSDBi-=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "5 days ago",
-            "views": 9504,
-            "length": "0:08",
+            "published_date": "20 hours ago",
+            "views": 11,
+            "length": "15:06",
+            "description": "This video reviews the different psychological and nursing theories that are commonly used in Mental Health Nursing.",
             "extensions": [
                 "New"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/kmPpyA3UUDI/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBCrtaSmtTPiCnTp0uxD1pWlfeXbA"
+                "static": "https://i.ytimg.com/vi/k49AP8i7PU8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDidVuYkTeKksuZvHTh8vw31dETTw",
+                "rich": "https://i.ytimg.com/an_webp/k49AP8i7PU8/mqdefault_6s.webp?du=3000&sqp=CL_xgpgG&rs=AOn4CLDFulv1LQ42Gf5_VvqinfcIAqBC0g"
+            }
+        },
+        {
+            "position_on_page": 17,
+            "title": "LANGUAGE : MEANING NATURE SCOPE | Role of Language in Life  Intellectual Social Cultural Development",
+            "link": "https://www.youtube.com/watch?v=afE4HPfIsOY",
+            "channel": {
+                "name": "The Vani Classes",
+                "link": "https://www.youtube.com/c/TheVaniClasses",
+                "thumbnail": "https://yt3.ggpht.com/IhUCDb7gQ83znci3MOEMCIucJAiAL0zbJd4U6IonYDuAR0eCta-mV5--wUOGOVBAI0uQz7jk=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "4 months ago",
+            "views": 13913,
+            "length": "35:47",
+            "description": "LANGUAGE : MEANING NATURE SCOPE | Role of Language in Life Intellectual Social Cultural Development. CONTEMPORARY\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/afE4HPfIsOY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC25yYhbtygWsaVeoGntlXC0Ttxxw"
+            }
+        },
+        {
+            "position_on_page": 18,
+            "title": "The 5 Types of Text Structure",
+            "link": "https://www.youtube.com/watch?v=7kWGQ-_ipBY",
+            "channel": {
+                "name": "Flocabulary",
+                "link": "https://www.youtube.com/user/FlocabularyYT",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-YZYsGpEQt74yDZxsyw5AZw09l0Kr2Idf2e2QPFg=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "5 years ago",
+            "views": 2428206,
+            "length": "3:50",
+            "description": "How do authors organize the texts they write? This unit teaches five common text structures used in informational and nonfiction\u00a0...",
+            "extensions": [
+                "CC"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/7kWGQ-_ipBY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCW7RxQu7NA40Eg6ZkgGbW2Z3avGw",
+                "rich": "https://i.ytimg.com/an_webp/7kWGQ-_ipBY/mqdefault_6s.webp?du=3000&sqp=CKKPg5gG&rs=AOn4CLDoCugU03XHdVB_HpDio92SrUlJxw"
             }
         },
         {
             "position_on_page": 19,
-            "title": "\u2022PENTEADOS F\u00c1CEIS COM EL\u00c1STICOS\u2728\u2601\ufe0f|cabelo cacheado/ondulado #curlyhair",
-            "link": "https://www.youtube.com/watch?v=CdKYKcoc-zA",
+            "title": "What is Entrepreneurship? definition, characteristics and entrepreneurial process",
+            "link": "https://www.youtube.com/watch?v=MdNNGfoxrqA",
             "channel": {
-                "name": "Kaylla Ricci",
-                "link": "https://www.youtube.com/channel/UCRKPSePETrjQWvJjhPGDAYw",
-                "thumbnail": "https://yt3.ggpht.com/uu63HbMOUSR-3E7BUzC7kL3jhCy2VBnmN6JzniXUv7m6VWsZtEevGT-sbDd9ZS14YOe3dJV4=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Key Differences",
+                "link": "https://www.youtube.com/c/KeyDifferences",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8WF7La7xiS9HRRfQGwuBkzidW0yBEkz0BOxxgQ=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "5 months ago",
-            "views": 28062,
-            "length": "9:11",
-            "description": "oiiie meninas!! Voc\u00eas gostam de Penteados com el\u00e1sticos/liguinhas?? CONFIRA NO V\u00cdDEO DE HOJE! #elasticity #el\u00e1stico\u00a0...",
+            "published_date": "1 year ago",
+            "views": 392796,
+            "length": "6:59",
+            "description": "In this video, we have explained the meaning of entrepreneurship in an elaborated manner. Additionally, we have also described\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/CdKYKcoc-zA/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBd_EztJi3qZ6sL6SuCawkVNLD6NQ"
+                "static": "https://i.ytimg.com/vi/MdNNGfoxrqA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUI6XHt82xvKCgRXNfRkozqEv73A"
             }
         },
         {
             "position_on_page": 20,
-            "title": "Penteado Simples e r\u00e1pido para todos os tipos de cabelo #shorts #penteados",
-            "link": "https://www.youtube.com/watch?v=a5ZqoK5uuLw",
+            "title": "Meaning and Characteristics of Language | Topic - 1 | subject-language across the curriculum | b.ed",
+            "link": "https://www.youtube.com/watch?v=rGnFElbus6g",
             "channel": {
-                "name": "P\u00e2mella Ramos",
-                "link": "https://www.youtube.com/channel/UCwpl9-MHTJD-ofW68tP6HYw",
-                "thumbnail": "https://yt3.ggpht.com/6pn3oIMVDLMu6Huj1DuodT_oYLsbpOGGwo6lCB4KpbMa8ewXuT-h6IP1f3uyjVrPp4zXn-3DdA=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Bed Bachelor of Education",
+                "link": "https://www.youtube.com/channel/UCO4j8ilXiKXdssLSTn7QJ0Q",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-ri4UZbfpkEfOYUkMz18iIHPBCZrfBHH9tsXlB=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "2 weeks ago",
-            "views": 1383,
-            "length": "0:46",
+            "published_date": "3 years ago",
+            "views": 131922,
+            "length": "10:27",
+            "description": "Aaj mai apko B.ed me\" language across the curriculum \" subject me Topic - 1 me \" meaning and characteristics of language \" kara\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/a5ZqoK5uuLw/hq720_2.jpg?sqp=-oaymwEkCJYDENAFSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLBBWVxcMU8GxbO7mYS_KErcVosn_w"
+                "static": "https://i.ytimg.com/vi/rGnFElbus6g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDoz5oy_sYoPJBdasYjNsMd4OQluw"
             }
         },
         {
             "position_on_page": 21,
-            "title": "Tik tok Curly Hair Routines \ud83d\udc67| Hair Transformation Tiktok Compilation",
-            "link": "https://www.youtube.com/watch?v=1XbF0ll-u4s",
+            "title": "Unit 27 : Qualitative Data Formatting and Processing",
+            "link": "https://www.youtube.com/watch?v=1onfjhaTNEw",
             "channel": {
-                "name": "Tiktok X",
-                "link": "https://www.youtube.com/c/TiktokXX",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLT4OV3Psw4YhMulDndPmOZpeODgUglHJD4ExSBI=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Ubundu Sociology Academy",
+                "link": "https://www.youtube.com/channel/UCOOb_ptNJEEEK1V0wQb-T1g",
+                "thumbnail": "https://yt3.ggpht.com/gZFbOARMTMVY02iL5PGPsEa3gV3WqjK37PXnsX64m5ig4VDhTteQIkbrOnR7CIQXz8mgYIV2PpM=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 year ago",
-            "views": 595771,
-            "length": "10:45",
-            "description": "Tik toks Curly Hair Routines | Hair Transformation Tiktok Compilation Lets get to 14k Subscribers before February 20th\u2757\u00a0...",
+            "published_date": "21 hours ago",
+            "views": null,
+            "length": "37:03",
+            "description": "MSO-002 Research Methodologies and Methods Block-7 Qualitative Research Methods and Techniques Unit 27 : Qualitative\u00a0...",
+            "extensions": [
+                "New"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/1XbF0ll-u4s/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBaMLNEUjP-pOy2_js51M1WqrXomw"
+                "static": "https://i.ytimg.com/vi/1onfjhaTNEw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAc3TcQtOz4uQnQQjF0-mXg7Dsx9Q"
             }
         },
         {
             "position_on_page": 22,
-            "title": "Tiktok de cachos \ud83d\ude18",
-            "link": "https://www.youtube.com/watch?v=kJae20-L_eI",
+            "title": "What is Language and Characteristics of Language | Linguistics  in Urdu Hindi",
+            "link": "https://www.youtube.com/watch?v=qUKZpaTlxbM",
             "channel": {
-                "name": "Futuro de Milh\u00f5es",
-                "link": "https://www.youtube.com/channel/UC-hoygPedriv_kbS7w_Zmcg",
-                "thumbnail": "https://yt3.ggpht.com/Lp7pK_ok6PiiLESXCsG4TyNVKC_VPFniEpKQVspeTFUzy9j132EIhHxHUZ_jw-4vaa7ICZBunnc=s68-c-k-c0x00ffffff-no-rj"
+                "name": "English Literature",
+                "link": "https://www.youtube.com/c/EnglishLiteratureRB",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-AGy9Jqqx-dxG3p5Ajds_FaF1urUQSa_Bhawph=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "11 months ago",
-            "views": 8,
-            "length": "0:23",
+            "published_date": "1 year ago",
+            "views": 35233,
+            "length": "24:53",
+            "description": "What is Language and Characteristics of Language | Linguistics | Explained in Urdu Hindi #What_is_Language\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/kJae20-L_eI/hq720_2.jpg?sqp=-oaymwEkCI4CEOADSFryq4qpAxYIARUAAAAAJQAAyEI9AICiQ3gB0AEB&rs=AOn4CLAnTCgUDIcYVR_hTx3hDQkba00lBw"
+                "static": "https://i.ytimg.com/vi/qUKZpaTlxbM/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCZPcsXgDq7GOhcklgEJyqGm5e1aA"
             }
         }
     ],
     "people_also_watched": [
         {
             "position_on_page": 13,
-            "title": "Finaliza\u00e7\u00e3o Cachos / Tik Tokers \u2728",
-            "link": "https://www.youtube.com/watch?v=lNSeyx8ShXo",
+            "title": "The Concept of Language (Noam Chomsky)",
+            "link": "https://www.youtube.com/watch?v=hdUbIlwHRkY",
             "channel": {
-                "name": "My Curly Tutorials\u26a1",
-                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
-                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
+                "name": "UW Video",
+                "link": "https://www.youtube.com/c/UWVideo",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-xMvU2xhP7u4ub5F6Mc1a4deoTM0cvuE4dIiy-cQ=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "9 months ago",
-            "views": 27552,
-            "length": "5:50",
-            "description": "cachos#tiktok#finaliza\u00e7\u00e3o Ol\u00e1 Cacheadas Espero Que Tenham Gostado do Video \u2728 Tik Tokers do Video : @xcaroolx @_izazz\u00a0...",
+            "published_date": "8 years ago",
+            "views": 1444010,
+            "length": "27:44",
+            "description": "Linguist Noam Chomsky, professor at MIT, discusses the ways in which language changes over time and how the idea of a\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/lNSeyx8ShXo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDNJkt7hbXxooBJGFQYfmg5v9fhyw"
+                "static": "https://i.ytimg.com/vi/hdUbIlwHRkY/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDgw8NA9lrF2kalELb73YLiyVx_RA",
+                "rich": "https://i.ytimg.com/an_webp/hdUbIlwHRkY/mqdefault_6s.webp?du=3000&sqp=CIjygpgG&rs=AOn4CLAJYg1fXRXKlvJcONaRZqrMuj_nqQ"
             }
         },
         {
             "position_on_page": 14,
-            "title": "REACTING TO CURLY HAIR TIKTOK VIDEOS... well this is embarrassing",
-            "link": "https://www.youtube.com/watch?v=A4wqWDyNoJk",
+            "title": "What Is Art? - Understanding The Essence Of Art",
+            "link": "https://www.youtube.com/watch?v=JkoDlg3zy7E",
             "channel": {
-                "name": "Destinee Wray",
-                "link": "https://www.youtube.com/c/DracoDez",
-                "thumbnail": "https://yt3.ggpht.com/D_EjtUzHCr4Ty1laHsRUIsh3mryNQUS3UsBGybsf-pe9izD4viBz67woJsH77mdcv_blItLsng=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Actualized.org",
+                "link": "https://www.youtube.com/c/ActualizedOrg",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8w5LArk-UhPt9zeQl8XcqH27mPrh67C1cMQN0mVQ=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "5 years ago",
+            "views": 82060,
+            "length": "54:30",
+            "description": "What is the nature of art? What is the purpose of art? Where does creativity come from? What makes good vs bad art? How do you\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/JkoDlg3zy7E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAhX2nxVEZPNDXz7Bg7zPd-UDA6Mw",
+                "rich": "https://i.ytimg.com/an_webp/JkoDlg3zy7E/mqdefault_6s.webp?du=3000&sqp=CPv0gpgG&rs=AOn4CLDaUQ2mWQcma3Gc4LsnCwTowEhh2g"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Can you spot autism?",
+            "link": "https://www.youtube.com/watch?v=SjQcxATh1vI",
+            "channel": {
+                "name": "jlmlorimer",
+                "link": "https://www.youtube.com/user/jlmlorimer",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-Nzj7SsV-t89gcbzqXqBgiekkCQrN_5zuxuhmA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "13 years ago",
+            "views": 1550476,
+            "length": "3:52",
+            "description": "Can you find the child with autism at this bithday party? Check your skills, and read about a controversy.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/SjQcxATh1vI/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD4avXLd4NHKSgxaPwFcXrpreN62g",
+                "rich": "https://i.ytimg.com/an_webp/SjQcxATh1vI/mqdefault_6s.webp?du=3000&sqp=CPLOgpgG&rs=AOn4CLDCA9WTxx_Vw7isKOGF97QjZoEvJw"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Who are you, really? The puzzle of personality | Brian Little",
+            "link": "https://www.youtube.com/watch?v=qYvXk_bqlBk",
+            "channel": {
+                "name": "TED",
+                "link": "https://www.youtube.com/c/TED",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu94pzTFiSDqYIvXn40JdctQCOxK2fnAMEy0zdL6kA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "6 years ago",
+            "views": 10267222,
+            "length": "15:16",
+            "description": "What makes you, you? Psychologists like to talk about our traits, or defined characteristics that make us who we are. But Brian\u00a0...",
+            "extensions": [
+                "CC"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/qYvXk_bqlBk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBoByR3sbv1iCiTVLiO1YYPwwWwVA",
+                "rich": "https://i.ytimg.com/an_webp/qYvXk_bqlBk/mqdefault_6s.webp?du=3000&sqp=CNGIg5gG&rs=AOn4CLBjZ481tLxWEZx9IGclxkrN_Ukq6w"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Cryptocurrency||Types of Cryptocurrency",
+            "link": "https://www.youtube.com/watch?v=aVt75czoGbg",
+            "channel": {
+                "name": "Learn With Ria",
+                "link": "https://www.youtube.com/channel/UC_jaLZpq4B-dW_ZDzPF_v0g",
+                "thumbnail": "https://yt3.ggpht.com/AkyqdhYuEKwjBtZ7yFhpVXhNCz-wOziyHkiMEIL8GIq-9mSlrHjfHtvi5JeQHPrOk6tqU06O4w=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "18 hours ago",
+            "views": 121,
+            "length": "2:26",
+            "description": "cryptocurrency #crypto #cryptocurrencies #cryptocoin #cryptotrading #cryptonewstoday #bitcoin #bitcoins #binance #ethereum\u00a0...",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/aVt75czoGbg/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCdC8AQp3VMn6TGinkqNSGZsdyiHQ",
+                "rich": "https://i.ytimg.com/an_webp/aVt75czoGbg/mqdefault_6s.webp?du=3000&sqp=CIjkgpgG&rs=AOn4CLBPdddKsomfg5cW4vDJJO-c8Sfk3w"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Learning a Language Will Change your Life for Good | Christopher McCormick | TEDxPhnomPenh",
+            "link": "https://www.youtube.com/watch?v=CQX4mAaJBmE",
+            "channel": {
+                "name": "TEDx Talks",
+                "link": "https://www.youtube.com/user/TEDxTalks",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_rYCQLaGXj6k5hTFivTXDt_eJ39Beu4uEdUggVhw=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "10 years ago",
+            "views": 660957,
+            "length": "16:39",
+            "description": "As the head of language research, training and testing for EF Education First -- the world's largest language school -- Dr.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/CQX4mAaJBmE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDzWTuZnFl2_wsOJvz_ubGCrl7Big",
+                "rich": "https://i.ytimg.com/an_webp/CQX4mAaJBmE/mqdefault_6s.webp?du=3000&sqp=CI78gpgG&rs=AOn4CLDZXjwZ7NOsYRQ72_4qDB95UKQJfA"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "The Building Blocks for Theory Development in Research",
+            "link": "https://www.youtube.com/watch?v=BvDzroWS4us",
+            "channel": {
+                "name": "Sohail For IT Pupils",
+                "link": "https://www.youtube.com/channel/UCStv9zWNzjYgKLDqjvq9v2w",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-qxiUHv2-kQPRjc5ZuBZ8oamsHXukumqOBfFn6=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "2 years ago",
+            "views": 358,
+            "length": "33:49",
+            "description": "4 Building Blocks in Research.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/BvDzroWS4us/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBmTFjvGQVksDqMPLxqMSikwtNtbw",
+                "rich": "https://i.ytimg.com/an_webp/BvDzroWS4us/mqdefault_6s.webp?du=3000&sqp=CL_-gpgG&rs=AOn4CLAlLhDq8IHfXd7Rr062TFsa2yjvrA"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Language Acquisition: Crash Course Linguistics #12",
+            "link": "https://www.youtube.com/watch?v=Ccsf0yX7ECg",
+            "channel": {
+                "name": "CrashCourse",
+                "link": "https://www.youtube.com/c/crashcourse",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-9vZVC7Lne2Q94NC5pqbLWtFxdCBrS105l7NXEkg=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "1 year ago",
-            "views": 1870822,
-            "length": "10:44",
-            "description": "yolo #roadto100k MERCH: PHONE CASE: https://dez.merchforall.com WHITE T- SHIRT: https://dez.merchforall.com TYEDYE\u00a0...",
+            "views": 165324,
+            "length": "10:52",
+            "description": "Babies have to learn a lot of language stuff before they can even say their first word. Exposure to language as infants doesn't just\u00a0...",
+            "extensions": [
+                "CC"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/A4wqWDyNoJk/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAzUn4Vhc4UvmiinjVAp4CcMTI_pQ"
+                "static": "https://i.ytimg.com/vi/Ccsf0yX7ECg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5JvNfapUoUBjsy0OCOq7uwd6jmw",
+                "rich": "https://i.ytimg.com/an_webp/Ccsf0yX7ECg/mqdefault_6s.webp?du=3000&sqp=CIj5gpgG&rs=AOn4CLBA-fYPmGop_LFgSGTL5Xr1AfIujw"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "AS MELHORES FINALIZA\u00c7\u00c3O PARA CABELOS CACHEADOS \ud83d\udc9c *muita defini\u00e7\u00e3o*",
-            "link": "https://www.youtube.com/watch?v=gHE7CHJJtKI",
+            "title": "Former FBI Agent Explains How to Read Body Language | Tradecraft | WIRED",
+            "link": "https://www.youtube.com/watch?v=4jwUXV4QaTw",
             "channel": {
-                "name": "My Curly Tutorials\u26a1",
-                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
-                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
+                "name": "WIRED",
+                "link": "https://www.youtube.com/c/WIRED",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8FFjyPVUkjAOCSKilmbRE9lphkh3LOJjqT4ZFBCW8=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "3 months ago",
-            "views": 34592,
-            "length": "7:09",
-            "description": "Ola Minhas Cacheadas !!!! espero muito que gostem do video de Hoje Se gostarem j\u00e1 deixe seu like \u2728 Se inscreva no canal\u00a0...",
+            "published_date": "3 years ago",
+            "views": 44857760,
+            "length": "14:44",
+            "description": "Former FBI agent and body language expert Joe Navarro breaks down the various ways we communicate non-verbally.",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/gHE7CHJJtKI/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB38Y2RaCP5BK696ZtvIHve08byNA"
+                "static": "https://i.ytimg.com/vi/4jwUXV4QaTw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCVhFyZkdM2laYUvOJT0XXCejBpgg",
+                "rich": "https://i.ytimg.com/an_webp/4jwUXV4QaTw/mqdefault_6s.webp?du=3000&sqp=CPzTgpgG&rs=AOn4CLCLnjcCM_3GQhD7jJ5xphF5GRDQCA"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "PENTEADOS F\u00c1CEIS E R\u00c1PIDOS CABELOS CACHEADOS E CRESPOS \ud83d\udc9c",
-            "link": "https://www.youtube.com/watch?v=AO5xCcvUfCs",
+            "title": "What Is Evolution & types of HUMANS | Dr Binocs Show | Peekaboo Kidz",
+            "link": "https://www.youtube.com/watch?v=mmCGDsFfl2c",
             "channel": {
-                "name": "My Curly Tutorials\u26a1",
-                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
-                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "6 months ago",
-            "views": 65748,
-            "length": "7:03",
-            "description": "curlyhair#cabeloscacheados#curlyhairstyles Ola Cacheadas Se voc\u00ea quer aprender v\u00e1rios penteados que fujam do rabo de\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/AO5xCcvUfCs/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCsw4jhaFGTKZ43K1LqkQMKePBXdg"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "AS TOP MELHORES FINALIZA\u00c7\u00c3O PARA CABELOS CACHEADOS \ud83d\udc9c",
-            "link": "https://www.youtube.com/watch?v=AWJelNfJAOY",
-            "channel": {
-                "name": "My Curly Tutorials\u26a1",
-                "link": "https://www.youtube.com/channel/UCLL13m5dykvmkf0lak2kgDA",
-                "thumbnail": "https://yt3.ggpht.com/qd8x__bmkaWIftyiUmTSC5YCWEXIcTgzdgI1DWJb7BB0OUFMLAgBHgaimumxIJtD1XgQ1_s0=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "4 months ago",
-            "views": 25658,
-            "length": "6:14",
-            "description": "Ola Minhas Cacheadas !!!! espero muito que gostem do video de Hoje Se gostarem j\u00e1 deixe seu like \u2728 Se inscreva no canal\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/AWJelNfJAOY/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCRYQSQg4Lp2YQj8u2LPMVJHKWcHw"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "OS CABELOS LONGOS MAIS LINDOS DO ISNTA",
-            "link": "https://www.youtube.com/watch?v=AQVxP04eTfA",
-            "channel": {
-                "name": "Herica braga",
-                "link": "https://www.youtube.com/channel/UC51EOn60HWUYP3_wtuzHmTw",
-                "thumbnail": "https://yt3.ggpht.com/_f26KJl6Nbo_RYYN2M8Td9kCSmXGLRzYWT9MqbZZmjVRoxK-m7NE8ESKs0MSW4hSwIuvGKky=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Peekaboo Kidz",
+                "link": "https://www.youtube.com/c/PeekabooKids",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_xGr9RzgY_FvvqDySDJw8SqwLs4O2h1QiDpzJqBg=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "1 year ago",
-            "views": 14746,
-            "length": "9:21",
-            "description": "Os cabelo mais longo lindo do Instagram cabelos longos,cabelos,longos,cabelos longos lindos,cabelos grandes,cabelos longos\u00a0...",
+            "views": 2205503,
+            "length": "6:25",
+            "description": "Evolution & Types Of Humans | What Are Types Of Humans | Humans | Evolution Meaning | Different Types Of Humans\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/AQVxP04eTfA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBUWjT_M7Go682ksk83Q7WWIaMQTA"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "50 PENTEADOS F\u00c1CEIS E R\u00c1PIDOS para FAZER SOZINHA em CABELOS CACHEADOS, LISOS e ONDULADOS",
-            "link": "https://www.youtube.com/watch?v=OaZ3bq-xovA",
-            "channel": {
-                "name": "Desvendando Segredos",
-                "link": "https://www.youtube.com/channel/UCsXN1wgE4AfJ-eM-c_vWJnA",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLReVFdMLSRQ4ZeDv0y8GSVqtCYHOGF_W05iHtzr=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "5 months ago",
-            "views": 588714,
-            "length": "18:51",
-            "description": "No v\u00eddeo de hoje trago v\u00e1rios penteados f\u00e1ceis e r\u00e1pidos para voc\u00ea fazer sozinha em casa e esses penteados s\u00e3o para cabelos\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/OaZ3bq-xovA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBbq_3kxGd1ayE6IsmoGpn-V3Dmpw"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "ItsJusJas \u2728 Tiktok Baddie Hairstyles Tutorial Compilation\u2728| Babykeledits Videos",
-            "link": "https://www.youtube.com/watch?v=_Naeeo1r9cA",
-            "channel": {
-                "name": "BabyKelEdits",
-                "link": "https://www.youtube.com/channel/UCEHaXujeAwFNY2SUAQiRsng",
-                "thumbnail": "https://yt3.ggpht.com/kLs68EkfmrRbxHttMAp42pod4h9mhFUyCSljzh_f6_Sm5dmySJXzHqr-7UaqjfYY3yat2BjZ=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "1 year ago",
-            "views": 220989,
-            "length": "20:11",
-            "description": "keep up with jas\u2728 on social media instagram: itsjust.jas https://www.instagram.com/itsjust.jas/ tiktok: itsjustjass\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/_Naeeo1r9cA/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLClDmk4hesGVLR7hyvRpDSllVQW_w"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "ELA CHOROU, MAS OLHA O RESULTADO.\ud83d\udc87\u200d\u2640\ufe0f\ud83c\udf39",
-            "link": "https://www.youtube.com/watch?v=eLvd7Pz4C1Q",
-            "channel": {
-                "name": "CACHOS E CACHOS",
-                "link": "https://www.youtube.com/c/MestredosCachosOficial",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AKedOLQCgIyoC4cBrA-NjhyYuWCuhotObrAacow78QtU=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "1 year ago",
-            "views": 3641219,
-            "length": "1:10",
-            "description": "INSCREVA-SE #PRODUTOS #CACHOS adquiram seu curso/https://go.hotmart.com/V46705746G?dp=1.",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/eLvd7Pz4C1Q/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLASfvRoPtDYoQVpmQNn6i7uL3vM6Q"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "\u2728baddie curly hairstyles compilation 2022 \u2728",
-            "link": "https://www.youtube.com/watch?v=iM3QvKukilk",
-            "channel": {
-                "name": "Curly top",
-                "link": "https://www.youtube.com/channel/UCsEGQw1OjKn97Z-i7DYt4DQ",
-                "thumbnail": "https://yt3.ggpht.com/y2SnXa3whKUsyQkOkBJagPXxB1i6JvqL4i7shtmBrXROFAgc8Qz9EaJqIfiZ03IZZ1Jh251Reg=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "1 month ago",
-            "views": 190575,
-            "length": "12:49",
-            "description": "ol\u00e1, aqui voc\u00ea encontra tudo sobre o mundo dos cachos.",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/iM3QvKukilk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDzM1BGm5Q7Q3J0iTPS6yXp7qQldw"
+                "static": "https://i.ytimg.com/vi/mmCGDsFfl2c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGmFe6qsDHD7955FaPPFXMRrC95g",
+                "rich": "https://i.ytimg.com/an_webp/mmCGDsFfl2c/mqdefault_6s.webp?du=3000&sqp=CP3ZgpgG&rs=AOn4CLBDQHWwVI0Jzm_N1EkxCRmuBGbmHA"
             }
         }
     ],
     "pagination": {
-        "current": "https://www.youtube.com/results?search_query=Discover+maloqueiro+cabelo+enrolado+%27s+popular+videos+-+TikTok",
-        "next": "https://www.youtube.com/results?search_query=Discover%20maloqueiro%20cabelo%20enrolado%20%27s%20popular%20videos%20-%20TikTok&sp=SBSCAQs0RlJSMkJFX3U5OIIBC09BMlBhd3hDN25JggELbnhxTW9GOFU0RU2CAQt5R1h3LVlhelRoa4IBC05laEdSRThSd1c4ggELZFZBSlh1clpyMkmCAQtjeEgydnJrQ0hka4IBCzF6THU1VWFPT19ZggELT0dweDBBeTVCb3OCAQtLUUxNeS1kcXRkTYIBC085aGlLNy1sU0ZRggELakQtUnRSVDJuVkmCAQtSUzFJaDlGcFFqNIIBC0FFOVlNWnFnMmZvggELcjMyRm9CNVNXV2uCAQtrbVBweUEzVVVESYIBC0NkS1lLY29jLXpBggELYTVacW9LNXV1THeCAQsxWGJGMGxsLXU0c4IBC2tKYWUyMC1MX2VJsgEGCgQIFRAC",
-        "next_page_token": "SBSCAQs0RlJSMkJFX3U5OIIBC09BMlBhd3hDN25JggELbnhxTW9GOFU0RU2CAQt5R1h3LVlhelRoa4IBC05laEdSRThSd1c4ggELZFZBSlh1clpyMkmCAQtjeEgydnJrQ0hka4IBCzF6THU1VWFPT19ZggELT0dweDBBeTVCb3OCAQtLUUxNeS1kcXRkTYIBC085aGlLNy1sU0ZRggELakQtUnRSVDJuVkmCAQtSUzFJaDlGcFFqNIIBC0FFOVlNWnFnMmZvggELcjMyRm9CNVNXV2uCAQtrbVBweUEzVVVESYIBC0NkS1lLY29jLXpBggELYTVacW9LNXV1THeCAQsxWGJGMGxsLXU0c4IBC2tKYWUyMC1MX2VJsgEGCgQIFRAC"
+        "current": "https://www.youtube.com/results?search_query=language+%7C+Definition%2C+Types%2C+Characteristics%2C+Development+...",
+        "next": "https://www.youtube.com/results?search_query=language%20%7C%20Definition%2C%20Types%2C%20Characteristics%2C%20Development%20...&sp=SBSCAQtyVXhfWHowRl9Vb4IBCy10VmdCaUtic2VjggELaS1hUF9OSDg2NzSCAQt2WmlpQmhSaGZ6QYIBC1lFYVN4aGNuczdZggELd3hYS1ZBNFU2eGOCAQtrLWdfT0V3SF80c4IBC1JLSzd3R0FZUDZrggELSWhjZ1lneDdhQUGCAQtKd1lGZlZuN0tkb4IBC1ZTQm55cWVNaG9JggELUVpReVY5QkI1MEWCAQsxalp6WVhfRUhsd4IBC2s0OUFQOGk3UFU4ggELYWZFNEhQZklzT1mCAQs3a1dHUS1faXBCWYIBC01kTk5HZm94cnFBggELckduRkVsYnVzNmeCAQsxb25mamhhVE5Fd4IBC3FVS1pwYVRseGJNsgEGCgQIFRAC",
+        "next_page_token": "SBSCAQtyVXhfWHowRl9Vb4IBCy10VmdCaUtic2VjggELaS1hUF9OSDg2NzSCAQt2WmlpQmhSaGZ6QYIBC1lFYVN4aGNuczdZggELd3hYS1ZBNFU2eGOCAQtrLWdfT0V3SF80c4IBC1JLSzd3R0FZUDZrggELSWhjZ1lneDdhQUGCAQtKd1lGZlZuN0tkb4IBC1ZTQm55cWVNaG9JggELUVpReVY5QkI1MEWCAQsxalp6WVhfRUhsd4IBC2s0OUFQOGk3UFU4ggELYWZFNEhQZklzT1mCAQs3a1dHUS1faXBCWYIBC01kTk5HZm94cnFBggELckduRkVsYnVzNmeCAQsxb25mamhhVE5Fd4IBC3FVS1pwYVRseGJNsgEGCgQIFRAC"
     },
     "serpapi_pagination": {
-        "current": "https://serpapi.com/search.json?engine=youtube&search_query=Discover+maloqueiro+cabelo+enrolado+%27s+popular+videos+-+TikTok",
-        "next": "https://serpapi.com/search.json?engine=youtube&search_query=Discover+maloqueiro+cabelo+enrolado+%27s+popular+videos+-+TikTok&sp=SBSCAQs0RlJSMkJFX3U5OIIBC09BMlBhd3hDN25JggELbnhxTW9GOFU0RU2CAQt5R1h3LVlhelRoa4IBC05laEdSRThSd1c4ggELZFZBSlh1clpyMkmCAQtjeEgydnJrQ0hka4IBCzF6THU1VWFPT19ZggELT0dweDBBeTVCb3OCAQtLUUxNeS1kcXRkTYIBC085aGlLNy1sU0ZRggELakQtUnRSVDJuVkmCAQtSUzFJaDlGcFFqNIIBC0FFOVlNWnFnMmZvggELcjMyRm9CNVNXV2uCAQtrbVBweUEzVVVESYIBC0NkS1lLY29jLXpBggELYTVacW9LNXV1THeCAQsxWGJGMGxsLXU0c4IBC2tKYWUyMC1MX2VJsgEGCgQIFRAC",
-        "next_page_token": "SBSCAQs0RlJSMkJFX3U5OIIBC09BMlBhd3hDN25JggELbnhxTW9GOFU0RU2CAQt5R1h3LVlhelRoa4IBC05laEdSRThSd1c4ggELZFZBSlh1clpyMkmCAQtjeEgydnJrQ0hka4IBCzF6THU1VWFPT19ZggELT0dweDBBeTVCb3OCAQtLUUxNeS1kcXRkTYIBC085aGlLNy1sU0ZRggELakQtUnRSVDJuVkmCAQtSUzFJaDlGcFFqNIIBC0FFOVlNWnFnMmZvggELcjMyRm9CNVNXV2uCAQtrbVBweUEzVVVESYIBC0NkS1lLY29jLXpBggELYTVacW9LNXV1THeCAQsxWGJGMGxsLXU0c4IBC2tKYWUyMC1MX2VJsgEGCgQIFRAC"
+        "current": "https://serpapi.com/search.json?engine=youtube&search_query=language+%7C+Definition%2C+Types%2C+Characteristics%2C+Development+...",
+        "next": "https://serpapi.com/search.json?engine=youtube&search_query=language+%7C+Definition%2C+Types%2C+Characteristics%2C+Development+...&sp=SBSCAQtyVXhfWHowRl9Vb4IBCy10VmdCaUtic2VjggELaS1hUF9OSDg2NzSCAQt2WmlpQmhSaGZ6QYIBC1lFYVN4aGNuczdZggELd3hYS1ZBNFU2eGOCAQtrLWdfT0V3SF80c4IBC1JLSzd3R0FZUDZrggELSWhjZ1lneDdhQUGCAQtKd1lGZlZuN0tkb4IBC1ZTQm55cWVNaG9JggELUVpReVY5QkI1MEWCAQsxalp6WVhfRUhsd4IBC2s0OUFQOGk3UFU4ggELYWZFNEhQZklzT1mCAQs3a1dHUS1faXBCWYIBC01kTk5HZm94cnFBggELckduRkVsYnVzNmeCAQsxb25mamhhVE5Fd4IBC3FVS1pwYVRseGJNsgEGCgQIFRAC",
+        "next_page_token": "SBSCAQtyVXhfWHowRl9Vb4IBCy10VmdCaUtic2VjggELaS1hUF9OSDg2NzSCAQt2WmlpQmhSaGZ6QYIBC1lFYVN4aGNuczdZggELd3hYS1ZBNFU2eGOCAQtrLWdfT0V3SF80c4IBC1JLSzd3R0FZUDZrggELSWhjZ1lneDdhQUGCAQtKd1lGZlZuN0tkb4IBC1ZTQm55cWVNaG9JggELUVpReVY5QkI1MEWCAQsxalp6WVhfRUhsd4IBC2s0OUFQOGk3UFU4ggELYWZFNEhQZklzT1mCAQs3a1dHUS1faXBCWYIBC01kTk5HZm94cnFBggELckduRkVsYnVzNmeCAQsxb25mamhhVE5Fd4IBC3FVS1pwYVRseGJNsgEGCgQIFRAC"
     }
 }
