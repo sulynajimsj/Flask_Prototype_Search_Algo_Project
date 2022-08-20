@@ -9,7 +9,7 @@ def searchAPI(image_url):
 
     #Reverse Image search: Google only
     params = {
-    "api_key": "ca13d0bf8ef1a4a0e4178d60fd95b20fee072112de73a4cf1447bc684e335ede",
+    "api_key": "36a46054a90e7e84c377485c192248eecf5d0c0e4513fb096f17a369d3b77749",
     "engine": "google_reverse_image",
     "google_domain": "google.com",
     "q": "",
@@ -43,7 +43,7 @@ def searchAPI(image_url):
     params2 = {
         "engine": "youtube",
          "search_query": query,
-         "api_key": "ca13d0bf8ef1a4a0e4178d60fd95b20fee072112de73a4cf1447bc684e335ede"
+         "api_key": "36a46054a90e7e84c377485c192248eecf5d0c0e4513fb096f17a369d3b77749"
     }
 
     search2 = GoogleSearch(params2)
