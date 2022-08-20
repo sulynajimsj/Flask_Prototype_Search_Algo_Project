@@ -1,144 +1,166 @@
 {
     "search_metadata": {
-        "id": "6300d9348b7ed235e3425464",
+        "id": "630118e12f542e232eb740a8",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/2f861cacf5267ff8/6300d9348b7ed235e3425464.json",
-        "created_at": "2022-08-20 12:53:08 UTC",
-        "processed_at": "2022-08-20 12:53:08 UTC",
-        "google_reverse_image_url": "https://www.google.com/searchbyimage?q=&image_url=http://res.cloudinary.com/odinsully/image/upload/v1660999987/wq5pvjxizxrvei6j97nr.jpg",
-        "raw_html_file": "https://serpapi.com/searches/2f861cacf5267ff8/6300d9348b7ed235e3425464.html",
-        "total_time_taken": 1.91
+        "json_endpoint": "https://serpapi.com/searches/3a9491da0ead816a/630118e12f542e232eb740a8.json",
+        "created_at": "2022-08-20 17:24:49 UTC",
+        "processed_at": "2022-08-20 17:24:49 UTC",
+        "google_reverse_image_url": "https://www.google.com/searchbyimage?q=&image_url=http://res.cloudinary.com/odinsully/image/upload/v1661016288/m2a0qyqydlxudcchwm5f.jpg",
+        "raw_html_file": "https://serpapi.com/searches/3a9491da0ead816a/630118e12f542e232eb740a8.html",
+        "total_time_taken": 1.68
     },
     "search_parameters": {
         "engine": "google_reverse_image",
-        "image_url": "http://res.cloudinary.com/odinsully/image/upload/v1660999987/wq5pvjxizxrvei6j97nr.jpg",
+        "image_url": "http://res.cloudinary.com/odinsully/image/upload/v1661016288/m2a0qyqydlxudcchwm5f.jpg",
         "google_domain": "google.com",
         "device": "desktop"
     },
     "search_information": {
         "organic_results_state": "Results for exact spelling",
-        "query_displayed": "language",
+        "query_displayed": "hybrid guitar",
         "total_results": 2,
-        "time_taken_displayed": 1.09
+        "time_taken_displayed": 0.64
     },
     "inline_images": [
         {
-            "source": "http://www.i-mockery.com/minimocks/night-of-the-creeps/",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e74812c648a83250d7f82f1824720b1487350e0760efcbacabf.jpeg"
+            "source": "https://audioassemble.com/best-acoustic-guitar-vst/",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e59002dfeb5d87db5d437fc340b954d5e4ca5de777170f802.jpeg"
         },
         {
-            "source": "https://open.spotify.com/track/4qwhUXgl6Q605UX1Z0Yc5F",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e74facba67e047e478ebb41277ba4d1f4bc42768d6a3269354b.jpeg"
+            "source": "https://www.stringvibe.com/acoustic-guitar-songs-for-beginners/",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e87edac72fc7f9a7dd10ce1e2df976df95a33ecf65ae6114a.jpeg"
         },
         {
-            "source": "https://people.com/tv/we-tried-it-i-went-hunting-for-ghosts-with-travel-channels-ghost-adventures/",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e741897be8d84ea68c309d49849018af94c4e9b2a0fc670200b.jpeg"
+            "source": "https://musiciantuts.com/acoustic-guitar-songs/",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e92224ec352108439a4f3baeb51491f375ddde806faa5c8c0.jpeg"
         },
         {
-            "source": "https://www.pond5.com/stock-footage/item/49110401-night-vision-camera-theatre",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e7447d1c24d6513eb07853e87ca4dceee1efe29abba6f0f43eb.jpeg"
+            "source": "https://unsplash.com/photos/VY0XY_DNwqc",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e13f22d48be3169864702a04bfe76b9a2c252f79b2befa6e3.jpeg"
         },
         {
-            "source": "https://genius.com/Sidi-night-swim-lyrics",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e74cee81cada9a304b6e5d3db21f69bc85d9ea55908d0f02865.jpeg"
+            "source": "https://beginnerguitarhq.com/jasmine-s35/",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e02c62f7da0f5ceff92c2e5cde2b0758d67a2418a968f27ee.jpeg"
         },
         {
-            "source": "https://www.pond5.com/stock-video-footage/1/car-desert-night.html",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e74e003c7ada7782732fc8cc34b569056b1f5c14b73a9c4b46f.jpeg"
+            "source": "https://acousticguitar.com/ask-the-expert-understanding-scale-length/",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7ed0491f8d4235e33d7915f44532fe6e8af03556eb7e7793b8.jpeg"
         },
         {
-            "source": "https://www.movie-censorship.com/report.php?ID=517980",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e74db5c2d5279c25ebfb379ef96ea2f67e1b36a1be54336b5e7.jpeg"
+            "source": "https://www.youtube.com/watch?v=UgsN_HOjV2c",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e8adec0d3b8b09df383c9ae859e98fec641ec30d189363154.jpeg"
         },
         {
-            "source": "https://www.imdb.com/title/tt0660789/",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e74bae9ed6a25b8e65e075d6dfe455055209d550c09d07e9f7b.jpeg"
+            "source": "https://www.ebay.com/b/Martin-Acoustic-Guitars/33021/bn_3119305",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7eb44c5d32133033808e18465127603c8f8bebb42b781ccfdd.jpeg"
         },
         {
-            "source": "https://www.pond5.com/stock-footage/tag/rainy-night/",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e749922911d666fc4de627eca92c3ae53206c8386a3feb548b5.jpeg"
+            "source": "https://www.waves.com/how-to-record-acoustic-guitar-at-home",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7ea25fb43303444a7fa8907df812e496698deab0bc6f04f4eb.jpeg"
         },
         {
-            "source": "https://forums.wyzecam.com/t/cam-pan-v2-not-showing-color-in-night-vision/197879",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e74ebcf75f80dad34fac48e222e7ab75eb0ceec5fc43aee3d83.jpeg"
+            "source": "https://www.lrbaggs.com/acoustic-guitar-pickup-systems/session-vtc",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e78f74d934e4df2f4f07ee41a3fc9506b6a95a33ce54fd331.jpeg"
         },
         {
-            "source": "https://culturalhater.com/parasite-2019-explained-flm-analysis/",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e7488abbb6448de24db70b3f42552959b091faac3148fa0897a.jpeg"
+            "source": "https://www.guitarworld.com/gear/best-acoustic-guitar-strings",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e94781036910adb5da837a502d19a75bc25b820e5255d5d99.jpeg"
         },
         {
-            "source": "https://www.artstation.com/artwork/wJ4aVX",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e743a167a72360bb40ae013a6abc5852d77e93282b54f3ce5b5.jpeg"
+            "source": "https://www.shutterstock.com/search/bass-guitar",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e82c3e269475511e640ddbd076070e43219baa92482327fad.jpeg"
         },
         {
-            "source": "https://trevorhenderson.fandom.com/wiki/Night_arms",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e7402043320defa0f499a5e16d965b507770e90303934dbcab8.jpeg"
+            "source": "https://www.freepik.com/premium-photo/classical-guitar-black-background-acoustic-guitar-conceptperfect-flyer-card-poster-wallpaper_24078347.htm",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e51d548ae25f185fd1f466f2ce47d6a35253a4eef9d153a8d.jpeg"
         },
         {
-            "source": "https://www.quora.com/Why-do-the-eyes-of-the-animals-shine-at-night",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e7467580ed8e838b4e5ec667dc4a3668a0ace13468258d501e3.jpeg"
+            "source": "https://www.lrbaggs.com/acoustic-guitar-pickup-systems/anthem",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e4ee42de9def930209d73fc9458a25fabdec4ffc0f66c1461.jpeg"
         },
         {
-            "source": "https://www.metacritic.com/movie/pulse-2005/trailers/8873394",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e7498f78a891f24a7e05dfeaf46b913ab67be872e07b6d43c9c.jpeg"
+            "source": "https://acousticguitar.com/learn-to-play-in-dropped-d-tuning/",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e81ec5ae1c5efd3ec3da140a406fc02cd85fd7d0ac467cf7a.jpeg"
         },
         {
-            "source": "https://www.youtube.com/watch?v=7pK74tX7h8k",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e740ffa8739eba116ae4313422902c42d767f7b99f2a18e637a.jpeg"
+            "source": "https://americansongwriter.com/gear-guides/best-beginner-acoustic-guitar-bridge/",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7ef6e429cbe6f1ed15cc5a6da5cab4f5b202bc86dabaa0ce50.jpeg"
         },
         {
-            "source": "https://www.thesun.co.uk/living/2546045/chilling-footage-of-ghost-captured-on-camera-wandering-past-gravestones-in-cemetery-at-night/",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e74fda40c70b0d77648c249242382e301d053c4d68d7ddf5e0b.jpeg"
+            "source": "https://www.ebay.co.uk/b/Acoustic-Bass-Guitar-Bass-Guitars/4713/bn_75642524",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e96fc50cc083a593867288b7e55a31df0581ec872262ee157.jpeg"
         },
         {
-            "source": "https://www.vulture.com/2018/09/this-is-the-scariest-scene-in-the-nun.html",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e74b2e32ed3ee7964c926ddb67a5ca1f28fddb65281b3fe711f.jpeg"
+            "source": "https://www.amazon.com/Beginner-Classical-Acoustic-Guitar-Traditional/dp/B07NVWXTQQ",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e11c00bf9d66d4c7eda4ba1327ef5992c8a58f4d9daa91032.jpeg"
         },
         {
-            "source": "https://news4sanantonio.com/news/local/man-shoots-ex-girlfriend-her-daughter-then-turns-gun-on-himself-investigation-sheriff-harris-county-texas-handgun-hospital-ambulance",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e7466faf88329655bda101d6e6e3383e3027db9a6ba88d642bd.jpeg"
+            "source": "https://theproaudiofiles.com/8-things-to-consider-for-recording-acoustic-guitar/",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e71f577285802e79e3c1196ff2cdd3ca5bd15e76b4559a159.jpeg"
         },
         {
-            "source": "https://escapistsadvisor.blogspot.com/2018/02/the-vampires-night-orgy.html",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e749f2cdc5ae47d9d094a72adc49babd70591e0c2d36f3ca942.jpeg"
+            "source": "https://musicplayers.com/2022/03/taylor-524ce-acoustic-guitar/",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e4c913c58cd94bf2155a3b03627f9d66af1b5066b5a41a5ba.jpeg"
         },
         {
-            "source": "https://goosebumps.fandom.com/wiki/A_Night_in_Terror_Tower/TV_episode",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e745731fcabd6cc71b4f740e412050ac82a1466bfa8325be7cb.jpeg"
+            "source": "https://www.vector4free.com/free-vectors/acoustic-guitar",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e7be2963be8573fabb3fd2c47f828ab1957499ac5079851d7.jpeg"
         },
         {
-            "source": "https://photography.tutsplus.com/articles/no-light-low-light-no-problem-environmental-portraiture-at-night--cms-23246",
-            "thumbnail": "https://serpapi.com/searches/6300d9348b7ed235e3425464/images/5652ead91fe94e7471213e3d0af4d83212f311a5a35c1708173493d98d8ac7a7.jpeg"
+            "source": "https://unsplash.com/photos/VY0XY_DNwqc",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7eecb38fc43dc439dca4d919dcac824305dfb3f3eb0fe88f23.jpeg"
+        },
+        {
+            "source": "https://spinditty.com/instruments-gear/the-best-acoustic-guitar-for-beginners-top-5",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e372bbac82519ef16e7edcfcc8c841303ec2e48b55a62c080.jpeg"
+        },
+        {
+            "source": "https://www.lrbaggs.com/acoustic-guitar-pickup-systems",
+            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e2facefdf22d377460e62ac53878551f85157098bc07d3497.jpeg"
         }
     ],
-    "inline_images_link": "https://www.google.com/search?tbs=simg:CAES3AEJrQ9SJo0mwKsa0AELELCMpwgaOgo4CAQSFL0o5y64C7ICrSC6Aqw1th7mP5MCGhqva88Jf7qmIcWQ1IC9F1Nwi1YFsFpN4jHNeSAFMAQMCxCOrv4IGgoKCAgBEgRn3fQfDAsQne3BCRpxChsKCGxhbmd1YWdl2qWI9gMLCgkvai8yc2hfeTQKGwoFc2NlbmXapYj2Aw4KDC9nLzFxNWo4bmcwaAoYCgVuaWdodNqliPYDCwoJL20vMDFkNzR6ChsKCGRhcmtuZXNz2qWI9gMLCgkvbS8wMWt5cjgM&q=language&tbm=isch&sa=X&ved=2ahUKEwjC1sWSu9X5AhW_omoFHX69AY4QjJkEegQICRAC",
-    "inline_images_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=language&tbm=isch&tbs=simg%3ACAES3AEJrQ9SJo0mwKsa0AELELCMpwgaOgo4CAQSFL0o5y64C7ICrSC6Aqw1th7mP5MCGhqva88Jf7qmIcWQ1IC9F1Nwi1YFsFpN4jHNeSAFMAQMCxCOrv4IGgoKCAgBEgRn3fQfDAsQne3BCRpxChsKCGxhbmd1YWdl2qWI9gMLCgkvai8yc2hfeTQKGwoFc2NlbmXapYj2Aw4KDC9nLzFxNWo4bmcwaAoYCgVuaWdodNqliPYDCwoJL20vMDFkNzR6ChsKCGRhcmtuZXNz2qWI9gMLCgkvbS8wMWt5cjgM",
+    "inline_images_link": "https://www.google.com/search?tbs=simg:CAESnQIJLYjAuQ1LWZwakQILELCMpwgaOgo4CAQSFMM2-BXZLqUb1zCfINgh9RCrLswGGhpVk1go1zzpy2yTAT-ydMQ0SaRso5XXHp7WpiAFMAQMCxCOrv4IGgoKCAgBEgRCEV33DAsQne3BCRqxAQohCg1oeWJyaWQgZ3VpdGFy2qWI9gMMCgovbS8wZGxsYmtsCiMKD2luc3RydW1lbnRhbGlzdNqliPYDDAoKL20vMGh6azMweAodCgtiYXNzIGd1aXRhctqliPYDCgoIL20vMDE4dnMKIwoPYWNvdXN0aWMgZ3VpdGFy2qWI9gMMCgovbS8wNDJ2X2d4CiMKD2Jhcml0b25lIGd1aXRhctqliPYDDAoKL20vMGRxNjMwaww&q=hybrid+guitar&tbm=isch&sa=X&ved=2ahUKEwis7bfv99X5AhWXoWoFHbe8Br0QjJkEegQIDhAC",
+    "inline_images_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hybrid+guitar&tbm=isch&tbs=simg%3ACAESnQIJLYjAuQ1LWZwakQILELCMpwgaOgo4CAQSFMM2-BXZLqUb1zCfINgh9RCrLswGGhpVk1go1zzpy2yTAT-ydMQ0SaRso5XXHp7WpiAFMAQMCxCOrv4IGgoKCAgBEgRCEV33DAsQne3BCRqxAQohCg1oeWJyaWQgZ3VpdGFy2qWI9gMMCgovbS8wZGxsYmtsCiMKD2luc3RydW1lbnRhbGlzdNqliPYDDAoKL20vMGh6azMweAodCgtiYXNzIGd1aXRhctqliPYDCgoIL20vMDE4dnMKIwoPYWNvdXN0aWMgZ3VpdGFy2qWI9gMMCgovbS8wNDJ2X2d4CiMKD2Jhcml0b25lIGd1aXRhctqliPYDDAoKL20vMGRxNjMwaww",
+    "knowledge_graph": {
+        "title": "Hybrid guitar",
+        "header_images": [
+            {
+                "image": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/261305cb09fca14b7b4eb8b8d4dc81745865084f5dda29db84c46f01ff8b3dc4847305310f466432.jpeg",
+                "source": "https://guitarsonmain.com/blogs/news/hybrid-guitars-1"
+            }
+        ],
+        "image": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/261305cb09fca14b7b4eb8b8d4dc8174cec30e6c13f97e31.jpeg",
+        "description": "A hybrid guitar is an electric guitar with the ability to produce a signal with the tonal quality of an acoustic guitar in addition to a typical electric signal from a magnetic pickup, allowing a wide tonal pallette.",
+        "source": {
+            "name": "Wikipedia",
+            "link": "https://en.wikipedia.org/wiki/Hybrid_guitar"
+        }
+    },
     "image_results": [
         {
             "position": 1,
-            "title": "Language - Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Language",
-            "displayed_link": "https://en.wikipedia.org \u203a wiki \u203a Language",
-            "snippet": "A language is a structured system of communication. The structure of a language is its grammar and the free components are its vocabulary.",
+            "title": "Hybrid Guitars Co.",
+            "link": "https://hybrid-guitars.com/",
+            "displayed_link": "https://hybrid-guitars.com",
+            "snippet": "On a Hybrid guitar you can simultaneously play bass lines, chords, and melodies. It has the full range of a standard bass and guitar all on one instrument.",
             "snippet_highlighted_words": [
-                "language",
-                "language"
+                "Hybrid guitar"
             ],
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:P_rWMgw62lkJ:https://en.wikipedia.org/wiki/Language&cd=1&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?q=related:https://en.wikipedia.org/wiki/Language&sa=X&ved=2ahUKEwjC1sWSu9X5AhW_omoFHX69AY4QH3oECAgQCQ"
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EzN4Cmb1CTAJ:https://hybrid-guitars.com/&cd=1&hl=en&ct=clnk&gl=us"
         },
         {
             "position": 2,
-            "title": "language | Definition, Types, Characteristics, Development ...",
-            "link": "https://www.britannica.com/topic/language",
-            "displayed_link": "https://www.britannica.com \u203a ... \u203a Languages",
-            "date": "4 days ago",
-            "snippet": "language, a system of conventional spoken, manual (signed), or written symbols by means of which human beings, as members of a social group ...",
+            "title": "Hybrid Guitars | Michael Kelly Guitar Co.",
+            "link": "https://www.michaelkellyguitars.com/en/electric-guitars/hybrid",
+            "displayed_link": "https://www.michaelkellyguitars.com \u203a electric-guitars",
+            "snippet": "The Hybrid series is a collection of Michael Kelly models designed to allow you to switch from a powerful electric guitar to a full and rich acoustic guitar ...",
             "snippet_highlighted_words": [
-                "language"
+                "Hybrid",
+                "guitar",
+                "guitar"
             ],
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:owBAUeeoQpUJ:https://www.britannica.com/topic/language&cd=2&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?q=related:https://www.britannica.com/topic/language&sa=X&ved=2ahUKEwjC1sWSu9X5AhW_omoFHX69AY4QH3oECBwQCQ"
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NatXv8_ejqYJ:https://www.michaelkellyguitars.com/en/electric-guitars/hybrid&cd=2&hl=en&ct=clnk&gl=us",
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.michaelkellyguitars.com/en/electric-guitars/hybrid&sa=X&ved=2ahUKEwis7bfv99X5AhWXoWoFHbe8Br0QH3oECAQQCQ"
         }
     ]
 }

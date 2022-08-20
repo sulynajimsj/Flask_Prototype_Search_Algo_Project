@@ -3,7 +3,8 @@ from flask import Flask, request, render_template
 from videoProcessing import gettingFrames
 from reverseImageSearch import cloudinaryImageSearch
 from myCloudinary import cloudinaryConfig
-
+from scraping import scrape
+import os
 
 #modules
 
@@ -218,9 +219,7 @@ app = Flask(__name__)
 @app.route('/')
 def main():
 
-    gettingFrames.processVideo('ronaldo.mp4')
-    imageUrls = cloudinaryImageSearch.inputImages('frames')
-    print(imageUrls)
+    
 
     # searchAPI('https://i.imgur.com/RSP1mdN.jpg')
 
@@ -229,5 +228,24 @@ def main():
 @app.route('/', methods=['POST'])
 def my_form_post():
     text = request.form['text']
-    cloudinaryImageSearch.searchAPI(text)
+
+    # Using the scrape function to download video from instagram
+    scrape.media(text)
+
+    # get the download image by looking through the folder
+    short_link = text.replace('https://www.instagram.com/reel/','').replace('/?utm_source=ig_web_copy_link','')
+    directory = os.fsencode(short_link)
+        
+    for file in os.listdir(directory):
+        filename = os.fsdecode(file)
+        if filename.endswith(".mp4"):
+            print("The Path is ")
+            print(filename)
+            break
+            
+
+    
+    gettingFrames.processVideo(f"{short_link}/{filename}")
+    imageUrls = cloudinaryImageSearch.inputImages('frames')
+    print(imageUrls)
     return render_template('index.html')
