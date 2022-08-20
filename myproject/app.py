@@ -5,6 +5,7 @@ from reverseImageSearch import cloudinaryImageSearch
 from myCloudinary import cloudinaryConfig
 from scraping import scrape
 import os
+import shutil, sys 
 
 #modules
 
@@ -248,4 +249,5 @@ def my_form_post():
     gettingFrames.processVideo(f"{short_link}/{filename}")
     imageUrls = cloudinaryImageSearch.inputImages('frames')
     print(imageUrls)
+    shutil.rmtree(short_link)
     return render_template('index.html')
