@@ -134,6 +134,9 @@ def searchAPI(image_url):
     else:
         query = thetitles[1]
     params2 = {
+        "engine": "youtube",
+         "search_query": query,
+         "api_key": "ca13d0bf8ef1a4a0e4178d60fd95b20fee072112de73a4cf1447bc684e335ede"
     }
 
     search2 = GoogleSearch(params2)
