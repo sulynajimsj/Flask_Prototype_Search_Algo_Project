@@ -1,585 +1,609 @@
 {
     "search_metadata": {
-        "id": "63050cd23e86accd0e5ee0b5",
+        "id": "6305181c49ecdbaa796969de",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/0ef100ab805b2df9/63050cd23e86accd0e5ee0b5.json",
-        "created_at": "2022-08-23 17:22:26 UTC",
-        "processed_at": "2022-08-23 17:22:26 UTC",
-        "youtube_url": "https://www.youtube.com/results?search_query=Ontdek+de+populaire+video%27s+over+Tate+about+woman+-+TikTok",
-        "raw_html_file": "https://serpapi.com/searches/0ef100ab805b2df9/63050cd23e86accd0e5ee0b5.html",
-        "total_time_taken": 0.86
+        "json_endpoint": "https://serpapi.com/searches/0b48ee5bae31981e/6305181c49ecdbaa796969de.json",
+        "created_at": "2022-08-23 18:10:36 UTC",
+        "processed_at": "2022-08-23 18:10:36 UTC",
+        "youtube_url": "https://www.youtube.com/results?search_query=Active+Tank+-+a+breathable+women%27s+tank+top+for+more+comfort",
+        "raw_html_file": "https://serpapi.com/searches/0b48ee5bae31981e/6305181c49ecdbaa796969de.html",
+        "total_time_taken": 1.88
     },
     "search_parameters": {
         "engine": "youtube",
-        "search_query": "Ontdek de populaire video's over Tate about woman - TikTok"
+        "search_query": "Active Tank - a breathable women's tank top for more comfort"
     },
     "search_information": {
-        "total_results": 367539,
+        "total_results": 235096,
         "video_results_state": "Results for exact spelling"
     },
     "video_results": [
         {
             "position_on_page": 1,
-            "title": "Andrew Tate About Women | TikTok Compilation",
-            "link": "https://www.youtube.com/watch?v=3Qb_0Vw4_t4",
+            "title": "\u2728EASY HACK\u2728 to crop your tank tops WITHOUT cutting it! \ud83d\ude45\ud83c\udffc\u200d\u2640\ufe0f\ud83d\udc40 #shorts",
+            "link": "https://www.youtube.com/watch?v=NZEg-u1zWis",
             "channel": {
-                "name": "TikTok Dino",
-                "link": "https://www.youtube.com/channel/UCqMXXKmz5O_waD_uhG2jmQQ",
-                "thumbnail": "https://yt3.ggpht.com/VhD1rJGuvXUQSWnGRJuvJMiNq7KCUgRuAif7D98Ka-segzmDxE0tacaD9FtyNUonFXk3F_NV=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Hannah Warling",
+                "link": "https://www.youtube.com/c/HannahWarling",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu90fIw4dmvIfs46aqFst4EaSQV81LX0iUF0Ny81xw=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "12 days ago",
-            "views": 412,
-            "length": "3:42",
-            "description": "#Tiktok\u200b #tiktokdances\u200b #tiktokcompilation Please go and check out all the creators in the videos Copyright Disclaimer Under\u00a0...",
+            "published_date": "1 month ago",
+            "views": 18396956,
+            "length": "0:16",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/3Qb_0Vw4_t4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCpNizglNRXTjcNCQ0Fsp2cINRp-g",
-                "rich": "https://i.ytimg.com/an_webp/3Qb_0Vw4_t4/mqdefault_6s.webp?du=3000&sqp=CPL2k5gG&rs=AOn4CLDk5cQDGN_6E2Ew8-WDD-04pLGe-Q"
+                "static": "https://i.ytimg.com/vi/NZEg-u1zWis/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLCSNFUj6i9WHiM1-FFytQMWLeM13g"
             }
         },
         {
             "position_on_page": 2,
-            "title": "ANDREW TATE ADVICE ABOUT WOMEN #Shorts#tiktok#challenge",
-            "link": "https://www.youtube.com/watch?v=VAEgvF4s54o",
+            "title": "CROCHET TUTORIAL: easy TANK TOP",
+            "link": "https://www.youtube.com/watch?v=jTycZBihtd4",
             "channel": {
-                "name": "AD ",
-                "link": "https://www.youtube.com/channel/UCEaRxsYEyGD-zsgafUEdJow",
-                "thumbnail": "https://yt3.ggpht.com/DWWjPys8DYfX5DHezwf5WaFwW7Ge1wdjpHsVGaMG3dcYMsSIj08dtbtK9MwlXwGZjkRJXYqThIU=s68-c-k-c0x00ffffff-no-rj"
+                "name": "2LOOPZ crochet",
+                "link": "https://www.youtube.com/c/2LOOPZcrochet",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8Lj6pq5fVOZwBv7qjBs8eCafw5sc4bZOtcZshG=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "3 weeks ago",
-            "views": 652,
-            "length": "0:36",
-            "description": "Here a video Please like And Subscribe!! #funny#memes#videos#TikTok TAGS: tiktok , funny tiktok , new tiktok , tiktok music\u00a0...",
+            "published_date": "2 years ago",
+            "views": 17957,
+            "length": "34:43",
+            "description": "If you like this video then give it a thumbs up and if you want to see more fun patterns and you are not subscribed yet then do so by\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/VAEgvF4s54o/hq720_2.jpg?sqp=-oaymwEdCI4CEOADSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLAvifd9GZSQznQHZpHFpA_q4xuIAQ",
-                "rich": "https://i.ytimg.com/an_webp/VAEgvF4s54o/mqdefault_6s.webp?du=3000&sqp=CIT6k5gG&rs=AOn4CLDNTO7XoY06bm1oTejnmuwF_Pumkg"
+                "static": "https://i.ytimg.com/vi/jTycZBihtd4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBe8GtP_0VjDucQCd8WpVdg_-YTFA",
+                "rich": "https://i.ytimg.com/an_webp/jTycZBihtd4/mqdefault_6s.webp?du=3000&sqp=CLiElJgG&rs=AOn4CLAxM327ftlGUlH1iLt8pokLfBXUTA"
             }
         },
         {
             "position_on_page": 3,
-            "title": "Andrew Tate DESTROYS Dave Portnoy | Debating Men VS Women",
-            "link": "https://www.youtube.com/watch?v=AL47Mga69Gg",
+            "title": "ZYIA ACTIVE TANK TOP REVIEW | great tanks for workout and everyday wear + sizing |copper charge tank",
+            "link": "https://www.youtube.com/watch?v=YsfWZ0ycMxY",
             "channel": {
-                "name": "SIFI",
-                "link": "https://www.youtube.com/c/SIFIchannel",
-                "thumbnail": "https://yt3.ggpht.com/yFyghjupvdccXfz2rYwmoxP8A3wlsDVz8pAv-N-SsgHreLoq7shIqvjLYptDlCjFErJlrz6Ncg=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Bryanna Simmerman",
+                "link": "https://www.youtube.com/c/BryannaSimmerman",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu989lkSait3bDN2JQdegwY_qZ47XmBn3vyCoioVMQ=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 month ago",
-            "views": 524634,
-            "length": "15:11",
-            "description": "#AndrewTate #DavePortnoy #JoshRichards.",
+            "published_date": "1 year ago",
+            "views": 3006,
+            "length": "7:42",
+            "description": "A review of 4 different Zyia tank tops along with my sizing recommendations. The Copper Charge tank is great for working out.",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/AL47Mga69Gg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCypQMFJ_YZBH3rxvsmmhQrXjO19Q",
-                "rich": "https://i.ytimg.com/an_webp/AL47Mga69Gg/mqdefault_6s.webp?du=3000&sqp=COiElJgG&rs=AOn4CLAfCs_9HflVLqFK6o5Ai4OYtqfSsg"
+                "static": "https://i.ytimg.com/vi/YsfWZ0ycMxY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD6CWCFyPJBw1Rm66jG_PLOLdCd-A",
+                "rich": "https://i.ytimg.com/an_webp/YsfWZ0ycMxY/mqdefault_6s.webp?du=3000&sqp=CKSPlJgG&rs=AOn4CLBLxKCX9m22--mcAQybyDcmCL8_cg"
             }
         },
         {
             "position_on_page": 4,
-            "title": "The Most Unsettling Alpha Male on TikTok",
-            "link": "https://www.youtube.com/watch?v=HyRnWdEkhjE",
+            "title": "Von Dutch TANK TOP Thrift Flip - How to Sew a T Shirt to a DIY Sleeveless Vest Crop Top",
+            "link": "https://www.youtube.com/watch?v=sWCxQbNigjs",
             "channel": {
-                "name": "Annamarie Forcino",
-                "link": "https://www.youtube.com/c/AnnamarieForcino",
-                "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/J7sbn1CYRxZYBA7u2RiRT3q7v2N_RnqQAEzmly1CwQnm1FSYdUwztipYos0TaJYe_gYOqcaSRw=s68-c-k-c0x00ffffff-no-rj"
+                "name": "SohoSeamstress",
+                "link": "https://www.youtube.com/c/SohoSeamstress",
+                "thumbnail": "https://yt3.ggpht.com/erI7vWIST1MaftjDugNDQ_jlba-VB9AveS5RyqBi_h38TipDuMQ1Y1NT-c9CzvmyYajl3rBf3q4=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "3 months ago",
-            "views": 241213,
-            "length": "24:27",
-            "description": "we're back with another tiktok video, ladies and germs! today, i decided to check out the unhinged TikTok profile of businessman\u00a0...",
+            "published_date": "1 year ago",
+            "views": 8998,
+            "length": "3:11",
+            "description": "How to thrift flip a mens t shirt to a cute fitted tank top ! Supplies -sewing machine -scissors -seam ripper -pins -thread -tshirt.",
             "extensions": [
-                "4K",
                 "CC"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/HyRnWdEkhjE/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDWRkePdM_5pILrI8s6jGJW6Qhg8g",
-                "rich": "https://i.ytimg.com/an_webp/HyRnWdEkhjE/mqdefault_6s.webp?du=3000&sqp=CP2FlJgG&rs=AOn4CLClWwtju0dR5Q1-4znmCRto27OS8A"
+                "static": "https://i.ytimg.com/vi/sWCxQbNigjs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCest_B2hf3aYaFFTDXSxhCX3K0JA",
+                "rich": "https://i.ytimg.com/an_webp/sWCxQbNigjs/mqdefault_6s.webp?du=3000&sqp=CJyklJgG&rs=AOn4CLAJpIlBdzqJYIygz9fu3zSpo-tGhw"
             }
         },
         {
             "position_on_page": 5,
-            "title": "ANDREW TATE ROASTS UGLY FAT FEMINIST \ud83e\udd23\ud83e\udd23\ud83e\udd23 FOR DISRESPECTING HIS FIGHTING CAREER \ud83e\udd4a",
-            "link": "https://www.youtube.com/watch?v=2lRzkIMyxT8",
+            "title": "Best Built in Bra Tank Tops from Amazon | 2021 | Try On Haul",
+            "link": "https://www.youtube.com/watch?v=YKLXSPed5yI",
             "channel": {
-                "name": "Morpheus Clips",
-                "link": "https://www.youtube.com/c/TateClips",
-                "thumbnail": "https://yt3.ggpht.com/zR2UAGzFTEkKczpROlCJ0AbTLSx5AXP-UZGL_ulDkB_Z1FrHONvHFlmYejaTkYTGYzrqKOykIuI=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Shenise ._",
+                "link": "https://www.youtube.com/user/shenisenunez",
+                "thumbnail": "https://yt3.ggpht.com/UCFjZrWO9Ducxy9-HALuWuJ1_2xA36kgYClvAFGkmkkkPI5KNM8J0okLDglg6rTyZDgrSaGO=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 month ago",
-            "views": 1175846,
-            "length": "4:36",
-            "description": "JOIN HUSTLER'S UNIVERSITY https://bit.ly/Hustlers-University-HU.",
+            "published_date": "1 year ago",
+            "views": 3526,
+            "length": "13:48",
+            "description": "---------------------------------------- Amazon Affiliate #AD ---------------------------------------- Measurements: Height: 5'5\" Hips: 33 1/2in\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/2lRzkIMyxT8/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBP8H-D-uVoZizGLMKmiwgJlWSajg",
-                "rich": "https://i.ytimg.com/an_webp/2lRzkIMyxT8/mqdefault_6s.webp?du=3000&sqp=CMD_k5gG&rs=AOn4CLBAJYAKZd6P4WJz1smXpgmLAUFjHA"
+                "static": "https://i.ytimg.com/vi/YKLXSPed5yI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB3VKK2Asl9IM0Q0JkK6bsQalY0Mw"
             }
         },
         {
             "position_on_page": 6,
-            "title": "Andrew Tate TikTok compilation || sigma male",
-            "link": "https://www.youtube.com/watch?v=kuMwCcBzGEs",
+            "title": "Testing Amazon Activewear Tops Under $25!",
+            "link": "https://www.youtube.com/watch?v=DaeboG8rTZw",
             "channel": {
-                "name": "CrPx",
-                "link": "https://www.youtube.com/channel/UCtjCpv-icnSz3aCuJhLMPlw",
-                "thumbnail": "https://yt3.ggpht.com/woDhwENVmMPEDtRX2DGVmACQjtWdy5k0cLpDq9JaX_HqKcWO79ZngXTbDBKI0H-H3Sk0AiSL=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Kathryn Mueller",
+                "link": "https://www.youtube.com/c/KathrynMueller",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ZaoKzPbarYLsE3OvjbkhJyPulJHdAUqYenR-KGdAGQTYFJA-VmHjvqeMUrU5nCsM6Bg6Nr10n3I=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "2 months ago",
-            "views": 561980,
-            "length": "7:33",
-            "description": "Sigma male Andrew Tate TikTok compilation for top Gs https://www.showerheaded.com/",
+            "published_date": "2 years ago",
+            "views": 85927,
+            "length": "13:45",
+            "description": "In this video, I review a bunch of affordable Amazon activewear tops. These active tops under $25 are not only affordable but\u00a0...",
+            "extensions": [
+                "CC"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/kuMwCcBzGEs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDsNNf1P3G4oUlqQJpY-CpcMBjUNw",
-                "rich": "https://i.ytimg.com/an_webp/kuMwCcBzGEs/mqdefault_6s.webp?du=3000&sqp=CIz5k5gG&rs=AOn4CLCknBa5-m7ydBVO0vo9feOqDIR26g"
+                "static": "https://i.ytimg.com/vi/DaeboG8rTZw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQA-nq5sEMpgJb5n5tcmBcmAj1pg",
+                "rich": "https://i.ytimg.com/an_webp/DaeboG8rTZw/mqdefault_6s.webp?du=3000&sqp=CJySlJgG&rs=AOn4CLAGd9WnxMegrmKWRV6hKWyKfylBtg"
             }
         },
         {
             "position_on_page": 7,
-            "title": "Andrew Tate On Female Promiscuity Tiktok @youngalphakings",
-            "link": "https://www.youtube.com/watch?v=LrtBKoV6_F8",
+            "title": "Women's Loose fit Tank Tops Mesh Backless Workout",
+            "link": "https://www.youtube.com/watch?v=UvTSpJWtNL0",
             "channel": {
-                "name": "Alpha Lion Legacy",
-                "link": "https://www.youtube.com/channel/UCl5kCACMUma9-rGHZZixauw",
-                "thumbnail": "https://yt3.ggpht.com/DSdgNd1xZtjIvSA2TtD6wmvy-o4MVeh5Ho0bBWEeP8uXxewEGwc8pAYqprqcF-3F2sz06aX5kw=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Collection Review",
+                "link": "https://www.youtube.com/channel/UCpWX9NxEoJAdtNMHz_1RMIg",
+                "thumbnail": "https://yt3.ggpht.com/UKdWrHX4rFsjTQDKF17dMppXrcerH6exafvgo1niFqtPZmWq7_lKnPlz19MG90HLeOf2jneKrQ=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "3 months ago",
-            "views": 27,
-            "length": "0:39",
-            "description": "Disclaimer: the Video Clips Used in This Video Are Not Owned by This Channel & We do not make any profit on the videos, we\u00a0...",
+            "views": 13,
+            "length": "0:16",
+            "description": "Women's Loose fit Tank Tops Mesh Backless Workout Color: Apricot, Coral, Dark Blue, Dark Gray, Light purple, Neon Orange,\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/LrtBKoV6_F8/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLCBNXG3tzb16nBKW09V1Grgylnlkw",
-                "rich": "https://i.ytimg.com/an_webp/LrtBKoV6_F8/mqdefault_6s.webp?du=3000&sqp=CPqTlJgG&rs=AOn4CLBKIgFl9FLHE4QqlyQy9XyaFVQ8Fw"
+                "static": "https://i.ytimg.com/vi/UvTSpJWtNL0/hq2.jpg?sqp=-oaymwEdCMoBEOgCSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLAXqZ_1YQjuFjXn6tKafJwNfubCcQ",
+                "rich": "https://i.ytimg.com/an_webp/UvTSpJWtNL0/mqdefault_6s.webp?du=3000&sqp=CMP7k5gG&rs=AOn4CLAVPnl_589GHH_PB0uhbZerno-U9A"
             }
         },
         {
             "position_on_page": 8,
-            "title": "Andrew Tate (Western Girls are certified Ho's #tiktok  (Emergency Meeting)#shorts",
-            "link": "https://www.youtube.com/watch?v=-6sGc9VmvHw",
+            "title": "Best Workout Tank Tops for Women   Racerback Athletic Yoga Tops, Running Exercise Gym tops |",
+            "link": "https://www.youtube.com/watch?v=l0NI0_O_3PM",
             "channel": {
-                "name": "Tate's Beef",
-                "link": "https://www.youtube.com/channel/UC_aWlS5yE9BEJ2H2jkEvccg",
-                "thumbnail": "https://yt3.ggpht.com/giO-DTK6lShe_EKTCFLa1CdazwfI65I8YWhZsBAxo7HIdKD4sQucM7Yob4orkuZCf_9TPoPaDA=s68-c-k-c0x00ffffff-no-rj"
+                "name": "US Fashion Haul ",
+                "link": "https://www.youtube.com/channel/UC2PplQJbUM7Tf510a4Grx0g",
+                "thumbnail": "https://yt3.ggpht.com/F0oGnQEkdoyXmj7sY5L8XGuTV-NdJ0sSeqWau1RVgrj2YR0dFXOhpKOWdARBJxBVRjIlX1IldA=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "2 months ago",
-            "views": 2269,
-            "length": "0:19",
+            "published_date": "1 year ago",
+            "views": 50,
+            "length": "0:22",
+            "description": "Best Workout Tank Tops for Women Racerback Athletic Yoga Tops, Running Exercise Gym tops | Buy now : About this item : 95%\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/-6sGc9VmvHw/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLAV_kJrK722rniAnN2AJ4mtioqd0w",
-                "rich": "https://i.ytimg.com/an_webp/-6sGc9VmvHw/mqdefault_6s.webp?du=3000&sqp=CIDzk5gG&rs=AOn4CLDrWWwyqc2urltRWu7BZcbHnsRiKg"
+                "static": "https://i.ytimg.com/vi/l0NI0_O_3PM/hq2.jpg?sqp=-oaymwEdCMoBEOgCSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLD-79bjfaPlDbEf4EecuxKLZ0CtvQ"
             }
         },
         {
             "position_on_page": 9,
-            "title": "Andrew Tate Roasts Woman AGAIN!!! Menace!!! #tiktok #insane #entertainment #legit #andrewtate #rich",
-            "link": "https://www.youtube.com/watch?v=oPNhNzqX-YE",
+            "title": "Why You Need a Tank Top  | 7 Men's Outfit Inspiration for Hot Weather",
+            "link": "https://www.youtube.com/watch?v=pzj_cA2b7tI",
             "channel": {
-                "name": "YouTube but its Tik Tok?",
-                "link": "https://www.youtube.com/channel/UCD1h7fmpQkn5URKhOyqSZjg",
-                "thumbnail": "https://yt3.ggpht.com/E-Im89-Y98aEZ7XikgYjg_jTwc3Xz8s-z1dtD6xOyYrcwbc8KaHB59SSKQpzlolVVPuxWe58=s68-c-k-c0x00ffffff-no-rj"
+                "name": "One Dapper Street",
+                "link": "https://www.youtube.com/c/onedapperstreet",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9U9vJs5hU8R72J-msspKZbGhfTbs9RQTtLWgIB=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 month ago",
-            "views": 68535,
-            "length": "0:30",
+            "published_date": "2 months ago",
+            "views": 42049,
+            "length": "9:44",
+            "description": "The most versatile summer piece in my book: the white tank top. This video tells you why I think you need one and shows 7 Men's\u00a0...",
+            "extensions": [
+                "4K"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/oPNhNzqX-YE/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDGtV6b44H26FIwPPHcgFfiMN0X6A"
+                "static": "https://i.ytimg.com/vi/pzj_cA2b7tI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAb5s992ARXWiAIR916n-tdLdRgMQ",
+                "rich": "https://i.ytimg.com/an_webp/pzj_cA2b7tI/mqdefault_6s.webp?du=3000&sqp=CL6tlJgG&rs=AOn4CLCGzatRomlWC6Av1avO2LAo0zGaZw"
             }
         },
         {
             "position_on_page": 10,
-            "title": "Andrew Tate caught me lackin",
-            "link": "https://www.youtube.com/watch?v=RSHOBD_bGhU",
+            "title": "MASSIVE AMAZON ACTIVEWEAR TRY-ON HAUL | lululemon, gymshark & alo yoga dupes!",
+            "link": "https://www.youtube.com/watch?v=zxSK0lsSqp0",
             "channel": {
-                "name": "Austin Sanderlin",
-                "link": "https://www.youtube.com/channel/UCWrb1i7uEh5cDhTFAweiLww",
-                "thumbnail": "https://yt3.ggpht.com/nwPocxS4mMbOinLcq9YnG72B9J03NwsRzLTaLpNCo-NiGEIPxONysUIxl4EdqEbbB8uU_pwa9XE=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Carissa Burnside",
+                "link": "https://www.youtube.com/c/CarissaBurnside",
+                "thumbnail": "https://yt3.ggpht.com/xVUMXM_2APdIfpJdjwsajgkyyyt_nQlxVzk-R_mrzWeVbii48WLqej4EsiSnZXFOAYbcAUDGOQ=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "3 days ago",
-            "views": 23599,
-            "length": "0:09",
-            "description": "This video contains memecorp,memes compilation,dank memes,fresh memes,dankest,best memes,comment awards,fortnite\u00a0...",
-            "extensions": [
-                "New"
-            ],
+            "published_date": "1 year ago",
+            "views": 93549,
+            "length": "22:36",
+            "description": "Hey babes! I'm so excited to have filmed another Amazon activewear try-on haul for you! I honestly can't believe how many\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/RSHOBD_bGhU/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLCf_YxTU40qNfpfXQkvZ_70lh_iNw"
+                "static": "https://i.ytimg.com/vi/zxSK0lsSqp0/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAmmcq1n4YVgdOcwZXOLBDN5NmZAQ",
+                "rich": "https://i.ytimg.com/an_webp/zxSK0lsSqp0/mqdefault_6s.webp?du=3000&sqp=CKeSlJgG&rs=AOn4CLDSyL1b6O0JKp-CPPVJ-iG6SSvNyw"
             }
         },
         {
             "position_on_page": 11,
-            "title": "Andrew Tate : how to argue with women. MGTOW TikTok #redpill",
-            "link": "https://www.youtube.com/watch?v=hFfVFZP1RaY",
+            "title": "Easy Crochet Tank Top (small/medium)",
+            "link": "https://www.youtube.com/watch?v=iZyY0MtALKY",
             "channel": {
-                "name": "Booreda",
-                "link": "https://www.youtube.com/channel/UCtC05Y2x3BzHAqPA9dBZVwA",
-                "thumbnail": "https://yt3.ggpht.com/FBmRxs57sL3bxnB60hS03SmPBjbau2bSv8iS67fSyZXe-aQWjKQrQXZ4EXN8AgyKpkN-J3KZ7IA=s68-c-k-c0x00ffffff-no-rj"
+                "name": "DIY Danni",
+                "link": "https://www.youtube.com/c/DIYDanni",
+                "thumbnail": "https://yt3.ggpht.com/3mP4WbrKKH5Uk1dMAlqmXC9lhCCsqQkUWYsWMVAHZAQqmZkUVqefEBHeouSDyqhAsL8WroIaeTg=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "6 months ago",
-            "views": 607,
-            "length": "0:59",
-            "description": "Andrew Tate : how to argue with women. #mgtow #redpill #youtube shorts. #shorts CONTACT - ratr908@gmail.com ( Business\u00a0...",
+            "published_date": "1 year ago",
+            "views": 1188,
+            "length": "46:46",
+            "description": "This Tutorial is for an easy, beginner friendly tank top made with the following materials 4 balls size 2 yarn 4mm hook exact yarn:\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/hFfVFZP1RaY/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLApNDgiBHA9wrrXtVtc-fC-4c8CkQ",
-                "rich": "https://i.ytimg.com/an_webp/hFfVFZP1RaY/mqdefault_6s.webp?du=3000&sqp=CJCLlJgG&rs=AOn4CLDS7asUN2R8GTryMrwadF5k6dV-6A"
+                "static": "https://i.ytimg.com/vi/iZyY0MtALKY/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM8MqsMPEjq22DCKNXG2U2s4n4Ag"
             }
         },
         {
             "position_on_page": 12,
-            "title": "Andrew Tate on women",
-            "link": "https://www.youtube.com/watch?v=hHuKba3DUKs",
+            "title": "5 Best Quality Women\u2019s Tank Tops",
+            "link": "https://www.youtube.com/watch?v=KCHtkv0a7sc",
             "channel": {
-                "name": "viraltictoks",
-                "link": "https://www.youtube.com/channel/UCfoCakuE5Hj8WjSv7RhLZlQ",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9bjykEbchIfY8I04ZZz8gC9jTOTkp20knUTVu70k28GD0p-E9FThyf1Aslcr18=s68-c-k-c0x00ffffff-no-rj"
+                "name": "We Take The Best",
+                "link": "https://www.youtube.com/c/TakeTheBest",
+                "thumbnail": "https://yt3.ggpht.com/OrU4UNengXmDXR-0S7L3PgEHBpTF8As7F9U-sLqv9UyWrU46XeyQEg29uY_bQMeIppxNQQUE9o8=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "6 days ago",
-            "views": 5,
-            "length": "0:46",
-            "description": "tate talks about women(tiktok by @tatequalified)",
-            "extensions": [
-                "New"
-            ],
+            "published_date": "2 years ago",
+            "views": 692,
+            "length": "5:54",
+            "description": "5 Best Quality Women's Tank Tops - Take the Best Affiliate Disclaimer: When you buy through links on our channel, \u201cAs an\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/hHuKba3DUKs/hq720_2.jpg?sqp=-oaymwEdCI4CEOADSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDT48grT6kbBAHPs5oGjD9CPGSU6Q",
-                "rich": "https://i.ytimg.com/an_webp/hHuKba3DUKs/mqdefault_6s.webp?du=3000&sqp=CMn3k5gG&rs=AOn4CLA3r3TsewvZwwX8U7K41gegxXKy-g"
+                "static": "https://i.ytimg.com/vi/KCHtkv0a7sc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCKYUsN5h94IAXJcyh4hmLRYKRFug",
+                "rich": "https://i.ytimg.com/an_webp/KCHtkv0a7sc/mqdefault_6s.webp?du=3000&sqp=CIOalJgG&rs=AOn4CLCE9nw7k5P-SuxK6KgJmyv_WcxqxQ"
             }
         },
         {
             "position_on_page": 15,
-            "title": "Tik Toks Andrew Tate Caught Me Watching \ud83d\udc68\ud83c\udffc\u200d\ud83e\uddb2\ud83d\ude97",
-            "link": "https://www.youtube.com/watch?v=IrUPPd2mQfU",
+            "title": "Mippo Workout Tops for Women | Workout Yoga Shirts Muscle |Tank Athletic Running Tank Tops",
+            "link": "https://www.youtube.com/watch?v=JaJMjtMHceQ",
             "channel": {
-                "name": "Wifi Plug",
-                "link": "https://www.youtube.com/c/WifiPlugOfficial",
-                "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9kLuTgGcypQFhleHeki5gbd-0sBDsmbRvWK9oK=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Entertainment and Reactions",
+                "link": "https://www.youtube.com/channel/UCigDPbLpQ97iLXhiUD06G1A",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_HQnIxb80f7oLkUUZ-o4TCDzJiHcPk22MSJ8ih=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "9 days ago",
-            "views": 14190,
-            "length": "15:49",
-            "description": "Tik Toks Memes That are just longer Vines! These Tiktok meme compilations are so funny and remind me of Vine! For more tik tok\u00a0...",
+            "published_date": "1 year ago",
+            "views": 2656,
+            "length": "0:18",
+            "description": "https://amzn.to/2Rq5PIh 95% Modal 5% Spandex, soft, breathable and comfortable material for a cool feel Pull On closure Open\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/IrUPPd2mQfU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtzYBu-L9-UHrZjUQOchSvy4a5xA",
-                "rich": "https://i.ytimg.com/an_webp/IrUPPd2mQfU/mqdefault_6s.webp?du=3000&sqp=COn_k5gG&rs=AOn4CLCBVL3ARn48fZsPY2b7FOx50RieYA"
+                "static": "https://i.ytimg.com/vi/JaJMjtMHceQ/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLCaCH5QEm4RDksPWiYJB4e4FC1wMg",
+                "rich": "https://i.ytimg.com/an_webp/JaJMjtMHceQ/mqdefault_6s.webp?du=3000&sqp=CKyulJgG&rs=AOn4CLAWutjYSjRHcRoHtqmmenHeX295Jw"
             }
         },
         {
             "position_on_page": 16,
-            "title": "Andrew Tate DESTROYS Obese Woman For Comparing Tiktok Dances To Boxing",
-            "link": "https://www.youtube.com/watch?v=AE8kbFZKvWw",
+            "title": "The Best Vests | How To Style Tank Tops In Summer 2022",
+            "link": "https://www.youtube.com/watch?v=8EaohUSXxx0",
             "channel": {
-                "name": "TMONEY official",
-                "link": "https://www.youtube.com/channel/UCJdBIrAflk6w-8CYLEasWSg",
-                "thumbnail": "https://yt3.ggpht.com/mhtsBktp5ON7I9hHSw2FZrjnNdiktrHGbmuedOJY4ptYFbglwSTVUIq1PRq105LqfVJ772m4CQ=s68-c-k-c0x00ffffff-no-rj"
+                "name": "James Leung",
+                "link": "https://www.youtube.com/c/JamesLeung",
+                "thumbnail": "https://yt3.ggpht.com/2IJYDNXsJG38pwCKBbXjeGzegKLwqpp3iGtZOJLbVvNMm3hDL09kXSD7apvMa6lGmsf6fL0KHw=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 month ago",
-            "views": 1108,
-            "length": "0:53",
-            "description": "andrewtate #tatespeech #hustlersuniversity #boxing.",
+            "published_date": "2 months ago",
+            "views": 4475,
+            "length": "6:39",
+            "description": "Today I want to show you what I consider to be the best vests (tank tops) for summer of 2022. I will be rotating these constantly,\u00a0...",
+            "extensions": [
+                "4K"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/AE8kbFZKvWw/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCwK2yS_qDd9iJvLBC9-2MRTMtW7g"
+                "static": "https://i.ytimg.com/vi/8EaohUSXxx0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAuVwKB6Rumhyy8kZX2CohP4GaxxQ",
+                "rich": "https://i.ytimg.com/an_webp/8EaohUSXxx0/mqdefault_6s.webp?du=3000&sqp=COjsk5gG&rs=AOn4CLDr1VcJmmXgIazpl9KSOsKp0aS5lw"
             }
         },
         {
             "position_on_page": 17,
-            "title": "Andrew Tate Shuts Reporters Up After Comparing Tik Tok To Boxing",
-            "link": "https://www.youtube.com/watch?v=gTASFPCQViM",
+            "title": "AMAZON ACTIVEWEAR TRY ON | affordable finds, lululemon dupes, hit or miss??",
+            "link": "https://www.youtube.com/watch?v=vTLhsX1mmLM",
             "channel": {
-                "name": "Jay",
-                "link": "https://www.youtube.com/channel/UC3817owfKVmMIhPqwjVr-Uw",
-                "thumbnail": "https://yt3.ggpht.com/cPhDxUvyVE3nFEzSm7BmARY90WVRc-bWs5aDUb93P69Xgqt_GmNidYrcevXveXSfv7aGVSlu0xE=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Katy McBride",
+                "link": "https://www.youtube.com/c/KatyMcBride",
+                "thumbnail": "https://yt3.ggpht.com/57RKbKThZt0Ck_UMhASOkST4j3PVhCPmNW_k7baEa9sgUgkWf4ChrWhBfZiqTgtHzT4MSj27vP0=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "4 weeks ago",
-            "views": 2084,
-            "length": "0:43",
+            "published_date": "1 year ago",
+            "views": 13130,
+            "length": "10:17",
+            "description": "Woohoo another activewear haul!! I had so much fun trying out these amazon finds for you all and definitely found a couple of\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/gTASFPCQViM/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLCQo-7VQw4M_D7kSuNoTJklRwI3Ug"
+                "static": "https://i.ytimg.com/vi/vTLhsX1mmLM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCM2WT7VobxMBw4m2IrM9jfbZmjqA",
+                "rich": "https://i.ytimg.com/an_webp/vTLhsX1mmLM/mqdefault_6s.webp?du=3000&sqp=CMuUlJgG&rs=AOn4CLC7dFPh-9-wNiopJLlvQRzyIIohDw"
             }
         },
         {
             "position_on_page": 18,
-            "title": "Andrew Tate girl advice #confidence #dating #datingadvice",
-            "link": "https://www.youtube.com/watch?v=qnjlES4yj0A",
+            "title": "How to Make a Workout Tank Top",
+            "link": "https://www.youtube.com/watch?v=_5qMFXjggRo",
             "channel": {
-                "name": "Cool Confidence",
-                "link": "https://www.youtube.com/channel/UC92Dqh0Vbvip8NBhGKjz5NQ",
-                "thumbnail": "https://yt3.ggpht.com/ccnktrxh7mkN4nY3rROb2TcV9x26DstkW_rHYqN3afDMKWgoe7AYCh-g1NuFgreo-3HxFCNQcG0=s68-c-k-c0x00ffffff-no-rj"
+                "name": "OnlineFabricStore",
+                "link": "https://www.youtube.com/c/OnlinefabricstoreNet",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_J1wspdekkTa4RcGtunXci9VKS6xO5y9kCWYxRSA=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "3 weeks ago",
-            "views": 614,
-            "length": "0:32",
-            "description": "shorts #tiktok #youtubeshorts Credit is in the title for the tiktok username Copyright issues: spm.josh@gmail.com Disclaimer: The\u00a0...",
+            "published_date": "5 years ago",
+            "views": 1593,
+            "length": "3:28",
+            "description": "Workout tanks are easy and comfortable to move in while exercising. Cotton jersey is best to use because of its stretch and\u00a0...",
+            "extensions": [
+                "CC"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/qnjlES4yj0A/hq720_2.jpg?sqp=-oaymwEdCJUDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLCzm4I1aJjmTCmxMecoDixBKFyqog",
-                "rich": "https://i.ytimg.com/an_webp/qnjlES4yj0A/mqdefault_6s.webp?du=3000&sqp=CLDPk5gG&rs=AOn4CLCMT5sAkrVmFQ3MdAcI7fkvwrIA8w"
+                "static": "https://i.ytimg.com/vi/_5qMFXjggRo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAShmvgoQJDlepIfG2s0PQ4GHCieg"
             }
         },
         {
             "position_on_page": 19,
-            "title": "Andrew Tate Shuts Down Girl Who Compares Tik Tok Dances to Boxing",
-            "link": "https://www.youtube.com/watch?v=YMm4XmuSrTk",
+            "title": "Affordable Activewear Tops From Amazon Under $25!",
+            "link": "https://www.youtube.com/watch?v=ZzjyGP_Ab_Q",
             "channel": {
-                "name": "Podcast Hot Takes",
-                "link": "https://www.youtube.com/channel/UCT9cvy8CqGlgfk_aXqmx-Eg",
-                "thumbnail": "https://yt3.ggpht.com/Fxzh-HBkCgNrOacCtHHpdFikJ6M12pvAsghPOOIAJINhROHccvRI0XtMAn3dcdv3X7UrYqsK=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Kathryn Mueller",
+                "link": "https://www.youtube.com/c/KathrynMueller",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ZaoKzPbarYLsE3OvjbkhJyPulJHdAUqYenR-KGdAGQTYFJA-VmHjvqeMUrU5nCsM6Bg6Nr10n3I=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "4 weeks ago",
-            "views": 57,
-            "length": "0:48",
-            "description": "shorts #tiktok #andrewtate #bffs #barstool.",
+            "published_date": "2 years ago",
+            "views": 25567,
+            "length": "12:40",
+            "description": "Finally, the best affordable active tops from Amazon! In this video, I review active tank tops, active crop tops, active tee shirts, and\u00a0...",
+            "extensions": [
+                "CC"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/YMm4XmuSrTk/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD-IAxGJOVtdmGH1NoAGUBmDzIe6g",
-                "rich": "https://i.ytimg.com/an_webp/YMm4XmuSrTk/mqdefault_6s.webp?du=3000&sqp=CKDvk5gG&rs=AOn4CLDquHm95zcmQCOj8UlLJbkC-zN4Ew"
+                "static": "https://i.ytimg.com/vi/ZzjyGP_Ab_Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAMXk7yPa_eQhAQ2BKgv5uX9ePGFg",
+                "rich": "https://i.ytimg.com/an_webp/ZzjyGP_Ab_Q/mqdefault_6s.webp?du=3000&sqp=CKCKlJgG&rs=AOn4CLBM6MdWV3mR55wXVRLDJEUyOQ4zwg"
             }
         },
         {
             "position_on_page": 20,
-            "title": "Fat Host Says 'Boxing Is A Dance Though' Then Gets 'SMOKED' By Andrew Tate\ud83d\ude02",
-            "link": "https://www.youtube.com/watch?v=WUFuDBWNy48",
+            "title": "How-To | DIY Gym Shirts",
+            "link": "https://www.youtube.com/watch?v=2XNYlsrCLrk",
             "channel": {
-                "name": "Chronicles Of Tate",
-                "link": "https://www.youtube.com/channel/UC3kmW3XUfnCYniTGNpbNfYA",
-                "thumbnail": "https://yt3.ggpht.com/dS_NgakurZBtAeD5WUBgWVAZm70nA5K5YUN6-GpQ_B8syPQT_w8FlqbRp5X7jAr4T-dwQY8E=s68-c-k-c0x00ffffff-no-rj"
+                "name": "TheRandomRosie",
+                "link": "https://www.youtube.com/channel/UCw6QoASIpiBB-zLw1tVLxyA",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9hJRskiDsnAPWUTPdWQ31hWFMhuis2_gpgqeK_=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 month ago",
-            "views": 48714,
-            "length": "6:05",
-            "description": "Watch our most viewed content   \u2713Andrew Tate Responds To Haters \u201cHustlers University Is A Scam\u201d\u00a0...",
+            "published_date": "4 years ago",
+            "views": 149447,
+            "length": "5:34",
+            "description": "It's not always the case but sometimes not having something \"cute\" to wear to the gym is a major factor when it comes to avoiding\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/WUFuDBWNy48/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGj2RTgpANNnMalUU8XU0xhx3edA",
-                "rich": "https://i.ytimg.com/an_webp/WUFuDBWNy48/mqdefault_6s.webp?du=3000&sqp=CPCElJgG&rs=AOn4CLDHN4mCxCdyZdb1oJUSKTvFAhO53A"
+                "static": "https://i.ytimg.com/vi/2XNYlsrCLrk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCIIOtmESMLXAY1nQhpQiAQ25PrDg",
+                "rich": "https://i.ytimg.com/an_webp/2XNYlsrCLrk/mqdefault_6s.webp?du=3000&sqp=CIyRlJgG&rs=AOn4CLACEQ__hr-5lzm2gHw2PeETbrC8NA"
             }
         },
         {
             "position_on_page": 21,
-            "title": "ANDREW TATE REACTS TO BEING EXPOSED ON TIKTOK\ud83d\ude31",
-            "link": "https://www.youtube.com/watch?v=Ff1DGmUgcS8",
+            "title": "BEST AMAZON CLOTHING ITEMS YOU JUST NEED | Marie Jay",
+            "link": "https://www.youtube.com/watch?v=O45SOPENDP0",
             "channel": {
-                "name": "Cobra Tate",
-                "link": "https://www.youtube.com/channel/UCjlTfDpkd4gTJPaROq9HJuQ",
-                "thumbnail": "https://yt3.ggpht.com/pFdX5ohRFU33aq6HVTFAmweYe9GJRTNSkV8-QxeOCmbQn3exUnCWW3U7EpTH0GYGHmvjx8dB8Q=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Marie Jay",
+                "link": "https://www.youtube.com/c/themariejayy",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/O2aORPHUVijiGkLYRjz0Hlu8dwOfQCKo-IdHB4H5VJUPi_2_FA0TTZbQIPOhSklChloCaIr1=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "2 months ago",
-            "views": 1957,
-            "length": "0:34",
-            "description": "andrewtate #viral #exposed.",
+            "published_date": "2 years ago",
+            "views": 500474,
+            "length": "16:26",
+            "description": "---------------------------------------------------------- For business & PR opportunities please email: mariejay@gushcloud.com Want advice\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/Ff1DGmUgcS8/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLC0bWFdbPUrFSjLCQC9FXVpBhVTkw",
-                "rich": "https://i.ytimg.com/an_webp/Ff1DGmUgcS8/mqdefault_6s.webp?du=3000&sqp=CMPpk5gG&rs=AOn4CLBpgnerWRniB0PoPcxPZmJ2dZgexA"
+                "static": "https://i.ytimg.com/vi/O45SOPENDP0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAyL1vDoo1iV6vKqyT1qwF9nfTqlg",
+                "rich": "https://i.ytimg.com/an_webp/O45SOPENDP0/mqdefault_6s.webp?du=3000&sqp=COmFlJgG&rs=AOn4CLCJkozVud9ys5g7cIR6KTN4l9h0xA"
             }
         },
         {
             "position_on_page": 22,
-            "title": "Andrew Tate Why You Are A Peasant Tiktok @cobratate official",
-            "link": "https://www.youtube.com/watch?v=6kK4mp-Weo8",
+            "title": "THE 6 BEST TANK TOP HACKS (without cutting them!)",
+            "link": "https://www.youtube.com/watch?v=WHtjzSzQCFs",
             "channel": {
-                "name": "Alpha Lion Legacy",
-                "link": "https://www.youtube.com/channel/UCl5kCACMUma9-rGHZZixauw",
-                "thumbnail": "https://yt3.ggpht.com/DSdgNd1xZtjIvSA2TtD6wmvy-o4MVeh5Ho0bBWEeP8uXxewEGwc8pAYqprqcF-3F2sz06aX5kw=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Hannah Warling",
+                "link": "https://www.youtube.com/c/HannahWarling",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu90fIw4dmvIfs46aqFst4EaSQV81LX0iUF0Ny81xw=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "3 months ago",
-            "views": 40,
-            "length": "0:28",
-            "description": "Disclaimer: the Video Clips Used in This Video Are Not Owned by This Channel & We do not make any profit on the videos, we\u00a0...",
+            "published_date": "1 year ago",
+            "views": 236536,
+            "length": "8:05",
+            "description": "THE 6 BEST TANK TOP HACKS (without cutting them!) hi besties!! with back-to-school, I wanted to share this super easy guide on\u00a0...",
+            "extensions": [
+                "4K"
+            ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/6kK4mp-Weo8/hq720_2.jpg?sqp=-oaymwEdCJYDENAFSFXyq4qpAw8IARUAAIhCcAHAAQbQAQE=&rs=AOn4CLDFiFbRgQdYJS319MTZ_E1Q79p4oQ",
-                "rich": "https://i.ytimg.com/an_webp/6kK4mp-Weo8/mqdefault_6s.webp?du=3000&sqp=CNGFlJgG&rs=AOn4CLBfknJTcdpJ_T5NWk-Q-a2awxMfPw"
+                "static": "https://i.ytimg.com/vi/WHtjzSzQCFs/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1Y_HygteqY8cxkbDV9Re58oE2MQ",
+                "rich": "https://i.ytimg.com/an_webp/WHtjzSzQCFs/mqdefault_6s.webp?du=3000&sqp=CKmllJgG&rs=AOn4CLDD9Uhn_WlOV-psfRn7PHU72SX2Bw"
             }
         }
     ],
     "people_also_watched": [
         {
             "position_on_page": 13,
-            "title": "Andrew Tate Thirsted Over By Females",
-            "link": "https://www.youtube.com/watch?v=A2_p2nZIHlk",
+            "title": "7 Shirts Men Should NEVER Wear!",
+            "link": "https://www.youtube.com/watch?v=B7TT0pu9h7I",
             "channel": {
-                "name": "Thirstyy",
-                "link": "https://www.youtube.com/channel/UCO-QKGeuQP17GstKQcVxM_w",
-                "thumbnail": "https://yt3.ggpht.com/z6z0du2AegLnrUsaLLyka3VrGFyxEoEjsiTcrH_P2e9Xcm9-STQQWd7mXga4MiKNURaue4OM76c=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Teachingmensfashion",
+                "link": "https://www.youtube.com/c/Teachingmensfashion",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/XoJ1Nda2YHyMatcBpaSMWiMUmfG71MEp4HWj_WBh1oEGW_u-IB7dQYnJD28WGA9N11Fe2Ouh=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "9 days ago",
-            "views": 247558,
-            "length": "10:28",
-            "description": "Please subscribe for more amazing content \u25bb https://bit.ly/clickhere2sub Music: Geographer - Arp Bounce | Royalty Free Music\u00a0...",
+            "published_date": "2 years ago",
+            "views": 1152761,
+            "length": "7:28",
+            "description": "Would you guys like a sale or a NEW collection to drop next year in Janurary? Check out HE grooming to be one of the FIRST to\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/A2_p2nZIHlk/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC5GNTcBY3rAP3YQGmjsnUUPEXkJg",
-                "rich": "https://i.ytimg.com/an_webp/A2_p2nZIHlk/mqdefault_6s.webp?du=3000&sqp=CNLxk5gG&rs=AOn4CLApCsfq10NsNH9942j4LlJotimF3A"
+                "static": "https://i.ytimg.com/vi/B7TT0pu9h7I/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAzrlIuAmhg1jvIsc4NRphckgKAQw",
+                "rich": "https://i.ytimg.com/an_webp/B7TT0pu9h7I/mqdefault_6s.webp?du=3000&sqp=CKiSlJgG&rs=AOn4CLAgphUHibhEc0XiUmQVRH7Q3d46PQ"
             }
         },
         {
             "position_on_page": 14,
-            "title": "Andrew Tate brutally reality-checks western women",
-            "link": "https://www.youtube.com/watch?v=nlDY0D7CscM",
+            "title": "My Personal SUBMARINE Has MAJOR Electrical Problems We Didn't Expect.. (Acid Nightmare)",
+            "link": "https://www.youtube.com/watch?v=PDYkU_QPW-Q",
             "channel": {
-                "name": "RANDOMISIERT",
-                "link": "https://www.youtube.com/user/CropticaL",
-                "thumbnail": "https://yt3.ggpht.com/35aFYxvM2fOlAg_ID9uxDNI3jYilrdC2h54eZVwJ7yDSbOIOTKGme1zkcmhfe8F4TCtrPAw_5yg=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "2 months ago",
-            "views": 1093101,
-            "length": "3:23",
-            "description": "Andrew Tate brutally reality-checks western women Original video: https://www.youtube.com/watch?v=j_QkAz-b6jM #AndrewTate\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/nlDY0D7CscM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBu7OswNWiwHXRarMyEZMvx99tDDg",
-                "rich": "https://i.ytimg.com/an_webp/nlDY0D7CscM/mqdefault_6s.webp?du=3000&sqp=CPWUlJgG&rs=AOn4CLCuYVtOsu6oLcg1vnHEleOaDpkY4g"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "Andrew Tate on Bonding With Women",
-            "link": "https://www.youtube.com/watch?v=P1ALvqBYxIo",
-            "channel": {
-                "name": "Rich Cooper Clips",
-                "link": "https://www.youtube.com/c/RichCooperClips",
-                "thumbnail": "https://yt3.ggpht.com/fDBjogvmfuNC0jXM0rDvgGP0qnZy5Q7WQpFDygAo7OomUMspDQfdAdAAQnv_QHdQ25E1tKbQ_w=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "6 months ago",
-            "views": 44300,
-            "length": "4:03",
-            "description": "In this video, Andrew Tate talks about whether men should spend time bonding with their girlfriends, and how he does it. Watch\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/P1ALvqBYxIo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBcycSBfLm_Rc2-cjaqqELpwNQ4Rw",
-                "rich": "https://i.ytimg.com/an_webp/P1ALvqBYxIo/mqdefault_6s.webp?du=3000&sqp=CPD3k5gG&rs=AOn4CLDnfEM2ihtnGQ7VeFADFopk5brFKw"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "Joe Rogan MENTIONS Andrew Tate?! (SHOCKING)",
-            "link": "https://www.youtube.com/watch?v=Lv1-JC_KFAw",
-            "channel": {
-                "name": "Tate Talks",
-                "link": "https://www.youtube.com/channel/UCLckfcC6X7lrH4wm-yPX5XA",
-                "thumbnail": "https://yt3.ggpht.com/FEUfDYqicG1vvmy86gHSpr88N1LsG2fpqKBrV7krS3SD5-9OJpCun9kYzhmgkqf8Q0qVzuQ_=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "3 weeks ago",
-            "views": 346863,
-            "length": "5:23",
-            "description": "Joe rogan the host of the JRE Podcast talks about Professional Kickboxer Andrew Tate.",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/Lv1-JC_KFAw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADUOXCVZ_lJdTJ5slgVdCGKJ-bvg",
-                "rich": "https://i.ytimg.com/an_webp/Lv1-JC_KFAw/mqdefault_6s.webp?du=3000&sqp=CLjwk5gG&rs=AOn4CLC3_UUHDBBFcKoTit1Wd1zI7nOKkg"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "Andrew Tate Discussion With a Modern woman",
-            "link": "https://www.youtube.com/watch?v=4RCp7qgTA8k",
-            "channel": {
-                "name": "Tate Best Moments",
-                "link": "https://www.youtube.com/channel/UC5Mx4YYB5xHmBLwx_2wQyNg",
-                "thumbnail": "https://yt3.ggpht.com/DVo5hy7bjA6As5ltEZvIs3cR92WRIgrbaHuwEMwT2_yKwLeqvDOJjg-iaMmWpsRIVhib3c4IKA=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "12 days ago",
-            "views": 129948,
-            "length": "12:45",
-            "description": "andrewtate #tatespeech #freshandfit.",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/4RCp7qgTA8k/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBQf3wAqQ7_6OCwVyCtPSBqE2li2w",
-                "rich": "https://i.ytimg.com/an_webp/4RCp7qgTA8k/mqdefault_6s.webp?du=3000&sqp=CNOQlJgG&rs=AOn4CLDRTCky1iytK1_C1AecN8xnhm-nVA"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "\"Strong Independent\" Women Turn Feeble After Man Breaks In",
-            "link": "https://www.youtube.com/watch?v=LirmKfs6siU",
-            "channel": {
-                "name": "FreshandFit",
-                "link": "https://www.youtube.com/c/FreshFitMiami",
+                "name": "Jiggin' With Jordan",
+                "link": "https://www.youtube.com/c/JigginWithJordan",
                 "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_1EGTvWeMr9ph0E5a7LwYyDDsnKmXXyZia4zCECw=s68-c-k-c0x00ffffff-no-rj"
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8Ln8-WMaEVUClpLahkx04cEjObYSFBubMKg4IT=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "2 days ago",
+            "views": 191667,
+            "length": "24:56",
+            "description": "We take my personal submarine and start the break down process only to find we have much bigger issues than expected.. Follow\u00a0...",
+            "extensions": [
+                "New"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/PDYkU_QPW-Q/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAsA1D01b6jwVA7kMUMcTliozuKHg",
+                "rich": "https://i.ytimg.com/an_webp/PDYkU_QPW-Q/mqdefault_6s.webp?du=3000&sqp=CMyXlJgG&rs=AOn4CLB5Y1XH75qfz6gv5_7SXYx7dVbhrw"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "The BEST Affordable Workout Top",
+            "link": "https://www.youtube.com/watch?v=Hj1bAFJxb14",
+            "channel": {
+                "name": "HopeScope",
+                "link": "https://www.youtube.com/channel/UCAM2fyCjEdROyELretVTiiw",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/hfQWF4C7_YXdNk9U1jVZT_JmNNtrtXrvCM3OdcDqqGxfPHjG_cP3_0QlDMjScvzsTX0AlIUdQ6U=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "1 year ago",
-            "views": 1104404,
-            "length": "9:35",
-            "description": "Watch these women turn feminine all of a sudden when a man breaks into the studio... Full Video: https://youtu.be/hi2k5W3G_3M\u00a0...",
+            "views": 143770,
+            "length": "4:29",
+            "description": "@HopeScope on TIKTOK for some laughs INQUIRIES: hopescopeofficial@gmail.com \u2661 \u2661 \u2661 MY MUST HAVE SUPPLEMENTS\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/Hj1bAFJxb14/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAZ6ZTj10MaqXFJbGjhSU4VUsnsRw",
+                "rich": "https://i.ytimg.com/an_webp/Hj1bAFJxb14/mqdefault_6s.webp?du=3000&sqp=CIqWlJgG&rs=AOn4CLD7zIIlxF3QIORbNscpJ8kcIsV7yQ"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Spring Summer Essentials 2022 | Men's Fashion Trends",
+            "link": "https://www.youtube.com/watch?v=igQ2UGHQw4g",
+            "channel": {
+                "name": "Stephan Guthrie",
+                "link": "https://www.youtube.com/c/StephanGuthrie",
+                "thumbnail": "https://yt3.ggpht.com/Kmiw0UuN-P47umy9_PX-XIiB_NmvofS0QU3yokAqMlEorGCOsADzS20w2kZq8-qyJOgzHmMB7A=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "3 months ago",
+            "views": 87671,
+            "length": "12:17",
+            "description": "Spring / Summer Essentials 2022 | Men's Fashion Essentials & Trends In this video I cover the essentials you should have in your\u00a0...",
             "extensions": [
                 "4K"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/LirmKfs6siU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCWP9e1LhYG8XsD5mZXsP02OcNnwA",
-                "rich": "https://i.ytimg.com/an_webp/LirmKfs6siU/mqdefault_6s.webp?du=3000&sqp=CJH8k5gG&rs=AOn4CLAiGC1-XkBaBYyIiV9SR592jReoKA"
+                "static": "https://i.ytimg.com/vi/igQ2UGHQw4g/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXUpMOB16UXeJToLblWo72WKNfqA",
+                "rich": "https://i.ytimg.com/an_webp/igQ2UGHQw4g/mqdefault_6s.webp?du=3000&sqp=CPD3k5gG&rs=AOn4CLDEKndZDWILuSDSuVCfPdv4USAjeA"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "Andrew Tate \u2018SCHOOLS\u2019 Dave Portnoy and Now Everybody Knows The Rules\ud83d\ude02",
-            "link": "https://www.youtube.com/watch?v=58L6Qe-8BxA",
+            "title": "Reviewing Activewear Brands I HATE",
+            "link": "https://www.youtube.com/watch?v=HcVlHQJl12M",
             "channel": {
-                "name": "Chronicles Of Tate",
-                "link": "https://www.youtube.com/channel/UC3kmW3XUfnCYniTGNpbNfYA",
-                "thumbnail": "https://yt3.ggpht.com/dS_NgakurZBtAeD5WUBgWVAZm70nA5K5YUN6-GpQ_B8syPQT_w8FlqbRp5X7jAr4T-dwQY8E=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "1 month ago",
-            "views": 175618,
-            "length": "5:37",
-            "description": "Watch our most viewed content   \u2713Andrew Tate Responds To Haters \u201cHustlers University Is A Scam\u201d\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/58L6Qe-8BxA/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBm7eEasyDSVL86OoKeQ2bnBPnPsg",
-                "rich": "https://i.ytimg.com/an_webp/58L6Qe-8BxA/mqdefault_6s.webp?du=3000&sqp=CICYlJgG&rs=AOn4CLDUc5Kmk4Nhw7INRX8z7tHdIktSGQ"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "Tik Toks the Romanian Government Doesn't want Released \ud83d\ude02",
-            "link": "https://www.youtube.com/watch?v=cOWsh7lKgUc",
-            "channel": {
-                "name": "Wifi Plug",
-                "link": "https://www.youtube.com/c/WifiPlugOfficial",
+                "name": "HopeScope",
+                "link": "https://www.youtube.com/channel/UCAM2fyCjEdROyELretVTiiw",
                 "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9kLuTgGcypQFhleHeki5gbd-0sBDsmbRvWK9oK=s68-c-k-c0x00ffffff-no-rj"
+                "thumbnail": "https://yt3.ggpht.com/hfQWF4C7_YXdNk9U1jVZT_JmNNtrtXrvCM3OdcDqqGxfPHjG_cP3_0QlDMjScvzsTX0AlIUdQ6U=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "7 days ago",
-            "views": 69107,
-            "length": "13:30",
-            "description": "Tik Toks Memes That are just longer Vines! These Tiktok meme compilations are so funny and remind me of Vine! For more tik tok\u00a0...",
+            "published_date": "3 years ago",
+            "views": 932318,
+            "length": "11:16",
+            "description": "INQUIRIES hopescopeofficial@gmail.com \u2661 \u2661 \u2661 JOIN my channel Membership! CLICK HERE:\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/cOWsh7lKgUc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD2qxqnzEHizvTpU-56WKtuWgdHSw",
-                "rich": "https://i.ytimg.com/an_webp/cOWsh7lKgUc/mqdefault_6s.webp?du=3000&sqp=CICFlJgG&rs=AOn4CLAMFWFO5ayKJeqL1oFgwtgY2LhABg"
+                "static": "https://i.ytimg.com/vi/HcVlHQJl12M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUT6beKFJ1DU3AwpNd9DnjK_hZJQ",
+                "rich": "https://i.ytimg.com/an_webp/HcVlHQJl12M/mqdefault_6s.webp?du=3000&sqp=CIKBlJgG&rs=AOn4CLCBDFtDno1tOJakrQoqPtqlknHBgg"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "Tik Toks I Saw Mario Get FREAKY To \ud83e\udd28",
-            "link": "https://www.youtube.com/watch?v=s8AG7juMMi0",
+            "title": "Lululemon VS. Amazon Dupes !! *side by side comparison & price difference*",
+            "link": "https://www.youtube.com/watch?v=bG8cgWEO2gg",
             "channel": {
-                "name": "Wifi Plug",
-                "link": "https://www.youtube.com/c/WifiPlugOfficial",
+                "name": "Mia Maples",
+                "link": "https://www.youtube.com/c/MiaMaples",
                 "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9kLuTgGcypQFhleHeki5gbd-0sBDsmbRvWK9oK=s68-c-k-c0x00ffffff-no-rj"
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-rCgEadJo96Thz4NVirf8QHi5rmk8ermwCQeElaA=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "4 months ago",
-            "views": 563645,
-            "length": "17:01",
-            "description": "Tik Toks Memes That are just longer Vines! These Tiktok meme compilations are so funny and remind me of Vine! For more tik tok\u00a0...",
+            "published_date": "1 year ago",
+            "views": 568071,
+            "length": "28:21",
+            "description": "If You Want, My Other Socials :) TikTok: @realiomiamaples Instagram: @miamaples Merch Instagram @maplesmerchmia :)",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/s8AG7juMMi0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAKQznrXi4MIh4S3bR-0WQN_ET7GA",
-                "rich": "https://i.ytimg.com/an_webp/s8AG7juMMi0/mqdefault_6s.webp?du=3000&sqp=CLnhk5gG&rs=AOn4CLA04oLK1lx9GaJqLCiVB8_xdtO8sg"
+                "static": "https://i.ytimg.com/vi/bG8cgWEO2gg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDZ7xg5QD97gcCb5UzrRsYqdMCwgA",
+                "rich": "https://i.ytimg.com/an_webp/bG8cgWEO2gg/mqdefault_6s.webp?du=3000&sqp=CLj-k5gG&rs=AOn4CLDEFKbF0Jwbs6GIxEhBHfuGeFehxA"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "ANDREW TATE AND CHIAN DO NOT GET ALONG | Grilling S2 Ep 7 Reaction",
-            "link": "https://www.youtube.com/watch?v=093LBpef7vw",
+            "title": "LULULEMON DUPES *on Amazon* // are they worth it?!",
+            "link": "https://www.youtube.com/watch?v=GKsM4HuAO0E",
             "channel": {
-                "name": "Melanie King",
-                "link": "https://www.youtube.com/c/MelanieKing1",
-                "thumbnail": "https://yt3.ggpht.com/7eDQO7Vi8zsXUb6GwfMaegQROJ0Ytc-mU_GAUXVHqj8JUEHyzBpLGqdM6AEKADNZH4i-OeYHnX4=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Sarah Elisabeth",
+                "link": "https://www.youtube.com/c/SarahElisabethh",
+                "thumbnail": "https://yt3.ggpht.com/op2C6_RuhH6KMebF1Bse_zW4_dzaaWJybPrGbb_HtCcTl69bapmSL-FVwBkSBWODIxbUgq4ZuA=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "1 month ago",
-            "views": 151236,
-            "length": "14:15",
-            "description": "Cashapp - $Melanieking99 Instagram - Mel_da_king TikTok - Mel_da_king.",
+            "published_date": "1 year ago",
+            "views": 181241,
+            "length": "15:24",
+            "description": "hi everyone!! in today's video, i am showing you some pieces i picked up from amazon for lululemon dupes! i was curious to see if\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/093LBpef7vw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDvKkTAz5pklaGk89OsVQNXD2yjwg",
-                "rich": "https://i.ytimg.com/an_webp/093LBpef7vw/mqdefault_6s.webp?du=3000&sqp=COSElJgG&rs=AOn4CLACAmZwQfQ-rfMFApO-WT-dhFBQBA"
+                "static": "https://i.ytimg.com/vi/GKsM4HuAO0E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLB5qhBExfG0e3FfNUHfHaflPxPqHA",
+                "rich": "https://i.ytimg.com/an_webp/GKsM4HuAO0E/mqdefault_6s.webp?du=3000&sqp=CNXuk5gG&rs=AOn4CLDpPh0vbQkHUjJHWbOrtbS9FkWA4w"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Breaking my schools dress code for a week",
+            "link": "https://www.youtube.com/watch?v=E54xWiBgG0c",
+            "channel": {
+                "name": "Bailey Dedrick",
+                "link": "https://www.youtube.com/c/BAILEYDEDRICK",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/0B9Nn5hh1_0F502SYm2xZRVDG052Xn2392dru7liazxALdpBvCFMB6Fs_dsRPR9A8kjFcrlB=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "3 years ago",
+            "views": 9711334,
+            "length": "21:09",
+            "description": "Hey everyone! I hope you enjoyed today's video! Guy friends pick my outfits: https://youtu.be/MLAVR6oylNY My merch!",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/E54xWiBgG0c/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBL7xLBZGjdhqIwQCm2LYbQ4d0raw",
+                "rich": "https://i.ytimg.com/an_webp/E54xWiBgG0c/mqdefault_6s.webp?du=3000&sqp=CIr5k5gG&rs=AOn4CLB-nMU-EPoXRH98QcLbIq8Lxa8PPw"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "TESTING HYPED AMAZON DUPES for lululemon & aritzia TRY-ON... what's ACTUALLY worth buying??",
+            "link": "https://www.youtube.com/watch?v=80lEAeOIY0Q",
+            "channel": {
+                "name": "RachhLoves",
+                "link": "https://www.youtube.com/c/RachhLoves",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_Nn8-ekbY2IX6sJfxiICRKj69sQzU3Y7EN0c9uzg=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 138535,
+            "length": "20:33",
+            "description": "NEW TO RACHHLOVES? If you couldn't already tell... I like makeup. Like, a lot. Especially testing new makeup, doing full day\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/80lEAeOIY0Q/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDpHncJgU_Tw15Sj5jslvK2ThbpIg",
+                "rich": "https://i.ytimg.com/an_webp/80lEAeOIY0Q/mqdefault_6s.webp?du=3000&sqp=CLillJgG&rs=AOn4CLA1incOBmpdNs8EFtuxVKTalLWSDw"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "$25 GYMSHARK & NVGTN DUPES - AMAZON CAME THROUGH!",
+            "link": "https://www.youtube.com/watch?v=9PnJOUBavEE",
+            "channel": {
+                "name": "Makeupshayla",
+                "link": "https://www.youtube.com/user/Makeupshayla",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/x1LJrEjC63uYdcGOMp6hVz072qFNB2_5_nj49Em7xWuAFgtZ4ewUZWW2yqX_l33eNC2KrzBbaA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 187621,
+            "length": "10:34",
+            "description": "In this try on haul, I show you my favorite amazon activewear leggings and they only coast $25. I usually wear Gymshark and\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/9PnJOUBavEE/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCypWhz6jn5A7-DWPXQkgvgKyT0dg",
+                "rich": "https://i.ytimg.com/an_webp/9PnJOUBavEE/mqdefault_6s.webp?du=3000&sqp=CIvtk5gG&rs=AOn4CLBT5nxcz5S1byFFliNkiQvvsIHjjg"
             }
         }
     ],
     "pagination": {
-        "current": "https://www.youtube.com/results?search_query=Ontdek+de+populaire+video%27s+over+Tate+about+woman+-+TikTok",
-        "next": "https://www.youtube.com/results?search_query=Ontdek%20de%20populaire%20video%27s%20over%20Tate%20about%20woman%20-%20TikTok&sp=SBSCAQszUWJfMFZ3NF90NIIBC1ZBRWd2RjRzNTRvggELQUw0N01nYTY5R2eCAQtIeVJuV2RFa2hqRYIBCzJsUnprSU15eFQ4ggELa3VNd0NjQnpHRXOCAQtMcnRCS29WNl9GOIIBCy02c0djOVZtdkh3ggELb1BOaE56cVgtWUWCAQtSU0hPQkRfYkdoVYIBC2hGZlZGWlAxUmFZggELaEh1S2JhM0RVS3OCAQtJclVQUGQybVFmVYIBC0FFOGtiRlpLdld3ggELZ1RBU0ZQQ1FWaU2CAQtxbmpsRVM0eWowQYIBC1lNbTRYbXVTclRrggELV1VGdURCV055NDiCAQtGZjFER21VZ2NTOIIBCzZrSzRtcC1XZW84sgEGCgQIFRAC",
-        "next_page_token": "SBSCAQszUWJfMFZ3NF90NIIBC1ZBRWd2RjRzNTRvggELQUw0N01nYTY5R2eCAQtIeVJuV2RFa2hqRYIBCzJsUnprSU15eFQ4ggELa3VNd0NjQnpHRXOCAQtMcnRCS29WNl9GOIIBCy02c0djOVZtdkh3ggELb1BOaE56cVgtWUWCAQtSU0hPQkRfYkdoVYIBC2hGZlZGWlAxUmFZggELaEh1S2JhM0RVS3OCAQtJclVQUGQybVFmVYIBC0FFOGtiRlpLdld3ggELZ1RBU0ZQQ1FWaU2CAQtxbmpsRVM0eWowQYIBC1lNbTRYbXVTclRrggELV1VGdURCV055NDiCAQtGZjFER21VZ2NTOIIBCzZrSzRtcC1XZW84sgEGCgQIFRAC"
+        "current": "https://www.youtube.com/results?search_query=Active+Tank+-+a+breathable+women%27s+tank+top+for+more+comfort",
+        "next": "https://www.youtube.com/results?search_query=Active%20Tank%20-%20a%20breathable%20women%27s%20tank%20top%20for%20more%20comfort&sp=SBSCAQtOWkVnLXUxeldpc4IBC2pUeWNaQmlodGQ0ggELWXNmV1oweWNNeFmCAQtzV0N4UWJOaWdqc4IBC1lLTFhTUGVkNXlJggELRGFlYm9HOHJUWneCAQtVdlRTcEpXdE5MMIIBC2wwTkkwX09fM1BNggELcHpqX2NBMmI3dEmCAQt6eFNLMGxzU3FwMIIBC2laeVkwTXRBTEtZggELS0NIdGt2MGE3c2OCAQtKYUpNanRNSGNlUYIBCzhFYW9oVVNYeHgwggELdlRMaHNYMW1tTE2CAQtfNXFNRlhqZ2dSb4IBC1p6anlHUF9BYl9RggELMlhOWWxzckNMcmuCAQtPNDVTT1BFTkRQMIIBC1dIdGp6U3pRQ0ZzsgEGCgQIFRAC",
+        "next_page_token": "SBSCAQtOWkVnLXUxeldpc4IBC2pUeWNaQmlodGQ0ggELWXNmV1oweWNNeFmCAQtzV0N4UWJOaWdqc4IBC1lLTFhTUGVkNXlJggELRGFlYm9HOHJUWneCAQtVdlRTcEpXdE5MMIIBC2wwTkkwX09fM1BNggELcHpqX2NBMmI3dEmCAQt6eFNLMGxzU3FwMIIBC2laeVkwTXRBTEtZggELS0NIdGt2MGE3c2OCAQtKYUpNanRNSGNlUYIBCzhFYW9oVVNYeHgwggELdlRMaHNYMW1tTE2CAQtfNXFNRlhqZ2dSb4IBC1p6anlHUF9BYl9RggELMlhOWWxzckNMcmuCAQtPNDVTT1BFTkRQMIIBC1dIdGp6U3pRQ0ZzsgEGCgQIFRAC"
     },
     "serpapi_pagination": {
-        "current": "https://serpapi.com/search.json?engine=youtube&search_query=Ontdek+de+populaire+video%27s+over+Tate+about+woman+-+TikTok",
-        "next": "https://serpapi.com/search.json?engine=youtube&search_query=Ontdek+de+populaire+video%27s+over+Tate+about+woman+-+TikTok&sp=SBSCAQszUWJfMFZ3NF90NIIBC1ZBRWd2RjRzNTRvggELQUw0N01nYTY5R2eCAQtIeVJuV2RFa2hqRYIBCzJsUnprSU15eFQ4ggELa3VNd0NjQnpHRXOCAQtMcnRCS29WNl9GOIIBCy02c0djOVZtdkh3ggELb1BOaE56cVgtWUWCAQtSU0hPQkRfYkdoVYIBC2hGZlZGWlAxUmFZggELaEh1S2JhM0RVS3OCAQtJclVQUGQybVFmVYIBC0FFOGtiRlpLdld3ggELZ1RBU0ZQQ1FWaU2CAQtxbmpsRVM0eWowQYIBC1lNbTRYbXVTclRrggELV1VGdURCV055NDiCAQtGZjFER21VZ2NTOIIBCzZrSzRtcC1XZW84sgEGCgQIFRAC",
-        "next_page_token": "SBSCAQszUWJfMFZ3NF90NIIBC1ZBRWd2RjRzNTRvggELQUw0N01nYTY5R2eCAQtIeVJuV2RFa2hqRYIBCzJsUnprSU15eFQ4ggELa3VNd0NjQnpHRXOCAQtMcnRCS29WNl9GOIIBCy02c0djOVZtdkh3ggELb1BOaE56cVgtWUWCAQtSU0hPQkRfYkdoVYIBC2hGZlZGWlAxUmFZggELaEh1S2JhM0RVS3OCAQtJclVQUGQybVFmVYIBC0FFOGtiRlpLdld3ggELZ1RBU0ZQQ1FWaU2CAQtxbmpsRVM0eWowQYIBC1lNbTRYbXVTclRrggELV1VGdURCV055NDiCAQtGZjFER21VZ2NTOIIBCzZrSzRtcC1XZW84sgEGCgQIFRAC"
+        "current": "https://serpapi.com/search.json?engine=youtube&search_query=Active+Tank+-+a+breathable+women%27s+tank+top+for+more+comfort",
+        "next": "https://serpapi.com/search.json?engine=youtube&search_query=Active+Tank+-+a+breathable+women%27s+tank+top+for+more+comfort&sp=SBSCAQtOWkVnLXUxeldpc4IBC2pUeWNaQmlodGQ0ggELWXNmV1oweWNNeFmCAQtzV0N4UWJOaWdqc4IBC1lLTFhTUGVkNXlJggELRGFlYm9HOHJUWneCAQtVdlRTcEpXdE5MMIIBC2wwTkkwX09fM1BNggELcHpqX2NBMmI3dEmCAQt6eFNLMGxzU3FwMIIBC2laeVkwTXRBTEtZggELS0NIdGt2MGE3c2OCAQtKYUpNanRNSGNlUYIBCzhFYW9oVVNYeHgwggELdlRMaHNYMW1tTE2CAQtfNXFNRlhqZ2dSb4IBC1p6anlHUF9BYl9RggELMlhOWWxzckNMcmuCAQtPNDVTT1BFTkRQMIIBC1dIdGp6U3pRQ0ZzsgEGCgQIFRAC",
+        "next_page_token": "SBSCAQtOWkVnLXUxeldpc4IBC2pUeWNaQmlodGQ0ggELWXNmV1oweWNNeFmCAQtzV0N4UWJOaWdqc4IBC1lLTFhTUGVkNXlJggELRGFlYm9HOHJUWneCAQtVdlRTcEpXdE5MMIIBC2wwTkkwX09fM1BNggELcHpqX2NBMmI3dEmCAQt6eFNLMGxzU3FwMIIBC2laeVkwTXRBTEtZggELS0NIdGt2MGE3c2OCAQtKYUpNanRNSGNlUYIBCzhFYW9oVVNYeHgwggELdlRMaHNYMW1tTE2CAQtfNXFNRlhqZ2dSb4IBC1p6anlHUF9BYl9RggELMlhOWWxzckNMcmuCAQtPNDVTT1BFTkRQMIIBC1dIdGp6U3pRQ0ZzsgEGCgQIFRAC"
     }
 }

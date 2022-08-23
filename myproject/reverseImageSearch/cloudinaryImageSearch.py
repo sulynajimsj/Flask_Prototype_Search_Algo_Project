@@ -40,7 +40,11 @@ def searchAPI(image_url):
     if (len(thetitles)>=3):
         query = thetitles[2]
     else:
-        query = thetitles[1]
+        try:
+            query = thetitles[1]
+        except:
+            query = thetitles[0]
+            
     params2 = {
         "engine": "youtube",
          "search_query": query,
@@ -68,13 +72,13 @@ def searchAPI(image_url):
             
         except:
             with open('op.txt', 'w') as opf:
-                opf.write("ERROR Error")
+                opf.write("ERROR Error aEr")
             print("Transcript ERROR")
         
         
         # Compare the videos 
         theVideoLink = video['link']
-        textComp = TextCompare.textCompare(r"C:\Users\Suleiman\Desktop\Flask_Prototype_Search_Algo_Project\myproject\op.txt", r"C:\Users\Suleiman\Desktop\Flask_Prototype_Search_Algo_Project\myproject\transcript.txt")
+        textComp = TextCompare.textCompare(r"C:\Users\Suleiman\Desktop\Flask_Prototype_Search_Algo_Project\myproject\transcript.txt", r"C:\Users\Suleiman\Desktop\Flask_Prototype_Search_Algo_Project\myproject\op.txt")
 
         isMatch = textComp.compare()
         if (isMatch):

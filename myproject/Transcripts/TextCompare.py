@@ -23,8 +23,8 @@ class textCompare:
     def compare (self):
         lst1 = self.split1.getWords()
         lst2 = self.split2.getWords()
-        list1 = lst1 if len(lst1) <= len(lst2) else lst2
-        list2 = lst2 if len(lst2) > len(lst1) else lst1
+        list1 = lst1 
+        list2 = lst2 
         
         for i in range (len(list2)-1-len(list1)):
             if (list1[1] == list2[i]):
