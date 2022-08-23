@@ -11,7 +11,7 @@ import shutil, sys
 
 # Update github
 # allTranscripts = []
-# #region cloundinary configuration
+ #region cloundinary configuration
 # cloudinary.config( 
 #   cloud_name = "odinsully", 
 #   api_key = "152393343981388", 
@@ -85,9 +85,9 @@ import shutil, sys
 #                 pass
 #         # increment the frame count
 #         count += 1
-# #endregion
+ #endregion
 
-# #region reverse image search
+ #region reverse image search
 # def searchAPI(image_url):
 
 #     #Reverse Image search: Google only
@@ -143,9 +143,9 @@ import shutil, sys
 #     print("The results")
 #     aLink = results2['search_metadata']['youtube_url']
 #     webbrowser.open(aLink)
-# #endregion
+ #endregion
 
-# #region extra stuff
+#region extra stuff
 #     # print("All transcripts")
 #     # ytVideos = results2['video_results']
 #     # for i in range(0,5):
@@ -195,9 +195,9 @@ import shutil, sys
 #     #     json.dump(productResults, fp, indent=4)
 #     # webbrowser.open(shopLink) 
 #     #Go to link
-# #endregion
+ #endregion
 
-# #region reverse image search and upload to cloudinary3
+ #region reverse image search and upload to cloudinary3
 #list file names 
 # def list_file_name(path):
 #     fileList = os.listdir(path)
