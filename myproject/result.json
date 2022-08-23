@@ -1,178 +1,317 @@
 {
     "search_metadata": {
-        "id": "6303273e2e7d6b2f22b76221",
+        "id": "63050ccf5119a6912da6f18d",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/83e31cd5af48d268/6303273e2e7d6b2f22b76221.json",
-        "created_at": "2022-08-22 06:50:38 UTC",
-        "processed_at": "2022-08-22 06:50:38 UTC",
-        "google_reverse_image_url": "https://www.google.com/searchbyimage?q=&image_url=http://res.cloudinary.com/odinsully/image/upload/v1661151038/pq9oemzap4p2kppkbicr.jpg",
-        "raw_html_file": "https://serpapi.com/searches/83e31cd5af48d268/6303273e2e7d6b2f22b76221.html",
-        "total_time_taken": 1.51
+        "json_endpoint": "https://serpapi.com/searches/7dff0f6ac5b9bb6e/63050ccf5119a6912da6f18d.json",
+        "created_at": "2022-08-23 17:22:23 UTC",
+        "processed_at": "2022-08-23 17:22:23 UTC",
+        "google_reverse_image_url": "https://www.google.com/searchbyimage?q=&image_url=http://res.cloudinary.com/odinsully/image/upload/v1661275339/ylvtjrh01zqicrgrudg0.jpg",
+        "raw_html_file": "https://serpapi.com/searches/7dff0f6ac5b9bb6e/63050ccf5119a6912da6f18d.html",
+        "total_time_taken": 1.85
     },
     "search_parameters": {
         "engine": "google_reverse_image",
-        "image_url": "http://res.cloudinary.com/odinsully/image/upload/v1661151038/pq9oemzap4p2kppkbicr.jpg",
+        "image_url": "http://res.cloudinary.com/odinsully/image/upload/v1661275339/ylvtjrh01zqicrgrudg0.jpg",
         "google_domain": "google.com",
         "device": "desktop"
     },
     "search_information": {
         "organic_results_state": "Results for exact spelling",
-        "query_displayed": "hybrid guitar",
-        "total_results": 2,
-        "time_taken_displayed": 0.78
+        "query_displayed": "buzz cut",
+        "total_results": 5,
+        "time_taken_displayed": 0.84
     },
     "inline_images": [
         {
-            "source": "https://lindoguitars.com/product/lindo-shark-electro-acoustic-guitar-blue/",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091e193eda59dfa36c985c5192b72e025d93be40d0648eeb56a.jpeg"
+            "source": "https://www.artofit.org/image-gallery/ugly-dogs/",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b06321daae90cf72e259c4a5d24746e3f03cbc048f787dbc482d.jpeg"
         },
         {
-            "source": "https://killerguitarrigs.com/how-to-restring-an-acoustic-guitar/",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091132c1d8a017869ba39f401d5cdbf4c1c09df12012a662f78.jpeg"
+            "source": "https://www.tiktok.com/discover/buzz-cut-transformation-growth",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063530c10a205ffea4f4fcd1127e5a1b2caf12edcd9ad7c60db.jpeg"
         },
         {
-            "source": "https://www.researchgate.net/figure/Tuning-Pegs-of-an-Acoustic-Guitar_fig5_45888076",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b12609173498ec71ac6932844e0d08aa989598c67cfec3b9784101d.jpeg"
+            "source": "https://www.tiktok.com/discover/when-he-keep-calling-you-ugly",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b06373e4c2c36527536e32e13a95042cfd5f0b14b561743e6e23.jpeg"
         },
         {
-            "source": "https://www.canstockphoto.com/headstock-of-acoustic-guitar-43450316.html",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091c50a82031d43bf9c866d92aa5b624d5a99f9e7486d166eaa.jpeg"
+            "source": "https://www.facebook.com/pages/category/Community/Ugly-selfies-688356134621062/",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063446a5e8ab2e02cd02bb91a943ec9a685c4cf6f62084c9470.jpeg"
         },
         {
-            "source": "https://www.guitaroctave.com/item/yamaha-fs100c-bk/",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b12609196235fa93f5e7ec4034ac2ca41731fab7723645cf56d868e.jpeg"
+            "source": "https://tenor.com/view/sign-language-deaf-im-gucci-serious-gif-12169970",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063ac123ed064e9e0ffe5c859399d0147289e147f504cb7bb3c.jpeg"
         },
         {
-            "source": "https://www.guitaroctave.com/item/axe-ag-48c-n-pure-acoustic-guitar/",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b1260919929d9340ed4a23bbd1fbb99a5a6b70a5434be58fce30987.jpeg"
+            "source": "https://www.tiktok.com/discover/how-ugly-are-you",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063f2e3e0705eba6b947dc388ef9e66d170d5fa4d86daefc59d.jpeg"
         },
         {
-            "source": "https://www.guitarsuperstore.com/guild-f-2512e-maple-12-string-electro-acoustic-guitar-5818-p.asp",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091bc9cf0cc775dc9d0921f70be84b64153c777ac2eee65003b.jpeg"
+            "source": "https://tenor.com/view/blah-sign-language-asl-keep-talking-keep-speaking-gif-16795249",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063ae6149cb150624da7e7a9f0b3a4701c9f5d0bababd6c9bca.jpeg"
         },
         {
-            "source": "https://candivintagesounds.com/product/vintage-kent-acoustic-guitar/",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091d54c195e25fe891aa24e2b8fe86f2acf7a6efce42e090081.jpeg"
+            "source": "https://www.complex.com/music/2017/06/kodak-black-says-he-doesnt-like-black-girls",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063c0930b343bb061c3e68bcb96e2dc70336f3ff3991e3df57b.jpeg"
         },
         {
-            "source": "https://www.musicradar.com/news/guitars/seven-altered-tunings-for-acoustic-guitar-584145",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091b42c0f259b6e1f2d66ad26e71de111e7e73b4ad0e2df7667.jpeg"
+            "source": "https://www.pinterest.ph/pin/230879918371255672/",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b06355b6f2ce79021528016e6b447584d979bd7bf34fa65871a9.jpeg"
         },
         {
-            "source": "https://www.amazon.com/Fender-CD-60-Dreadnought-Acoustic-Guitar/dp/B07Q465G13",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091ffa6d80e3bca319193d420d5d8da08e8ca0fe6e6fa39c282.jpeg"
+            "source": "https://www.tiktok.com/discover/fake-sign-language-interpreter",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b06346cae9cbed103662912fd7e5916c4bacb28e0293ed601f9b.jpeg"
         },
         {
-            "source": "https://www.guitaroctave.com/item/sqoe-sq-ec-fg-acoustic-guitar-bd/",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b1260913be97705bf6644e8818a644162d31b4b20cec9f0f532cd4f.jpeg"
+            "source": "https://metro.co.uk/2019/06/23/acid-attack-victim-helped-public-posts-selfie-injuries-says-fd-10032794/",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b06352f11228e60c89542fc91810c70c74843ceef3334c83370c.jpeg"
         },
         {
-            "source": "https://www.amazon.co.uk/Single-Cutaway-Electro-Acoustic-Gear4music/dp/B00125XIBK",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b12609125755bdcff7db0eb4f429848177eaaac951694a17dc8f429.jpeg"
+            "source": "https://www.tiktok.com/@beardbrand/video/7121582525364997422",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b06335222d2a592cbb907935c3c7fd35f0738b1ce19cac3cf978.jpeg"
         },
         {
-            "source": "https://www.ukuleleplanet.net/best-acoustic-guitar-pick-ups/",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b12609167584412af7f0c1782d529a8b4095a145d0cb04d3225f772.jpeg"
+            "source": "https://www.tiktok.com/discover/selfie-caption-breakup",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063644fb97629681bc7b7bc051889b848572a455fcc5244c978.jpeg"
         },
         {
-            "source": "https://www.shutterstock.com/search/acoustic-guitar-perspective",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091963a4118d5f1bd34c65543f5246fe4ded8fcb8926f0a23c4.jpeg"
+            "source": "https://www.reddit.com/r/3DS/comments/l5pwo6/fhd_8k_hdr_3ds_mirror_selfie/",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b0630085f9832331745dfec5edb8043b5878ab98e39719a97456.jpeg"
         },
         {
-            "source": "https://jiji.ng/ikeja/musical-instruments/black-dame-acoustic-guitar-i1C8qmA6fAWTCfPgdVCp8YUR.html",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091be7604fbcca3d7f68d1dfdefd8101c1607e7bfc2bf8dd989.jpeg"
+            "source": "https://ifunny.co/video/talking-to-my-crush-her-ugly-friend-no-get-away-6BaQXVEe7",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063fd68e047d517312312bcff4b04df1d34c22ba45811b73db0.jpeg"
         },
         {
-            "source": "https://www.guitaroctave.com/item/fender-cc-60s-guitar-bd/",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091ae6975a4ce9fe9c67ce152b70fbb1131db5559a2cb31573b.jpeg"
+            "source": "https://ifunny.co/video/fine-i-ll-take-a-selfie-instead-ifYng0Fv8",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b0631885afe75483b9d9591a74a0a3bb08d86b3230106df2850d.jpeg"
         },
         {
-            "source": "https://www.ebay.com/p/137019949",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b1260915e6eee8f2bbaf0740654cfe37f2e3779cfc9995d7ec9b80b.jpeg"
+            "source": "https://www.tiktok.com/discover/buzz-cut-with-beard",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b06392ca60c0b1dcd7a7af1231b3a076207445cd67121a4caa88.jpeg"
         },
         {
-            "source": "https://www.guitar-auctions.co.uk/sale/158/49/1991-Martin-D28S-acoustic-guitar-made-in-USA-ser-no-5xxxx4-Indian-rosewood-back-and-sides-with-clouding-to-the-lacquer-and-minor-surface-wear-the-natural-top-also-with-minor-surface-wear-Martin-hard-case-condition-good",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b1260916d8d300dbc4b4d0795db628a2198d63ab80c27b176f122c8.jpeg"
+            "source": "https://www.pinkvilla.com/entertainment/news/karan-johar-shares-another-lockdown-selfie-and-calls-it-justfie-reason-check-it-out-536838",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063acda00ab491046d820173ad2d13bf0fb07aafb30b0081ef6.jpeg"
         },
         {
-            "source": "https://www.ohguitar.com/product/furch-om23-ag-elite-cut-l-r-baggs-anthem-acoustic-guitar-hiscox-case-new/",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091c785553fe217576c5a0d1fff4273f60ffb290abe9f8454da.jpeg"
+            "source": "https://www.reddit.com/r/amiugly/comments/smsdb4/18_please_be_brutally_honest_am_i_ugly_long_story/",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b0638ae86aea8902084df9f57d2d250c5d622a07dd069239952b.jpeg"
         },
         {
-            "source": "https://www.dreamstime.com/top-view-acoustic-guitar-notebook-paper-pen-wood-background-copy-space-top-view-acoustic-guitar-notebook-paper-image159794328",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091380e802cca07d3fa613bec3611140a15606aee388f81f4d1.jpeg"
+            "source": "https://www.reddit.com/r/dankmemes/comments/845153/boys_be_ugly_now/",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b06341b086b4e3e03f200527a07714de44c90ce0260aefec1087.jpeg"
         },
         {
-            "source": "https://hub.yamaha.com/guitars/bass/how-to-set-up-your-bass/",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b1260913dc4d0e4b273df0a2debbcf708167f407d8ef408b3b011af.jpeg"
+            "source": "https://ifunny.co/picture/james-charles-gets-called-ugly-uHftLxX58",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b0632adade58f5092051fe11303bef8750e90b4af10d44387000.jpeg"
         },
         {
-            "source": "https://reverb.com/item/10556503-ventura-v-17-made-in-japan-12-string-acoustic-guitar",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091e59385e559cef039b83cdd8d794da16079c087c62e26a071.jpeg"
+            "source": "https://twitter.com/desiiless/status/1490459114832551943",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b0630a70d99467c752e22f26dfaa8c5b5e85a806c360dff9379c.jpeg"
         },
         {
-            "source": "https://www.wikihow.com/Change-Strings-on-an-Acoustic-Guitar",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091818de6f5981baee10db26b4bdf233dd95440472466894a0f.jpeg"
+            "source": "https://www.facebook.com/VT/videos/when-you-and-your-friends-have-a-secret-language/603267819845905/",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063ec59864622e98f895a28210c2e35ae07dc10fe8a9709c5f2.jpeg"
         },
         {
-            "source": "https://www.gatorcases.com/products/guitar/instrument-bassguitar/molded-guitar-cases/gc-guitar/bass-guitar-case-gc-bass/",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b1260918896ca7e56944ee54ada7306cddfdc0cde75036f9ae2cc35.jpeg"
+            "source": "https://www.reddit.com/r/memes/comments/f85jrl/posted_by_ugly_voice_gang/",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063860a8bb52d74a2aa3ef3f9913a9bdbd017630a36424799b6.jpeg"
         },
         {
-            "source": "https://www.carousell.sg/p/ibanez-acoustic-guitar-includes-bag-and-stand-1178398989/",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091f65185d4d285cdb5235c722badcd61cced79a96ae6d2f006.jpeg"
+            "source": "https://www.tiktok.com/discover/five-stages-of-ugly-kid",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063de4e92c7fc4b0107dd329b06659602a8b57811144f0fc3ac.jpeg"
         },
         {
-            "source": "https://www.aliexpress.com/item/10000000831669.html",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091a31998edfda049362b404e1d2b9620480160df9d20c4d86e.jpeg"
+            "source": "https://www.tiktok.com/discover/taking-a-selfie-with-my-friend-everyday?lang=en",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063cbcec91f9edc3fb2417031772fcb589da9d2ddae523f63c1.jpeg"
         },
         {
-            "source": "https://jiji.ng/ikeja/musical-instruments/professional-finlay-semi-acoustic-guitar-s8kdouz8YWtugFxVUR8w4JCf.html",
-            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091ceafaccae4cd24c8467859f4bb9c556d6f77c934c61cf84c.jpeg"
+            "source": "https://www.yahoo.com/lifestyle/alexandria-ocasio-cortez-boyfriend-riley-roberts-bin-raccoon-095928880.html",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b0639170f8359c6af7182d029e19ff71b66e6efe9f5fc8c73a76.jpeg"
+        },
+        {
+            "source": "https://ifunny.co/picture/if-you-ever-feel-ugly-just-remember-that-there-are-vTIZi79d6",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b0636e7f7bcd30e18e356accd3175a8916b9a2c911456e440cbb.jpeg"
+        },
+        {
+            "source": "https://ifunny.co/video/may-be-ugly-but-look-at-what-i-pulled-cf-DcpUOraK8",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063242cb73e9ce39442a614d11c84c452cdb0e70027a685b006.jpeg"
+        },
+        {
+            "source": "https://me.me/i/yesss-kill-yourself-your-so-ugly-hahahahaha-psychhom-me-when-5a3342383ad246cc9c82d944bd898eb7",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063c6200deef8184c6a2dee557cb2aac42e4444edde379ecedf.jpeg"
+        },
+        {
+            "source": "https://me.me/t/ugly",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b0639b5f2792ffa9b5c07a0ed8f354d93903d720d02454338838.jpeg"
+        },
+        {
+            "source": "https://www.meme-arsenal.com/en/create/template/709925",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b06307f11b0d0083b4732fb19efae0b0ff42ab91e48313713fed.jpeg"
+        },
+        {
+            "source": "https://ifunny.co/video/boys-this-is-your-sign-to-get-a-buzz-cut-SN2NruNd8",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b0635bdc926c7f03a403290fc891651f132132d4b3c884bbaaaa.jpeg"
+        },
+        {
+            "source": "https://www.reddit.com/r/comedyheaven/comments/emn0dt/normal_guy_selfie/",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063909e3202520c2deafa38f2b31c56c0f4154f96f08a4c5a4f.jpeg"
+        },
+        {
+            "source": "https://www.ranker.com/list/crying-selfies/whitneysmoore",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b0636bf76bc70ac05f9919c5c0cc09dce8f3a0c7dddbc8d56ed4.jpeg"
+        },
+        {
+            "source": "https://www.facebook.com/FourNine/videos/bleaching-a-buzz-cut/569811620093462/",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b06368cd7483ef4d8ce0823c6ed485a814838172fe4579d76851.jpeg"
+        },
+        {
+            "source": "https://www.lindaikejisblog.com/2019/7/i-look-better-than-your-ugly-mother-nigerian-transgender-miss-sahara-slams-american-man-who-called-her-a-dude.html",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063a39e7eb09163211a843063875f8e4ed8f7becdebc7c53f19.jpeg"
+        },
+        {
+            "source": "https://www.tiktok.com/discover/Ugly-Carter",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063f990c7a7a827f02737d3f7d569ade9221aa44633e1f32fb4.jpeg"
+        },
+        {
+            "source": "https://me.me/i/im-naked-under-the-vaaapppeee-selfie-thread-0b81db91c08447b097e8ddc71fb35f7f",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4740d039f8f9b063396a83c26c2f873ab1d0d214d656d8c98f63dc0e27bc76b1.jpeg"
         }
     ],
-    "inline_images_link": "https://www.google.com/search?tbs=simg:CAES-AEJ4rVjdSYdCfca7AELELCMpwgaOgo4CAQSFMM22CGGJMshyw6lPdYskD_1UB4MWGhrjVFMG2KPeWPzRZZBDbBoetzpf1wiKeoeYliAFMAQMCxCOrv4IGgoKCAgBEgSTbkXDDAsQne3BCRqMAQohCg1oeWJyaWQgZ3VpdGFy2qWI9gMMCgovbS8wZGxsYmtsCh0KC2Jhc3MgZ3VpdGFy2qWI9gMKCggvbS8wMTh2cwojCg9hY291c3RpYyBndWl0YXLapYj2AwwKCi9tLzA0MnZfZ3gKIwoPYmFyaXRvbmUgZ3VpdGFy2qWI9gMMCgovbS8wZHE2MzBrDA&q=hybrid+guitar&tbm=isch&sa=X&ved=2ahUKEwiXhoXt7dn5AhWxM1kFHdMsD_8QjJkEegQIDhAC",
-    "inline_images_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hybrid+guitar&tbm=isch&tbs=simg%3ACAES-AEJ4rVjdSYdCfca7AELELCMpwgaOgo4CAQSFMM22CGGJMshyw6lPdYskD_1UB4MWGhrjVFMG2KPeWPzRZZBDbBoetzpf1wiKeoeYliAFMAQMCxCOrv4IGgoKCAgBEgSTbkXDDAsQne3BCRqMAQohCg1oeWJyaWQgZ3VpdGFy2qWI9gMMCgovbS8wZGxsYmtsCh0KC2Jhc3MgZ3VpdGFy2qWI9gMKCggvbS8wMTh2cwojCg9hY291c3RpYyBndWl0YXLapYj2AwwKCi9tLzA0MnZfZ3gKIwoPYmFyaXRvbmUgZ3VpdGFy2qWI9gMMCgovbS8wZHE2MzBrDA",
+    "inline_images_link": "https://www.google.com/search?tbs=simg:CAESgAIJm7_1dOZZcdVIa9AELEKjU2AQaAghCDAsQsIynCBo6CjgIBBIUsz-oP9Ix2SmJAd0B0Q7-G4EX0BYaGsmJTyzWfyMUaMhrRd7TsnIjHOTl3Vbdz_1auIAUwBAwLEI6u_1ggaCgoICAESBHViw-4MCxCd7cEJGokBChsKCGJ1enogY3V02qWI9gMLCgkvbS8wMjFzd24KGwoIbGFuZ3VhZ2XapYj2AwsKCS9qLzJzaF95NAoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMKGAoGaHVtb3Vy2qWI9gMKCggvbS8wOWtxYwoaCgZzZWxmaWXapYj2AwwKCi9tLzBzZ2g1M3kM&q=buzz+cut&tbm=isch&sa=X&ved=2ahUKEwjkwqn2vN35AhXtD1kFHfb0D-cQjJkEegQIGhAC",
+    "inline_images_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=buzz+cut&tbm=isch&tbs=simg%3ACAESgAIJm7_1dOZZcdVIa9AELEKjU2AQaAghCDAsQsIynCBo6CjgIBBIUsz-oP9Ix2SmJAd0B0Q7-G4EX0BYaGsmJTyzWfyMUaMhrRd7TsnIjHOTl3Vbdz_1auIAUwBAwLEI6u_1ggaCgoICAESBHViw-4MCxCd7cEJGokBChsKCGJ1enogY3V02qWI9gMLCgkvbS8wMjFzd24KGwoIbGFuZ3VhZ2XapYj2AwsKCS9qLzJzaF95NAoXCgR1Z2x52qWI9gMLCgkvYS9iMGRncDMKGAoGaHVtb3Vy2qWI9gMKCggvbS8wOWtxYwoaCgZzZWxmaWXapYj2AwwKCi9tLzBzZ2g1M3kM",
     "knowledge_graph": {
-        "title": "Hybrid guitar",
+        "title": "Buzz cut",
         "header_images": [
             {
-                "image": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/bd052f90ed7aa46c64f85812af3119d39f556c55b1a3aa3d7e55f086f1b77d387839f3364f711f00.jpeg",
-                "source": "https://guitarsonmain.com/blogs/news/hybrid-guitars-1"
+                "image": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4275a8afc3c74c1d12aef04f8adac47e32230e9bc952eb2c351b4a90ef7903f37fb24cec6a153939.jpeg",
+                "source": "https://www.pinterest.com/pin/514888169903787167/"
             }
         ],
-        "image": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/bd052f90ed7aa46c64f85812af3119d345c2176d06abc2a3.jpeg",
-        "description": "A hybrid guitar is an electric guitar with the ability to produce a signal with the tonal quality of an acoustic guitar in addition to a typical electric signal from a magnetic pickup, allowing a wide tonal pallette.",
+        "image": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4275a8afc3c74c1d12aef04f8adac47e1e9a1104f0af60ee.jpeg",
+        "description": "A buzz cut, or wiffle cut, is a term that is used to refer to any of a variety of short hairstyles, especially where the length of hair is the same on all parts of the head.",
         "source": {
             "name": "Wikipedia",
-            "link": "https://en.wikipedia.org/wiki/Hybrid_guitar"
-        }
+            "link": "https://en.wikipedia.org/wiki/Buzz_cut"
+        },
+        "celebrities_buzz_cut": [
+            {
+                "name": "Natalie Portman",
+                "link": "https://www.google.com/search?q=Natalie+Portman&stick=H4sIAAAAAAAAAONgFuLUz9U3MDIsLs9T4gAxLXOMC7REspOt9JPzc3Pz86xS8svzyhOLUopXMXI7p-akJhVllmSmFi9i5fdLLEnMyUxVCMgvKslNzNvByggAVZM0YFAAAAA&sa=X&ved=2ahUKEwjkwqn2vN35AhXtD1kFHfb0D-cQxA16BAhDEAU",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_reverse_image&google_domain=google.com&image_url=http%3A%2F%2Fres.cloudinary.com%2Fodinsully%2Fimage%2Fupload%2Fv1661275339%2Fylvtjrh01zqicrgrudg0.jpg&q=Natalie+Portman",
+                "source": "common",
+                "image": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4275a8afc3c74c1d12aef04f8adac47e8f05a1b05c54380ea66dee91ca17d5293bfdb86f57584f850b426b66f83d6e10.jpeg"
+            },
+            {
+                "name": "Kristen Stewart",
+                "link": "https://www.google.com/search?q=Kristen+Stewart&stick=H4sIAAAAAAAAAONgFuLUz9U3MDIsLs9TAjPNi8vLkrREspOt9JPzc3Pz86xS8svzyhOLUopXMXI7p-akJhVllmSmFi9i5fcuyiwuSc1TCC5JBSoo2cHKCACjzbioUQAAAA&sa=X&ved=2ahUKEwjkwqn2vN35AhXtD1kFHfb0D-cQxA16BAhDEAc",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_reverse_image&google_domain=google.com&image_url=http%3A%2F%2Fres.cloudinary.com%2Fodinsully%2Fimage%2Fupload%2Fv1661275339%2Fylvtjrh01zqicrgrudg0.jpg&q=Kristen+Stewart",
+                "source": "common",
+                "image": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4275a8afc3c74c1d12aef04f8adac47e8f05a1b05c54380ea66dee91ca17d529665ebf2c5242447445d035016cad906f.jpeg"
+            },
+            {
+                "name": "Demi Moore",
+                "link": "https://www.google.com/search?q=Demi+Moore&stick=H4sIAAAAAAAAAONgFuLUz9U3MDIsLs9TAjMNLQty47VEspOt9JPzc3Pz86xS8svzyhOLUopXMXI7p-akJhVllmSmFi9i5XJJzc1U8M3PL0rdwcoIAFNzQZZMAAAA&sa=X&ved=2ahUKEwjkwqn2vN35AhXtD1kFHfb0D-cQxA16BAhDEAk",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_reverse_image&google_domain=google.com&image_url=http%3A%2F%2Fres.cloudinary.com%2Fodinsully%2Fimage%2Fupload%2Fv1661275339%2Fylvtjrh01zqicrgrudg0.jpg&q=Demi+Moore",
+                "source": "common",
+                "image": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4275a8afc3c74c1d12aef04f8adac47e8f05a1b05c54380ea66dee91ca17d52952c32eadd42b89f41bb1d289d1e88278.jpeg"
+            },
+            {
+                "name": "Cate Blanchett",
+                "link": "https://www.google.com/search?q=Cate+Blanchett&stick=H4sIAAAAAAAAAONgFuLUz9U3MDIsLs9TAjMNTU0Kc7VEspOt9JPzc3Pz86xS8svzyhOLUopXMXI7p-akJhVllmSmFi9i5XNOLElVcMpJzEvOSC0p2cHKCADjelqCUAAAAA&sa=X&ved=2ahUKEwjkwqn2vN35AhXtD1kFHfb0D-cQxA16BAhDEAs",
+                "serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google_reverse_image&google_domain=google.com&image_url=http%3A%2F%2Fres.cloudinary.com%2Fodinsully%2Fimage%2Fupload%2Fv1661275339%2Fylvtjrh01zqicrgrudg0.jpg&q=Cate+Blanchett",
+                "source": "common",
+                "image": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/4275a8afc3c74c1d12aef04f8adac47e8f05a1b05c54380ea66dee91ca17d529d54fd3224845a517966af0200a95092c.jpeg"
+            }
+        ],
+        "celebrities_buzz_cut_link": "https://www.google.com/search?q=Celebrities+Buzz+Cut&stick=H4sIAAAAAAAAAONgFuLUz9U3MDIsLs9TQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyO6fmpCYVZZZkphYvYhVB4ik4lVZVKTiXluxgZQQAoMxepFYAAAA&sa=X&ved=2ahUKEwjkwqn2vN35AhXtD1kFHfb0D-cQMSgAegQIQxAB",
+        "celebrities_buzz_cut_stick": "H4sIAAAAAAAAAONgFuLUz9U3MDIsLs9TQjC1RLKTrfST83Nz8_OsUvLL88oTi1KKVzFyO6fmpCYVZZZkphYvYhVB4ik4lVZVKTiXluxgZQQAoMxepFYAAAA"
     },
     "image_results": [
         {
             "position": 1,
-            "title": "Hybrid Guitars Co.",
-            "link": "https://hybrid-guitars.com/",
-            "displayed_link": "https://hybrid-guitars.com",
-            "snippet": "On a Hybrid guitar you can simultaneously play bass lines, chords, and melodies. It has the full range of a standard bass and guitar all on one instrument.",
+            "title": "20 Masculine Buzz Cut Examples + Tips & How To Cut Guide",
+            "link": "https://haircutinspiration.com/buzz-cut/",
+            "displayed_link": "https://haircutinspiration.com \u203a Men",
+            "date": "Jul 28, 2022",
+            "snippet": "Here's a surprise for you: \u201cbuzz cut\u201d actually refers to a family of haircuts. For a haircut to be a buzz cut, it has to be the same length all ...",
             "snippet_highlighted_words": [
-                "Hybrid guitar"
+                "buzz cut",
+                "buzz cut"
             ],
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:EzN4Cmb1CTAJ:https://hybrid-guitars.com/&cd=1&hl=en&ct=clnk&gl=us"
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:N6MILPkb-uoJ:https://haircutinspiration.com/buzz-cut/&cd=1&hl=en&ct=clnk&gl=us"
         },
         {
             "position": 2,
-            "title": "Hybrid Guitars | Michael Kelly Guitar Co.",
-            "link": "https://www.michaelkellyguitars.com/en/electric-guitars/hybrid",
-            "displayed_link": "https://www.michaelkellyguitars.com \u203a electric-guitars",
-            "snippet": "The Hybrid series is a collection of Michael Kelly models designed to allow you to switch from a powerful electric guitar to a full and rich acoustic guitar ...",
+            "title": "Buzz Cut Is The Best Way To Shave Your Head In Summer 2022",
+            "link": "https://menshaircuts.com/buzz-cut-types-guide/",
+            "displayed_link": "https://menshaircuts.com \u203a Short Haircuts",
+            "snippet": "A buzz cut is a general term used to describe a short army cut with an all-out even length, whereas a crew cut has a more defined silhouette and recognizable ...",
             "snippet_highlighted_words": [
-                "Hybrid",
-                "guitar",
-                "guitar"
+                "buzz cut"
             ],
-            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NatXv8_ejqYJ:https://www.michaelkellyguitars.com/en/electric-guitars/hybrid&cd=2&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?q=related:https://www.michaelkellyguitars.com/en/electric-guitars/hybrid&sa=X&ved=2ahUKEwiXhoXt7dn5AhWxM1kFHdMsD_8QH3oECAQQCQ"
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:axcGmprUx4kJ:https://menshaircuts.com/buzz-cut-types-guide/&cd=2&hl=en&ct=clnk&gl=us"
+        },
+        {
+            "position": 3,
+            "title": "Ontdek de populaire video's over Tate about woman - TikTok",
+            "link": "https://www.tiktok.com/discover/Tate-about-woman",
+            "displayed_link": "https://www.tiktok.com \u203a Discover",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/e1568514933bb5edf75ccc31edc75cc5d2b857aa831203821232519c7e176221.jpeg",
+            "image_resolution": "720 \u00d7 1280",
+            "snippet": "Ontdek korte video's gerelateerd aan Tate about woman op TikTok. Bekijk populaire content van de volgende makers: Andrew Tate talk(@andrewtatetalk), ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "\u00d7": 720
+                    },
+                    "extensions": [
+                        "720 \u00d7 1280 \u2014"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 4,
+            "title": "Tate about red flags of women. #andrewtate #succes ... - TikTok",
+            "link": "https://www.tiktok.com/@andrewtatetalk/video/7086437283515124997",
+            "displayed_link": "https://www.tiktok.com \u203a video",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/e1568514933bb5ed8738f9d00469011ed3ea09320db786c81b58b62610cf9e67.jpeg",
+            "snippet": "625 likes, 15 reacties. TikTok-video van Andrew Tate talk (@andrewtatetalk): \"Tate about red flags of women. #andrewtate #succes #discipline ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "\u00d7": 720,
+                        "apr": 14
+                    },
+                    "extensions": [
+                        "720 \u00d7 1280",
+                        "Apr 14, 2022 \u2014"
+                    ]
+                }
+            }
+        },
+        {
+            "position": 5,
+            "title": "D\u00e9couvre les vid\u00e9os populaires de Tate about of | TikTok",
+            "link": "https://www.tiktok.com/discover/Tate-about-of?lang=fr",
+            "displayed_link": "https://www.tiktok.com \u203a Discover \u203a Tate-about-of",
+            "thumbnail": "https://serpapi.com/searches/63050ccf5119a6912da6f18d/images/e1568514933bb5ed034f1bccd803b1417bc02b6475a6f4ee44888f44530aa00a.jpeg",
+            "snippet": "D\u00e9couvre des vid\u00e9os courtes en rapport avec Tate about of sur TikTok. Regarde du contenu populaire des cr\u00e9ateurs suivants : Andrew Tate ...",
+            "rich_snippet": {
+                "top": {
+                    "detected_extensions": {
+                        "\u00d7": 720,
+                        "apr": 14
+                    },
+                    "extensions": [
+                        "720 \u00d7 1280",
+                        "Apr 14, 2022 \u2014"
+                    ]
+                }
+            },
+            "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:euABMSaTN6YJ:https://www.tiktok.com/discover/Tate-about-of%3Flang%3Dfr&cd=44&hl=en&ct=clnk&gl=us"
         }
     ]
 }

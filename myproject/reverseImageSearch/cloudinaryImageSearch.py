@@ -5,6 +5,7 @@ import os
 import cloudinary
 import cloudinary.uploader
 from Transcripts import ytranscripts
+from Transcripts import TextCompare
 def searchAPI(image_url):
 
     #Reverse Image search: Google only
@@ -54,6 +55,9 @@ def searchAPI(image_url):
     aLink = results2['search_metadata']['youtube_url']
     webbrowser.open(aLink)
 
+
+    #Get speechtotext
+
     #Get all transcripts
     ytVideos = results2['video_results']
 
@@ -64,8 +68,21 @@ def searchAPI(image_url):
             
         except:
             with open('op.txt', 'w') as opf:
-                opf.write("ERROR")
+                opf.write("ERROR Error")
             print("Transcript ERROR")
+        
+        
+        # Compare the videos 
+        theVideoLink = video['link']
+        textComp = TextCompare.textCompare(r"C:\Users\Suleiman\Desktop\Flask_Prototype_Search_Algo_Project\myproject\op.txt", r"C:\Users\Suleiman\Desktop\Flask_Prototype_Search_Algo_Project\myproject\transcript.txt")
+
+        isMatch = textComp.compare()
+        if (isMatch):
+            print('MATCH FOUND')
+            webbrowser.open(theVideoLink)
+
+
+
         
 
             

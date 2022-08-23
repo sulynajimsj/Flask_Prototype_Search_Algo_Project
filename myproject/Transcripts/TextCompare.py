@@ -25,8 +25,11 @@ class textCompare:
         lst2 = self.split2.getWords()
         list1 = lst1 if len(lst1) <= len(lst2) else lst2
         list2 = lst2 if len(lst2) > len(lst1) else lst1
-        for i in range (len(list2)-1):
+        
+        for i in range (len(list2)-1-len(list1)):
             if (list1[1] == list2[i]):
+            
+
                 if (list1[0] != list2[i-1] and list1[2] != list2[i+1]):
                     continue
                 else:
@@ -38,5 +41,3 @@ class textCompare:
                         return (True)
         return(False)
 
-comp = textCompare(r"C:\Users\james\Documents\app\textCompare\demo1.txt", r"C:\Users\james\Documents\app\textCompare\demo2.txt")
-print(comp.compare())

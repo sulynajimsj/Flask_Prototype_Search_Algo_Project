@@ -4,6 +4,8 @@ from videoProcessing import gettingFrames
 from reverseImageSearch import cloudinaryImageSearch
 from myCloudinary import cloudinaryConfig
 from scraping import scrape
+from speechToText import transcribe
+
 import os
 import shutil, sys 
 
@@ -244,10 +246,21 @@ def my_form_post():
             print(filename)
             break
             
-
+    
+    # Get the transcipt from instagram video
+    transcribe.speechToText("5086f7f974ef468cb4c631b7b188f8ac", f"{short_link}/{filename}")
+    
     
     gettingFrames.processVideo(f"{short_link}/{filename}")
     imageUrls = cloudinaryImageSearch.inputImages('frames')
     print(imageUrls)
+
+    
+
+
     shutil.rmtree(short_link)
+
+    
+
+
     return render_template('index.html')
