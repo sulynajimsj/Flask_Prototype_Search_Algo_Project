@@ -1,17 +1,17 @@
 {
     "search_metadata": {
-        "id": "630118e12f542e232eb740a8",
+        "id": "6303273e2e7d6b2f22b76221",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/3a9491da0ead816a/630118e12f542e232eb740a8.json",
-        "created_at": "2022-08-20 17:24:49 UTC",
-        "processed_at": "2022-08-20 17:24:49 UTC",
-        "google_reverse_image_url": "https://www.google.com/searchbyimage?q=&image_url=http://res.cloudinary.com/odinsully/image/upload/v1661016288/m2a0qyqydlxudcchwm5f.jpg",
-        "raw_html_file": "https://serpapi.com/searches/3a9491da0ead816a/630118e12f542e232eb740a8.html",
-        "total_time_taken": 1.68
+        "json_endpoint": "https://serpapi.com/searches/83e31cd5af48d268/6303273e2e7d6b2f22b76221.json",
+        "created_at": "2022-08-22 06:50:38 UTC",
+        "processed_at": "2022-08-22 06:50:38 UTC",
+        "google_reverse_image_url": "https://www.google.com/searchbyimage?q=&image_url=http://res.cloudinary.com/odinsully/image/upload/v1661151038/pq9oemzap4p2kppkbicr.jpg",
+        "raw_html_file": "https://serpapi.com/searches/83e31cd5af48d268/6303273e2e7d6b2f22b76221.html",
+        "total_time_taken": 1.51
     },
     "search_parameters": {
         "engine": "google_reverse_image",
-        "image_url": "http://res.cloudinary.com/odinsully/image/upload/v1661016288/m2a0qyqydlxudcchwm5f.jpg",
+        "image_url": "http://res.cloudinary.com/odinsully/image/upload/v1661151038/pq9oemzap4p2kppkbicr.jpg",
         "google_domain": "google.com",
         "device": "desktop"
     },
@@ -19,117 +19,129 @@
         "organic_results_state": "Results for exact spelling",
         "query_displayed": "hybrid guitar",
         "total_results": 2,
-        "time_taken_displayed": 0.64
+        "time_taken_displayed": 0.78
     },
     "inline_images": [
         {
-            "source": "https://audioassemble.com/best-acoustic-guitar-vst/",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e59002dfeb5d87db5d437fc340b954d5e4ca5de777170f802.jpeg"
+            "source": "https://lindoguitars.com/product/lindo-shark-electro-acoustic-guitar-blue/",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091e193eda59dfa36c985c5192b72e025d93be40d0648eeb56a.jpeg"
         },
         {
-            "source": "https://www.stringvibe.com/acoustic-guitar-songs-for-beginners/",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e87edac72fc7f9a7dd10ce1e2df976df95a33ecf65ae6114a.jpeg"
+            "source": "https://killerguitarrigs.com/how-to-restring-an-acoustic-guitar/",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091132c1d8a017869ba39f401d5cdbf4c1c09df12012a662f78.jpeg"
         },
         {
-            "source": "https://musiciantuts.com/acoustic-guitar-songs/",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e92224ec352108439a4f3baeb51491f375ddde806faa5c8c0.jpeg"
+            "source": "https://www.researchgate.net/figure/Tuning-Pegs-of-an-Acoustic-Guitar_fig5_45888076",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b12609173498ec71ac6932844e0d08aa989598c67cfec3b9784101d.jpeg"
         },
         {
-            "source": "https://unsplash.com/photos/VY0XY_DNwqc",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e13f22d48be3169864702a04bfe76b9a2c252f79b2befa6e3.jpeg"
+            "source": "https://www.canstockphoto.com/headstock-of-acoustic-guitar-43450316.html",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091c50a82031d43bf9c866d92aa5b624d5a99f9e7486d166eaa.jpeg"
         },
         {
-            "source": "https://beginnerguitarhq.com/jasmine-s35/",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e02c62f7da0f5ceff92c2e5cde2b0758d67a2418a968f27ee.jpeg"
+            "source": "https://www.guitaroctave.com/item/yamaha-fs100c-bk/",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b12609196235fa93f5e7ec4034ac2ca41731fab7723645cf56d868e.jpeg"
         },
         {
-            "source": "https://acousticguitar.com/ask-the-expert-understanding-scale-length/",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7ed0491f8d4235e33d7915f44532fe6e8af03556eb7e7793b8.jpeg"
+            "source": "https://www.guitaroctave.com/item/axe-ag-48c-n-pure-acoustic-guitar/",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b1260919929d9340ed4a23bbd1fbb99a5a6b70a5434be58fce30987.jpeg"
         },
         {
-            "source": "https://www.youtube.com/watch?v=UgsN_HOjV2c",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e8adec0d3b8b09df383c9ae859e98fec641ec30d189363154.jpeg"
+            "source": "https://www.guitarsuperstore.com/guild-f-2512e-maple-12-string-electro-acoustic-guitar-5818-p.asp",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091bc9cf0cc775dc9d0921f70be84b64153c777ac2eee65003b.jpeg"
         },
         {
-            "source": "https://www.ebay.com/b/Martin-Acoustic-Guitars/33021/bn_3119305",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7eb44c5d32133033808e18465127603c8f8bebb42b781ccfdd.jpeg"
+            "source": "https://candivintagesounds.com/product/vintage-kent-acoustic-guitar/",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091d54c195e25fe891aa24e2b8fe86f2acf7a6efce42e090081.jpeg"
         },
         {
-            "source": "https://www.waves.com/how-to-record-acoustic-guitar-at-home",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7ea25fb43303444a7fa8907df812e496698deab0bc6f04f4eb.jpeg"
+            "source": "https://www.musicradar.com/news/guitars/seven-altered-tunings-for-acoustic-guitar-584145",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091b42c0f259b6e1f2d66ad26e71de111e7e73b4ad0e2df7667.jpeg"
         },
         {
-            "source": "https://www.lrbaggs.com/acoustic-guitar-pickup-systems/session-vtc",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e78f74d934e4df2f4f07ee41a3fc9506b6a95a33ce54fd331.jpeg"
+            "source": "https://www.amazon.com/Fender-CD-60-Dreadnought-Acoustic-Guitar/dp/B07Q465G13",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091ffa6d80e3bca319193d420d5d8da08e8ca0fe6e6fa39c282.jpeg"
         },
         {
-            "source": "https://www.guitarworld.com/gear/best-acoustic-guitar-strings",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e94781036910adb5da837a502d19a75bc25b820e5255d5d99.jpeg"
+            "source": "https://www.guitaroctave.com/item/sqoe-sq-ec-fg-acoustic-guitar-bd/",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b1260913be97705bf6644e8818a644162d31b4b20cec9f0f532cd4f.jpeg"
         },
         {
-            "source": "https://www.shutterstock.com/search/bass-guitar",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e82c3e269475511e640ddbd076070e43219baa92482327fad.jpeg"
+            "source": "https://www.amazon.co.uk/Single-Cutaway-Electro-Acoustic-Gear4music/dp/B00125XIBK",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b12609125755bdcff7db0eb4f429848177eaaac951694a17dc8f429.jpeg"
         },
         {
-            "source": "https://www.freepik.com/premium-photo/classical-guitar-black-background-acoustic-guitar-conceptperfect-flyer-card-poster-wallpaper_24078347.htm",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e51d548ae25f185fd1f466f2ce47d6a35253a4eef9d153a8d.jpeg"
+            "source": "https://www.ukuleleplanet.net/best-acoustic-guitar-pick-ups/",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b12609167584412af7f0c1782d529a8b4095a145d0cb04d3225f772.jpeg"
         },
         {
-            "source": "https://www.lrbaggs.com/acoustic-guitar-pickup-systems/anthem",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e4ee42de9def930209d73fc9458a25fabdec4ffc0f66c1461.jpeg"
+            "source": "https://www.shutterstock.com/search/acoustic-guitar-perspective",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091963a4118d5f1bd34c65543f5246fe4ded8fcb8926f0a23c4.jpeg"
         },
         {
-            "source": "https://acousticguitar.com/learn-to-play-in-dropped-d-tuning/",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e81ec5ae1c5efd3ec3da140a406fc02cd85fd7d0ac467cf7a.jpeg"
+            "source": "https://jiji.ng/ikeja/musical-instruments/black-dame-acoustic-guitar-i1C8qmA6fAWTCfPgdVCp8YUR.html",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091be7604fbcca3d7f68d1dfdefd8101c1607e7bfc2bf8dd989.jpeg"
         },
         {
-            "source": "https://americansongwriter.com/gear-guides/best-beginner-acoustic-guitar-bridge/",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7ef6e429cbe6f1ed15cc5a6da5cab4f5b202bc86dabaa0ce50.jpeg"
+            "source": "https://www.guitaroctave.com/item/fender-cc-60s-guitar-bd/",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091ae6975a4ce9fe9c67ce152b70fbb1131db5559a2cb31573b.jpeg"
         },
         {
-            "source": "https://www.ebay.co.uk/b/Acoustic-Bass-Guitar-Bass-Guitars/4713/bn_75642524",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e96fc50cc083a593867288b7e55a31df0581ec872262ee157.jpeg"
+            "source": "https://www.ebay.com/p/137019949",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b1260915e6eee8f2bbaf0740654cfe37f2e3779cfc9995d7ec9b80b.jpeg"
         },
         {
-            "source": "https://www.amazon.com/Beginner-Classical-Acoustic-Guitar-Traditional/dp/B07NVWXTQQ",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e11c00bf9d66d4c7eda4ba1327ef5992c8a58f4d9daa91032.jpeg"
+            "source": "https://www.guitar-auctions.co.uk/sale/158/49/1991-Martin-D28S-acoustic-guitar-made-in-USA-ser-no-5xxxx4-Indian-rosewood-back-and-sides-with-clouding-to-the-lacquer-and-minor-surface-wear-the-natural-top-also-with-minor-surface-wear-Martin-hard-case-condition-good",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b1260916d8d300dbc4b4d0795db628a2198d63ab80c27b176f122c8.jpeg"
         },
         {
-            "source": "https://theproaudiofiles.com/8-things-to-consider-for-recording-acoustic-guitar/",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e71f577285802e79e3c1196ff2cdd3ca5bd15e76b4559a159.jpeg"
+            "source": "https://www.ohguitar.com/product/furch-om23-ag-elite-cut-l-r-baggs-anthem-acoustic-guitar-hiscox-case-new/",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091c785553fe217576c5a0d1fff4273f60ffb290abe9f8454da.jpeg"
         },
         {
-            "source": "https://musicplayers.com/2022/03/taylor-524ce-acoustic-guitar/",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e4c913c58cd94bf2155a3b03627f9d66af1b5066b5a41a5ba.jpeg"
+            "source": "https://www.dreamstime.com/top-view-acoustic-guitar-notebook-paper-pen-wood-background-copy-space-top-view-acoustic-guitar-notebook-paper-image159794328",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091380e802cca07d3fa613bec3611140a15606aee388f81f4d1.jpeg"
         },
         {
-            "source": "https://www.vector4free.com/free-vectors/acoustic-guitar",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e7be2963be8573fabb3fd2c47f828ab1957499ac5079851d7.jpeg"
+            "source": "https://hub.yamaha.com/guitars/bass/how-to-set-up-your-bass/",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b1260913dc4d0e4b273df0a2debbcf708167f407d8ef408b3b011af.jpeg"
         },
         {
-            "source": "https://unsplash.com/photos/VY0XY_DNwqc",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7eecb38fc43dc439dca4d919dcac824305dfb3f3eb0fe88f23.jpeg"
+            "source": "https://reverb.com/item/10556503-ventura-v-17-made-in-japan-12-string-acoustic-guitar",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091e59385e559cef039b83cdd8d794da16079c087c62e26a071.jpeg"
         },
         {
-            "source": "https://spinditty.com/instruments-gear/the-best-acoustic-guitar-for-beginners-top-5",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e372bbac82519ef16e7edcfcc8c841303ec2e48b55a62c080.jpeg"
+            "source": "https://www.wikihow.com/Change-Strings-on-an-Acoustic-Guitar",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091818de6f5981baee10db26b4bdf233dd95440472466894a0f.jpeg"
         },
         {
-            "source": "https://www.lrbaggs.com/acoustic-guitar-pickup-systems",
-            "thumbnail": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/4e91e8ec76ea1f7e2facefdf22d377460e62ac53878551f85157098bc07d3497.jpeg"
+            "source": "https://www.gatorcases.com/products/guitar/instrument-bassguitar/molded-guitar-cases/gc-guitar/bass-guitar-case-gc-bass/",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b1260918896ca7e56944ee54ada7306cddfdc0cde75036f9ae2cc35.jpeg"
+        },
+        {
+            "source": "https://www.carousell.sg/p/ibanez-acoustic-guitar-includes-bag-and-stand-1178398989/",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091f65185d4d285cdb5235c722badcd61cced79a96ae6d2f006.jpeg"
+        },
+        {
+            "source": "https://www.aliexpress.com/item/10000000831669.html",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091a31998edfda049362b404e1d2b9620480160df9d20c4d86e.jpeg"
+        },
+        {
+            "source": "https://jiji.ng/ikeja/musical-instruments/professional-finlay-semi-acoustic-guitar-s8kdouz8YWtugFxVUR8w4JCf.html",
+            "thumbnail": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/02665a141b126091ceafaccae4cd24c8467859f4bb9c556d6f77c934c61cf84c.jpeg"
         }
     ],
-    "inline_images_link": "https://www.google.com/search?tbs=simg:CAESnQIJLYjAuQ1LWZwakQILELCMpwgaOgo4CAQSFMM2-BXZLqUb1zCfINgh9RCrLswGGhpVk1go1zzpy2yTAT-ydMQ0SaRso5XXHp7WpiAFMAQMCxCOrv4IGgoKCAgBEgRCEV33DAsQne3BCRqxAQohCg1oeWJyaWQgZ3VpdGFy2qWI9gMMCgovbS8wZGxsYmtsCiMKD2luc3RydW1lbnRhbGlzdNqliPYDDAoKL20vMGh6azMweAodCgtiYXNzIGd1aXRhctqliPYDCgoIL20vMDE4dnMKIwoPYWNvdXN0aWMgZ3VpdGFy2qWI9gMMCgovbS8wNDJ2X2d4CiMKD2Jhcml0b25lIGd1aXRhctqliPYDDAoKL20vMGRxNjMwaww&q=hybrid+guitar&tbm=isch&sa=X&ved=2ahUKEwis7bfv99X5AhWXoWoFHbe8Br0QjJkEegQIDhAC",
-    "inline_images_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hybrid+guitar&tbm=isch&tbs=simg%3ACAESnQIJLYjAuQ1LWZwakQILELCMpwgaOgo4CAQSFMM2-BXZLqUb1zCfINgh9RCrLswGGhpVk1go1zzpy2yTAT-ydMQ0SaRso5XXHp7WpiAFMAQMCxCOrv4IGgoKCAgBEgRCEV33DAsQne3BCRqxAQohCg1oeWJyaWQgZ3VpdGFy2qWI9gMMCgovbS8wZGxsYmtsCiMKD2luc3RydW1lbnRhbGlzdNqliPYDDAoKL20vMGh6azMweAodCgtiYXNzIGd1aXRhctqliPYDCgoIL20vMDE4dnMKIwoPYWNvdXN0aWMgZ3VpdGFy2qWI9gMMCgovbS8wNDJ2X2d4CiMKD2Jhcml0b25lIGd1aXRhctqliPYDDAoKL20vMGRxNjMwaww",
+    "inline_images_link": "https://www.google.com/search?tbs=simg:CAES-AEJ4rVjdSYdCfca7AELELCMpwgaOgo4CAQSFMM22CGGJMshyw6lPdYskD_1UB4MWGhrjVFMG2KPeWPzRZZBDbBoetzpf1wiKeoeYliAFMAQMCxCOrv4IGgoKCAgBEgSTbkXDDAsQne3BCRqMAQohCg1oeWJyaWQgZ3VpdGFy2qWI9gMMCgovbS8wZGxsYmtsCh0KC2Jhc3MgZ3VpdGFy2qWI9gMKCggvbS8wMTh2cwojCg9hY291c3RpYyBndWl0YXLapYj2AwwKCi9tLzA0MnZfZ3gKIwoPYmFyaXRvbmUgZ3VpdGFy2qWI9gMMCgovbS8wZHE2MzBrDA&q=hybrid+guitar&tbm=isch&sa=X&ved=2ahUKEwiXhoXt7dn5AhWxM1kFHdMsD_8QjJkEegQIDhAC",
+    "inline_images_serpapi_link": "https://serpapi.com/search.json?device=desktop&engine=google&google_domain=google.com&q=hybrid+guitar&tbm=isch&tbs=simg%3ACAES-AEJ4rVjdSYdCfca7AELELCMpwgaOgo4CAQSFMM22CGGJMshyw6lPdYskD_1UB4MWGhrjVFMG2KPeWPzRZZBDbBoetzpf1wiKeoeYliAFMAQMCxCOrv4IGgoKCAgBEgSTbkXDDAsQne3BCRqMAQohCg1oeWJyaWQgZ3VpdGFy2qWI9gMMCgovbS8wZGxsYmtsCh0KC2Jhc3MgZ3VpdGFy2qWI9gMKCggvbS8wMTh2cwojCg9hY291c3RpYyBndWl0YXLapYj2AwwKCi9tLzA0MnZfZ3gKIwoPYmFyaXRvbmUgZ3VpdGFy2qWI9gMMCgovbS8wZHE2MzBrDA",
     "knowledge_graph": {
         "title": "Hybrid guitar",
         "header_images": [
             {
-                "image": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/261305cb09fca14b7b4eb8b8d4dc81745865084f5dda29db84c46f01ff8b3dc4847305310f466432.jpeg",
+                "image": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/bd052f90ed7aa46c64f85812af3119d39f556c55b1a3aa3d7e55f086f1b77d387839f3364f711f00.jpeg",
                 "source": "https://guitarsonmain.com/blogs/news/hybrid-guitars-1"
             }
         ],
-        "image": "https://serpapi.com/searches/630118e12f542e232eb740a8/images/261305cb09fca14b7b4eb8b8d4dc8174cec30e6c13f97e31.jpeg",
+        "image": "https://serpapi.com/searches/6303273e2e7d6b2f22b76221/images/bd052f90ed7aa46c64f85812af3119d345c2176d06abc2a3.jpeg",
         "description": "A hybrid guitar is an electric guitar with the ability to produce a signal with the tonal quality of an acoustic guitar in addition to a typical electric signal from a magnetic pickup, allowing a wide tonal pallette.",
         "source": {
             "name": "Wikipedia",
@@ -160,7 +172,7 @@
                 "guitar"
             ],
             "cached_page_link": "https://webcache.googleusercontent.com/search?q=cache:NatXv8_ejqYJ:https://www.michaelkellyguitars.com/en/electric-guitars/hybrid&cd=2&hl=en&ct=clnk&gl=us",
-            "related_pages_link": "https://www.google.com/search?q=related:https://www.michaelkellyguitars.com/en/electric-guitars/hybrid&sa=X&ved=2ahUKEwis7bfv99X5AhWXoWoFHbe8Br0QH3oECAQQCQ"
+            "related_pages_link": "https://www.google.com/search?q=related:https://www.michaelkellyguitars.com/en/electric-guitars/hybrid&sa=X&ved=2ahUKEwiXhoXt7dn5AhWxM1kFHdMsD_8QH3oECAQQCQ"
         }
     ]
 }

@@ -1,20 +1,20 @@
 {
     "search_metadata": {
-        "id": "630118c7c640d280e5f9e1c6",
+        "id": "630321677d171a75186b9573",
         "status": "Success",
-        "json_endpoint": "https://serpapi.com/searches/63dc9856f3b66cef/630118c7c640d280e5f9e1c6.json",
-        "created_at": "2022-08-20 17:24:23 UTC",
-        "processed_at": "2022-08-20 17:24:23 UTC",
+        "json_endpoint": "https://serpapi.com/searches/ffa90363b9653189/630321677d171a75186b9573.json",
+        "created_at": "2022-08-22 06:25:43 UTC",
+        "processed_at": "2022-08-22 06:25:43 UTC",
         "youtube_url": "https://www.youtube.com/results?search_query=Hybrid+Guitars+%7C+Michael+Kelly+Guitar+Co.",
-        "raw_html_file": "https://serpapi.com/searches/63dc9856f3b66cef/630118c7c640d280e5f9e1c6.html",
-        "total_time_taken": 1.12
+        "raw_html_file": "https://serpapi.com/searches/ffa90363b9653189/630321677d171a75186b9573.html",
+        "total_time_taken": 1.29
     },
     "search_parameters": {
         "engine": "youtube",
         "search_query": "Hybrid Guitars | Michael Kelly Guitar Co."
     },
     "search_information": {
-        "total_results": 4812,
+        "total_results": 4790,
         "video_results_state": "Results for exact spelling"
     },
     "video_results": [
@@ -29,61 +29,18 @@
                 "thumbnail": "https://yt3.ggpht.com/8RZ8TiiWwHz8scWhDHoyXqeyRwZ2TubpaMgUB40LE1BqCpLX0tV4F7LpkYNTtFalyJU_5vh3Iw=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "7 months ago",
-            "views": 14324,
+            "views": 14359,
             "length": "12:51",
             "description": "This is a review of the Michael Kelly Hybrid Special electric/acoustic guitar. A massive thanks to DI Music in Australia for the loan\u00a0...",
             "extensions": [
                 "4K"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/rWyB0xvhdP8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAlajOfsK8Lb4itviujci8Cu8D7DQ",
-                "rich": "https://i.ytimg.com/an_webp/rWyB0xvhdP8/mqdefault_6s.webp?du=3000&sqp=CNOkhJgG&rs=AOn4CLBIBuVaksIglAHxiqQu0JdZetZUJg"
+                "static": "https://i.ytimg.com/vi/rWyB0xvhdP8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAnbSw54ESMTuOx3j--WGs0iPLdIw"
             }
         },
         {
             "position_on_page": 2,
-            "title": "Hybrid 60 Port | Michael Kelly Guitars",
-            "link": "https://www.youtube.com/watch?v=ftklbc6NUF4",
-            "channel": {
-                "name": "Michael Kelly Guitars",
-                "link": "https://www.youtube.com/c/MichaelKellyGuitarsCo",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8nGdz5wYUwKSuL-QXbUljfOjNoJwL3PUq4Jae3=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "1 month ago",
-            "views": 1469,
-            "length": "0:59",
-            "description": "This video shows a few of the sounds you cab get from the Michael Kelly Guitars Hybrid 60 Port. Shown here in Transparent Blue\u00a0...",
-            "extensions": [
-                "4K"
-            ],
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/ftklbc6NUF4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDN7RXfOFFs5r7srb6xr0PMXYYZlg",
-                "rich": "https://i.ytimg.com/an_webp/ftklbc6NUF4/mqdefault_6s.webp?du=3000&sqp=CIyfhJgG&rs=AOn4CLDsh4aZYPMYU13UCGXnLFHJHBt4ow"
-            }
-        },
-        {
-            "position_on_page": 3,
-            "title": "Hybrid 55T | Michael Kelly Guitars",
-            "link": "https://www.youtube.com/watch?v=-PbewUPzFx4",
-            "channel": {
-                "name": "Michael Kelly Guitars",
-                "link": "https://www.youtube.com/c/MichaelKellyGuitarsCo",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8nGdz5wYUwKSuL-QXbUljfOjNoJwL3PUq4Jae3=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "1 month ago",
-            "views": 1362,
-            "length": "7:23",
-            "description": "Iconic electric guitar tones. Authentic acoustic guitar sounds. The Hybrid 55T is a versatile instrument that does it all with the flip of\u00a0...",
-            "extensions": [
-                "4K"
-            ],
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/-PbewUPzFx4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDXnBPzNrUNx9nopLDkHGgPFWcDrA",
-                "rich": "https://i.ytimg.com/an_webp/-PbewUPzFx4/mqdefault_6s.webp?du=3000&sqp=CNrmg5gG&rs=AOn4CLAuciR7J0fgn2IW35bO2J2RbYVwtw"
-            }
-        },
-        {
-            "position_on_page": 4,
             "title": "Michael Kelly Hybrid - Honest Review - Spalted Maple Tone Factory!",
             "link": "https://www.youtube.com/watch?v=_GSxXpUNbXI",
             "channel": {
@@ -92,34 +49,15 @@
                 "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9ZIOk6_ruSnMdOG-PSYhaTg-NvdEB7dXdmapC9Pg=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "1 year ago",
-            "views": 12148,
+            "views": 12175,
             "length": "11:04",
             "description": "This guitar has been around for awhile and I was happy to get a chance to try out all the different tone options on this.",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/_GSxXpUNbXI/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAjrgJrb_fjrVJSAh834M6PtrikMw",
-                "rich": "https://i.ytimg.com/an_webp/_GSxXpUNbXI/mqdefault_6s.webp?du=3000&sqp=CJqbhJgG&rs=AOn4CLBjxOsvtB37BXrX_SgxsQB8AuUrSQ"
+                "static": "https://i.ytimg.com/vi/_GSxXpUNbXI/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBWQWU7N_obTD8E_822h3bHzN5ZZQ"
             }
         },
         {
-            "position_on_page": 5,
-            "title": "I've Never Had A Guitar Like THIS",
-            "link": "https://www.youtube.com/watch?v=3DsPjknyZzM",
-            "channel": {
-                "name": "Lucas Fowler",
-                "link": "https://www.youtube.com/c/LucasFowler",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu92rwUQbHoxn23tLL9lsAUTYylTB-T1t0f8IXYp5A=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "10 months ago",
-            "views": 5015,
-            "length": "13:16",
-            "description": "Michael Kelly Hybrid Special: https://www.michaelkellyguitars.com/pl/products/view/hybrid-special-1 Follow me:\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/3DsPjknyZzM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAQh39G--0xzeibhYuO6mBI_VkRfg",
-                "rich": "https://i.ytimg.com/an_webp/3DsPjknyZzM/mqdefault_6s.webp?du=3000&sqp=CNSwhJgG&rs=AOn4CLC9I0hCEWfu8RXUWznwu_tvSSVSCA"
-            }
-        },
-        {
-            "position_on_page": 6,
+            "position_on_page": 3,
             "title": "Michael Kelly 60 Forte Port GUITAR (Hybrid Acoustic Electric demo)",
             "link": "https://www.youtube.com/watch?v=a5OPbzIuTdo",
             "channel": {
@@ -128,12 +66,68 @@
                 "thumbnail": "https://yt3.ggpht.com/HbmDBz4X7ftI4nNci8fVSQd_6MkcAkDVrXLxnk_yIr6Oiayoj9rrF0Mmv3UgCJ2vcT2ksHW8gw=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "5 months ago",
-            "views": 979,
+            "views": 981,
             "length": "15:54",
             "description": "I've always been interested in the mix of Acoustic and electric tones. The more an acoustic can feel a bit more like an electric,\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/a5OPbzIuTdo/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBGK_3xJncwcj2VPV1eGTditx8qpQ",
-                "rich": "https://i.ytimg.com/an_webp/a5OPbzIuTdo/mqdefault_6s.webp?du=3000&sqp=CNiFhJgG&rs=AOn4CLC7ne6mF9whKPUGz00zqcxyvlsAzA"
+                "static": "https://i.ytimg.com/vi/a5OPbzIuTdo/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDxtdFNgZRH_zh7LBFiwOW8zABLog"
+            }
+        },
+        {
+            "position_on_page": 4,
+            "title": "Hybrid Special - Video Owner's Manual",
+            "link": "https://www.youtube.com/watch?v=LPZ3atmqvZg",
+            "channel": {
+                "name": "Michael Kelly Guitars",
+                "link": "https://www.youtube.com/c/MichaelKellyGuitarsCo",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8nGdz5wYUwKSuL-QXbUljfOjNoJwL3PUq4Jae3=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "7 years ago",
+            "views": 38176,
+            "length": "9:14",
+            "description": "The Michael Kelly Hybrid Special combines both a great electric guitar tone with a wonderful acoustic guitar tone. This video is for\u00a0...",
+            "extensions": [
+                "CC"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/LPZ3atmqvZg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDlBRyMKMMtvSw8xItUG4PxBIRuIQ"
+            }
+        },
+        {
+            "position_on_page": 5,
+            "title": "Hybrid 55T | Michael Kelly Guitars",
+            "link": "https://www.youtube.com/watch?v=-PbewUPzFx4",
+            "channel": {
+                "name": "Michael Kelly Guitars",
+                "link": "https://www.youtube.com/c/MichaelKellyGuitarsCo",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8nGdz5wYUwKSuL-QXbUljfOjNoJwL3PUq4Jae3=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 month ago",
+            "views": 1385,
+            "length": "7:23",
+            "description": "Iconic electric guitar tones. Authentic acoustic guitar sounds. The Hybrid 55T is a versatile instrument that does it all with the flip of\u00a0...",
+            "extensions": [
+                "4K"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/-PbewUPzFx4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCFnM192P_8gjtUNkOHXPsxBoTRaA"
+            }
+        },
+        {
+            "position_on_page": 6,
+            "title": "Michael Kelly Guitar Model 55 | A Closeup Inside and Out Review with Playing | Tony Mckenzie",
+            "link": "https://www.youtube.com/watch?v=68cinI31xJk",
+            "channel": {
+                "name": "tonymckenziecom",
+                "link": "https://www.youtube.com/c/tonymckenziecom",
+                "thumbnail": "https://yt3.ggpht.com/s4iirw9TmpdTRdolpmRNKGyGiPPM1y0rfwcDb0mVe6ZkBYXHUuhiZ7alwdE-q_-PkFJ-34U8NQ=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "7 years ago",
+            "views": 58729,
+            "length": "33:37",
+            "description": "Find out the surprising results of this Michael Kelly 55 guitar and exactly what you get for the money. Michael Kelly guitars have\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/68cinI31xJk/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLB20NSgJcBjgGaSFb0G0mw-TYUAww"
             }
         },
         {
@@ -146,36 +140,31 @@
                 "thumbnail": "https://yt3.ggpht.com/2qe8TaCLj6PZvwbkGa1saTkSfverRmpy2QsKex0ONOmz5YqCj4PGPaE_tIIBbguG2PBGJ6z-=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "2 years ago",
-            "views": 22281,
+            "views": 22301,
             "length": "13:50",
             "description": "This is the Michael Kelly Hybrid Special!",
             "extensions": [
                 "4K"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/qMNDUXexktg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC1JCEti86W5gZZ0HXqeWRWIiJVnw",
-                "rich": "https://i.ytimg.com/an_webp/qMNDUXexktg/mqdefault_6s.webp?du=3000&sqp=CNifhJgG&rs=AOn4CLBxTOEGqf-YsKAsT8Ku7H3VAklCEw"
+                "static": "https://i.ytimg.com/vi/qMNDUXexktg/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBGJ5_WLltNK_ow03jtBVYmwOCNdw"
             }
         },
         {
             "position_on_page": 8,
-            "title": "Hybrid Special - Video Owner's Manual",
-            "link": "https://www.youtube.com/watch?v=LPZ3atmqvZg",
+            "title": "Michael Kelly Hybrid Special, Electric Guitar with Acoustic Sounds",
+            "link": "https://www.youtube.com/watch?v=kiujVmbvgOw",
             "channel": {
                 "name": "Michael Kelly Guitars",
                 "link": "https://www.youtube.com/c/MichaelKellyGuitarsCo",
                 "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8nGdz5wYUwKSuL-QXbUljfOjNoJwL3PUq4Jae3=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "7 years ago",
-            "views": 38160,
-            "length": "9:14",
-            "description": "The Michael Kelly Hybrid Special combines both a great electric guitar tone with a wonderful acoustic guitar tone. This video is for\u00a0...",
-            "extensions": [
-                "CC"
-            ],
+            "views": 55146,
+            "length": "3:33",
+            "description": "Our Michael Kelly Hybrid Special guitar remains in high demand. It is a special instrument because it combines both a great\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/LPZ3atmqvZg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAfyeNkYVeK58TDG6mTdg0D0ubYUA",
-                "rich": "https://i.ytimg.com/an_webp/LPZ3atmqvZg/mqdefault_6s.webp?du=3000&sqp=COimhJgG&rs=AOn4CLBzxgQqE9lFFJ8GHdIQxn1aiS6u4Q"
+                "static": "https://i.ytimg.com/vi/kiujVmbvgOw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBlUUf6XHnsjwXa4Z_FlQJuaUZoOA"
             }
         },
         {
@@ -188,56 +177,35 @@
                 "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8NmN3MAXNcNhuX5jZ7QItdhT3Zj662GBGPoc-z=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "4 years ago",
-            "views": 14231,
+            "views": 14243,
             "length": "2:49",
             "description": "Check out the incredible Michael Kelly Hybrid Special! As our product specialist, Dave Stutts will show you, it's truly the Swiss\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/vL0kar8ZN9Y/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA9DU9gqn4_QYnqD9jKR9PPJ7FlsA",
-                "rich": "https://i.ytimg.com/an_webp/vL0kar8ZN9Y/mqdefault_6s.webp?du=3000&sqp=CPyXhJgG&rs=AOn4CLAFYPQV1VgLZHDij4anPbZkS6Q-GA"
+                "static": "https://i.ytimg.com/vi/vL0kar8ZN9Y/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCSgLGC1tVDYNhUg5zEElgljsygDQ"
             }
         },
         {
             "position_on_page": 10,
-            "title": "Michael Kelly Hybrid Special, Electric Guitar with Acoustic Sounds",
-            "link": "https://www.youtube.com/watch?v=kiujVmbvgOw",
+            "title": "Hybrid 60 Port | Michael Kelly Guitars",
+            "link": "https://www.youtube.com/watch?v=ftklbc6NUF4",
             "channel": {
                 "name": "Michael Kelly Guitars",
                 "link": "https://www.youtube.com/c/MichaelKellyGuitarsCo",
                 "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8nGdz5wYUwKSuL-QXbUljfOjNoJwL3PUq4Jae3=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "7 years ago",
-            "views": 55121,
-            "length": "3:33",
-            "description": "Our Michael Kelly Hybrid Special guitar remains in high demand. It is a special instrument because it combines both a great\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/kiujVmbvgOw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLD8EUxA0541YFSx0UOV5Q9-CSj8LQ",
-                "rich": "https://i.ytimg.com/an_webp/kiujVmbvgOw/mqdefault_6s.webp?du=3000&sqp=CLCxhJgG&rs=AOn4CLClsPiM1MM9NIaMKttEhGqUgW0Fcw"
-            }
-        },
-        {
-            "position_on_page": 11,
-            "title": "I've Wanted To Play This Guitar For SO Long! | Hybrid Guitars Charlie Hunter",
-            "link": "https://www.youtube.com/watch?v=Apkm11k4h_0",
-            "channel": {
-                "name": "R.J. Ronquillo",
-                "link": "https://www.youtube.com/c/RJRonquillo",
-                "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0TM-T5G9JRydV6OJPAu-kIuH51tul0XPC9kj-6tA=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "9 months ago",
-            "views": 7426,
-            "length": "18:38",
-            "description": "\u25b7 TIMESTAMPS: If you'd like to support my channel and get perks like FREE tabs and backing tracks, and EARLY ACCESS to\u00a0...",
+            "published_date": "1 month ago",
+            "views": 1479,
+            "length": "0:59",
+            "description": "This video shows a few of the sounds you cab get from the Michael Kelly Guitars Hybrid 60 Port. Shown here in Transparent Blue\u00a0...",
             "extensions": [
                 "4K"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/Apkm11k4h_0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAanDQf_1AkTrytOvTpTEGdYN9zrA",
-                "rich": "https://i.ytimg.com/an_webp/Apkm11k4h_0/mqdefault_6s.webp?du=3000&sqp=CIWNhJgG&rs=AOn4CLCrnpaK8vHjKryIqJf861CKIKrlDA"
+                "static": "https://i.ytimg.com/vi/ftklbc6NUF4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCwkqou2K_Z9E3ZcgoCRl57dG_KPA"
             }
         },
         {
-            "position_on_page": 12,
+            "position_on_page": 11,
             "title": "michael kelly hybrid 55",
             "link": "https://www.youtube.com/watch?v=nLLRjsNInAA",
             "channel": {
@@ -250,7 +218,24 @@
             "length": "14:33",
             "description": "... a Michael Kelly guitar even way back when when they first started out in like early 2000s that the their hybrid special was pretty\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/nLLRjsNInAA/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBUyIR_uVXvHflcGJdTBiNL4rTAYg"
+                "static": "https://i.ytimg.com/vi/nLLRjsNInAA/hqdefault.jpg?sqp=-oaymwEjCOADEI4CSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBVoD7ai2VE52uzNWZSsfHKSLlhZQ"
+            }
+        },
+        {
+            "position_on_page": 12,
+            "title": "Hybrid Special - Sound Demo",
+            "link": "https://www.youtube.com/watch?v=77uoMu4iV_0",
+            "channel": {
+                "name": "Michael Kelly Guitars",
+                "link": "https://www.youtube.com/c/MichaelKellyGuitarsCo",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8nGdz5wYUwKSuL-QXbUljfOjNoJwL3PUq4Jae3=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "5 years ago",
+            "views": 14320,
+            "length": "2:48",
+            "description": "This video showcases a simple sound demo of the Michael Kelly Hybrid Special. This instrument with an integrated acoustic and\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/77uoMu4iV_0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCW4xYEiwbpVyQanxBOrdQJk-AT1Q"
             }
         },
         {
@@ -263,70 +248,15 @@
                 "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8TdP7iXkb0fKCDjebAXwleqC7p-cGac6fpbSyaqA=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "3 weeks ago",
-            "views": 18,
+            "views": 21,
             "length": "6:14",
             "description": "Quick look at the new Michael Kelly 60 Forte Port hybrid guitar. Nice features in a nice price range.",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/SOUeS8V2gXM/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDbY3grx0SuI0ZF5w-PyZfbXkmx5g",
-                "rich": "https://i.ytimg.com/an_webp/SOUeS8V2gXM/mqdefault_6s.webp?du=3000&sqp=CK6XhJgG&rs=AOn4CLCadRl1rrDzEzhvSJDe-GtDNmI9JQ"
+                "static": "https://i.ytimg.com/vi/SOUeS8V2gXM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLD77yIjWUoH06F1ztgzbD4-h7TcKQ"
             }
         },
         {
             "position_on_page": 16,
-            "title": "Michael Kelly Hybrid Special Complete Demo Of Sounds",
-            "link": "https://www.youtube.com/watch?v=bX_nMo55Qj0",
-            "channel": {
-                "name": "Michael Kelly Guitars",
-                "link": "https://www.youtube.com/c/MichaelKellyGuitarsCo",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8nGdz5wYUwKSuL-QXbUljfOjNoJwL3PUq4Jae3=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "7 years ago",
-            "views": 42523,
-            "length": "4:06",
-            "description": "This video was shared with us by Gabriel Lema. He is a multiple-Michael Kelly owner as well as a great player and teacher.",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/bX_nMo55Qj0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADQtEESuaEzVxnBjqhfLcxgunSIw",
-                "rich": "https://i.ytimg.com/an_webp/bX_nMo55Qj0/mqdefault_6s.webp?du=3000&sqp=CPmVhJgG&rs=AOn4CLAOJ2iW6DM0YsWIOdG840Tvm3k_Jw"
-            }
-        },
-        {
-            "position_on_page": 17,
-            "title": "Hybrid Special - Sound Demo",
-            "link": "https://www.youtube.com/watch?v=77uoMu4iV_0",
-            "channel": {
-                "name": "Michael Kelly Guitars",
-                "link": "https://www.youtube.com/c/MichaelKellyGuitarsCo",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8nGdz5wYUwKSuL-QXbUljfOjNoJwL3PUq4Jae3=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "5 years ago",
-            "views": 14317,
-            "length": "2:48",
-            "description": "This video showcases a simple sound demo of the Michael Kelly Hybrid Special. This instrument with an integrated acoustic and\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/77uoMu4iV_0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA6OxdonQ23fiCcIbHAyq_1jTAJtQ",
-                "rich": "https://i.ytimg.com/an_webp/77uoMu4iV_0/mqdefault_6s.webp?du=3000&sqp=CNifhJgG&rs=AOn4CLBh98IWhVdlTzndmXcqZHjzH8chjw"
-            }
-        },
-        {
-            "position_on_page": 18,
-            "title": "Hybrid 55 by Michael Kelly Guitars",
-            "link": "https://www.youtube.com/watch?v=4fT_aVEyHz8",
-            "channel": {
-                "name": "Michael Kelly Guitars",
-                "link": "https://www.youtube.com/c/MichaelKellyGuitarsCo",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8nGdz5wYUwKSuL-QXbUljfOjNoJwL3PUq4Jae3=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "6 years ago",
-            "views": 38711,
-            "length": "1:09",
-            "description": "Get more information at: https://www.michaelkellyguitars.com/en/products/view/hybrid-55 See all of the Michael Kelly hybrid\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/4fT_aVEyHz8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBfAYk8OogB5Mvf2W103RnIKZUtFA",
-                "rich": "https://i.ytimg.com/an_webp/4fT_aVEyHz8/mqdefault_6s.webp?du=3000&sqp=CKaJhJgG&rs=AOn4CLDnnOnbjsRFCqulTx12FQ5wsS91VQ"
-            }
-        },
-        {
-            "position_on_page": 19,
             "title": "Why I bought...Telecaster Michael Kelly Hybrid 55 guitar | FULL Review",
             "link": "https://www.youtube.com/watch?v=KqvefLm7GDU",
             "channel": {
@@ -335,69 +265,120 @@
                 "thumbnail": "https://yt3.ggpht.com/21T679CXjnpYAmDp3YfKSzh5VouhRmcwiQ_0h5DgX5XnnNM1UfG5VTxbZq5gvlEHMHbUS5kvXeQ=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "3 years ago",
-            "views": 17008,
+            "views": 17019,
             "length": "4:47",
             "description": "My full review of the Michael Kelly Hybrid 55 T-Style Telecaster guitar (modelled after a fender telecaster) played through a\u00a0...",
             "extensions": [
                 "CC"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/KqvefLm7GDU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDfK7JwMhUEpQkTDjZ31ncK8o6YUQ",
-                "rich": "https://i.ytimg.com/an_webp/KqvefLm7GDU/mqdefault_6s.webp?du=3000&sqp=CMCDhJgG&rs=AOn4CLDLjqBXQssFeeZP0-ZmE9JDBD0RlQ"
+                "static": "https://i.ytimg.com/vi/KqvefLm7GDU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBgkeXgWLbY5hqOIAXstfM6Ah8Xrw"
             }
         },
         {
-            "position_on_page": 20,
-            "title": "Michael Kelly Hybrid 55 Electric Guitar Overview",
-            "link": "https://www.youtube.com/watch?v=EbGgmZsxA8E",
-            "channel": {
-                "name": "Sam Ash Music",
-                "link": "https://www.youtube.com/user/SamAshMusic",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8NmN3MAXNcNhuX5jZ7QItdhT3Zj662GBGPoc-z=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "1 year ago",
-            "views": 1762,
-            "length": "1:02",
-            "description": "The Michael Kelly Hybrid 55 is the swiss army knife of guitars. Capable of covering all sonic ground thanks to a unique\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/EbGgmZsxA8E/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBFGzRdvIBwnK4i76prOzvnmq6jXA",
-                "rich": "https://i.ytimg.com/an_webp/EbGgmZsxA8E/mqdefault_6s.webp?du=3000&sqp=COqjhJgG&rs=AOn4CLAgTILkS57_JCAdejRQEz3CJ99aFA"
-            }
-        },
-        {
-            "position_on_page": 21,
-            "title": "Hybrid 55 by Michael Kelly Guitars- Sound Demo",
-            "link": "https://www.youtube.com/watch?v=XEATjiEO9VU",
+            "position_on_page": 17,
+            "title": "Hybrid Special - Demo",
+            "link": "https://www.youtube.com/watch?v=16EnsULeRFQ",
             "channel": {
                 "name": "Michael Kelly Guitars",
                 "link": "https://www.youtube.com/c/MichaelKellyGuitarsCo",
                 "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8nGdz5wYUwKSuL-QXbUljfOjNoJwL3PUq4Jae3=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "6 years ago",
-            "views": 22892,
-            "length": "2:28",
-            "description": "It's an electric, it's an acoustic, no it's a Hybrid 55. : ) This is our newest addition to our Hybrid family of instruments. With the Hybrid\u00a0...",
+            "views": 4275,
+            "length": "1:55",
+            "description": "Hear the Michael Kelly Hybrid Special. This is one of our most in demand guitars globally thanks to its versatility. It delivers\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/XEATjiEO9VU/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLC4txoxqqf8A2U8E0Rb0R3JuuiUvw",
-                "rich": "https://i.ytimg.com/an_webp/XEATjiEO9VU/mqdefault_6s.webp?du=3000&sqp=CJ2LhJgG&rs=AOn4CLAMB97ESZ6jjvxuuw7Oyxbz0fapMA"
+                "static": "https://i.ytimg.com/vi/16EnsULeRFQ/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA-0rj2cwgTArFDcnvzYvVDcgPT-g"
+            }
+        },
+        {
+            "position_on_page": 18,
+            "title": "Michael Kelly Hybrid Special Complete Demo Of Sounds",
+            "link": "https://www.youtube.com/watch?v=bX_nMo55Qj0",
+            "channel": {
+                "name": "Michael Kelly Guitars",
+                "link": "https://www.youtube.com/c/MichaelKellyGuitarsCo",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8nGdz5wYUwKSuL-QXbUljfOjNoJwL3PUq4Jae3=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "7 years ago",
+            "views": 42535,
+            "length": "4:06",
+            "description": "This video was shared with us by Gabriel Lema. He is a multiple-Michael Kelly owner as well as a great player and teacher.",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/bX_nMo55Qj0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLBE6qb6TMgaIMpIAypo7zCAgTip2A"
+            }
+        },
+        {
+            "position_on_page": 19,
+            "title": "Hybrid Special with a Ziricote wood top | Michael Kelly Guitars",
+            "link": "https://www.youtube.com/watch?v=wtWDftJtETU",
+            "channel": {
+                "name": "Michael Kelly Guitars",
+                "link": "https://www.youtube.com/c/MichaelKellyGuitarsCo",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8nGdz5wYUwKSuL-QXbUljfOjNoJwL3PUq4Jae3=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 9414,
+            "length": "3:17",
+            "description": "In this video we are demonstrate the Hybrid Special with an exotic Ziricote wood top. The Hybrid Special allows you to quickly\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/wtWDftJtETU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAj_XWVP8MNThGwEpJIZVxxdiM6Nw"
+            }
+        },
+        {
+            "position_on_page": 20,
+            "title": "I've Wanted To Play This Guitar For SO Long! | Hybrid Guitars Charlie Hunter",
+            "link": "https://www.youtube.com/watch?v=Apkm11k4h_0",
+            "channel": {
+                "name": "R.J. Ronquillo",
+                "link": "https://www.youtube.com/c/RJRonquillo",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-0TM-T5G9JRydV6OJPAu-kIuH51tul0XPC9kj-6tA=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "9 months ago",
+            "views": 7436,
+            "length": "18:38",
+            "description": "\u25b7 TIMESTAMPS: If you'd like to support my channel and get perks like FREE tabs and backing tracks, and EARLY ACCESS to\u00a0...",
+            "extensions": [
+                "4K"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/Apkm11k4h_0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDkTkHHzoLbWjCvnLrYSs7pYtTFRg"
+            }
+        },
+        {
+            "position_on_page": 21,
+            "title": "Who are Michael Kelly Guitars? Testing the Hybrid Special, 50s Hybrid, 60s Burl and Patriot",
+            "link": "https://www.youtube.com/watch?v=UxOwBrMnhEw",
+            "channel": {
+                "name": "Musos Corner",
+                "link": "https://www.youtube.com/user/MusosCornerAustralia",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu827tRZN46sGpeGOMvEfikeyx7Lg6a4SACpORK8=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "1 year ago",
+            "views": 1900,
+            "length": "8:00",
+            "description": "We dont know but, Lets check out some of the features and specs of the Michael Kelly Hybrid Special, Patriot Englightened,\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/UxOwBrMnhEw/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCyhy7VDMZDXAAvUEWv5UQL4wlPIw"
             }
         },
         {
             "position_on_page": 22,
-            "title": "Michael Kelly Hybrid 55 | feat. Mike Rock",
-            "link": "https://www.youtube.com/watch?v=6bgMTXysw6M",
+            "title": "Hybrid 55 by Michael Kelly Guitars",
+            "link": "https://www.youtube.com/watch?v=4fT_aVEyHz8",
             "channel": {
-                "name": "Sam Ash Music",
-                "link": "https://www.youtube.com/user/SamAshMusic",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8NmN3MAXNcNhuX5jZ7QItdhT3Zj662GBGPoc-z=s68-c-k-c0x00ffffff-no-rj"
+                "name": "Michael Kelly Guitars",
+                "link": "https://www.youtube.com/c/MichaelKellyGuitarsCo",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8nGdz5wYUwKSuL-QXbUljfOjNoJwL3PUq4Jae3=s68-c-k-c0x00ffffff-no-rj"
             },
-            "published_date": "2 years ago",
-            "views": 5625,
-            "length": "5:16",
-            "description": "The Michael Kelly Hybrid 55 gives you everything you could ever need in one single instrument. Capable of covering all sonic\u00a0...",
+            "published_date": "6 years ago",
+            "views": 38718,
+            "length": "1:09",
+            "description": "Get more information at: https://www.michaelkellyguitars.com/en/products/view/hybrid-55 See all of the Michael Kelly hybrid\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/6bgMTXysw6M/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDIuGjwue1R8wBVp7rHm9DGkoPyfw",
-                "rich": "https://i.ytimg.com/an_webp/6bgMTXysw6M/mqdefault_6s.webp?du=3000&sqp=CKiahJgG&rs=AOn4CLDRjoaspc9HwFtH95HVZQzcpTFSKA"
+                "static": "https://i.ytimg.com/vi/4fT_aVEyHz8/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDbTdfgwnFCZw-yR1aLCTLGSFk4YQ"
             }
         }
     ],
@@ -413,169 +394,123 @@
                 "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9kmp_7bf-R-xLG3L5NTWHFF6muOsOw8O1MSbp_3w=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "10 months ago",
-            "views": 35700,
+            "views": 35764,
             "length": "12:06",
             "description": "Spotted here and there at guitar stores or at the annual NAMM convention, Michael Kelly Guitars have always fascinated me with\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/999oPEjR5b0/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLADh7Gr6YImrXh2j9UMcszjmH1_ZA",
-                "rich": "https://i.ytimg.com/an_webp/999oPEjR5b0/mqdefault_6s.webp?du=3000&sqp=CPz8g5gG&rs=AOn4CLAolPTYvhU1HlwDnpqTRfAhXy6vqA"
+                "static": "https://i.ytimg.com/vi/999oPEjR5b0/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA4PmXPfGgBZZ4MX2SIaR1ByT9hoA"
             }
         },
         {
             "position_on_page": 14,
-            "title": "S3 Episode #20 - Forestry, Tarmac, 2wd Talk & more!",
-            "link": "https://www.youtube.com/watch?v=Gl0XmoqKK-I",
+            "title": "The 13 Best (Mostly) Inexpensive Gibson ES-335 Alternatives",
+            "link": "https://www.youtube.com/watch?v=AmXhPH_WjY4",
             "channel": {
-                "name": "Irish Rally Podcast",
-                "link": "https://www.youtube.com/channel/UCNZ3FrNG7iTw-h8jNZ7yrQA",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_-SnSi7AR9rIEzlAAK6ziufuMGjfUR6xAhx19e=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "Streamed 2 days ago",
-            "views": 513,
-            "length": "1:27:22",
-            "description": "A great lineup tonight as we talk forestry and tarmac rallying. A 2wd chat with Adrian Hetherington, Gary Nolan and David Condell\u00a0...",
-            "extensions": [
-                "New"
-            ],
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/Gl0XmoqKK-I/hqdefault.jpg?sqp=-oaymwEcCOADEI4CSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLBVZ6gBkOJ8736ok-dGXJ9wm8SDug",
-                "rich": "https://i.ytimg.com/an_webp/Gl0XmoqKK-I/mqdefault_6s.webp?du=3000&sqp=CLqXhJgG&rs=AOn4CLCfkcEZxM0kMJuDsnsrvoFiaAdE-w"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "8 GREAT Cheap Guitars (And 3 to AVOID)",
-            "link": "https://www.youtube.com/watch?v=dM9zKKiZoxc",
-            "channel": {
-                "name": "Elmo Karjalainen",
-                "link": "https://www.youtube.com/user/MrPolevaulter",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu93NPOkIL-y3-ZxbBmtBhFWJ0asKqv-aq342-9C-w=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "11 months ago",
-            "views": 313793,
-            "length": "25:06",
-            "description": "8 GREAT Cheap Guitars (And 3 to AVOID) Today we take a look at a few really good budget friendly guitars. Gone are the days\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/dM9zKKiZoxc/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAoPkP1DE6QhMbibphHv6jqP-hsCg",
-                "rich": "https://i.ytimg.com/an_webp/dM9zKKiZoxc/mqdefault_6s.webp?du=3000&sqp=CMyihJgG&rs=AOn4CLDsjoDNRuFF0gEq90y3hZ-0YywCTA"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "I Ranked Import Guitar Brands Worst To Best",
-            "link": "https://www.youtube.com/watch?v=v3z1TSRJoMg",
-            "channel": {
-                "name": "Phillip McKnight",
-                "link": "https://www.youtube.com/c/PhillipMcKnight",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_l4Lr6Ykb5LoJdv8882Ku7Jto-E61F5Y3B9xuevgw=s68-c-k-c0x00ffffff-no-rj"
+                "name": "intheblues",
+                "link": "https://www.youtube.com/c/intheblues",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/8RZ8TiiWwHz8scWhDHoyXqeyRwZ2TubpaMgUB40LE1BqCpLX0tV4F7LpkYNTtFalyJU_5vh3Iw=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "2 years ago",
-            "views": 267898,
-            "length": "19:59",
-            "description": "Here are some Affiliate Links to some of the highest rated guitars that I liked My Favorite Sub $1000 Godin Guitar\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/v3z1TSRJoMg/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDtIl46Zq6gU66E006nxfdjV8enTw",
-                "rich": "https://i.ytimg.com/an_webp/v3z1TSRJoMg/mqdefault_6s.webp?du=3000&sqp=CPChhJgG&rs=AOn4CLAuuC9SUQn_tD8s7uyzrdc303pKQw"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "This Guitar is Made of What?? || Michael Kelly 63OP Demo/Review",
-            "link": "https://www.youtube.com/watch?v=YPZMh6I7HbQ",
-            "channel": {
-                "name": "Agufish",
-                "link": "https://www.youtube.com/c/Agufish99",
-                "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9QONfSc6WAHbvOU93n3jkB5lhKUEJINok93YByWw=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "2 years ago",
-            "views": 26805,
-            "length": "14:41",
-            "description": "0:00 Intro 0:50 Demo in a Mix 3:03 My Thoughts 3:40 Look and Construction 5:30 Features 6:01 Feel and Playability 7:30 Dirty\u00a0...",
+            "views": 595394,
+            "length": "25:41",
+            "description": "This is my list for the 13 Best (Mostly) Inexpensive Gibson ES-335 Alternatives. Not everyone can afford a USA-made Gibson\u00a0...",
             "extensions": [
-                "4K"
+                "4K",
+                "CC"
             ],
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/YPZMh6I7HbQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLA0d8IFaHG74OqfGD93TrZ_mOxbyg",
-                "rich": "https://i.ytimg.com/an_webp/YPZMh6I7HbQ/mqdefault_6s.webp?du=3000&sqp=CIyKhJgG&rs=AOn4CLDjr6RCaN2Iin0ebC87ube2djLhbg"
+                "static": "https://i.ytimg.com/vi/AmXhPH_WjY4/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDHXUmAcRyDmI__xzpYG1-G-_D-MA"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "Guitar Review - Michael Kelly Patriot Instinct Partial Eclipse - TAKE MY MONEY!",
-            "link": "https://www.youtube.com/watch?v=va5DkNB_GE4",
+            "title": "Country Guitar Lessons - 4 Hybrid Picking Essential Patterns",
+            "link": "https://www.youtube.com/watch?v=_tgcZHUecXM",
             "channel": {
-                "name": "Nick in the States",
-                "link": "https://www.youtube.com/c/NickintheStates",
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9m81yg5CRBIuddJjvmVaYtcJclNBsF8vYrcOJmiQ=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "6 years ago",
-            "views": 25885,
-            "length": "14:47",
-            "description": "Hey guys and gals. Here is the awaited review for this bad boy. It's just fantastically lovely. Check it out! And welcome a cameo\u00a0...",
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/va5DkNB_GE4/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAGAnJSyTVRdclanhgCeceD4Wca3g"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "A Budget Acoustic Built With Science?! || Michael Kelly Forte Port Demo/Review",
-            "link": "https://www.youtube.com/watch?v=I2cPfR8c8w8",
-            "channel": {
-                "name": "Agufish",
-                "link": "https://www.youtube.com/c/Agufish99",
+                "name": "Matheus Canteri",
+                "link": "https://www.youtube.com/channel/UCmM_TcOkJEBveV7FBh6t3Zw",
                 "verified": true,
-                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9QONfSc6WAHbvOU93n3jkB5lhKUEJINok93YByWw=s68-c-k-c0x00ffffff-no-rj"
-            },
-            "published_date": "3 years ago",
-            "views": 34585,
-            "length": "15:21",
-            "description": "0:44 Demo in a Mix 5:01 My Thoughts 9:01 Dry Playthrough 13:13 SIMON SAYS!! \u27a4 This video was sponsored by Michael Kelly\u00a0...",
-            "extensions": [
-                "4K"
-            ],
-            "thumbnail": {
-                "static": "https://i.ytimg.com/vi/I2cPfR8c8w8/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLAukcl2meqHLITtId_nhycxAzWDzA",
-                "rich": "https://i.ytimg.com/an_webp/I2cPfR8c8w8/mqdefault_6s.webp?du=3000&sqp=CO6JhJgG&rs=AOn4CLBOBfKDO5DSwMThYzLj47ZidfZLcQ"
-            }
-        },
-        {
-            "position_on_page": "hidden",
-            "title": "Michael Kelly Patriot Instinct Scorched",
-            "link": "https://www.youtube.com/watch?v=6IzlRk40ddw",
-            "channel": {
-                "name": "Jon is just TOO LouD!!",
-                "link": "https://www.youtube.com/c/JonathanKoh",
-                "thumbnail": "https://yt3.ggpht.com/2qe8TaCLj6PZvwbkGa1saTkSfverRmpy2QsKex0ONOmz5YqCj4PGPaE_tIIBbguG2PBGJ6z-=s68-c-k-c0x00ffffff-no-rj"
+                "thumbnail": "https://yt3.ggpht.com/dZ71OvFMZfvriDRklVCTuWsPMgsA8dUJiafYXKuyeAMdUpvrjrjjO-fAT9Lg0U15snBASP-bjFI=s88-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "1 year ago",
-            "views": 4130,
-            "length": "9:49",
-            "description": "For over a decade, the Patriot has been one of the most award-winning archtop single cutaways on the market. Just pick up one to\u00a0...",
-            "extensions": [
-                "4K"
-            ],
+            "views": 24212,
+            "length": "9:40",
+            "description": "Want to learn more??? https://www.countryguitarplayers.com/product-page/modern-country-method.",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/6IzlRk40ddw/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLCzKZoeH8uTSNK8s_teNzebKOsCyA",
-                "rich": "https://i.ytimg.com/an_webp/6IzlRk40ddw/mqdefault_6s.webp?du=3000&sqp=CLz-g5gG&rs=AOn4CLCmLwYJvbstkX5Ah_3KeCQUOYDzFA"
+                "static": "https://i.ytimg.com/vi/_tgcZHUecXM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCErIU9GwTBr1eSyqbSUEtL2Ulpsw"
             }
         },
         {
             "position_on_page": "hidden",
-            "title": "Michael Kelly 1965 - Aged Cherryburst",
-            "link": "https://www.youtube.com/watch?v=2RNDaiTPrhQ",
+            "title": "Hybrid Picking Part 1: Using a pick and fingers",
+            "link": "https://www.youtube.com/watch?v=ndJUa_dNWFo",
             "channel": {
-                "name": "N Stuff Music",
-                "link": "https://www.youtube.com/user/NstuffMusic",
-                "thumbnail": "https://yt3.ggpht.com/zVLFrIRkjS-fciMKXArMJ-KQCmyYd49m7dmVbsoWDTNy8iPG6RKfKAqz4McISYqNqneleMBBeQ=s68-c-k-c0x00ffffff-no-rj"
+                "name": "GoGuitarLive",
+                "link": "https://www.youtube.com/user/GoGuitarLive",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu_rjK7p2_BVeCRQNAikd3rU8hPJtreazlgic7z6=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "9 years ago",
+            "views": 69774,
+            "length": "9:32",
+            "description": "Chas Burks shows the basics of hybrid picking. This is the beginnings of chicken picking. Starting with a basic rhythm and\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/ndJUa_dNWFo/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLAFWaOytedBolIBNQs_FE9B-4tGLg"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "I've Never Had A Guitar Like THIS",
+            "link": "https://www.youtube.com/watch?v=3DsPjknyZzM",
+            "channel": {
+                "name": "Lucas Fowler",
+                "link": "https://www.youtube.com/c/LucasFowler",
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu92rwUQbHoxn23tLL9lsAUTYylTB-T1t0f8IXYp5A=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "10 months ago",
+            "views": 5037,
+            "length": "13:16",
+            "description": "Michael Kelly Hybrid Special: https://www.michaelkellyguitars.com/pl/products/view/hybrid-special-1 Follow me:\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/3DsPjknyZzM/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLCSvRpszb9Y727DFANsF4ryLatBTg"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Joel Hoekstra Lesson - How to use Hybrid Picking to Create Cool Melodies",
+            "link": "https://www.youtube.com/watch?v=u7Q_6OtO-iU",
+            "channel": {
+                "name": "Guitar World",
+                "link": "https://www.youtube.com/c/guitarworld",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu-rdz7hjCYeI7cSosgMZdiEgMRUcSPgMLvDi9vGxQ=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "5 years ago",
-            "views": 32666,
-            "length": "8:35",
-            "description": "The perfect boutique double-cut for today's player. The body is swamp ash with a highly figured quilt maple top, we then perfect\u00a0...",
+            "views": 60299,
+            "length": "12:17",
+            "description": "In this episode of School of Rock, Joel Hoekstra teaches you how to hybrid pick, and how to incorporate it into your playing to\u00a0...",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/2RNDaiTPrhQ/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDuIp3-6WhXJDn1RPDhIXnuYjbaJw",
-                "rich": "https://i.ytimg.com/an_webp/2RNDaiTPrhQ/mqdefault_6s.webp?du=3000&sqp=CKSshJgG&rs=AOn4CLBVVGSDxRSd95LYtqschLnTPnEjrw"
+                "static": "https://i.ytimg.com/vi/u7Q_6OtO-iU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDUX_ybEAw9pokhW3nNClzNAz__Yg"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Chitarre IBRIDE: hanno davvero senso? \ud83c\udfb8",
+            "link": "https://www.youtube.com/watch?v=BUFgdySU2lU",
+            "channel": {
+                "name": "ShapeYourTone",
+                "link": "https://www.youtube.com/c/ShapeYourTone",
+                "thumbnail": "https://yt3.ggpht.com/4xeYhuSdAGZRDc_qn4zw-F86zBTDeQDUVYfoB5DhUTsosOB3TGWu0Cdji8Pgw-w5Djk2F_uv=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "2 months ago",
+            "views": 14774,
+            "length": "10:36",
+            "description": "Oggi parleremo di CHITARRE IBRIDE, analizzando la Michael Kelly HYBRID 55: hanno davvero senso queste IBRIDE? Ciao\u00a0...",
+            "extensions": [
+                "CC"
+            ],
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/BUFgdySU2lU/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA6QmUqbvuxLGmcMdcmGQQiEePe0w"
             }
         },
         {
@@ -588,23 +523,58 @@
                 "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu8b9TZU8rnRXOFAd4q0kpOIE1n08ta3VY5Ty7C2xA=s68-c-k-c0x00ffffff-no-rj"
             },
             "published_date": "1 year ago",
-            "views": 42645,
+            "views": 42895,
             "length": "30:03",
             "description": "Why Carbon Fiber? \u2014 1:04 Body Design \u2014 2:46 Sound Hole \u2014 6:13 Capo Mod \u2014 9:45 Neck \u2014 10:26 Veneer \u2014 12:47 Science!",
             "thumbnail": {
-                "static": "https://i.ytimg.com/vi/FZ-GRATxY4U/hq720.jpg?sqp=-oaymwEcCOgCEMoBSFXyq4qpAw4IARUAAIhCGAFwAcABBg==&rs=AOn4CLDTJ3U_Lz26KJnQsgvK46bJrzmkEw",
-                "rich": "https://i.ytimg.com/an_webp/FZ-GRATxY4U/mqdefault_6s.webp?du=3000&sqp=CPehhJgG&rs=AOn4CLBLanLJst0xkd3gySmaqoU9KbY3JQ"
+                "static": "https://i.ytimg.com/vi/FZ-GRATxY4U/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLA2TQg5m99-Sl2qyvEgCPnAUQoIew"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Playing The AMAZING Hollow Body That Nobody Knows About!!",
+            "link": "https://www.youtube.com/watch?v=DKRL3OdEI70",
+            "channel": {
+                "name": "Darrell Braun Guitar",
+                "link": "https://www.youtube.com/c/DarrellBraunGuitar",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu9WFNjfV7fGjFOxxNKgt2vUPlgeei0IJXX5lXrxPAI=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "2 years ago",
+            "views": 725200,
+            "length": "12:24",
+            "description": "Welcome to the third video in my \"Hidden Gem\" series! Today I look at a BEAUTIFUL guitar that definitely flies under the radar!",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/DKRL3OdEI70/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLDMB1T-mjq5xYEg7iEg8OpyewLXPQ"
+            }
+        },
+        {
+            "position_on_page": "hidden",
+            "title": "Michael Kelly 1967 Review",
+            "link": "https://www.youtube.com/watch?v=p79MbMJH0Wc",
+            "channel": {
+                "name": "Mike Bradley",
+                "link": "https://www.youtube.com/c/MikeBradleyofficial",
+                "verified": true,
+                "thumbnail": "https://yt3.ggpht.com/ytc/AMLnZu805u6oH5ScvjFhDPKgD79DjwK0JsoeAs7IneU78A=s68-c-k-c0x00ffffff-no-rj"
+            },
+            "published_date": "6 years ago",
+            "views": 27696,
+            "length": "16:32",
+            "description": "Here is the new Michael Kelly guitar, the 1967 model. Its very Bling! http://www.rosetti.co.uk/Product/MichaelKelly1967 Website:\u00a0...",
+            "thumbnail": {
+                "static": "https://i.ytimg.com/vi/p79MbMJH0Wc/hq720.jpg?sqp=-oaymwEjCOgCEMoBSFryq4qpAxUIARUAAAAAGAElAADIQj0AgKJDeAE=&rs=AOn4CLC8IvYI90-bBcdp1TzqOqlfLWh8MA"
             }
         }
     ],
     "pagination": {
         "current": "https://www.youtube.com/results?search_query=Hybrid+Guitars+%7C+Michael+Kelly+Guitar+Co.",
-        "next": "https://www.youtube.com/results?search_query=Hybrid%20Guitars%20%7C%20Michael%20Kelly%20Guitar%20Co.&sp=SBSCAQtyV3lCMHh2aGRQOIIBC2Z0a2xiYzZOVUY0ggELLVBiZXdVUHpGeDSCAQtfR1N4WHBVTmJYSYIBCzNEc1Bqa255WnpNggELYTVPUGJ6SXVUZG-CAQtxTU5EVVhleGt0Z4IBC0xQWjNhdG1xdlpnggELdkwwa2FyOFpOOVmCAQtraXVqVm1idmdPd4IBC0Fwa20xMWs0aF8wggELbkxMUmpzTkluQUGCAQtTT1VlUzhWMmdYTYIBC2JYX25NbzU1UWowggELNzd1b011NGlWXzCCAQs0ZlRfYVZFeUh6OIIBC0txdmVmTG03R0RVggELRWJHZ21ac3hBOEWCAQtYRUFUamlFTzlWVYIBCzZiZ01UWHlzdzZNsgEGCgQIFRAC",
-        "next_page_token": "SBSCAQtyV3lCMHh2aGRQOIIBC2Z0a2xiYzZOVUY0ggELLVBiZXdVUHpGeDSCAQtfR1N4WHBVTmJYSYIBCzNEc1Bqa255WnpNggELYTVPUGJ6SXVUZG-CAQtxTU5EVVhleGt0Z4IBC0xQWjNhdG1xdlpnggELdkwwa2FyOFpOOVmCAQtraXVqVm1idmdPd4IBC0Fwa20xMWs0aF8wggELbkxMUmpzTkluQUGCAQtTT1VlUzhWMmdYTYIBC2JYX25NbzU1UWowggELNzd1b011NGlWXzCCAQs0ZlRfYVZFeUh6OIIBC0txdmVmTG03R0RVggELRWJHZ21ac3hBOEWCAQtYRUFUamlFTzlWVYIBCzZiZ01UWHlzdzZNsgEGCgQIFRAC"
+        "next": "https://www.youtube.com/results?search_query=Hybrid%20Guitars%20%7C%20Michael%20Kelly%20Guitar%20Co.&sp=SBSCAQtyV3lCMHh2aGRQOIIBC19HU3hYcFVOYlhJggELYTVPUGJ6SXVUZG-CAQtMUFozYXRtcXZaZ4IBCy1QYmV3VVB6Rng0ggELNjhjaW5JMzF4SmuCAQtxTU5EVVhleGt0Z4IBC2tpdWpWbWJ2Z093ggELdkwwa2FyOFpOOVmCAQtmdGtsYmM2TlVGNIIBC25MTFJqc05JbkFBggELNzd1b011NGlWXzCCAQtTT1VlUzhWMmdYTYIBC0txdmVmTG03R0RVggELMTZFbnNVTGVSRlGCAQtiWF9uTW81NVFqMIIBC3d0V0RmdEp0RVRVggELQXBrbTExazRoXzCCAQtVeE93QnJNbmhFd4IBCzRmVF9hVkV5SHo4sgEGCgQIFRAC",
+        "next_page_token": "SBSCAQtyV3lCMHh2aGRQOIIBC19HU3hYcFVOYlhJggELYTVPUGJ6SXVUZG-CAQtMUFozYXRtcXZaZ4IBCy1QYmV3VVB6Rng0ggELNjhjaW5JMzF4SmuCAQtxTU5EVVhleGt0Z4IBC2tpdWpWbWJ2Z093ggELdkwwa2FyOFpOOVmCAQtmdGtsYmM2TlVGNIIBC25MTFJqc05JbkFBggELNzd1b011NGlWXzCCAQtTT1VlUzhWMmdYTYIBC0txdmVmTG03R0RVggELMTZFbnNVTGVSRlGCAQtiWF9uTW81NVFqMIIBC3d0V0RmdEp0RVRVggELQXBrbTExazRoXzCCAQtVeE93QnJNbmhFd4IBCzRmVF9hVkV5SHo4sgEGCgQIFRAC"
     },
     "serpapi_pagination": {
         "current": "https://serpapi.com/search.json?engine=youtube&search_query=Hybrid+Guitars+%7C+Michael+Kelly+Guitar+Co.",
-        "next": "https://serpapi.com/search.json?engine=youtube&search_query=Hybrid+Guitars+%7C+Michael+Kelly+Guitar+Co.&sp=SBSCAQtyV3lCMHh2aGRQOIIBC2Z0a2xiYzZOVUY0ggELLVBiZXdVUHpGeDSCAQtfR1N4WHBVTmJYSYIBCzNEc1Bqa255WnpNggELYTVPUGJ6SXVUZG-CAQtxTU5EVVhleGt0Z4IBC0xQWjNhdG1xdlpnggELdkwwa2FyOFpOOVmCAQtraXVqVm1idmdPd4IBC0Fwa20xMWs0aF8wggELbkxMUmpzTkluQUGCAQtTT1VlUzhWMmdYTYIBC2JYX25NbzU1UWowggELNzd1b011NGlWXzCCAQs0ZlRfYVZFeUh6OIIBC0txdmVmTG03R0RVggELRWJHZ21ac3hBOEWCAQtYRUFUamlFTzlWVYIBCzZiZ01UWHlzdzZNsgEGCgQIFRAC",
-        "next_page_token": "SBSCAQtyV3lCMHh2aGRQOIIBC2Z0a2xiYzZOVUY0ggELLVBiZXdVUHpGeDSCAQtfR1N4WHBVTmJYSYIBCzNEc1Bqa255WnpNggELYTVPUGJ6SXVUZG-CAQtxTU5EVVhleGt0Z4IBC0xQWjNhdG1xdlpnggELdkwwa2FyOFpOOVmCAQtraXVqVm1idmdPd4IBC0Fwa20xMWs0aF8wggELbkxMUmpzTkluQUGCAQtTT1VlUzhWMmdYTYIBC2JYX25NbzU1UWowggELNzd1b011NGlWXzCCAQs0ZlRfYVZFeUh6OIIBC0txdmVmTG03R0RVggELRWJHZ21ac3hBOEWCAQtYRUFUamlFTzlWVYIBCzZiZ01UWHlzdzZNsgEGCgQIFRAC"
+        "next": "https://serpapi.com/search.json?engine=youtube&search_query=Hybrid+Guitars+%7C+Michael+Kelly+Guitar+Co.&sp=SBSCAQtyV3lCMHh2aGRQOIIBC19HU3hYcFVOYlhJggELYTVPUGJ6SXVUZG-CAQtMUFozYXRtcXZaZ4IBCy1QYmV3VVB6Rng0ggELNjhjaW5JMzF4SmuCAQtxTU5EVVhleGt0Z4IBC2tpdWpWbWJ2Z093ggELdkwwa2FyOFpOOVmCAQtmdGtsYmM2TlVGNIIBC25MTFJqc05JbkFBggELNzd1b011NGlWXzCCAQtTT1VlUzhWMmdYTYIBC0txdmVmTG03R0RVggELMTZFbnNVTGVSRlGCAQtiWF9uTW81NVFqMIIBC3d0V0RmdEp0RVRVggELQXBrbTExazRoXzCCAQtVeE93QnJNbmhFd4IBCzRmVF9hVkV5SHo4sgEGCgQIFRAC",
+        "next_page_token": "SBSCAQtyV3lCMHh2aGRQOIIBC19HU3hYcFVOYlhJggELYTVPUGJ6SXVUZG-CAQtMUFozYXRtcXZaZ4IBCy1QYmV3VVB6Rng0ggELNjhjaW5JMzF4SmuCAQtxTU5EVVhleGt0Z4IBC2tpdWpWbWJ2Z093ggELdkwwa2FyOFpOOVmCAQtmdGtsYmM2TlVGNIIBC25MTFJqc05JbkFBggELNzd1b011NGlWXzCCAQtTT1VlUzhWMmdYTYIBC0txdmVmTG03R0RVggELMTZFbnNVTGVSRlGCAQtiWF9uTW81NVFqMIIBC3d0V0RmdEp0RVRVggELQXBrbTExazRoXzCCAQtVeE93QnJNbmhFd4IBCzRmVF9hVkV5SHo4sgEGCgQIFRAC"
     }
 }

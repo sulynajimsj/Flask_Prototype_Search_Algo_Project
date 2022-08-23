@@ -4,12 +4,12 @@ import webbrowser
 import os
 import cloudinary
 import cloudinary.uploader
-
+from Transcripts import ytranscripts
 def searchAPI(image_url):
 
     #Reverse Image search: Google only
     params = {
-    "api_key": "36a46054a90e7e84c377485c192248eecf5d0c0e4513fb096f17a369d3b77749",
+    "api_key": "01e56b5235e477b4c011c41ee2ec6bebeb6bb5876b7e4041586dd593d595eb2e",
     "engine": "google_reverse_image",
     "google_domain": "google.com",
     "q": "",
@@ -43,7 +43,7 @@ def searchAPI(image_url):
     params2 = {
         "engine": "youtube",
          "search_query": query,
-         "api_key": "36a46054a90e7e84c377485c192248eecf5d0c0e4513fb096f17a369d3b77749"
+         "api_key": "01e56b5235e477b4c011c41ee2ec6bebeb6bb5876b7e4041586dd593d595eb2e"
     }
 
     search2 = GoogleSearch(params2)
@@ -53,6 +53,24 @@ def searchAPI(image_url):
     print("The results")
     aLink = results2['search_metadata']['youtube_url']
     webbrowser.open(aLink)
+
+    #Get all transcripts
+    ytVideos = results2['video_results']
+
+    for video in ytVideos:
+        print(video['link'])
+        try:
+            ytranscripts.getYoutubeTranscript(video['link'])
+            
+        except:
+            with open('op.txt', 'w') as opf:
+                opf.write("ERROR")
+            print("Transcript ERROR")
+        
+
+            
+        
+
 
 def list_file_name(path):
     fileList = os.listdir(path)
