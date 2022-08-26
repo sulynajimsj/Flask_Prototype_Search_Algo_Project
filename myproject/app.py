@@ -237,7 +237,9 @@ def my_form_post():
 
     # get the download image by looking through the folder
     short_link = text.replace('https://www.instagram.com/reel/','').replace('/?utm_source=ig_web_copy_link','')
-    directory = os.fsencode(short_link)
+    # directory = os.fsencode(short_link)
+    directory = os.fsencode(f'instagram_videos/{short_link}')
+    print('directory', directory)
         
     for file in os.listdir(directory):
         filename = os.fsdecode(file)
@@ -248,10 +250,11 @@ def my_form_post():
             
     
     # Get the transcipt from instagram video
-    transcribe.speechToText("5086f7f974ef468cb4c631b7b188f8ac", f"{short_link}/{filename}")
+    # transcribe.speechToText("5086f7f974ef468cb4c631b7b188f8ac", f"{short_link}/{filename}")
+    transcribe.speechToText("5086f7f974ef468cb4c631b7b188f8ac", f"instagram_videos/{short_link}/{filename}")
     
     
-    gettingFrames.processVideo(f"{short_link}/{filename}")
+    gettingFrames.processVideo(f"instagram_videos/{short_link}/{filename}")
     imageUrls = cloudinaryImageSearch.inputImages('frames')
     print(imageUrls)
 
